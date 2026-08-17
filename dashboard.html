@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MPx Response Dashboard</title>
+<style>
+  :root.viz-root, .viz-root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --border:         rgba(11,11,11,0.10);
+    --series-blue:    #2a78d6;
+    --series-blue-100: #cde2fb;
+    --series-blue-700: #0d366b;
+    --good:      #0ca30c;
+    --warning:   #fab219;
+    --serious:   #ec835a;
+    --critical:  #d03b3b;
+  }
+  @media (prefers-color-scheme: dark) {
+    .viz-root {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --border:         rgba(255,255,255,0.10);
+      --series-blue:    #3987e5;
+      --series-blue-100: #184f95;
+      --series-blue-700: #cde2fb;
+      --good:      #0ca30c;
+      --warning:   #fab219;
+      --serious:   #ec835a;
+      --critical:  #d03b3b;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; background: var(--page); color: var(--text-primary); }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 28px 20px 80px; }
+  header.top { margin-bottom: 22px; }
+  header.top .brand { font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--series-blue); font-weight: 700; }
+  header.top h1 { font-size: 26px; margin: 6px 0 4px; }
+  header.top p { color: var(--text-secondary); font-size: 14px; margin: 0; max-width: 640px; line-height: 1.5; }
+
+  .card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 14px; padding: 22px 24px; margin-top: 18px; }
+  .card h2 { font-size: 15px; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); margin: 0 0 14px; }
+
+  .dropzone {
+    border: 2px dashed var(--border);
+    border-radius: 12px;
+    padding: 28px 20px;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 14px;
+    cursor: pointer;
+    transition: border-color .15s ease, background .15s ease;
+  }
+  .dropzone.drag { border-color: var(--series-blue); background: color-mix(in srgb, var(--series-blue) 6%, transparent); }
+  .dropzone strong { color: var(--series-blue); }
+  input[type="file"] { display:none; }
+
+  .row { display:flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 14px; }
+  input[type="text"] {
+    flex: 1; min-width: 220px; padding: 10px 12px; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--surface-1); color: var(--text-primary); font-size: 14px;
+  }
+  button {
+    padding: 10px 16px; border-radius: 8px; font-size: 14px; font-weight: 600; cursor: pointer;
+    border: 1px solid var(--border); background: var(--surface-1); color: var(--text-primary);
+  }
+  button.primary { background: var(--series-blue); color: #fff; border-color: var(--series-blue); }
+  button.ghost { background: transparent; }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+
+  .status-line { font-size: 13px; color: var(--text-muted); margin-top: 10px; }
+  .status-line.err { color: var(--critical); }
+  .status-line.ok { color: var(--good); }
+
+  .kpi-row { display:grid; grid-template-columns: repeat(auto-fit, minmax(150px,1fr)); gap: 14px; margin-top: 18px; }
+  .kpi { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; padding: 16px; }
+  .kpi .label { font-size: 12px; color: var(--text-muted); margin-bottom: 6px; }
+  .kpi .value { font-size: 26px; font-weight: 700; }
+
+  .bar-list { display:flex; flex-direction: column; gap: 12px; margin-top: 6px; }
+  .bar-row .bar-top { display:flex; justify-content: space-between; font-size: 13px; margin-bottom: 5px; }
+  .bar-row .bar-top .name { color: var(--text-primary); }
+  .bar-row .bar-top .count { color: var(--text-muted); font-variant-numeric: tabular-nums; }
+  .bar-track { height: 20px; background: var(--gridline); border-radius: 6px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 6px; background: var(--series-blue); transition: width .4s ease; }
+
+  .legend-row { display:flex; gap: 16px; flex-wrap: wrap; margin-top: 4px; margin-bottom: 14px; font-size: 12.5px; color: var(--text-secondary); }
+  .legend-row .sw { display:inline-block; width:10px; height:10px; border-radius:3px; margin-right:6px; vertical-align:-1px; }
+
+  table.raw { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  table.raw th, table.raw td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--gridline); white-space: nowrap; max-width: 220px; overflow: hidden; text-overflow: ellipsis; }
+  table.raw th { color: var(--text-muted); font-weight: 600; position: sticky; top: 0; background: var(--surface-1); }
+  .table-scroll { overflow: auto; max-height: 520px; border: 1px solid var(--gridline); border-radius: 8px; }
+
+  .empty-state { text-align: center; padding: 40px 20px; color: var(--text-muted); font-size: 14px; }
+
+  details.setup { margin-top: 18px; }
+  details.setup summary { cursor: pointer; font-size: 13px; color: var(--series-blue); font-weight: 600; }
+  details.setup .setup-body { margin-top: 12px; font-size: 13px; color: var(--text-secondary); line-height: 1.6; }
+  details.setup ol { padding-left: 20px; }
+  details.setup code { background: var(--gridline); padding: 1px 5px; border-radius: 4px; font-size: 12px; }
+
+  @media (max-width: 640px) {
+    table.raw th, table.raw td { max-width: 140px; }
+  }
+</style>
+</head>
+<body class="viz-root">
+<div class="wrap">
+  <header class="top">
+    <div class="brand">MPx Dissertation Project &middot; IISc</div>
+    <h1>Response Dashboard</h1>
+    <p>Aggregate view of everyone who has taken the drinking-water microplastics assessment, plus a raw data export for further analysis. This is separate from the individual score report each respondent sees — nothing here is shown to them.</p>
+  </header>
+
+  <div class="card">
+    <h2>Load responses</h2>
+    <div class="dropzone" id="dropzone">
+      Drag and drop response files here, or <strong>click to choose files</strong><br/>
+      <span style="font-size:12px;">Accepts the individual JSON/CSV files respondents download, or a wide-format CSV export (e.g. from Google Sheets)</span>
+      <input type="file" id="fileInput" multiple accept=".json,.csv" />
+    </div>
+    <div class="row">
+      <input type="text" id="csvUrlInput" placeholder="Optional: paste a published Google Sheet CSV export URL to fetch live" />
+      <button id="fetchUrlBtn">Fetch</button>
+      <button id="clearBtn" class="ghost">Clear all loaded data</button>
+    </div>
+    <div class="status-line" id="statusLine">No responses loaded yet.</div>
+
+    <details class="setup">
+      <summary>Set up automatic collection (one-time, ~5 minutes)</summary>
+      <div class="setup-body">
+        <p>By default, the quiz only lets each respondent download their own response — nothing is centrally collected until you do this one-time setup:</p>
+        <ol>
+          <li>Create a new Google Sheet, then go to <strong>Extensions &rarr; Apps Script</strong> and paste in the code from the <code>AppsScript-Code.gs</code> file provided alongside this dashboard.</li>
+          <li>Click <strong>Deploy &rarr; New deployment &rarr; Web app</strong>. Set "Execute as: Me" and "Who has access: Anyone", then deploy and copy the Web App URL.</li>
+          <li>Open the quiz HTML file, find the line <code>const SUBMIT_URL = "";</code> near the top of the script, and paste your Web App URL between the quotes. Re-share/re-host the quiz file after this edit.</li>
+          <li>Every completed quiz now appends a row to your Google Sheet automatically.</li>
+          <li>To view that data here live: in the Sheet, go to <strong>File &rarr; Share &rarr; Publish to web</strong>, choose the response sheet/tab and CSV format, and paste the resulting URL into the "Fetch" box above. Otherwise, just download the Sheet as CSV (<strong>File &rarr; Download &rarr; CSV</strong>) periodically and drop it into the loader above.</li>
+        </ol>
+      </div>
+    </details>
+  </div>
+
+  <div id="dashboardBody"></div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  let rows = []; // array of flat response objects
+
+  const dropzone = document.getElementById("dropzone");
+  const fileInput = document.getElementById("fileInput");
+  const statusLine = document.getElementById("statusLine");
+  const csvUrlInput = document.getElementById("csvUrlInput");
+  const fetchUrlBtn = document.getElementById("fetchUrlBtn");
+  const clearBtn = document.getElementById("clearBtn");
+  const dashboardBody = document.getElementById("dashboardBody");
+
+  dropzone.addEventListener("click", () => fileInput.click());
+  ["dragenter","dragover"].forEach(evt => dropzone.addEventListener(evt, (e) => { e.preventDefault(); dropzone.classList.add("drag"); }));
+  ["dragleave","drop"].forEach(evt => dropzone.addEventListener(evt, (e) => { e.preventDefault(); dropzone.classList.remove("drag"); }));
+  dropzone.addEventListener("drop", (e) => { handleFiles(e.dataTransfer.files); });
+  fileInput.addEventListener("change", (e) => { handleFiles(e.target.files); });
+  clearBtn.addEventListener("click", () => { rows = []; renderAll(); setStatus("Cleared. No responses loaded.", ""); });
+  fetchUrlBtn.addEventListener("click", () => fetchLiveCsv());
+
+  function setStatus(msg, cls) {
+    statusLine.textContent = msg;
+    statusLine.className = "status-line" + (cls ? " " + cls : "");
+  }
+
+  function handleFiles(fileList) {
+    const files = Array.from(fileList || []);
+    if (!files.length) return;
+    let pending = files.length;
+    let added = 0;
+    let errors = 0;
+    files.forEach((file) => {
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          const text = reader.result;
+          if (file.name.toLowerCase().endsWith(".json")) {
+            added += ingestJsonText(text);
+          } else {
+            added += ingestCsvText(text);
+          }
+        } catch (err) {
+          errors++;
+        }
+        pending--;
+        if (pending === 0) finishLoad(added, errors);
+      };
+      reader.onerror = () => { pending--; errors++; if (pending === 0) finishLoad(added, errors); };
+      reader.readAsText(file);
+    });
+  }
+
+  function finishLoad(added, errors) {
+    renderAll();
+    let msg = `${rows.length} total response${rows.length === 1 ? "" : "s"} loaded (${added} added just now).`;
+    if (errors) msg += ` ${errors} file(s) could not be parsed.`;
+    setStatus(msg, errors ? "err" : "ok");
+  }
+
+  function ingestJsonText(text) {
+    const data = JSON.parse(text);
+    const arr = Array.isArray(data) ? data : [data];
+    arr.forEach(obj => rows.push(normalizeRow(obj)));
+    return arr.length;
+  }
+
+  function ingestCsvText(text) {
+    const table = parseCsv(text);
+    if (!table.length) return 0;
+    const header = table[0].map(h => h.trim());
+    const isTwoColQA = header.length === 2 && /question/i.test(header[0]) && /answer/i.test(header[1]);
+    if (isTwoColQA) {
+      // one respondent per file, transpose question/answer pairs into one row
+      const obj = {};
+      for (let i = 1; i < table.length; i++) {
+        const [q, a] = table[i];
+        if (q === undefined) continue;
+        obj[q] = a;
+      }
+      rows.push(normalizeRow(obj));
+      return 1;
+    }
+    // wide format: header row = field names, each subsequent row = one respondent
+    let count = 0;
+    for (let i = 1; i < table.length; i++) {
+      if (!table[i].length || table[i].every(c => c === "")) continue;
+      const obj = {};
+      header.forEach((h, idx) => { obj[h] = table[i][idx] ?? ""; });
+      rows.push(normalizeRow(obj));
+      count++;
+    }
+    return count;
+  }
+
+  function normalizeRow(obj) {
+    // ensure exposureScore is numeric where present
+    const copy = { ...obj };
+    if (copy.exposureScore !== undefined) copy.exposureScore = Number(copy.exposureScore) || 0;
+    return copy;
+  }
+
+  // Minimal RFC4180-ish CSV parser (handles quoted fields with commas/newlines)
+  function parseCsv(text) {
+    const rows = [];
+    let row = [], field = "", inQuotes = false;
+    for (let i = 0; i < text.length; i++) {
+      const c = text[i];
+      if (inQuotes) {
+        if (c === '"') {
+          if (text[i+1] === '"') { field += '"'; i++; }
+          else { inQuotes = false; }
+        } else { field += c; }
+      } else {
+        if (c === '"') inQuotes = true;
+        else if (c === ',') { row.push(field); field = ""; }
+        else if (c === '\n') { row.push(field); rows.push(row); row = []; field = ""; }
+        else if (c === '\r') { /* skip */ }
+        else field += c;
+      }
+    }
+    if (field.length || row.length) { row.push(field); rows.push(row); }
+    return rows.filter(r => r.length && !(r.length === 1 && r[0] === ""));
+  }
+
+  function fetchLiveCsv() {
+    const url = csvUrlInput.value.trim();
+    if (!url) { setStatus("Paste a published CSV URL first.", "err"); return; }
+    setStatus("Fetching…", "");
+    fetch(url)
+      .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.text(); })
+      .then(text => {
+        const added = ingestCsvText(text);
+        finishLoad(added, 0);
+      })
+      .catch(err => {
+        setStatus("Couldn't fetch that URL (it may not be published, or CORS-blocked from this page). Download the sheet as CSV instead and drop it into the loader above. Error: " + err.message, "err");
+      });
+  }
+
+  /* ---------------------------------------------------------
+     RENDERING
+  --------------------------------------------------------- */
+  function tierColor(name) {
+    if (!name) return "var(--text-muted)";
+    if (/low/i.test(name)) return "var(--good)";
+    if (/moderate/i.test(name)) return "var(--warning)";
+    if (/^high|^(?!very)/i.test(name) && /high/i.test(name) && !/very/i.test(name)) return "var(--serious)";
+    if (/very high/i.test(name)) return "var(--critical)";
+    return "var(--text-muted)";
+  }
+
+  function avg(nums) {
+    const clean = nums.filter(n => typeof n === "number" && !isNaN(n));
+    if (!clean.length) return null;
+    return clean.reduce((a,b) => a+b, 0) / clean.length;
+  }
+
+  function countBy(values) {
+    const counts = {};
+    values.forEach(v => {
+      if (v === undefined || v === null || v === "") return;
+      // split multi-select fields joined with " | "
+      String(v).split("|").map(s => s.trim()).filter(Boolean).forEach(item => {
+        counts[item] = (counts[item] || 0) + 1;
+      });
+    });
+    return Object.entries(counts).sort((a,b) => b[1]-a[1]);
+  }
+
+  function barList(entries, maxBars) {
+    const top = entries.slice(0, maxBars || 8);
+    const max = top.length ? top[0][1] : 1;
+    return `<div class="bar-list">${top.map(([name, count]) => `
+      <div class="bar-row">
+        <div class="bar-top"><span class="name">${escapeHtml(name)}</span><span class="count">${count}</span></div>
+        <div class="bar-track"><div class="bar-fill" style="width:${Math.round((count/max)*100)}%;"></div></div>
+      </div>`).join("")}</div>`;
+  }
+
+  function escapeHtml(s) {
+    const d = document.createElement("div");
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  function renderAll() {
+    if (!rows.length) {
+      dashboardBody.innerHTML = `<div class="card"><div class="empty-state">Load one or more response files above to see the aggregate dashboard and raw data table.</div></div>`;
+      return;
+    }
+
+    const scores = rows.map(r => r.exposureScore).filter(v => typeof v === "number");
+    const wtps = rows.map(r => Number(r.wtp)).filter(v => !isNaN(v) && v > 0);
+    const purchaseLikelihoods = rows.map(r => Number(r.purchaseLikelihood)).filter(v => !isNaN(v));
+    const subYes = rows.filter(r => r.subscriptionOk === "Yes").length;
+
+    const tierCounts = countBy(rows.map(r => r.exposureTier));
+    const featureCounts = countBy(rows.map(r => r.features));
+    const worryCounts = countBy(rows.map(r => r.topWorry));
+    const channelCounts = countBy(rows.map(r => r.purchaseChannel));
+    const trustCounts = countBy(rows.map(r => r.trustBuilder));
+    const formFactorCounts = countBy(rows.map(r => r.formFactor));
+
+    const allKeys = Array.from(rows.reduce((set, r) => { Object.keys(r).forEach(k => set.add(k)); return set; }, new Set()));
+    // keep a stable, sensible column order: prioritized keys first, then the rest alphabetically
+    const priority = ["submittedAt","name","email","exposureScore","exposureTier","age","location","householdSize","wtp","purchaseLikelihood","subscriptionOk"];
+    const cols = priority.filter(k => allKeys.includes(k)).concat(allKeys.filter(k => !priority.includes(k)).sort());
+
+    dashboardBody.innerHTML = `
+      <div class="card">
+        <h2>Overview</h2>
+        <div class="kpi-row">
+          <div class="kpi"><div class="label">Total responses</div><div class="value">${rows.length}</div></div>
+          <div class="kpi"><div class="label">Avg. exposure score</div><div class="value">${scores.length ? Math.round(avg(scores)) : "—"}<span style="font-size:14px;color:var(--text-muted);">/100</span></div></div>
+          <div class="kpi"><div class="label">Avg. willingness to pay</div><div class="value">${wtps.length ? "₹" + Math.round(avg(wtps)).toLocaleString("en-IN") : "—"}</div></div>
+          <div class="kpi"><div class="label">Open to subscription</div><div class="value">${rows.length ? Math.round((subYes/rows.length)*100) + "%" : "—"}</div></div>
+          <div class="kpi"><div class="label">Avg. purchase likelihood</div><div class="value">${purchaseLikelihoods.length ? avg(purchaseLikelihoods).toFixed(1) : "—"}<span style="font-size:14px;color:var(--text-muted);">/5</span></div></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>Exposure tier distribution</h2>
+        <div class="legend-row">
+          <span><span class="sw" style="background:var(--good)"></span>Low</span>
+          <span><span class="sw" style="background:var(--warning)"></span>Moderate</span>
+          <span><span class="sw" style="background:var(--serious)"></span>High</span>
+          <span><span class="sw" style="background:var(--critical)"></span>Very High</span>
+        </div>
+        <div class="bar-list">
+          ${tierCounts.map(([name, count]) => `
+            <div class="bar-row">
+              <div class="bar-top"><span class="name">${escapeHtml(name)}</span><span class="count">${count} (${Math.round((count/rows.length)*100)}%)</span></div>
+              <div class="bar-track"><div class="bar-fill" style="width:${Math.round((count/rows.length)*100)}%; background:${tierColor(name)};"></div></div>
+            </div>`).join("") || "<div class='status-line'>No tier data.</div>"}
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>Most-wanted device features</h2>
+        ${featureCounts.length ? barList(featureCounts) : "<div class='status-line'>No feature data.</div>"}
+      </div>
+
+      <div class="card">
+        <h2>Top worries about drinking water</h2>
+        ${worryCounts.length ? barList(worryCounts) : "<div class='status-line'>No data.</div>"}
+      </div>
+
+      <div class="card">
+        <h2>Preferred form factor</h2>
+        ${formFactorCounts.length ? barList(formFactorCounts) : "<div class='status-line'>No data.</div>"}
+      </div>
+
+      <div class="card">
+        <h2>What would build trust</h2>
+        ${trustCounts.length ? barList(trustCounts) : "<div class='status-line'>No data.</div>"}
+      </div>
+
+      <div class="card">
+        <h2>Preferred purchase channel</h2>
+        ${channelCounts.length ? barList(channelCounts) : "<div class='status-line'>No data.</div>"}
+      </div>
+
+      <div class="card">
+        <h2>Raw data (${rows.length} rows &times; ${cols.length} columns)</h2>
+        <div class="row" style="margin-top:0;">
+          <button class="primary" id="exportCsvBtn">Export merged CSV</button>
+          <button id="exportJsonBtn">Export merged JSON</button>
+        </div>
+        <div class="table-scroll" style="margin-top:14px;">
+          <table class="raw">
+            <thead><tr>${cols.map(c => `<th>${escapeHtml(c)}</th>`).join("")}</tr></thead>
+            <tbody>
+              ${rows.map(r => `<tr>${cols.map(c => `<td title="${escapeHtml(String(r[c] ?? ""))}">${escapeHtml(String(r[c] ?? ""))}</td>`).join("")}</tr>`).join("")}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    `;
+
+    document.getElementById("exportCsvBtn").addEventListener("click", () => exportCsv(cols));
+    document.getElementById("exportJsonBtn").addEventListener("click", () => exportJson());
+  }
+
+  function exportCsv(cols) {
+    const lines = [cols.map(c => `"${c.replace(/"/g,'""')}"`).join(",")];
+    rows.forEach(r => {
+      lines.push(cols.map(c => `"${String(r[c] ?? "").replace(/"/g,'""')}"`).join(","));
+    });
+    downloadBlob(lines.join("\n"), "mpx-merged-responses.csv", "text/csv");
+  }
+  function exportJson() {
+    downloadBlob(JSON.stringify(rows, null, 2), "mpx-merged-responses.json", "application/json");
+  }
+  function downloadBlob(content, filename, mime) {
+    const blob = new Blob([content], { type: mime });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  renderAll();
+})();
+</script>
+</body>
+</html>
