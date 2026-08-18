@@ -350,7 +350,11 @@
     }
 
     const scores = rows.map(r => r.exposureScore).filter(v => typeof v === "number");
-    const wtps = rows.map(r => Number(r.wtp)).filter(v => !isNaN(v) && v > 0);
+    // Prefer the normalized INR-equivalent field (wtpInINR) so mixed-currency
+    // responses average correctly; older rows collected before the currency
+    // question existed only have `wtp`, which was always answered in INR —
+    // so falling back to it here doesn't change how that older data reads.
+    const wtps = rows.map(r => Number(r.wtpInINR ?? r.wtp)).filter(v => !isNaN(v) && v > 0);
     const purchaseLikelihoods = rows.map(r => Number(r.purchaseLikelihood)).filter(v => !isNaN(v));
     const subYes = rows.filter(r => r.subscriptionOk === "Yes").length;
 
@@ -363,7 +367,7 @@
 
     const allKeys = Array.from(rows.reduce((set, r) => { Object.keys(r).forEach(k => set.add(k)); return set; }, new Set()));
     // keep a stable, sensible column order: prioritized keys first, then the rest alphabetically
-    const priority = ["submittedAt","name","email","exposureScore","exposureTier","age","location","householdSize","wtp","purchaseLikelihood","subscriptionOk"];
+    const priority = ["submittedAt","name","email","exposureScore","exposureTier","age","location","householdSize","currency","wtp","wtpInINR","purchaseLikelihood","subscriptionOk"];
     const cols = priority.filter(k => allKeys.includes(k)).concat(allKeys.filter(k => !priority.includes(k)).sort());
 
     dashboardBody.innerHTML = `
@@ -372,7 +376,7 @@
         <div class="kpi-row">
           <div class="kpi"><div class="label">Total responses</div><div class="value">${rows.length}</div></div>
           <div class="kpi"><div class="label">Avg. exposure score</div><div class="value">${scores.length ? Math.round(avg(scores)) : "—"}<span style="font-size:14px;color:var(--text-muted);">/100</span></div></div>
-          <div class="kpi"><div class="label">Avg. willingness to pay</div><div class="value">${wtps.length ? "₹" + Math.round(avg(wtps)).toLocaleString("en-IN") : "—"}</div></div>
+          <div class="kpi"><div class="label">Avg. willingness to pay (₹ equiv.)</div><div class="value">${wtps.length ? "₹" + Math.round(avg(wtps)).toLocaleString("en-IN") : "—"}</div></div>
           <div class="kpi"><div class="label">Open to subscription</div><div class="value">${rows.length ? Math.round((subYes/rows.length)*100) + "%" : "—"}</div></div>
           <div class="kpi"><div class="label">Avg. purchase likelihood</div><div class="value">${purchaseLikelihoods.length ? avg(purchaseLikelihoods).toFixed(1) : "—"}<span style="font-size:14px;color:var(--text-muted);">/5</span></div></div>
         </div>
