@@ -111,7 +111,42 @@ html{color-scheme:dark}
 body[data-theme="light"]{color-scheme:light}
 body{margin:0;background:var(--anatomy-page);color:var(--anatomy-text);font:14px/1.6 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
 .iso-page{width:min(780px,100% - 32px);margin:64px auto 96px}
-</style></head><body class="iso" data-theme="light"><main class="iso-page"><style>.bl{--t-cold:#2f6fae;--t-mid:#c39a82;--t-hot:#d1491e;--water:#7fb2d9;--glass-a:.42}
+</style></head><body class="iso" data-theme="light"><main class="iso-page"><style>
+.mx{--mx-ink:var(--anatomy-strong,#1B1B19);--mx-text:var(--anatomy-text,#3d3c38);--mx-muted:var(--anatomy-muted,#6A6963);--mx-card:var(--anatomy-card,#fff);--mx-line:rgba(27,27,25,.12);--mx-acc:#E2531B;font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif}
+.mx-sum{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin:0 0 14px}
+.mx-sum>div{background:var(--mx-card);border-radius:8px;padding:10px 12px;box-shadow:var(--anatomy-lift,0 1px 2px rgba(0,0,0,.08));font-size:12.5px;line-height:1.45;color:var(--mx-text)}
+.mx-sum b.k{display:flex;align-items:center;gap:6px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--mx-acc);margin-bottom:4px}
+.mx-sum b.k{white-space:nowrap}.mx-sum b.k .n{flex:0 0 18px;display:grid;place-items:center;width:18px;height:18px;border-radius:50%;background:var(--mx-acc);color:#fff;font-size:10.5px;letter-spacing:0;line-height:1}
+.mx-sum-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin:0 0 8px;flex-wrap:wrap}
+.mx-sum-h h2{margin:0;font-size:15px;color:var(--mx-ink);font-weight:650}
+.mx-sum-h a{font-size:12.5px;color:var(--mx-acc)}
+@media (max-width:900px){.mx-sum{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){.mx-sum{grid-template-columns:1fr}}
+.mx-pv{background:var(--mx-card);border-radius:8px;box-shadow:var(--anatomy-lift,0 1px 2px rgba(0,0,0,.08));padding:10px 12px 12px;margin:10px 0}
+.mx-pv-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:6px}
+.mx-pv-h b{font-size:13.5px;color:var(--mx-ink)}
+.mx-pv-h span{font-size:12px;color:var(--mx-muted)}
+.mx-pv canvas{display:block;width:100%;aspect-ratio:960/320;background:#fff;border-radius:6px}
+.mx-pv-cap{font-size:13px;color:var(--mx-text);margin:8px 0 4px;min-height:1.4em}
+.mx-pv-cnt{font-size:12.5px;color:var(--mx-ink);font-variant-numeric:tabular-nums}
+.mx-pv-cnt span{color:var(--mx-muted)}
+.mx-lg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--mx-muted);margin-top:6px;align-items:center}
+.mx-lg i{display:inline-block;border-radius:50%;vertical-align:middle;margin-right:5px}
+.mx-lg i.pass{width:12px;height:12px;border:2px solid #BE3328;background:transparent}
+.mx-lg i.hollow{width:10px;height:10px;border:1.5px solid #6A6963;background:#fff}
+.mx-gcap{font-size:12px;line-height:1.45;color:var(--mx-text);border-top:1px dashed var(--mx-line);margin-top:8px;padding-top:7px}
+.mx-gcap b{color:var(--mx-ink)}
+.mx-full{margin:26px 0 10px;background:var(--mx-card);border-radius:10px;box-shadow:var(--anatomy-lift,0 1px 2px rgba(0,0,0,.08));padding:18px 20px;color:var(--mx-text);font-size:14px;line-height:1.55}
+.mx-full h2{font-size:19px;margin:0 0 4px;color:var(--mx-ink)}
+.mx-full h3{display:flex;align-items:center;gap:8px;font-size:14px;margin:18px 0 6px;color:var(--mx-ink);text-transform:uppercase;letter-spacing:.05em}
+.mx-full h3 .n{flex:0 0 22px;font-style:normal;display:grid;place-items:center;width:22px;height:22px;border-radius:50%;background:var(--mx-acc);color:#fff;font-size:12px;letter-spacing:0}
+.mx-full p{margin:0 0 8px}.mx-full ul{margin:0 0 8px;padding-left:20px}.mx-full li{margin:3px 0}
+.mx-full b{color:var(--mx-ink)}
+.mx-full table{border-collapse:collapse;width:100%;font-size:13px;margin-top:4px}
+.mx-full td,.mx-full th{border-bottom:1px solid var(--mx-line);padding:7px 8px;text-align:left;vertical-align:top}
+.mx-full th{font-size:11.5px;text-transform:uppercase;letter-spacing:.04em;color:var(--mx-muted)}
+.mx-sw{background:#F6F5F1;border-radius:8px;padding:10px 12px;margin-top:6px}
+</style><section class="mx" aria-label="Findings summary"><div class="mx-sum-h"><h2>MPx Boil-Loop Mini v0.5 · cutaway · findings in five steps</h2><a href="#mx-findings">Full findings, software and what each graph shows ↓</a></div><div class="mx-sum"><div><b class="k"><span class="n">1</span>What</b>A pumped loop that boils water for 3 min so lime crusts the microplastics, catches the crust on a hot 25 µm mesh and hands the heat back. Tests: does boil-and-trap work on 60 W?</div><div><b class="k"><span class="n">2</span>Why</b>Boiling needs no consumable filter, but a kettle uses ~97 Wh/L and gives hot water. We needed flow on 60 W, warm-up time, outlet temperature and removal vs hardness.</div><div><b class="k"><span class="n">3</span>How</b>Transient heat model (1 s steps) with a counterflow exchanger, wax gate and jug; lime from PHREEQC water chemistry; removal fitted to Yu et al. 2024.</div><div><b class="k"><span class="n">4</span>Results</b>1.2 L/h; heater 22.5 W steady (121 W without exchanger); water out at 27 °C; 90 % removal at 285 mg/L but ~40 % at 80 mg/L; 15 L/h would need ~584 W.</div><div><b class="k"><span class="n">5</span>So what</b>Boiling only works in hard water and is ~12× too slow → kept as a reference, not chosen. Quick kettle + mesh + Nile red tests confirm removal on our water.</div></div></section><style>.bl{--t-cold:#2f6fae;--t-mid:#c39a82;--t-hot:#d1491e;--water:#7fb2d9;--glass-a:.42}
 .iso[data-theme="dark"] .bl{--t-cold:#5b9be0;--t-mid:#a8846c;--t-hot:#f06a3c;--water:#3d6f99}
 .bl .iso-plate{padding:52px 20px 44px}
 .bl-stage{position:relative;outline:none}
@@ -192,7 +227,7 @@ body{margin:0;background:var(--anatomy-page);color:var(--anatomy-text);font:14px
 <label class="bl-slider"><span>Room</span><input type="range" min="15" max="40" step="1" value="25" data-in="Ta"><b data-out="Ta">25 °C</b></label>
 <label class="bl-check"><input type="checkbox" data-in="stat"><span>Pump thermostat (proposed fix)</span></label>
 <label class="bl-slider bl-speed"><span>Speed</span><input type="range" min="0" max="3" step="1" value="2" data-in="speed"><b data-out="speed">3 min / s</b></label>
-</div><div class="bl-stations"><button type="button" class="bl-st" data-sel="1"><span class="bl-num">01</span><span class="bl-name">Jug</span><span class="bl-t" data-t="jug">—</span></button><button type="button" class="bl-st" data-sel="2"><span class="bl-num">02</span><span class="bl-name">Pump</span><span class="bl-t" data-t="pump">—</span></button><button type="button" class="bl-st" data-sel="3"><span class="bl-num">03</span><span class="bl-name">Exchanger, cold side</span><span class="bl-t" data-t="hx">—</span></button><button type="button" class="bl-st" data-sel="4"><span class="bl-num">04</span><span class="bl-name">Mini-tube heater</span><span class="bl-t" data-t="heat">—</span></button><button type="button" class="bl-st" data-sel="5"><span class="bl-num">05</span><span class="bl-name">Boil coil + vent</span><span class="bl-t" data-t="boil">—</span></button><button type="button" class="bl-st" data-sel="6"><span class="bl-num">06</span><span class="bl-name">Lime trap + wax gate</span><span class="bl-t" data-t="trap">—</span></button><button type="button" class="bl-st" data-sel="7"><span class="bl-num">07</span><span class="bl-name">Exchanger hot side + body coil</span><span class="bl-t" data-t="body">—</span></button><button type="button" class="bl-st" data-sel="8"><span class="bl-num">08</span><span class="bl-name">Spout</span><span class="bl-t" data-t="spout">—</span></button></div><div class="bl-panel"><div class="bl-explain" data-explain></div><div class="bl-stats" data-stats></div></div><span class="iso-caption">The model behind every number: a counterflow tube-in-tube exchanger (ε–NTU, laminar flow with Dean enhancement in the coil, ε ≈ 0.95 at 1.2 L/h), a 60 W heater that only tops up the last few degrees plus 1.5% steam and losses, three minutes at the boil in a vented 61 mL coil, and the body coil trimming the last degrees into the finned shell. Lime comes from a PHREEQC run of vented boiling (≈ hardness − 20 mg/L as CaCO₃) and microplastic removal from Yu et al. 2024 (1 − e^(−0.0086·lime)). The run is a lumped transient from switch-on: the gate stays shut until the core reaches 95 °C, and until then the boil coil overflows through the standpipe back into the jug.</span></figcaption></figure></main><script type="module">const AZIMUTH = 45;
+</div><section class="mx mx-pv" data-scene="blm"><div class="mx-pv-h"><b>Particle view · live</b><span>the loop, pipes coloured by temperature · driven by the same model as the drawing · change the controls above and watch</span></div><canvas aria-label="Animated microplastic particles moving through the filter"></canvas><div class="mx-pv-cap" data-pv-cap></div><div class="mx-pv-cnt" data-pv-cnt></div><div class="mx-lg" data-pv-legend></div></section><div class="bl-stations"><button type="button" class="bl-st" data-sel="1"><span class="bl-num">01</span><span class="bl-name">Jug</span><span class="bl-t" data-t="jug">—</span></button><button type="button" class="bl-st" data-sel="2"><span class="bl-num">02</span><span class="bl-name">Pump</span><span class="bl-t" data-t="pump">—</span></button><button type="button" class="bl-st" data-sel="3"><span class="bl-num">03</span><span class="bl-name">Exchanger, cold side</span><span class="bl-t" data-t="hx">—</span></button><button type="button" class="bl-st" data-sel="4"><span class="bl-num">04</span><span class="bl-name">Mini-tube heater</span><span class="bl-t" data-t="heat">—</span></button><button type="button" class="bl-st" data-sel="5"><span class="bl-num">05</span><span class="bl-name">Boil coil + vent</span><span class="bl-t" data-t="boil">—</span></button><button type="button" class="bl-st" data-sel="6"><span class="bl-num">06</span><span class="bl-name">Lime trap + wax gate</span><span class="bl-t" data-t="trap">—</span></button><button type="button" class="bl-st" data-sel="7"><span class="bl-num">07</span><span class="bl-name">Exchanger hot side + body coil</span><span class="bl-t" data-t="body">—</span></button><button type="button" class="bl-st" data-sel="8"><span class="bl-num">08</span><span class="bl-name">Spout</span><span class="bl-t" data-t="spout">—</span></button></div><div class="bl-panel"><div class="bl-explain" data-explain></div><div class="bl-stats" data-stats></div></div><span class="iso-caption">The model behind every number: a counterflow tube-in-tube exchanger (ε–NTU, laminar flow with Dean enhancement in the coil, ε ≈ 0.95 at 1.2 L/h), a 60 W heater that only tops up the last few degrees plus 1.5% steam and losses, three minutes at the boil in a vented 61 mL coil, and the body coil trimming the last degrees into the finned shell. Lime comes from a PHREEQC run of vented boiling (≈ hardness − 20 mg/L as CaCO₃) and microplastic removal from Yu et al. 2024 (1 − e^(−0.0086·lime)). The run is a lumped transient from switch-on: the gate stays shut until the core reaches 95 °C, and until then the boil coil overflows through the standpipe back into the jug.</span></figcaption></figure><section class="mx mx-full" id="mx-findings"><h2>Findings · MPx Boil-Loop Mini v0.5 · cutaway</h2><p style="color:var(--mx-muted)">What we tested, why, how, what we found and what we did with it.</p><h3><span class="n">1</span>What · the product and the principle tested</h3><p><b>MPx Boil-Loop Mini v0.5</b> is a bottle-sized loop: a pump draws water from a jug through a heat exchanger, a 60 W heater brings it to the boil, it spends about 3 minutes boiling in a vented coil, passes a hot 25 µm steel lime trap, then gives its heat back in the exchanger and leaves through a coil in the finned shell into a cup.</p><p><b>Principle tested:</b> boiling hard water makes calcium carbonate (lime) crystallise on microplastics so a coarse hot mesh can catch them (co-precipitation, Yu et al. 2024), while heat recovery keeps the power within USB-C.</p><h3><span class="n">2</span>Why · the reason to simulate it</h3><p>Boiling needs no consumable filter and works on particles of every size, but a kettle uses about 97 Wh per litre and gives hot water. Before building we needed to know what flow 60 W supports, how long until the first water, how warm it comes out, and how removal depends on how hard the water is.</p><h3><span class="n">3</span>How · method, equipment, variables and constraints</h3><p><b>Simulation.</b> A transient model in 1 s steps: the heat balance of the core (60 W heater, losses), a wax gate that opens at 95 °C and shuts at 92 °C, the jug's water and temperature, a counterflow tube-in-tube heat exchanger (ε–NTU method, laminar flow with Dean enhancement in the coil, ε ≈ 0.95 at 1.2 L/h), and the body coil cooling into the finned shell. How much lime forms comes from <b>PHREEQC</b> chemical-equilibrium runs of vented boiling (≈ hardness − 20 mg/L); removal = 1 − e<sup>−0.0086 × lime</sup>, fitted to Yu et al. 2024.</p><p><b>Variables:</b> flow 0.4–3 L/h, hardness 0–400 mg/L, room temperature, an optional pump thermostat, simulation speed. <b>Constraints:</b> 60 W USB-C PD heater, 61 mL boil coil (3 min at 1.2 L/h), 2.4 m exchanger, 528 mL jug, 316L / borosilicate / silicone in the water path.</p><h3><span class="n">4</span>Results</h3><ul><li>Design flow <b>1.2 L/h</b>. At steady state the heater only needs <b>22.5 W</b> (121 W with no exchanger); water leaves at <b>27 °C</b> in a 25 °C room.</li><li>Removal <b>90 % at 285 mg/L</b> hardness but only about <b>40 % at 80 mg/L</b>.</li><li>60 W tops out at <b>2.9 L/h</b>, and 3 minutes at the boil limits it to <b>1.22 L/h</b>; 15 L/h would need about <b>584 W</b>.</li></ul><h3><span class="n">5</span>So what · what we did with the results</h3><ul><li>Boiling works only in hard water and is about 12× too slow for requirement 2.1 (≥ 15 L/h), so the boil family is kept as a no-consumable reference, not the chosen concept.</li><li>Three cheap tests (a kettle, a 25 µm mesh and the Nile red kit) would confirm removal on our own tap and borewell water; a hardness strip would be needed if it were pursued.</li></ul><h3><span class="n">⚙</span>Software and method</h3><div class="mx-sw">Our own physics model, written in <b>JavaScript</b> (model.mjs) and run live in your browser; the drawing, charts and requirement checks are all computed from it. <b>No MATLAB, COMSOL, ANSYS or CFD</b> was used: the model is first-principles equations solved step by step in code. Where a number could not be calculated, it is an assumption the bench labels, and a physical bench test is planned to replace it. The exchanger and boil-coil sizing behind it, and the lime chemistry, ran in <b>Python 3</b> with <b>NumPy</b>, <b>SciPy</b>, <b>CoolProp</b> (water and steam properties), <b>phreeqpython</b> (the USGS <b>PHREEQC</b> chemistry engine) and <b>Matplotlib</b>.</div><h3><span class="n">▤</span>What each graph and panel shows</h3><table><thead><tr><th>Graph / panel</th><th>What it shows</th><th>What it achieves</th></tr></thead><tbody><tr><td><b>Stations 01–08</b></td><td>The live temperature of the water at each of the eight stations along its route.</td><td>Shows where the heat goes in and where it is recovered.</td></tr><tr><td><b>Status line</b></td><td>Phase (warm-up, producing), heater power, flow, lime caught and energy so far.</td><td>Shows the start-up delay and the running cost.</td></tr></tbody></table><p style="margin-top:10px;color:var(--mx-muted);font-size:12.5px">The particle view shows a sample of dots, not every particle; whether each dot is caught uses the model's capture for its size band, so over many dots the share matches the model.</p></section></main><script type="module">const AZIMUTH = 45;
 const ELEVATION = 30;
 const SHADES = 4;
 const RADIANS = Math.PI / 180;
@@ -1310,6 +1345,7 @@ stage.addEventListener("keydown", (e) => {
 // ---------- loop ----------
 let frame = 0, last = 0, visible = false;
 function tick(now) {
+  window.__mpx = { sim, running, inputs, speed, rem: removalOf(inputs.H), limeK: limeOf(inputs.H) / 265, cupFrac: (sim.cup % 250) / 250 };
   const dt = last ? Math.min((now - last) / 1000, 1 / 20) : 1 / 60;
   last = now;
   if (running) {
@@ -1328,7 +1364,341 @@ function tick(now) {
 }
 function kick() { if (!frame && visible) { last = 0; frame = requestAnimationFrame(tick); } }
 new IntersectionObserver((entries) => { visible = entries[entries.length - 1].isIntersecting; if (visible) kick(); }, { rootMargin: "120px 0px" }).observe(stage);
+window.__mpxKick = () => { if (!visible) { visible = true; kick(); } };
 setRunning(running);
 refreshText(true);
 draw(0);
 </script></body></html>
+<script>/* MPx — live particle view. Reads the bench model's state from window.__mpx (set on every frame
+   by the bench's own loop) and animates microplastic particles through the filtering stage:
+   each one is caught or passes with the probability the model gives for its size band. Schematic, not to scale. */
+(function () {
+  "use strict";
+  const TAU = Math.PI * 2;
+  const card = document.querySelector(".mx-pv");
+  if (!card) return;
+  const cv = card.querySelector("canvas"), ctx = cv.getContext("2d");
+  const capEl = card.querySelector("[data-pv-cap]"), cntEl = card.querySelector("[data-pv-cnt]");
+  const SCENE = card.dataset.scene;
+  const W = 960, H = 320;
+  const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const BAND = ["1–2 µm", "2–5 µm", "5–20 µm", "20–100 µm"];
+  const BC = ["#E2531B", "#C9902A", "#2F5E8C", "#7A4FB0"];
+  const BR = [1.9, 2.6, 3.4, 4.6];
+  const INK = "#1B1B19", MUTED = "#6A6963", LINE = "#C9C7BF", WATER = "#D7E8F5", WATER2 = "#BCD8EE", STEEL = "#8E8C86", RED = "#BE3328", GREEN = "#23784A";
+  let scale = 1;
+  function resize() {
+    const w = cv.clientWidth || 960, dpr = Math.min(2, window.devicePixelRatio || 1);
+    scale = w / W; cv.width = Math.round(w * dpr); cv.height = Math.round(H * scale * dpr);
+    ctx.setTransform(dpr * scale, 0, 0, dpr * scale, 0, 0);
+  }
+  resize(); window.addEventListener("resize", resize);
+  let seed = 7; const rnd = () => ((seed = (seed * 16807) % 2147483647) / 2147483647);
+  const pickBand = (share) => { let u = rnd(), i = 0; for (; i < 3; i++) { if (u < share[i]) break; u -= share[i]; } return i; };
+  const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+  const txt = (t, x, y, o = {}) => { ctx.font = `${o.w || 500} ${o.s || 12}px Inter, system-ui, sans-serif`; ctx.fillStyle = o.c || MUTED; ctx.textAlign = o.a || "left"; ctx.textBaseline = o.b || "alphabetic"; ctx.fillText(t, x, y); };
+  const dot = (x, y, p, alpha = 1) => {
+    ctx.globalAlpha = alpha; ctx.beginPath(); ctx.arc(x, y, BR[p.band], 0, TAU);
+    if (p.hollow) { ctx.lineWidth = 1.3; ctx.strokeStyle = BC[p.band]; ctx.fillStyle = "#fff"; ctx.fill(); ctx.stroke(); }
+    else { const c0 = p.mp ? "#E2531B" : BC[p.band]; ctx.fillStyle = p.stuck ? mix(c0, "#9a978f", Math.min(1, p.age / 8)) : c0; ctx.fill(); }
+    if (p.passed) { ctx.lineWidth = 1.4; ctx.strokeStyle = RED; ctx.beginPath(); ctx.arc(x, y, BR[p.band] + 2.6, 0, TAU); ctx.stroke(); }
+    ctx.globalAlpha = 1;
+  };
+  const hex = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
+  const mix = (a, b, t) => { const A = hex(a), B = hex(b); return `rgb(${A.map((v, i) => Math.round(v + (B[i] - v) * t)).join(",")})`; };
+  const tally = { caught: 0, passed: 0, byBand: [[0, 0], [0, 0], [0, 0], [0, 0]] };
+  function legend(extra) {
+    let h = BAND.map((b, i) => `<span><i style="background:${BC[i]};width:${BR[i] * 2 + 2}px;height:${BR[i] * 2 + 2}px"></i>${b}</span>`).join("");
+    h += `<span><i class="pass"></i>passed the filter</span>` + (extra || "");
+    card.querySelector("[data-pv-legend]").innerHTML = h;
+  }
+  function counts(modelLine) {
+    const n = tally.caught + tally.passed;
+    cntEl.innerHTML = `<b>${tally.caught}</b> caught · <b>${tally.passed}</b> passed${n ? ` (${Math.round(100 * tally.caught / n)} % of the dots shown)` : ""}${modelLine ? ` · <span>${modelLine}</span>` : ""}`;
+  }
+  const pct = (x) => (x >= 0.995 ? (x * 100).toFixed(1) : (x * 100).toFixed(0)) + " %";
+  const countCap = (cap, share) => cap.reduce((a, c, i) => a + c * share[i], 0);
+
+  /* ------------------------------------------------------------------ SPIN: top view of the basket */
+  function spinScene() {
+    const cx = 330, cy = 160, RS = 112, RB = 146, RMESH = 118;
+    const POLY = [["PE", 940, 0.3, true], ["PP", 905, 0.2, true], ["PS", 1050, 0.1, false], ["PA", 1140, 0.1, false], ["PET", 1380, 0.2, false], ["PVC", 1390, 0.1, false]];
+    const pickPoly = () => { let u = rnd(); for (const p of POLY) { if (u < p[2]) return p; u -= p[2]; } return POLY[4]; };
+    let P = [], rotW = 0, rotB = 0, spawnAcc = 0;
+    legend(`<span><i class="hollow"></i>lighter than water (PE, PP)</span>`);
+    return function frame(dt, M) {
+      const s = M.s, mode = M.mode, ww = s.ww || 0, wb = s.wb || 0, spinning = wb > 2;
+      const Vmax = Math.PI * M.R * M.R * M.H, fill = clamp((s.V || 0) / Vmax, 0, 1);
+      const sf = s.sf || { k: 0 }; const rInM = sf.k > 1e-9 ? Math.sqrt(Math.max(0, (M.H / 2 - sf.z0) / sf.k)) : 0;
+      const rIn = spinning ? clamp(RS * rInM / M.R, 0, RS - 4) : 0;
+      rotW += (still ? 0 : 1) * ww * dt * 0.012; rotB += (still ? 0 : 1) * wb * dt * 0.012;
+      const Q = s.Q || 0;                                              // m³/s through the wall
+      // spawn: during the pour particles arrive with the water; rate ∝ volume poured (a sample, not every particle)
+      if (mode !== "inspect") {
+        const pourRate = s.phase === "pour" ? 40e-6 : 0;
+        spawnAcc += dt * M.speed * pourRate * 1e6 * 0.1;
+        while (spawnAcc > 1 && P.length < 260) {
+          spawnAcc -= 1; const pol = pickPoly();
+          P.push({ r: rnd() * 12, a: rnd() * TAU, band: pickBand(M.share), rho: pol[1], hollow: pol[3], name: pol[0], age: 0 });
+        }
+      }
+      ctx.clearRect(0, 0, W, H);
+      // bowl, mesh, sleeve, water
+      ctx.fillStyle = "#F6F5F1"; ctx.beginPath(); ctx.arc(cx, cy, RB + 8, 0, TAU); ctx.fill();
+      ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.beginPath(); ctx.arc(cx, cy, RB + 8, 0, TAU); ctx.stroke();
+      if (mode !== "inspect") {
+        ctx.fillStyle = spinning ? WATER : WATER2;
+        ctx.beginPath(); ctx.arc(cx, cy, RS, 0, TAU); if (rIn > 0) ctx.arc(cx, cy, rIn, 0, TAU, true);
+        if (fill > 0.002 || s.phase === "pour") ctx.fill("evenodd");
+      }
+      ctx.strokeStyle = "#D9A87F"; ctx.lineWidth = 5; ctx.beginPath(); ctx.arc(cx, cy, RS + 2.5, 0, TAU); ctx.stroke();       // paper sleeve
+      ctx.setLineDash([2, 3]); ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.beginPath(); ctx.arc(cx, cy, RMESH + 1, 0, TAU); ctx.stroke(); ctx.setLineDash([]);
+      // vanes, turning with the basket
+      if (M.ei.vanes && mode !== "inspect") { ctx.strokeStyle = "#A9A79F"; ctx.lineWidth = 3; for (let i = 0; i < 4; i++) { const a = rotB + i * Math.PI / 2; ctx.beginPath(); ctx.moveTo(cx + Math.cos(a) * 70, cy + Math.sin(a) * 70); ctx.lineTo(cx + Math.cos(a) * (RS - 4), cy + Math.sin(a) * (RS - 4)); ctx.stroke(); } }
+      // particles
+      const vThroughAt = (rpx) => { const r = (rpx / RS) * M.R; return Q / (2 * Math.PI * r * M.H); };
+      for (const p of P) {
+        p.age += dt;
+        if (p.stuck) { const a = p.a + rotB; dot(cx + Math.cos(a) * p.r, cy + Math.sin(a) * p.r, p); continue; }
+        if (p.passed) { p.r += 70 * dt; dot(cx + Math.cos(p.a + rotW) * p.r, cy + Math.sin(p.a + rotW) * p.r, p, clamp((RB + 6 - p.r) / 20, 0, 1)); continue; }
+        const rm = Math.max(1e-4, (p.r / RS) * M.R);
+        let v = 0;                                                     // m/s, outward positive
+        if (spinning && s.phase !== "pour" || fill > 0.01) v = vThroughAt(Math.max(p.r, 8)) + M.drift(p.rho, [1.4, 3.2, 10, 45][p.band], ww, rm, M.ei.T);
+        else if (s.phase === "pour") v = 0.004;
+        if (s.phase === "done" || s.phase === "stop") v = Math.max(v, 0.01);           // the last water carries everything onto the paper
+        let vis = clamp(v * 60000, -60, 220) * (still ? 0 : 1) * Math.min(2, M.speed / 2);
+        if (p.r < rIn && vis < 25) vis = 25;                           // still falling in from the chute
+        p.r += vis * dt;
+        if (p.r < rIn + 1 && spinning && v < 0) p.r = rIn + 1 + rnd();  // floats at the inner free surface
+        if (p.r >= RS) {
+          if (rnd() < M.cap[p.band]) { p.stuck = true; p.r = RS + 1 + rnd() * 3; p.a = p.a + rotW - rotB; p.age = 0; tally.caught++; }
+          else { p.passed = true; tally.passed++; }
+        }
+        dot(cx + Math.cos(p.a + rotW) * p.r, cy + Math.sin(p.a + rotW) * p.r, p);
+      }
+      P = P.filter((p) => !(p.passed && p.r > RB + 8));
+      const stuck = P.filter((p) => p.stuck); if (stuck.length > 180) P.splice(P.indexOf(stuck[0]), 1);
+      // labels
+      txt("TOP VIEW OF THE BASKET (not to scale)", cx, 18, { a: "center", s: 11, w: 600 });
+      txt("paper sleeve", cx + RS * 0.72 + 10, cy - RS * 0.72 - 4, { s: 11.5, c: "#9A6510" });
+      txt("50 µm steel mesh (dotted)", cx - RB - 12, cy + RB + 2, { s: 11.5 });
+      txt("bowl", cx - RB - 2, cy - RB + 18, { s: 11.5 });
+      if (mode === "inspect") txt("sleeve lifted out: the caught particles stay on the paper", cx, cy + 4, { a: "center", s: 13, c: INK, w: 600 });
+      // explanation column
+      const x0 = 520; const cc = countCap(M.cap, M.share);
+      txt(mode === "rig" ? "A · the experiment's rig" : mode === "inspect" ? "C · sleeve out" : "B · MPx Spin v1", x0, 46, { s: 15, c: INK, w: 650 });
+      const lines = [
+        `Basket ${Math.round(wb * 60 / TAU).toLocaleString()} rpm · water ${Math.round(ww * 60 / TAU).toLocaleString()} rpm · ${s.phase || ""}`,
+        `Paper ${M.paperName}: catches ${pct(M.cap[0])} at 1–2 µm, ${pct(M.cap[1])} at 2–5 µm`,
+        `By count, 1–100 µm: ${pct(cc)} stays on the sleeve`,
+        "",
+        "Spinning presses the water outward through the paper.",
+        "Particles ride the water to the sleeve: most stick (grey",
+        "with age), a few pass and are flung into the bowl (red ring).",
+        "Hollow dots are PE/PP: lighter than water, they drift",
+        "inward against the flow and wait at the water surface",
+        "until the last of the batch carries them onto the paper.",
+      ];
+      lines.forEach((l, i) => txt(l, x0, 72 + i * 21, { s: i < 3 ? 13 : 12.5, c: i < 3 ? INK : MUTED, w: i < 3 ? 550 : 450 }));
+      counts(`model: ${pct(cc)} by count`);
+      capEl.textContent = mode === "rig" ? "The rig's 25 µm Grade 4 paper lets almost all particles under 20 µm through: a speed test, not a capture test." :
+        s.phase === "pour" ? "Pouring the batch: particles arrive with the water through the chute." :
+        spinning ? "Spinning: water and particles pass outward; the paper keeps what its rating allows." : "Batch drained. Press Space or ‘Run a batch’ for the next one.";
+    };
+  }
+
+  /* ------------------------------------------------------------------ helpers for the flow scenes */
+  // a particle moving along a polyline; returns position at distance d
+  function along(pts, d) {
+    for (let i = 1; i < pts.length; i++) { const [x0, y0] = pts[i - 1], [x1, y1] = pts[i], L = Math.hypot(x1 - x0, y1 - y0); if (d <= L) return [x0 + (x1 - x0) * d / L, y0 + (y1 - y0) * d / L]; d -= L; }
+    return pts[pts.length - 1];
+  }
+  const plen = (pts) => pts.slice(1).reduce((a, p, i) => a + Math.hypot(p[0] - pts[i][0], p[1] - pts[i][1]), 0);
+
+  /* ------------------------------------------------------------------ SQUEEZE v1: section of the tube element */
+  function sq1Scene() {
+    const ex0 = 250, ex1 = 690, ey = 160, R = 36, WALL = 9;       // element (horizontal here), outside-in flow
+    let P = [], acc = 0, cakeT = 0;
+    legend(`<span><i style="background:#B9B4A8;width:12px;height:8px;border-radius:2px"></i>cake on the element</span>`);
+    return function frame(dt, M) {
+      const s = M.s, mode = M.mode, Qm3 = s.Q || 0, Lh = Qm3 * 3.6e6;
+      const flowing = mode === "squeeze" && Lh > 0.05, back = mode === "backflush";
+      if (flowing && P.length < 240) { acc += dt * Lh * 0.12 * Math.min(2, M.speed / 4); while (acc > 1) { acc -= 1; const top = rnd() < 0.5; P.push({ band: pickBand(M.share), x: 90 + rnd() * 30, y: top ? ey - R - 26 - rnd() * 12 : ey + R + 26 + rnd() * 12, top, ph: "in", age: 0, tx: ex0 + 20 + rnd() * (ex1 - ex0 - 40) }); } }
+      ctx.clearRect(0, 0, W, H);
+      // housing
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(70, ey - R - 52, ex1 - 40, 2 * R + 104);
+      ctx.strokeStyle = STEEL; ctx.lineWidth = 3; ctx.strokeRect(70, ey - R - 52, ex1 - 40, 2 * R + 104);
+      if (mode !== "inspect") { ctx.fillStyle = WATER; ctx.fillRect(72, ey - R - 50, ex1 - 44, 2 * R + 100); }
+      // element: porous wall with closed left end, bore to the spout on the right
+      ctx.fillStyle = "#CFCCC4"; ctx.fillRect(ex0, ey - R, ex1 - ex0, 2 * R); ctx.fillStyle = mode !== "inspect" ? WATER2 : "#EEEDE8"; ctx.fillRect(ex0 + WALL, ey - R + WALL, ex1 - ex0 + 60, 2 * (R - WALL));
+      ctx.fillStyle = "#CFCCC4"; ctx.fillRect(ex0, ey - R, WALL, 2 * R);
+      for (let x = ex0 + 4; x < ex1; x += 7) { ctx.fillStyle = "#B4B1A8"; ctx.fillRect(x, ey - R + 2, 2, WALL - 4); ctx.fillRect(x + 3, ey + R - WALL + 2, 2, WALL - 4); }
+      // cake layer
+      const cakeTarget = clamp((M.cake || 0) * 6e5, 0, 10); cakeT += (cakeTarget - cakeT) * Math.min(1, dt * 2);
+      if (cakeT > 0.2) { ctx.fillStyle = "#B9B4A8"; ctx.fillRect(ex0 - cakeT, ey - R - cakeT, ex1 - ex0 + cakeT, cakeT); ctx.fillRect(ex0 - cakeT, ey + R, ex1 - ex0 + cakeT, cakeT); ctx.fillRect(ex0 - cakeT, ey - R, cakeT, 2 * R); }
+      // spout
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(ex1 + 30, ey - 10, 120, 20); ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.strokeRect(ex1 + 30, ey - 10, 120, 20);
+      if (flowing) { ctx.fillStyle = WATER2; ctx.fillRect(ex1 + 31, ey - 9, 118, 18); }
+      // particles
+      const vis = (still ? 0 : 1) * clamp(Lh, 0, 60) * 4 + 6;
+      for (const p of P) {
+        p.age += dt;
+        if (p.stuck) {
+          if (back) { p.stuck = false; p.ph = "back"; p.vx = -60 - rnd() * 60; p.vy = (p.top ? -1 : 1) * (10 + rnd() * 20); }
+          else { dot(p.x, p.y, p); continue; }
+        }
+        if (p.ph === "back") { p.x += p.vx * dt; p.y += p.vy * dt * 0.4; dot(p.x, p.y, p, clamp((p.x - 70) / 40, 0, 1)); continue; }
+        if (!flowing && mode !== "inspect") { dot(p.x, p.y, p); continue; }
+        if (mode === "inspect") { dot(p.x, p.y, p); continue; }
+        if (p.ph === "in") {                                           // along the annulus towards its spot, then onto the wall
+          const yw = p.top ? ey - R - 4 - cakeT : ey + R + 4 + cakeT;
+          if (p.x < p.tx) p.x = Math.min(p.tx, p.x + vis * dt * 1.2);
+          if (p.x > ex0 - 10) p.y += (yw - p.y) * Math.min(1, dt * 3);
+          if (p.x >= p.tx && Math.abs(p.y - yw) < 1.5) p.ph = "wall";
+        }
+        if (p.ph === "wall") {
+          if (rnd() < M.cap[p.band]) { p.stuck = true; p.age = 0; p.y = p.top ? ey - R - 2 - cakeT - rnd() * 3 : ey + R + 2 + cakeT + rnd() * 3; tally.caught++; }
+          else { p.passed = true; p.ph = "bore"; p.y = ey + (rnd() - 0.5) * (R - WALL) * 1.4; tally.passed++; }
+        }
+        if (p.ph === "bore") { p.x += vis * dt * 1.6; if (p.x > ex1 + 150) p.gone = true; }
+        dot(p.x, p.y, p);
+      }
+      P = P.filter((p) => !p.gone && !(p.ph === "back" && p.x < 60));
+      const st = P.filter((p) => p.stuck); if (st.length > 160) P.splice(P.indexOf(st[0]), 1);
+      txt("from the bottle", 80, ey - R - 60, { s: 11.5 }); txt("sintered 316L tube element (grade " + M.grade + ")", (ex0 + ex1) / 2, ey + 4, { a: "center", s: 12, c: INK, w: 600 });
+      txt("to the spout", ex1 + 40, ey + 30, { s: 11.5 }); txt("water goes outside → in through the steel wall", (ex0 + ex1) / 2, ey + R + 74, { a: "center", s: 11.5 });
+      txt("SECTION THROUGH THE BODY (schematic, not to scale)", W / 2, 18, { a: "center", s: 11, w: 600 });
+      const cc = countCap(M.cap, M.share);
+      counts(`model: ${pct(cc)} by count · ${pct(M.cap[0])} at 1–2 µm`);
+      capEl.textContent = back ? "Tap backflush: reversed flow lifts the cake off the steel and carries it out of the inlet." :
+        mode === "inspect" ? "Element out: the cake sits on the outside of the tube, to be rinsed into a dish for the phone lens." :
+        flowing ? `Squeezing at ${M.F} N: ${Lh.toFixed(1)} L/h. Particles build a cake on the outside of the element; that cake is what slows the flow.` : "Bottle empty: refilling.";
+    };
+  }
+
+  /* ------------------------------------------------------------------ SQUEEZE v2: prefilter + disc */
+  function sq2Scene() {
+    const xPF = 330, xD = 610, top = 64, bot = 256;
+    let P = [], acc = 0, bub = [];
+    legend(`<span><i style="background:#fff;border:1.5px solid #8fb3cf;width:9px;height:9px"></i>air in through the valve</span>`);
+    return function frame(dt, M) {
+      const s = M.s, mode = M.mode, Qlm = s.Q || 0, Lh = Math.abs(Qlm) * 60;
+      const fwd = (mode === "squeeze" || mode === "tap") && Qlm > 0.002, back = mode === "backflush";
+      if (fwd && P.length < 260) { acc += dt * Lh * 0.15 * Math.min(2, M.speed / 6); while (acc > 1) { acc -= 1; P.push({ band: pickBand(M.share), x: 70 + rnd() * 40, y: top + 14 + rnd() * (bot - top - 28), ph: "a", age: 0 }); } }
+      ctx.clearRect(0, 0, W, H);
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(60, top - 8, 780, bot - top + 16); ctx.strokeStyle = STEEL; ctx.lineWidth = 3; ctx.strokeRect(60, top - 8, 780, bot - top + 16);
+      if (mode !== "inspect") { ctx.fillStyle = WATER; ctx.fillRect(62, top - 6, 776, bot - top + 12); }
+      // prefilter (20 µm mesh) and disc (sintered)
+      ctx.setLineDash([3, 3]); ctx.strokeStyle = "#7d7a72"; ctx.lineWidth = 3; ctx.beginPath(); ctx.moveTo(xPF, top - 6); ctx.lineTo(xPF, bot + 6); ctx.stroke(); ctx.setLineDash([]);
+      ctx.fillStyle = "#CFCCC4"; ctx.fillRect(xD - 7, top - 6, 14, bot - top + 12);
+      for (let y = top; y < bot; y += 6) { ctx.fillStyle = "#B4B1A8"; ctx.fillRect(xD - 5, y, 10, 2); }
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(840, (top + bot) / 2 - 12, 90, 24); ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.strokeRect(840, (top + bot) / 2 - 12, 90, 24);
+      if (fwd) { ctx.fillStyle = WATER2; ctx.fillRect(841, (top + bot) / 2 - 11, 88, 22); }
+      // air bubbles in through the valve on release
+      if (mode === "squeeze" && s.air > 0) for (let i = 0; i < 2; i++) bub.push({ x: 100 + rnd() * 160, y: bot, v: 40 + rnd() * 40 });
+      bub.forEach((b) => { b.y -= b.v * dt; ctx.strokeStyle = "#8fb3cf"; ctx.lineWidth = 1.2; ctx.beginPath(); ctx.arc(b.x, b.y, 3.5, 0, TAU); ctx.stroke(); }); bub = bub.filter((b) => b.y > top);
+      const vis = (still ? 0 : 1) * (clamp(Lh, 0, 40) * 8 + 20);
+      for (const p of P) {
+        p.age += dt;
+        if (p.stuck) {
+          if (back) { p.stuck = false; p.ph = "back"; p.vx = -(80 + rnd() * 80); }
+          else { dot(p.x, p.y, p); continue; }
+        }
+        if (p.ph === "back") { p.x += p.vx * dt; p.y += (rnd() - 0.5) * 20 * dt; dot(p.x, p.y, p, clamp((p.x - 60) / 40, 0, 1)); continue; }
+        if (!fwd) { dot(p.x, p.y, p); continue; }
+        p.x += vis * dt * (p.ph === "c" ? 1.6 : 1);
+        if (p.ph === "a" && p.x >= xPF - 3) {
+          if (rnd() < M.pf[p.band]) { p.stuck = true; p.x = xPF - 4 - rnd() * 4; tally.caught++; p.where = "pf"; } else p.ph = "b";
+        } else if (p.ph === "b" && p.x >= xD - 9) {
+          if (rnd() < M.cap[p.band]) { p.stuck = true; p.x = xD - 10 - rnd() * 4; tally.caught++; p.where = "disc"; } else { p.ph = "c"; p.passed = true; tally.passed++; p.x = xD + 9; }
+        } else if (p.ph === "c") { p.y += ((top + bot) / 2 - p.y) * Math.min(1, dt * 2.5); if (p.x > 930) p.gone = true; }
+        dot(p.x, p.y, p);
+      }
+      P = P.filter((p) => !p.gone && !(p.ph === "back" && p.x < 60));
+      const st = P.filter((p) => p.stuck); if (st.length > 200) P.splice(P.indexOf(st[0]), 1);
+      txt("SECTION, BOTTLE → PREFILTER → DISC → SPOUT (schematic, not to scale)", W / 2, 22, { a: "center", s: 11, w: 600 });
+      txt("from the bottle / tap", 70, top - 16, { s: 11.5 }); txt("prefilter cup, 20 µm", xPF, bot + 26, { a: "center", s: 12, c: INK, w: 600 });
+      txt(`disc ${M.cas} · ${M.casName}`, xD, bot + 26, { a: "center", s: 12, c: INK, w: 600 }); txt("spout", 885, (top + bot) / 2 - 18, { a: "center", s: 11.5 });
+      const ccD = countCap(M.cap, M.share);
+      counts(`model: disc ${pct(ccD)} by count · ${pct(M.cap[0])} at 1–2 µm`);
+      capEl.textContent = back ? "Backflush: reversed tap water lifts the disc cake and the prefilter catch and carries them out of the inlet into the dish." :
+        mode === "inspect" ? "Cassette out: the disc with its catch is the microscope slide." :
+        mode === "squeeze" && s.stalled ? "Stalled: with no air valve the dented bottle pulls a vacuum the wet disc will not let air through." :
+        mode === "squeeze" && !fwd ? (M.valve ? "Hand released: air comes back in through the valve so the bottle springs back for the next squeeze." : "Hand released: no valve, so the bottle stays dented.") :
+        `${mode === "tap" ? "On the tap" : "Squeezing"}: ${Lh.toFixed(1)} L/h. The prefilter keeps the big particles; the disc keeps almost all the rest.`;
+    };
+  }
+
+  /* ------------------------------------------------------------------ BOIL-LOOP MINI: the loop */
+  function blmScene() {
+    // route through the stations (schematic): jug → pump → exchanger (cold, heats up) → heater → boil coil → trap → exchanger (hot, cools) → body coil → cup
+    const R1 = [[70, 90], [70, 250], [150, 250], [150, 220], [460, 220], [520, 220], [560, 200], [600, 230], [640, 200], [680, 230], [720, 200], [760, 230], [800, 210]];
+    const TRAP = [800, 120];
+    const R2 = [[800, 120], [800, 100], [460, 100], [150, 100], [150, 70], [880, 70]];
+    const R1L = plen(R1), up = [[800, 210], [800, 120]], HEAT_D = plen(R1.slice(0, 6));
+    const STAND = [[800, 120], [800, 40], [70, 40], [70, 90]];
+    let P = [], acc = 0, puffs = [];
+    const tCol = (T) => mix("#2f6fae", "#d1491e", clamp((T - 25) / 75, 0, 1));
+    card.querySelector("[data-pv-legend]").innerHTML = `<span><i style="background:#E2531B;width:8px;height:8px"></i>microplastic</span><span><i style="background:#fff;border:2px solid #cfcabd;width:12px;height:12px"></i>lime crust growing on it</span><span><i class="pass"></i>passed the trap</span><span><i style="background:#9a978f;width:8px;height:8px"></i>caught in the lime trap</span>`;
+    return function frame(dt, M) {
+      const sim = M.sim, flowing = M.running && sim.flow > 0, gateOpen = sim.gate > 0.5, Q = M.inputs.Q;
+      const transit = (145 / (Q * 1000 / 60)) * 60 / Math.max(1, M.speed || 180);   // s of wall time for water to cross the cold side and boil coil
+      const v = (still ? 0 : 1) * (flowing ? clamp(1100 / transit, 60, 240) : 0);
+      if (flowing && P.length < 160) { acc += dt * Q * 1.4 * clamp((M.speed || 180) / 60, 1, 4); while (acc > 1) { acc -= 1; P.push({ band: 2, mp: true, d: 0, seg: "R1", crust: 0, age: 0 }); } }
+      ctx.clearRect(0, 0, W, H);
+      const line = (pts, col, w) => { ctx.strokeStyle = col; ctx.lineWidth = w; ctx.lineJoin = "round"; ctx.beginPath(); pts.forEach(([x, y], i) => (i ? ctx.lineTo(x, y) : ctx.moveTo(x, y))); ctx.stroke(); };
+      // pipes coloured by temperature
+      const Tin = sim.Tj ?? 25, Tcore = sim.core ?? 25, Tout = sim.out ?? 25, Thx = sim.hx ?? 25;
+      line(R1.slice(0, 4), tCol(Tin), 9); line(R1.slice(3, 6), tCol((Tin + Tcore) / 2), 9); line(R1.slice(5), tCol(Tcore), 9); line(up, tCol(Tcore), 9);
+      line(R2.slice(0, 3), tCol(Thx), 9); line(R2.slice(2, 5), tCol((Thx + Tout) / 2), 9); line(R2.slice(4), tCol(Tout), 9);
+      if (!gateOpen) { ctx.setLineDash([5, 5]); line(STAND, tCol(Tcore), 4); ctx.setLineDash([]); }
+      // jug, heater, trap, cup
+      ctx.fillStyle = WATER; ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.fillRect(40, 60, 60, 40 * clamp(sim.Mj / 0.528, 0.05, 1) + 10); ctx.strokeRect(40, 50, 60, 60);
+      ctx.fillStyle = "#E9A07F"; ctx.fillRect(470, 205, 40, 30); ctx.strokeRect(470, 205, 40, 30);
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(782, 106, 36, 28); ctx.strokeRect(782, 106, 36, 28); ctx.setLineDash([2, 2]); ctx.beginPath(); ctx.moveTo(784, 120); ctx.lineTo(816, 120); ctx.stroke(); ctx.setLineDash([]);
+      ctx.fillStyle = WATER; ctx.fillRect(880, 60, 50, 10 + 40 * clamp(M.cupFrac, 0, 1)); ctx.strokeRect(880, 50, 50, 60);
+      // steam / CO2 puffs at the vent while boiling
+      if (Tcore > 98 && flowing && rnd() < dt * 6) puffs.push({ x: 820 + rnd() * 10, y: 196, a: 0 });
+      puffs.forEach((p) => { p.a += dt; p.y -= 30 * dt; ctx.globalAlpha = Math.max(0, 0.5 - p.a * 0.25); ctx.fillStyle = "#BFBDB6"; ctx.beginPath(); ctx.arc(p.x + p.a * 10, p.y, 4 + p.a * 4, 0, TAU); ctx.fill(); ctx.globalAlpha = 1; });
+      puffs = puffs.filter((p) => p.a < 2);
+      for (const p of P) {
+        p.age += dt;
+        if (p.stuck) { ctx.fillStyle = "#9a978f"; ctx.beginPath(); ctx.arc(p.x, p.y, 3.4, 0, TAU); ctx.fill(); continue; }
+        if (flowing) p.d += v * dt;
+        let pos;
+        if (p.seg === "R1") { pos = along(R1, p.d); if (p.d > HEAT_D && Tcore > 97) p.crust = Math.min(1, p.crust + dt * 0.5 * M.limeK); if (p.d >= R1L) { p.seg = "UP"; p.d = 0; } }
+        else if (p.seg === "UP") { pos = along(up, p.d); if (p.d >= 90) { p.d = 0;
+          if (!gateOpen) p.seg = "ST";
+          else if (rnd() < M.rem) { p.stuck = true; p.x = 788 + rnd() * 24; p.y = 114 + rnd() * 4; tally.caught++; continue; }
+          else { p.seg = "R2"; p.passed = true; tally.passed++; } } }
+        else if (p.seg === "ST") { pos = along(STAND, p.d); if (p.d >= plen(STAND)) { p.seg = "R1"; p.d = 0; } }
+        else { pos = along(R2, p.d); if (p.d >= plen(R2)) p.gone = true; }
+        p.x = pos[0]; p.y = pos[1];
+        if (p.crust > 0.02) { ctx.fillStyle = "#fff"; ctx.strokeStyle = "#cfcabd"; ctx.lineWidth = 1; ctx.beginPath(); ctx.arc(p.x, p.y, 2.2 + 3.2 * p.crust, 0, TAU); ctx.fill(); ctx.stroke(); }
+        dot(p.x, p.y, p);
+      }
+      P = P.filter((p) => !p.gone); const st = P.filter((p) => p.stuck); if (st.length > 60) P.splice(P.indexOf(st[0]), 1);
+      txt("jug", 106, 84, { s: 11.5 }); txt("pump", 150, 272, { a: "center", s: 11.5 }); txt("exchanger, cold side: heats to ~95 °C", 300, 244, { a: "center", s: 11.5 });
+      txt("60 W heater", 490, 256, { a: "center", s: 11.5 }); txt("boil coil: ~3 min at the boil, lime forms", 680, 256, { a: "center", s: 11.5, c: INK });
+      txt("lime trap 25 µm", 760, 150, { a: "right", s: 11.5, c: INK }); txt("exchanger, hot side: cools to ~29 °C", 470, 92, { a: "center", s: 11.5 });
+      txt("body coil", 300, 62, { a: "center", s: 11.5 }); txt("cup", 905, 128, { a: "center", s: 11.5 });
+      if (!gateOpen) txt("wax gate shut below 95 °C: water returns to the jug through the standpipe", 430, 32, { a: "center", s: 11.5, c: "#9A6510", w: 600 });
+      txt("LOOP SCHEMATIC, PIPES COLOURED BY TEMPERATURE (not to scale)", W / 2, 306, { a: "center", s: 11, w: 600 });
+      counts(`model: ${pct(M.rem)} removed at ${M.inputs.H} mg/L hardness`);
+      capEl.textContent = !M.running ? "Paused. Press Run (or Space) to start the loop." : !gateOpen ? `Warming up (core ${Math.round(Tcore)} °C): no water reaches the cup until the boil coil is hot enough.` :
+        `Producing at ${Q.toFixed(1)} L/h: lime crystals form on the particles in the boil coil; the crusted ones stick in the 25 µm trap.`;
+    };
+  }
+
+  const make = { spin: spinScene, sq1: sq1Scene, sq2: sq2Scene, blm: blmScene }[SCENE];
+  const frame = make();
+  let last = 0, kickAt = 0, visible = false;
+  new IntersectionObserver((e) => { visible = e[e.length - 1].isIntersecting; if (visible) requestAnimationFrame(loop); }, { rootMargin: "60px 0px" }).observe(card);
+  function loop(now) {
+    const dt = last ? Math.min(0.05, (now - last) / 1000) : 1 / 60; last = now;
+    if (window.__mpx) frame(dt, window.__mpx);
+    if (now - kickAt > 500 && window.__mpxKick) { window.__mpxKick(); kickAt = now; }
+    if (visible) requestAnimationFrame(loop); else last = 0;
+  }
+})();
+</script>

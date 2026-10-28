@@ -113,7 +113,42 @@
 body{margin:0;background:var(--page);color:var(--anatomy-text);font:14px/1.6 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
 .iso-page{width:min(900px,100% - 32px);margin:64px auto 96px}
 </style>
-<div class="iso" data-theme="light"><main class="iso-page"><style>.sq{--water:#7fb2d9;--dirt:#8a6a3c;--cake:#a07a42;--ok:#2f8f5b;--bad:#c2412d;--lcd:#1d2a22;--lcd-t:#9fe0b0;--screen:#0e1418;--field:#e9eef0;--mp:#c2412d;--glass-a:.38}
+<div class="iso" data-theme="light"><main class="iso-page"><style>
+.mx{--mx-ink:var(--anatomy-strong,#1B1B19);--mx-text:var(--anatomy-text,#3d3c38);--mx-muted:var(--anatomy-muted,#6A6963);--mx-card:var(--anatomy-card,#fff);--mx-line:rgba(27,27,25,.12);--mx-acc:#E2531B;font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif}
+.mx-sum{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin:0 0 14px}
+.mx-sum>div{background:var(--mx-card);border-radius:8px;padding:10px 12px;box-shadow:var(--anatomy-lift,0 1px 2px rgba(0,0,0,.08));font-size:12.5px;line-height:1.45;color:var(--mx-text)}
+.mx-sum b.k{display:flex;align-items:center;gap:6px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--mx-acc);margin-bottom:4px}
+.mx-sum b.k{white-space:nowrap}.mx-sum b.k .n{flex:0 0 18px;display:grid;place-items:center;width:18px;height:18px;border-radius:50%;background:var(--mx-acc);color:#fff;font-size:10.5px;letter-spacing:0;line-height:1}
+.mx-sum-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin:0 0 8px;flex-wrap:wrap}
+.mx-sum-h h2{margin:0;font-size:15px;color:var(--mx-ink);font-weight:650}
+.mx-sum-h a{font-size:12.5px;color:var(--mx-acc)}
+@media (max-width:900px){.mx-sum{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){.mx-sum{grid-template-columns:1fr}}
+.mx-pv{background:var(--mx-card);border-radius:8px;box-shadow:var(--anatomy-lift,0 1px 2px rgba(0,0,0,.08));padding:10px 12px 12px;margin:10px 0}
+.mx-pv-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:6px}
+.mx-pv-h b{font-size:13.5px;color:var(--mx-ink)}
+.mx-pv-h span{font-size:12px;color:var(--mx-muted)}
+.mx-pv canvas{display:block;width:100%;aspect-ratio:960/320;background:#fff;border-radius:6px}
+.mx-pv-cap{font-size:13px;color:var(--mx-text);margin:8px 0 4px;min-height:1.4em}
+.mx-pv-cnt{font-size:12.5px;color:var(--mx-ink);font-variant-numeric:tabular-nums}
+.mx-pv-cnt span{color:var(--mx-muted)}
+.mx-lg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--mx-muted);margin-top:6px;align-items:center}
+.mx-lg i{display:inline-block;border-radius:50%;vertical-align:middle;margin-right:5px}
+.mx-lg i.pass{width:12px;height:12px;border:2px solid #BE3328;background:transparent}
+.mx-lg i.hollow{width:10px;height:10px;border:1.5px solid #6A6963;background:#fff}
+.mx-gcap{font-size:12px;line-height:1.45;color:var(--mx-text);border-top:1px dashed var(--mx-line);margin-top:8px;padding-top:7px}
+.mx-gcap b{color:var(--mx-ink)}
+.mx-full{margin:26px 0 10px;background:var(--mx-card);border-radius:10px;box-shadow:var(--anatomy-lift,0 1px 2px rgba(0,0,0,.08));padding:18px 20px;color:var(--mx-text);font-size:14px;line-height:1.55}
+.mx-full h2{font-size:19px;margin:0 0 4px;color:var(--mx-ink)}
+.mx-full h3{display:flex;align-items:center;gap:8px;font-size:14px;margin:18px 0 6px;color:var(--mx-ink);text-transform:uppercase;letter-spacing:.05em}
+.mx-full h3 .n{flex:0 0 22px;font-style:normal;display:grid;place-items:center;width:22px;height:22px;border-radius:50%;background:var(--mx-acc);color:#fff;font-size:12px;letter-spacing:0}
+.mx-full p{margin:0 0 8px}.mx-full ul{margin:0 0 8px;padding-left:20px}.mx-full li{margin:3px 0}
+.mx-full b{color:var(--mx-ink)}
+.mx-full table{border-collapse:collapse;width:100%;font-size:13px;margin-top:4px}
+.mx-full td,.mx-full th{border-bottom:1px solid var(--mx-line);padding:7px 8px;text-align:left;vertical-align:top}
+.mx-full th{font-size:11.5px;text-transform:uppercase;letter-spacing:.04em;color:var(--mx-muted)}
+.mx-sw{background:#F6F5F1;border-radius:8px;padding:10px 12px;margin-top:6px}
+</style><section class="mx" aria-label="Findings summary"><div class="mx-sum-h"><h2>MPx Squeeze v2 · test bench · findings in five steps</h2><a href="#mx-findings">Full findings, software and what each graph shows ↓</a></div><div class="mx-sum"><div><b class="k"><span class="n">1</span>What</b>A cap with a 20 µm steel prefilter and a removable ~1 µm sintered steel disc. Tests: two-stage all-steel filtering by hand squeeze, with the disc as the microscope slide.</div><div><b class="k"><span class="n">2</span>Why</b>v1 worked but was long, clogged in ~26 L and hard to inspect. We needed force per cassette, clogging and backflush, bottle refilling, and visibility on steel.</div><div><b class="k"><span class="n">3</span>How</b>Physics model: hand pressure → flow through prefilter + cake + disc in series, bottle vacuum vs the wet disc&#x27;s bubble point, capture curves per stage.</div><div><b class="k"><span class="n">4</span>Results</b>Cassette A: 15.6 L/h at 58 N; 99.5 % caught (99.0 % at 1–2 µm); flow halves after 2.2 L; backflush recovers ~97 %; no air valve = stalls.</div><div><b class="k"><span class="n">5</span>So what</b>Keep cassette A and the valve; filter life is the weak point → bigger prefilter share, Ø44 disc, routine backflush; bench tests 1–7 replace the assumptions.</div></div></section><style>.sq{--water:#7fb2d9;--dirt:#8a6a3c;--cake:#a07a42;--ok:#2f8f5b;--bad:#c2412d;--lcd:#1d2a22;--lcd-t:#9fe0b0;--screen:#0e1418;--field:#e9eef0;--mp:#c2412d;--glass-a:.38}
 .iso[data-theme="dark"] .sq{--water:#3d6f99;--dirt:#c9a46a;--cake:#c9a46a;--ok:#4cc38a;--bad:#ff7a5c;--lcd:#0c120e;--lcd-t:#7fd39a;--screen:#05080a;--field:#20282c;--mp:#ff8a66}
 .sq .iso-plate{padding:52px 20px 44px}
 .sq-stage{position:relative;outline:none;touch-action:pan-y}
@@ -268,11 +303,11 @@ body{margin:0;background:var(--page);color:var(--anatomy-text);font:14px/1.6 ui-
 <label class="sq-slider"><span>Cake resistance</span><input id="in-alphaLog" type="range" min="12" max="14" step="0.1" value="13" data-in="alphaLog"><b data-out="alphaLog">1.0e13 m/kg</b></label>
 <label class="sq-slider"><span>Prefilter share of solids</span><input id="in-pfCut" type="range" min="0" max="80" step="5" value="40" data-in="pfCut"><b data-out="pfCut">40 %</b></label>
 <label class="sq-slider"><span>Microplastics</span><input id="in-mpLog" type="range" min="2" max="4" step="0.1" value="3" data-in="mpLog"><b data-out="mpLog">1,000 /L</b></label>
-</div></details><div class="sq-grid sq-eq"><div class="sq-card"><div class="sq-h">Force needed for flow</div><svg class="sq-chart" viewBox="0 0 340 220" data-part="chart" role="img" aria-label="Filtered flow against hand force for cassettes A, B and C"></svg><div class="sq-note" data-part="chart-note"></div></div>
-<div class="sq-card"><div class="sq-h">Flow as the disc loads</div><svg class="sq-chart" viewBox="0 0 340 220" data-part="chart2" role="img" aria-label="Flow at the set force against litres filtered, with backflushes"></svg><div class="sq-note" data-part="chart2-note"></div></div></div>
+</div></details><section class="mx mx-pv" data-scene="sq2"><div class="mx-pv-h"><b>Particle view · live</b><span>section: prefilter → disc → spout · driven by the same model as the drawing · change the controls above and watch</span></div><canvas aria-label="Animated microplastic particles moving through the filter"></canvas><div class="mx-pv-cap" data-pv-cap></div><div class="mx-pv-cnt" data-pv-cnt></div><div class="mx-lg" data-pv-legend></div></section><div class="sq-grid sq-eq"><div class="sq-card"><div class="sq-h">Force needed for flow</div><div class="mx mx-gcap" style="border-top:0;margin:0 0 8px;padding-top:0"><b>What it shows:</b> Flow (L/min) against hand force, for the chosen cassette clean, with today&#x27;s cake, and for the other cassettes. <b>What it achieves:</b> Picks the cassette: only A reaches 15 L/h under 60 N.</div><svg class="sq-chart" viewBox="0 0 340 220" data-part="chart" role="img" aria-label="Filtered flow against hand force for cassettes A, B and C"></svg><div class="sq-note" data-part="chart-note"></div></div>
+<div class="sq-card"><div class="sq-h">Flow as the disc loads</div><div class="mx mx-gcap" style="border-top:0;margin:0 0 8px;padding-top:0"><b>What it shows:</b> Flow at your hand force against litres filtered: measured so far, projected ahead, and the jumps back up after each backflush. <b>What it achieves:</b> Shows filter life and how often to backflush.</div><svg class="sq-chart" viewBox="0 0 340 220" data-part="chart2" role="img" aria-label="Flow at the set force against litres filtered, with backflushes"></svg><div class="sq-note" data-part="chart2-note"></div></div></div>
 <div class="sq-card"><div class="sq-h" data-part="mode-h">A · Squeeze</div><div class="sq-split2"><div class="sq-explain" data-part="explain"></div><table class="sq-bands" data-part="bands"></table></div></div>
 <div class="sq-card"><div class="sq-h">Critical requirements, live</div><table class="sq-req" data-part="req"></table></div>
-<div class="sq-card"><div class="sq-h">Phone microscope</div><div class="sq-split"><div class="sq-split-main"><div class="sq-tabs"><button type="button" class="sq-tab" data-view="disc" data-on>Disc in holder (1–20 µm)</button><button type="button" class="sq-tab" data-view="dish">Backflush dish (prefilter catch + cake)</button></div><div class="sq-explain" data-part="scope-text"></div></div><figure class="sq-scope"><svg viewBox="0 0 200 200" data-part="scope-big" role="img" aria-label="Phone microscope view"></svg><figcaption data-part="scope-cap"></figcaption></figure></div></div><span class="iso-caption">Every number comes from the model that moves the drawing. Hand force becomes bottle pressure as (force − wall stiffness) ÷ palm contact, plus the water column; water viscosity follows temperature. Flow is Darcy's law through the prefilter, the cake and the disc in series (disc media from Mott KL; the asymmetric disc A taken at 13 KL·mm, 3× a standard 1.5 mm grade-0.2 disc). Each squeeze can push out at most 30 % of the bottle before the hand closes; without a valve the bottle keeps its dent and pulls 0.6 bar of vacuum per unit of volume lost, because the wet disc needs about 2.9 bar before air can pass it. Capture by size follows a sharp curve around each rating; microplastics are counted at the set concentration (1–100 µm, count ∝ size⁻²). Grey sintered steel hides particles under about 20 µm in white light; Nile red makes plastic glow so the lens limit applies. The values under "Assumptions to measure" are the ones bench tests 1–3 replace.</span></figcaption></figure></main></div>
+<div class="sq-card"><div class="sq-h">Phone microscope</div><div class="mx mx-gcap" style="border-top:0;margin:0 0 8px;padding-top:0"><b>What it shows:</b> A field of the disc (or the dish after backflush) at the chosen lens, stained or not. <b>What it achieves:</b> Shows what a phone lens can actually count on steel.</div><div class="sq-split"><div class="sq-split-main"><div class="sq-tabs"><button type="button" class="sq-tab" data-view="disc" data-on>Disc in holder (1–20 µm)</button><button type="button" class="sq-tab" data-view="dish">Backflush dish (prefilter catch + cake)</button></div><div class="sq-explain" data-part="scope-text"></div></div><figure class="sq-scope"><svg viewBox="0 0 200 200" data-part="scope-big" role="img" aria-label="Phone microscope view"></svg><figcaption data-part="scope-cap"></figcaption></figure></div></div><span class="iso-caption">Every number comes from the model that moves the drawing. Hand force becomes bottle pressure as (force − wall stiffness) ÷ palm contact, plus the water column; water viscosity follows temperature. Flow is Darcy's law through the prefilter, the cake and the disc in series (disc media from Mott KL; the asymmetric disc A taken at 13 KL·mm, 3× a standard 1.5 mm grade-0.2 disc). Each squeeze can push out at most 30 % of the bottle before the hand closes; without a valve the bottle keeps its dent and pulls 0.6 bar of vacuum per unit of volume lost, because the wet disc needs about 2.9 bar before air can pass it. Capture by size follows a sharp curve around each rating; microplastics are counted at the set concentration (1–100 µm, count ∝ size⁻²). Grey sintered steel hides particles under about 20 µm in white light; Nile red makes plastic glow so the lens limit applies. The values under "Assumptions to measure" are the ones bench tests 1–3 replace.</span></figcaption></figure><section class="mx mx-full" id="mx-findings"><h2>Findings · MPx Squeeze v2 · test bench</h2><p style="color:var(--mx-muted)">What we tested, why, how, what we found and what we did with it.</p><h3><span class="n">1</span>What · the product and the principle tested</h3><p><b>MPx Squeeze v2</b> screws onto any PET bottle (or a tap). Water passes a built-in <b>20 µm steel prefilter cup</b>, then a removable <b>Ø40 sintered 316L disc</b> (cassette A, asymmetric, about 1 µm), and leaves through a push-pull spout. After use the cassette lifts out flat and the disc is the microscope slide.</p><p><b>Principle tested:</b> two-stage, all-steel filtration driven only by a hand squeeze, with the catch kept on a flat surface that a phone lens can read.</p><h3><span class="n">2</span>Why · the reason to simulate it</h3><p>Squeeze v1 showed the physics work, but its tube was long, clogged after about 26 L and was awkward to inspect. Before ordering custom asymmetric discs we needed to know:</p><ul><li>the force needed for 15 L/h with each cassette,</li><li>how fast the disc clogs and how much backflushing gives back,</li><li>whether the bottle refills with air between squeezes (a wet fine disc will not let air through),</li><li>whether particles can be seen on grey steel with a phone lens.</li></ul><h3><span class="n">3</span>How · method, equipment, variables and constraints</h3><p><b>Simulation.</b> Hand force becomes bottle pressure (palm contact 34 cm², bottle stiffness, water column); water viscosity follows temperature. Flow follows <b>Darcy's law</b> through the prefilter, the cake and the disc in series (disc permeability from Mott's KL data; the asymmetric disc A taken at 13 KL·mm). One squeeze can push out at most 30 % of the bottle. Without a valve the dented bottle pulls a vacuum (0.6 bar per unit volume lost), and air cannot get back through the wet disc until about 2.9 bar (its bubble point). Each stage catches particles along its own capture curve; the prefilter is assumed to take 40 % of the solids; 1,000 microplastics per litre.</p><p><b>Variables:</b> hand force, tap pressure, water temperature, cassette A/B/C, bottle size, water type, air valve on/off, lens, Nile red stain, and four assumptions you can edit (palm contact, cake resistance, prefilter share, particles per litre). <b>Constraints:</b> Ø52 × 50 mm outside the bottle, 38.5 mm active disc, target ≤ 60 N for 15 L/h, 316L and silicone only in the water path.</p><h3><span class="n">4</span>Results</h3><ul><li><b>Cassette A: 15.6 L/h at 58 N.</b> Cassette B (standard grade 0.2) needs 181 N; cassette C is easy to squeeze but lets 65 % of 1–2 µm particles through.</li><li>Catches <b>99.5 %</b> of microplastics by count, <b>99.0 %</b> at 1–2 µm.</li><li>Flow <b>halves after 2.2 L</b> of tap water; a 10–20 s tap backflush brings back about <b>97 %</b>.</li><li><b>Without the air valve the bottle stalls after about one squeeze.</b> On a tap at 1.5 bar: 132 L/h. At 5 °C flow drops 41 %.</li></ul><h3><span class="n">5</span>So what · what we did with the results</h3><ul><li>Keep cassette A and the air valve.</li><li>Filter life is the weak point: test a prefilter that takes more of the solids (90 % → 13 L before flow halves), a Ø44 disc, and backflushing as a routine; add an end-of-life cue.</li><li>The force (58 N) is just above the 50 N wish. Bench tests 1–7 measure palm contact, cake resistance and prefilter share to replace the assumptions.</li></ul><h3><span class="n">⚙</span>Software and method</h3><div class="mx-sw">Our own physics model, written in <b>JavaScript</b> (model.mjs) and run live in your browser; the drawing, charts and requirement checks are all computed from it. <b>No MATLAB, COMSOL, ANSYS or CFD</b> was used: the model is first-principles equations solved step by step in code. Where a number could not be calculated, it is an assumption the bench labels, and a physical bench test is planned to replace it.</div><h3><span class="n">▤</span>What each graph and panel shows</h3><table><thead><tr><th>Graph / panel</th><th>What it shows</th><th>What it achieves</th></tr></thead><tbody><tr><td><b>Force needed for flow</b></td><td>Flow (L/min) against hand force, for the chosen cassette clean, with today&#x27;s cake, and for the other cassettes.</td><td>Picks the cassette: only A reaches 15 L/h under 60 N.</td></tr><tr><td><b>Flow as the disc loads</b></td><td>Flow at your hand force against litres filtered: measured so far, projected ahead, and the jumps back up after each backflush.</td><td>Shows filter life and how often to backflush.</td></tr><tr><td><b>Requirements, live</b></td><td>The critical requirements recomputed for the current settings.</td><td>Pass / fail against our targets.</td></tr><tr><td><b>Phone microscope</b></td><td>A field of the disc (or the dish after backflush) at the chosen lens, stained or not.</td><td>Shows what a phone lens can actually count on steel.</td></tr></tbody></table><p style="margin-top:10px;color:var(--mx-muted);font-size:12.5px">The particle view shows a sample of dots, not every particle; whether each dot is caught uses the model's capture for its size band, so over many dots the share matches the model.</p></section></main></div>
 <script type="module">const AZIMUTH = 45;
 const ELEVATION = 30;
 const SHADES = 4;
@@ -1523,6 +1558,7 @@ function settle(o, target, dt, T, calm) {
 // ---------------- loop ----------------
 let frame = 0, last = 0, visible = false, chartAt = 0;
 function tick(now) {
+  window.__mpx = { mode, s, cap: bandCapture(CASSETTES[inp.cas]), pf: bandCapture(PREFILTER), share: bandShare(), cas: inp.cas, casName: CASSETTES[inp.cas].label.split(" · ")[1], valve: inp.valve, speed: inp.speed };
   const dt = last ? Math.min((now - last) / 1000, 1 / 20) : 1 / 60; last = now;
   const calm = still.matches, Tg = TARGETS[mode];
   for (const k of ["bottle", "tap", "tapf", "tapb", "beaker", "base", "cas"]) {
@@ -1553,6 +1589,340 @@ function tick(now) {
 }
 function kick() { if (!frame && visible) { last = 0; frame = requestAnimationFrame(tick); } }
 new IntersectionObserver((e) => { visible = e[e.length - 1].isIntersecting; if (visible) kick(); }, { rootMargin: "120px 0px" }).observe(stage);
+window.__mpxKick = () => { if (!visible) { visible = true; kick(); } };
 s.hist.push([0, qAt(inp.F)]);
 draw(0); chart(); words(true);
+</script>
+<script>/* MPx — live particle view. Reads the bench model's state from window.__mpx (set on every frame
+   by the bench's own loop) and animates microplastic particles through the filtering stage:
+   each one is caught or passes with the probability the model gives for its size band. Schematic, not to scale. */
+(function () {
+  "use strict";
+  const TAU = Math.PI * 2;
+  const card = document.querySelector(".mx-pv");
+  if (!card) return;
+  const cv = card.querySelector("canvas"), ctx = cv.getContext("2d");
+  const capEl = card.querySelector("[data-pv-cap]"), cntEl = card.querySelector("[data-pv-cnt]");
+  const SCENE = card.dataset.scene;
+  const W = 960, H = 320;
+  const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const BAND = ["1–2 µm", "2–5 µm", "5–20 µm", "20–100 µm"];
+  const BC = ["#E2531B", "#C9902A", "#2F5E8C", "#7A4FB0"];
+  const BR = [1.9, 2.6, 3.4, 4.6];
+  const INK = "#1B1B19", MUTED = "#6A6963", LINE = "#C9C7BF", WATER = "#D7E8F5", WATER2 = "#BCD8EE", STEEL = "#8E8C86", RED = "#BE3328", GREEN = "#23784A";
+  let scale = 1;
+  function resize() {
+    const w = cv.clientWidth || 960, dpr = Math.min(2, window.devicePixelRatio || 1);
+    scale = w / W; cv.width = Math.round(w * dpr); cv.height = Math.round(H * scale * dpr);
+    ctx.setTransform(dpr * scale, 0, 0, dpr * scale, 0, 0);
+  }
+  resize(); window.addEventListener("resize", resize);
+  let seed = 7; const rnd = () => ((seed = (seed * 16807) % 2147483647) / 2147483647);
+  const pickBand = (share) => { let u = rnd(), i = 0; for (; i < 3; i++) { if (u < share[i]) break; u -= share[i]; } return i; };
+  const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+  const txt = (t, x, y, o = {}) => { ctx.font = `${o.w || 500} ${o.s || 12}px Inter, system-ui, sans-serif`; ctx.fillStyle = o.c || MUTED; ctx.textAlign = o.a || "left"; ctx.textBaseline = o.b || "alphabetic"; ctx.fillText(t, x, y); };
+  const dot = (x, y, p, alpha = 1) => {
+    ctx.globalAlpha = alpha; ctx.beginPath(); ctx.arc(x, y, BR[p.band], 0, TAU);
+    if (p.hollow) { ctx.lineWidth = 1.3; ctx.strokeStyle = BC[p.band]; ctx.fillStyle = "#fff"; ctx.fill(); ctx.stroke(); }
+    else { const c0 = p.mp ? "#E2531B" : BC[p.band]; ctx.fillStyle = p.stuck ? mix(c0, "#9a978f", Math.min(1, p.age / 8)) : c0; ctx.fill(); }
+    if (p.passed) { ctx.lineWidth = 1.4; ctx.strokeStyle = RED; ctx.beginPath(); ctx.arc(x, y, BR[p.band] + 2.6, 0, TAU); ctx.stroke(); }
+    ctx.globalAlpha = 1;
+  };
+  const hex = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
+  const mix = (a, b, t) => { const A = hex(a), B = hex(b); return `rgb(${A.map((v, i) => Math.round(v + (B[i] - v) * t)).join(",")})`; };
+  const tally = { caught: 0, passed: 0, byBand: [[0, 0], [0, 0], [0, 0], [0, 0]] };
+  function legend(extra) {
+    let h = BAND.map((b, i) => `<span><i style="background:${BC[i]};width:${BR[i] * 2 + 2}px;height:${BR[i] * 2 + 2}px"></i>${b}</span>`).join("");
+    h += `<span><i class="pass"></i>passed the filter</span>` + (extra || "");
+    card.querySelector("[data-pv-legend]").innerHTML = h;
+  }
+  function counts(modelLine) {
+    const n = tally.caught + tally.passed;
+    cntEl.innerHTML = `<b>${tally.caught}</b> caught · <b>${tally.passed}</b> passed${n ? ` (${Math.round(100 * tally.caught / n)} % of the dots shown)` : ""}${modelLine ? ` · <span>${modelLine}</span>` : ""}`;
+  }
+  const pct = (x) => (x >= 0.995 ? (x * 100).toFixed(1) : (x * 100).toFixed(0)) + " %";
+  const countCap = (cap, share) => cap.reduce((a, c, i) => a + c * share[i], 0);
+
+  /* ------------------------------------------------------------------ SPIN: top view of the basket */
+  function spinScene() {
+    const cx = 330, cy = 160, RS = 112, RB = 146, RMESH = 118;
+    const POLY = [["PE", 940, 0.3, true], ["PP", 905, 0.2, true], ["PS", 1050, 0.1, false], ["PA", 1140, 0.1, false], ["PET", 1380, 0.2, false], ["PVC", 1390, 0.1, false]];
+    const pickPoly = () => { let u = rnd(); for (const p of POLY) { if (u < p[2]) return p; u -= p[2]; } return POLY[4]; };
+    let P = [], rotW = 0, rotB = 0, spawnAcc = 0;
+    legend(`<span><i class="hollow"></i>lighter than water (PE, PP)</span>`);
+    return function frame(dt, M) {
+      const s = M.s, mode = M.mode, ww = s.ww || 0, wb = s.wb || 0, spinning = wb > 2;
+      const Vmax = Math.PI * M.R * M.R * M.H, fill = clamp((s.V || 0) / Vmax, 0, 1);
+      const sf = s.sf || { k: 0 }; const rInM = sf.k > 1e-9 ? Math.sqrt(Math.max(0, (M.H / 2 - sf.z0) / sf.k)) : 0;
+      const rIn = spinning ? clamp(RS * rInM / M.R, 0, RS - 4) : 0;
+      rotW += (still ? 0 : 1) * ww * dt * 0.012; rotB += (still ? 0 : 1) * wb * dt * 0.012;
+      const Q = s.Q || 0;                                              // m³/s through the wall
+      // spawn: during the pour particles arrive with the water; rate ∝ volume poured (a sample, not every particle)
+      if (mode !== "inspect") {
+        const pourRate = s.phase === "pour" ? 40e-6 : 0;
+        spawnAcc += dt * M.speed * pourRate * 1e6 * 0.1;
+        while (spawnAcc > 1 && P.length < 260) {
+          spawnAcc -= 1; const pol = pickPoly();
+          P.push({ r: rnd() * 12, a: rnd() * TAU, band: pickBand(M.share), rho: pol[1], hollow: pol[3], name: pol[0], age: 0 });
+        }
+      }
+      ctx.clearRect(0, 0, W, H);
+      // bowl, mesh, sleeve, water
+      ctx.fillStyle = "#F6F5F1"; ctx.beginPath(); ctx.arc(cx, cy, RB + 8, 0, TAU); ctx.fill();
+      ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.beginPath(); ctx.arc(cx, cy, RB + 8, 0, TAU); ctx.stroke();
+      if (mode !== "inspect") {
+        ctx.fillStyle = spinning ? WATER : WATER2;
+        ctx.beginPath(); ctx.arc(cx, cy, RS, 0, TAU); if (rIn > 0) ctx.arc(cx, cy, rIn, 0, TAU, true);
+        if (fill > 0.002 || s.phase === "pour") ctx.fill("evenodd");
+      }
+      ctx.strokeStyle = "#D9A87F"; ctx.lineWidth = 5; ctx.beginPath(); ctx.arc(cx, cy, RS + 2.5, 0, TAU); ctx.stroke();       // paper sleeve
+      ctx.setLineDash([2, 3]); ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.beginPath(); ctx.arc(cx, cy, RMESH + 1, 0, TAU); ctx.stroke(); ctx.setLineDash([]);
+      // vanes, turning with the basket
+      if (M.ei.vanes && mode !== "inspect") { ctx.strokeStyle = "#A9A79F"; ctx.lineWidth = 3; for (let i = 0; i < 4; i++) { const a = rotB + i * Math.PI / 2; ctx.beginPath(); ctx.moveTo(cx + Math.cos(a) * 70, cy + Math.sin(a) * 70); ctx.lineTo(cx + Math.cos(a) * (RS - 4), cy + Math.sin(a) * (RS - 4)); ctx.stroke(); } }
+      // particles
+      const vThroughAt = (rpx) => { const r = (rpx / RS) * M.R; return Q / (2 * Math.PI * r * M.H); };
+      for (const p of P) {
+        p.age += dt;
+        if (p.stuck) { const a = p.a + rotB; dot(cx + Math.cos(a) * p.r, cy + Math.sin(a) * p.r, p); continue; }
+        if (p.passed) { p.r += 70 * dt; dot(cx + Math.cos(p.a + rotW) * p.r, cy + Math.sin(p.a + rotW) * p.r, p, clamp((RB + 6 - p.r) / 20, 0, 1)); continue; }
+        const rm = Math.max(1e-4, (p.r / RS) * M.R);
+        let v = 0;                                                     // m/s, outward positive
+        if (spinning && s.phase !== "pour" || fill > 0.01) v = vThroughAt(Math.max(p.r, 8)) + M.drift(p.rho, [1.4, 3.2, 10, 45][p.band], ww, rm, M.ei.T);
+        else if (s.phase === "pour") v = 0.004;
+        if (s.phase === "done" || s.phase === "stop") v = Math.max(v, 0.01);           // the last water carries everything onto the paper
+        let vis = clamp(v * 60000, -60, 220) * (still ? 0 : 1) * Math.min(2, M.speed / 2);
+        if (p.r < rIn && vis < 25) vis = 25;                           // still falling in from the chute
+        p.r += vis * dt;
+        if (p.r < rIn + 1 && spinning && v < 0) p.r = rIn + 1 + rnd();  // floats at the inner free surface
+        if (p.r >= RS) {
+          if (rnd() < M.cap[p.band]) { p.stuck = true; p.r = RS + 1 + rnd() * 3; p.a = p.a + rotW - rotB; p.age = 0; tally.caught++; }
+          else { p.passed = true; tally.passed++; }
+        }
+        dot(cx + Math.cos(p.a + rotW) * p.r, cy + Math.sin(p.a + rotW) * p.r, p);
+      }
+      P = P.filter((p) => !(p.passed && p.r > RB + 8));
+      const stuck = P.filter((p) => p.stuck); if (stuck.length > 180) P.splice(P.indexOf(stuck[0]), 1);
+      // labels
+      txt("TOP VIEW OF THE BASKET (not to scale)", cx, 18, { a: "center", s: 11, w: 600 });
+      txt("paper sleeve", cx + RS * 0.72 + 10, cy - RS * 0.72 - 4, { s: 11.5, c: "#9A6510" });
+      txt("50 µm steel mesh (dotted)", cx - RB - 12, cy + RB + 2, { s: 11.5 });
+      txt("bowl", cx - RB - 2, cy - RB + 18, { s: 11.5 });
+      if (mode === "inspect") txt("sleeve lifted out: the caught particles stay on the paper", cx, cy + 4, { a: "center", s: 13, c: INK, w: 600 });
+      // explanation column
+      const x0 = 520; const cc = countCap(M.cap, M.share);
+      txt(mode === "rig" ? "A · the experiment's rig" : mode === "inspect" ? "C · sleeve out" : "B · MPx Spin v1", x0, 46, { s: 15, c: INK, w: 650 });
+      const lines = [
+        `Basket ${Math.round(wb * 60 / TAU).toLocaleString()} rpm · water ${Math.round(ww * 60 / TAU).toLocaleString()} rpm · ${s.phase || ""}`,
+        `Paper ${M.paperName}: catches ${pct(M.cap[0])} at 1–2 µm, ${pct(M.cap[1])} at 2–5 µm`,
+        `By count, 1–100 µm: ${pct(cc)} stays on the sleeve`,
+        "",
+        "Spinning presses the water outward through the paper.",
+        "Particles ride the water to the sleeve: most stick (grey",
+        "with age), a few pass and are flung into the bowl (red ring).",
+        "Hollow dots are PE/PP: lighter than water, they drift",
+        "inward against the flow and wait at the water surface",
+        "until the last of the batch carries them onto the paper.",
+      ];
+      lines.forEach((l, i) => txt(l, x0, 72 + i * 21, { s: i < 3 ? 13 : 12.5, c: i < 3 ? INK : MUTED, w: i < 3 ? 550 : 450 }));
+      counts(`model: ${pct(cc)} by count`);
+      capEl.textContent = mode === "rig" ? "The rig's 25 µm Grade 4 paper lets almost all particles under 20 µm through: a speed test, not a capture test." :
+        s.phase === "pour" ? "Pouring the batch: particles arrive with the water through the chute." :
+        spinning ? "Spinning: water and particles pass outward; the paper keeps what its rating allows." : "Batch drained. Press Space or ‘Run a batch’ for the next one.";
+    };
+  }
+
+  /* ------------------------------------------------------------------ helpers for the flow scenes */
+  // a particle moving along a polyline; returns position at distance d
+  function along(pts, d) {
+    for (let i = 1; i < pts.length; i++) { const [x0, y0] = pts[i - 1], [x1, y1] = pts[i], L = Math.hypot(x1 - x0, y1 - y0); if (d <= L) return [x0 + (x1 - x0) * d / L, y0 + (y1 - y0) * d / L]; d -= L; }
+    return pts[pts.length - 1];
+  }
+  const plen = (pts) => pts.slice(1).reduce((a, p, i) => a + Math.hypot(p[0] - pts[i][0], p[1] - pts[i][1]), 0);
+
+  /* ------------------------------------------------------------------ SQUEEZE v1: section of the tube element */
+  function sq1Scene() {
+    const ex0 = 250, ex1 = 690, ey = 160, R = 36, WALL = 9;       // element (horizontal here), outside-in flow
+    let P = [], acc = 0, cakeT = 0;
+    legend(`<span><i style="background:#B9B4A8;width:12px;height:8px;border-radius:2px"></i>cake on the element</span>`);
+    return function frame(dt, M) {
+      const s = M.s, mode = M.mode, Qm3 = s.Q || 0, Lh = Qm3 * 3.6e6;
+      const flowing = mode === "squeeze" && Lh > 0.05, back = mode === "backflush";
+      if (flowing && P.length < 240) { acc += dt * Lh * 0.12 * Math.min(2, M.speed / 4); while (acc > 1) { acc -= 1; const top = rnd() < 0.5; P.push({ band: pickBand(M.share), x: 90 + rnd() * 30, y: top ? ey - R - 26 - rnd() * 12 : ey + R + 26 + rnd() * 12, top, ph: "in", age: 0, tx: ex0 + 20 + rnd() * (ex1 - ex0 - 40) }); } }
+      ctx.clearRect(0, 0, W, H);
+      // housing
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(70, ey - R - 52, ex1 - 40, 2 * R + 104);
+      ctx.strokeStyle = STEEL; ctx.lineWidth = 3; ctx.strokeRect(70, ey - R - 52, ex1 - 40, 2 * R + 104);
+      if (mode !== "inspect") { ctx.fillStyle = WATER; ctx.fillRect(72, ey - R - 50, ex1 - 44, 2 * R + 100); }
+      // element: porous wall with closed left end, bore to the spout on the right
+      ctx.fillStyle = "#CFCCC4"; ctx.fillRect(ex0, ey - R, ex1 - ex0, 2 * R); ctx.fillStyle = mode !== "inspect" ? WATER2 : "#EEEDE8"; ctx.fillRect(ex0 + WALL, ey - R + WALL, ex1 - ex0 + 60, 2 * (R - WALL));
+      ctx.fillStyle = "#CFCCC4"; ctx.fillRect(ex0, ey - R, WALL, 2 * R);
+      for (let x = ex0 + 4; x < ex1; x += 7) { ctx.fillStyle = "#B4B1A8"; ctx.fillRect(x, ey - R + 2, 2, WALL - 4); ctx.fillRect(x + 3, ey + R - WALL + 2, 2, WALL - 4); }
+      // cake layer
+      const cakeTarget = clamp((M.cake || 0) * 6e5, 0, 10); cakeT += (cakeTarget - cakeT) * Math.min(1, dt * 2);
+      if (cakeT > 0.2) { ctx.fillStyle = "#B9B4A8"; ctx.fillRect(ex0 - cakeT, ey - R - cakeT, ex1 - ex0 + cakeT, cakeT); ctx.fillRect(ex0 - cakeT, ey + R, ex1 - ex0 + cakeT, cakeT); ctx.fillRect(ex0 - cakeT, ey - R, cakeT, 2 * R); }
+      // spout
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(ex1 + 30, ey - 10, 120, 20); ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.strokeRect(ex1 + 30, ey - 10, 120, 20);
+      if (flowing) { ctx.fillStyle = WATER2; ctx.fillRect(ex1 + 31, ey - 9, 118, 18); }
+      // particles
+      const vis = (still ? 0 : 1) * clamp(Lh, 0, 60) * 4 + 6;
+      for (const p of P) {
+        p.age += dt;
+        if (p.stuck) {
+          if (back) { p.stuck = false; p.ph = "back"; p.vx = -60 - rnd() * 60; p.vy = (p.top ? -1 : 1) * (10 + rnd() * 20); }
+          else { dot(p.x, p.y, p); continue; }
+        }
+        if (p.ph === "back") { p.x += p.vx * dt; p.y += p.vy * dt * 0.4; dot(p.x, p.y, p, clamp((p.x - 70) / 40, 0, 1)); continue; }
+        if (!flowing && mode !== "inspect") { dot(p.x, p.y, p); continue; }
+        if (mode === "inspect") { dot(p.x, p.y, p); continue; }
+        if (p.ph === "in") {                                           // along the annulus towards its spot, then onto the wall
+          const yw = p.top ? ey - R - 4 - cakeT : ey + R + 4 + cakeT;
+          if (p.x < p.tx) p.x = Math.min(p.tx, p.x + vis * dt * 1.2);
+          if (p.x > ex0 - 10) p.y += (yw - p.y) * Math.min(1, dt * 3);
+          if (p.x >= p.tx && Math.abs(p.y - yw) < 1.5) p.ph = "wall";
+        }
+        if (p.ph === "wall") {
+          if (rnd() < M.cap[p.band]) { p.stuck = true; p.age = 0; p.y = p.top ? ey - R - 2 - cakeT - rnd() * 3 : ey + R + 2 + cakeT + rnd() * 3; tally.caught++; }
+          else { p.passed = true; p.ph = "bore"; p.y = ey + (rnd() - 0.5) * (R - WALL) * 1.4; tally.passed++; }
+        }
+        if (p.ph === "bore") { p.x += vis * dt * 1.6; if (p.x > ex1 + 150) p.gone = true; }
+        dot(p.x, p.y, p);
+      }
+      P = P.filter((p) => !p.gone && !(p.ph === "back" && p.x < 60));
+      const st = P.filter((p) => p.stuck); if (st.length > 160) P.splice(P.indexOf(st[0]), 1);
+      txt("from the bottle", 80, ey - R - 60, { s: 11.5 }); txt("sintered 316L tube element (grade " + M.grade + ")", (ex0 + ex1) / 2, ey + 4, { a: "center", s: 12, c: INK, w: 600 });
+      txt("to the spout", ex1 + 40, ey + 30, { s: 11.5 }); txt("water goes outside → in through the steel wall", (ex0 + ex1) / 2, ey + R + 74, { a: "center", s: 11.5 });
+      txt("SECTION THROUGH THE BODY (schematic, not to scale)", W / 2, 18, { a: "center", s: 11, w: 600 });
+      const cc = countCap(M.cap, M.share);
+      counts(`model: ${pct(cc)} by count · ${pct(M.cap[0])} at 1–2 µm`);
+      capEl.textContent = back ? "Tap backflush: reversed flow lifts the cake off the steel and carries it out of the inlet." :
+        mode === "inspect" ? "Element out: the cake sits on the outside of the tube, to be rinsed into a dish for the phone lens." :
+        flowing ? `Squeezing at ${M.F} N: ${Lh.toFixed(1)} L/h. Particles build a cake on the outside of the element; that cake is what slows the flow.` : "Bottle empty: refilling.";
+    };
+  }
+
+  /* ------------------------------------------------------------------ SQUEEZE v2: prefilter + disc */
+  function sq2Scene() {
+    const xPF = 330, xD = 610, top = 64, bot = 256;
+    let P = [], acc = 0, bub = [];
+    legend(`<span><i style="background:#fff;border:1.5px solid #8fb3cf;width:9px;height:9px"></i>air in through the valve</span>`);
+    return function frame(dt, M) {
+      const s = M.s, mode = M.mode, Qlm = s.Q || 0, Lh = Math.abs(Qlm) * 60;
+      const fwd = (mode === "squeeze" || mode === "tap") && Qlm > 0.002, back = mode === "backflush";
+      if (fwd && P.length < 260) { acc += dt * Lh * 0.15 * Math.min(2, M.speed / 6); while (acc > 1) { acc -= 1; P.push({ band: pickBand(M.share), x: 70 + rnd() * 40, y: top + 14 + rnd() * (bot - top - 28), ph: "a", age: 0 }); } }
+      ctx.clearRect(0, 0, W, H);
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(60, top - 8, 780, bot - top + 16); ctx.strokeStyle = STEEL; ctx.lineWidth = 3; ctx.strokeRect(60, top - 8, 780, bot - top + 16);
+      if (mode !== "inspect") { ctx.fillStyle = WATER; ctx.fillRect(62, top - 6, 776, bot - top + 12); }
+      // prefilter (20 µm mesh) and disc (sintered)
+      ctx.setLineDash([3, 3]); ctx.strokeStyle = "#7d7a72"; ctx.lineWidth = 3; ctx.beginPath(); ctx.moveTo(xPF, top - 6); ctx.lineTo(xPF, bot + 6); ctx.stroke(); ctx.setLineDash([]);
+      ctx.fillStyle = "#CFCCC4"; ctx.fillRect(xD - 7, top - 6, 14, bot - top + 12);
+      for (let y = top; y < bot; y += 6) { ctx.fillStyle = "#B4B1A8"; ctx.fillRect(xD - 5, y, 10, 2); }
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(840, (top + bot) / 2 - 12, 90, 24); ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.strokeRect(840, (top + bot) / 2 - 12, 90, 24);
+      if (fwd) { ctx.fillStyle = WATER2; ctx.fillRect(841, (top + bot) / 2 - 11, 88, 22); }
+      // air bubbles in through the valve on release
+      if (mode === "squeeze" && s.air > 0) for (let i = 0; i < 2; i++) bub.push({ x: 100 + rnd() * 160, y: bot, v: 40 + rnd() * 40 });
+      bub.forEach((b) => { b.y -= b.v * dt; ctx.strokeStyle = "#8fb3cf"; ctx.lineWidth = 1.2; ctx.beginPath(); ctx.arc(b.x, b.y, 3.5, 0, TAU); ctx.stroke(); }); bub = bub.filter((b) => b.y > top);
+      const vis = (still ? 0 : 1) * (clamp(Lh, 0, 40) * 8 + 20);
+      for (const p of P) {
+        p.age += dt;
+        if (p.stuck) {
+          if (back) { p.stuck = false; p.ph = "back"; p.vx = -(80 + rnd() * 80); }
+          else { dot(p.x, p.y, p); continue; }
+        }
+        if (p.ph === "back") { p.x += p.vx * dt; p.y += (rnd() - 0.5) * 20 * dt; dot(p.x, p.y, p, clamp((p.x - 60) / 40, 0, 1)); continue; }
+        if (!fwd) { dot(p.x, p.y, p); continue; }
+        p.x += vis * dt * (p.ph === "c" ? 1.6 : 1);
+        if (p.ph === "a" && p.x >= xPF - 3) {
+          if (rnd() < M.pf[p.band]) { p.stuck = true; p.x = xPF - 4 - rnd() * 4; tally.caught++; p.where = "pf"; } else p.ph = "b";
+        } else if (p.ph === "b" && p.x >= xD - 9) {
+          if (rnd() < M.cap[p.band]) { p.stuck = true; p.x = xD - 10 - rnd() * 4; tally.caught++; p.where = "disc"; } else { p.ph = "c"; p.passed = true; tally.passed++; p.x = xD + 9; }
+        } else if (p.ph === "c") { p.y += ((top + bot) / 2 - p.y) * Math.min(1, dt * 2.5); if (p.x > 930) p.gone = true; }
+        dot(p.x, p.y, p);
+      }
+      P = P.filter((p) => !p.gone && !(p.ph === "back" && p.x < 60));
+      const st = P.filter((p) => p.stuck); if (st.length > 200) P.splice(P.indexOf(st[0]), 1);
+      txt("SECTION, BOTTLE → PREFILTER → DISC → SPOUT (schematic, not to scale)", W / 2, 22, { a: "center", s: 11, w: 600 });
+      txt("from the bottle / tap", 70, top - 16, { s: 11.5 }); txt("prefilter cup, 20 µm", xPF, bot + 26, { a: "center", s: 12, c: INK, w: 600 });
+      txt(`disc ${M.cas} · ${M.casName}`, xD, bot + 26, { a: "center", s: 12, c: INK, w: 600 }); txt("spout", 885, (top + bot) / 2 - 18, { a: "center", s: 11.5 });
+      const ccD = countCap(M.cap, M.share);
+      counts(`model: disc ${pct(ccD)} by count · ${pct(M.cap[0])} at 1–2 µm`);
+      capEl.textContent = back ? "Backflush: reversed tap water lifts the disc cake and the prefilter catch and carries them out of the inlet into the dish." :
+        mode === "inspect" ? "Cassette out: the disc with its catch is the microscope slide." :
+        mode === "squeeze" && s.stalled ? "Stalled: with no air valve the dented bottle pulls a vacuum the wet disc will not let air through." :
+        mode === "squeeze" && !fwd ? (M.valve ? "Hand released: air comes back in through the valve so the bottle springs back for the next squeeze." : "Hand released: no valve, so the bottle stays dented.") :
+        `${mode === "tap" ? "On the tap" : "Squeezing"}: ${Lh.toFixed(1)} L/h. The prefilter keeps the big particles; the disc keeps almost all the rest.`;
+    };
+  }
+
+  /* ------------------------------------------------------------------ BOIL-LOOP MINI: the loop */
+  function blmScene() {
+    // route through the stations (schematic): jug → pump → exchanger (cold, heats up) → heater → boil coil → trap → exchanger (hot, cools) → body coil → cup
+    const R1 = [[70, 90], [70, 250], [150, 250], [150, 220], [460, 220], [520, 220], [560, 200], [600, 230], [640, 200], [680, 230], [720, 200], [760, 230], [800, 210]];
+    const TRAP = [800, 120];
+    const R2 = [[800, 120], [800, 100], [460, 100], [150, 100], [150, 70], [880, 70]];
+    const R1L = plen(R1), up = [[800, 210], [800, 120]], HEAT_D = plen(R1.slice(0, 6));
+    const STAND = [[800, 120], [800, 40], [70, 40], [70, 90]];
+    let P = [], acc = 0, puffs = [];
+    const tCol = (T) => mix("#2f6fae", "#d1491e", clamp((T - 25) / 75, 0, 1));
+    card.querySelector("[data-pv-legend]").innerHTML = `<span><i style="background:#E2531B;width:8px;height:8px"></i>microplastic</span><span><i style="background:#fff;border:2px solid #cfcabd;width:12px;height:12px"></i>lime crust growing on it</span><span><i class="pass"></i>passed the trap</span><span><i style="background:#9a978f;width:8px;height:8px"></i>caught in the lime trap</span>`;
+    return function frame(dt, M) {
+      const sim = M.sim, flowing = M.running && sim.flow > 0, gateOpen = sim.gate > 0.5, Q = M.inputs.Q;
+      const transit = (145 / (Q * 1000 / 60)) * 60 / Math.max(1, M.speed || 180);   // s of wall time for water to cross the cold side and boil coil
+      const v = (still ? 0 : 1) * (flowing ? clamp(1100 / transit, 60, 240) : 0);
+      if (flowing && P.length < 160) { acc += dt * Q * 1.4 * clamp((M.speed || 180) / 60, 1, 4); while (acc > 1) { acc -= 1; P.push({ band: 2, mp: true, d: 0, seg: "R1", crust: 0, age: 0 }); } }
+      ctx.clearRect(0, 0, W, H);
+      const line = (pts, col, w) => { ctx.strokeStyle = col; ctx.lineWidth = w; ctx.lineJoin = "round"; ctx.beginPath(); pts.forEach(([x, y], i) => (i ? ctx.lineTo(x, y) : ctx.moveTo(x, y))); ctx.stroke(); };
+      // pipes coloured by temperature
+      const Tin = sim.Tj ?? 25, Tcore = sim.core ?? 25, Tout = sim.out ?? 25, Thx = sim.hx ?? 25;
+      line(R1.slice(0, 4), tCol(Tin), 9); line(R1.slice(3, 6), tCol((Tin + Tcore) / 2), 9); line(R1.slice(5), tCol(Tcore), 9); line(up, tCol(Tcore), 9);
+      line(R2.slice(0, 3), tCol(Thx), 9); line(R2.slice(2, 5), tCol((Thx + Tout) / 2), 9); line(R2.slice(4), tCol(Tout), 9);
+      if (!gateOpen) { ctx.setLineDash([5, 5]); line(STAND, tCol(Tcore), 4); ctx.setLineDash([]); }
+      // jug, heater, trap, cup
+      ctx.fillStyle = WATER; ctx.strokeStyle = STEEL; ctx.lineWidth = 2; ctx.fillRect(40, 60, 60, 40 * clamp(sim.Mj / 0.528, 0.05, 1) + 10); ctx.strokeRect(40, 50, 60, 60);
+      ctx.fillStyle = "#E9A07F"; ctx.fillRect(470, 205, 40, 30); ctx.strokeRect(470, 205, 40, 30);
+      ctx.fillStyle = "#F6F5F1"; ctx.fillRect(782, 106, 36, 28); ctx.strokeRect(782, 106, 36, 28); ctx.setLineDash([2, 2]); ctx.beginPath(); ctx.moveTo(784, 120); ctx.lineTo(816, 120); ctx.stroke(); ctx.setLineDash([]);
+      ctx.fillStyle = WATER; ctx.fillRect(880, 60, 50, 10 + 40 * clamp(M.cupFrac, 0, 1)); ctx.strokeRect(880, 50, 50, 60);
+      // steam / CO2 puffs at the vent while boiling
+      if (Tcore > 98 && flowing && rnd() < dt * 6) puffs.push({ x: 820 + rnd() * 10, y: 196, a: 0 });
+      puffs.forEach((p) => { p.a += dt; p.y -= 30 * dt; ctx.globalAlpha = Math.max(0, 0.5 - p.a * 0.25); ctx.fillStyle = "#BFBDB6"; ctx.beginPath(); ctx.arc(p.x + p.a * 10, p.y, 4 + p.a * 4, 0, TAU); ctx.fill(); ctx.globalAlpha = 1; });
+      puffs = puffs.filter((p) => p.a < 2);
+      for (const p of P) {
+        p.age += dt;
+        if (p.stuck) { ctx.fillStyle = "#9a978f"; ctx.beginPath(); ctx.arc(p.x, p.y, 3.4, 0, TAU); ctx.fill(); continue; }
+        if (flowing) p.d += v * dt;
+        let pos;
+        if (p.seg === "R1") { pos = along(R1, p.d); if (p.d > HEAT_D && Tcore > 97) p.crust = Math.min(1, p.crust + dt * 0.5 * M.limeK); if (p.d >= R1L) { p.seg = "UP"; p.d = 0; } }
+        else if (p.seg === "UP") { pos = along(up, p.d); if (p.d >= 90) { p.d = 0;
+          if (!gateOpen) p.seg = "ST";
+          else if (rnd() < M.rem) { p.stuck = true; p.x = 788 + rnd() * 24; p.y = 114 + rnd() * 4; tally.caught++; continue; }
+          else { p.seg = "R2"; p.passed = true; tally.passed++; } } }
+        else if (p.seg === "ST") { pos = along(STAND, p.d); if (p.d >= plen(STAND)) { p.seg = "R1"; p.d = 0; } }
+        else { pos = along(R2, p.d); if (p.d >= plen(R2)) p.gone = true; }
+        p.x = pos[0]; p.y = pos[1];
+        if (p.crust > 0.02) { ctx.fillStyle = "#fff"; ctx.strokeStyle = "#cfcabd"; ctx.lineWidth = 1; ctx.beginPath(); ctx.arc(p.x, p.y, 2.2 + 3.2 * p.crust, 0, TAU); ctx.fill(); ctx.stroke(); }
+        dot(p.x, p.y, p);
+      }
+      P = P.filter((p) => !p.gone); const st = P.filter((p) => p.stuck); if (st.length > 60) P.splice(P.indexOf(st[0]), 1);
+      txt("jug", 106, 84, { s: 11.5 }); txt("pump", 150, 272, { a: "center", s: 11.5 }); txt("exchanger, cold side: heats to ~95 °C", 300, 244, { a: "center", s: 11.5 });
+      txt("60 W heater", 490, 256, { a: "center", s: 11.5 }); txt("boil coil: ~3 min at the boil, lime forms", 680, 256, { a: "center", s: 11.5, c: INK });
+      txt("lime trap 25 µm", 760, 150, { a: "right", s: 11.5, c: INK }); txt("exchanger, hot side: cools to ~29 °C", 470, 92, { a: "center", s: 11.5 });
+      txt("body coil", 300, 62, { a: "center", s: 11.5 }); txt("cup", 905, 128, { a: "center", s: 11.5 });
+      if (!gateOpen) txt("wax gate shut below 95 °C: water returns to the jug through the standpipe", 430, 32, { a: "center", s: 11.5, c: "#9A6510", w: 600 });
+      txt("LOOP SCHEMATIC, PIPES COLOURED BY TEMPERATURE (not to scale)", W / 2, 306, { a: "center", s: 11, w: 600 });
+      counts(`model: ${pct(M.rem)} removed at ${M.inputs.H} mg/L hardness`);
+      capEl.textContent = !M.running ? "Paused. Press Run (or Space) to start the loop." : !gateOpen ? `Warming up (core ${Math.round(Tcore)} °C): no water reaches the cup until the boil coil is hot enough.` :
+        `Producing at ${Q.toFixed(1)} L/h: lime crystals form on the particles in the boil coil; the crusted ones stick in the 25 µm trap.`;
+    };
+  }
+
+  const make = { spin: spinScene, sq1: sq1Scene, sq2: sq2Scene, blm: blmScene }[SCENE];
+  const frame = make();
+  let last = 0, kickAt = 0, visible = false;
+  new IntersectionObserver((e) => { visible = e[e.length - 1].isIntersecting; if (visible) requestAnimationFrame(loop); }, { rootMargin: "60px 0px" }).observe(card);
+  function loop(now) {
+    const dt = last ? Math.min(0.05, (now - last) / 1000) : 1 / 60; last = now;
+    if (window.__mpx) frame(dt, window.__mpx);
+    if (now - kickAt > 500 && window.__mpxKick) { window.__mpxKick(); kickAt = now; }
+    if (visible) requestAnimationFrame(loop); else last = 0;
+  }
+})();
 </script>
