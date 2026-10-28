@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 2589" role="img" aria-labelledby="title desc">
+<title id="title">MPx Sub-Function Decomposition</title>
+<desc id="desc">Each step of the MPx process function structure broken down into its possible elementary sub-functions, grouped by main water flow and the microplastic detection branch, colour-coded by input, process, and output stage.</desc>
+<defs><style>
+  .title { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+  .subtitle { font-family: Helvetica, Arial, sans-serif; }
+  .sec { font-family: Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: 0.06em; }
+  .fname { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+  .fnote { font-family: Helvetica, Arial, sans-serif; font-style: italic; }
+  .ftag { font-family: Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: 0.08em; }
+  .fnum { font-family: Helvetica, Arial, sans-serif; font-weight: 700; }
+  .bullet { font-family: Helvetica, Arial, sans-serif; }
+  .legend { font-family: Helvetica, Arial, sans-serif; }
+  .footer-h { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+  .footer-b { font-family: Helvetica, Arial, sans-serif; }
+</style></defs>
+<rect x="0" y="0" width="1700" height="2589" fill="#FFFFFF"/>
+<text x="44" y="78" class="title" font-size="34" fill="#1A1A1A">Sub-Function Decomposition</text>
+<text x="44" y="106" class="subtitle" font-size="17" fill="#555">MPx — breaking each process function structure step into its possible elementary sub-functions (CED Module 6, Pahl &amp; Beitz)</text>
+<line x1="44" y1="122" x2="1656" y2="122" stroke="#DADADA" stroke-width="1.5"/>
+<text x="44" y="144" class="subtitle" font-size="14" fill="#666">These are functions only, not solutions or components — each bullet is still a generic task (e.g. "separate", "sense", "convey"), not a mechanism.</text>
+<text x="44" y="163" class="subtitle" font-size="14" fill="#666">They form the rows of the Module 8 morphological matrix, where multiple alternative working principles will be generated for every row.</text>
+<rect x="44" y="162" width="16" height="16" rx="3" fill="#FDE4E3" stroke="#D9534F" stroke-width="1.5"/>
+<text x="66" y="174" class="legend" font-size="13.5" fill="#444">Input stage</text>
+<rect x="179.2" y="162" width="16" height="16" rx="3" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+<text x="201.2" y="174" class="legend" font-size="13.5" fill="#444">Process stage</text>
+<rect x="328.8" y="162" width="16" height="16" rx="3" fill="#DFF3DF" stroke="#3C9A3C" stroke-width="1.5"/>
+<text x="350.8" y="174" class="legend" font-size="13.5" fill="#444">Output stage</text>
+<text x="471.20000000000005" y="174" class="legend" font-size="13.5" fill="#888" font-style="italic">↳ marked rows = detection branch (parallel path off step 03)</text>
+<text x="44" y="294" class="sec" font-size="14" fill="#8A8A8A">MAIN WATER FLOW</text>
+<line x1="44" y1="302" x2="1656" y2="302" stroke="#E3E3E3" stroke-width="1"/>
+<rect x="44" y="310" width="1612" height="164" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="310" width="320" height="164" fill="#FDE4E3" stroke="#D9534F" stroke-width="1.5"/>
+<rect x="44" y="310" width="6" height="164" fill="#D9534F"/>
+<text x="66" y="334" class="fnum" font-size="15" fill="#7B241C" opacity="0.65">01</text>
+<text x="346" y="334" text-anchor="end" class="ftag" font-size="10.5" fill="#7B241C" opacity="0.7">INPUT</text>
+<text x="62" y="360" class="fname" font-size="18.5" fill="#7B241C">Identify Water Source</text>
+<text x="390" y="334" class="bullet" font-size="14.5" fill="#2A2A2A">•  Sense / confirm source type (tap, bottle, jug, natural body)</text>
+<text x="390" y="367" class="bullet" font-size="14.5" fill="#2A2A2A">•  Present selectable source options to the user</text>
+<text x="390" y="400" class="bullet" font-size="14.5" fill="#2A2A2A">•  Verify source is compatible with the device (exclude unsuitable inputs)</text>
+<text x="390" y="433" class="bullet" font-size="14.5" fill="#2A2A2A">•  Signal source-dependent settings to downstream stages (e.g. expected turbidity)</text>
+<rect x="44" y="492" width="1612" height="230" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="492" width="320" height="230" fill="#FDE4E3" stroke="#D9534F" stroke-width="1.5"/>
+<rect x="44" y="492" width="6" height="230" fill="#D9534F"/>
+<text x="66" y="516" class="fnum" font-size="15" fill="#7B241C" opacity="0.65">02</text>
+<text x="346" y="516" text-anchor="end" class="ftag" font-size="10.5" fill="#7B241C" opacity="0.7">INPUT</text>
+<text x="62" y="542" class="fname" font-size="18.5" fill="#7B241C">Water Input in Device</text>
+<text x="390" y="516" class="bullet" font-size="14.5" fill="#2A2A2A">•  Convey water from the source into the device</text>
+<text x="390" y="549" class="bullet" font-size="14.5" fill="#2A2A2A">•  Connect / seal the input interface to the source</text>
+<text x="390" y="582" class="bullet" font-size="14.5" fill="#2A2A2A">•  Regulate inflow rate and volume</text>
+<text x="390" y="615" class="bullet" font-size="14.5" fill="#2A2A2A">•  Vent displaced air during filling</text>
+<text x="390" y="648" class="bullet" font-size="14.5" fill="#2A2A2A">•  Measure / register input volume</text>
+<text x="390" y="681" class="bullet" font-size="14.5" fill="#2A2A2A">•  Prevent backflow or contamination re-entry</text>
+<rect x="44" y="740" width="1612" height="263" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="740" width="320" height="263" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+<rect x="44" y="740" width="6" height="263" fill="#8A8A8A"/>
+<text x="66" y="764" class="fnum" font-size="15" fill="#3A3A3A" opacity="0.65">03</text>
+<text x="346" y="764" text-anchor="end" class="ftag" font-size="10.5" fill="#3A3A3A" opacity="0.7">PROCESS</text>
+<text x="62" y="790" class="fname" font-size="18.5" fill="#3A3A3A">Filter Microplastics</text>
+<text x="62" y="824" class="fnote" font-size="12.5" fill="#3A3A3A" opacity="0.8">(coarse pre-filter + fine microplastic separation)</text>
+<text x="390" y="764" class="bullet" font-size="14.5" fill="#2A2A2A">•  Convey water through the filter stage</text>
+<text x="390" y="797" class="bullet" font-size="14.5" fill="#2A2A2A">•  Separate coarse particles / debris (pre-filter)</text>
+<text x="390" y="830" class="bullet" font-size="14.5" fill="#2A2A2A">•  Separate microplastic particles by size or shape (fine filter)</text>
+<text x="390" y="863" class="bullet" font-size="14.5" fill="#2A2A2A">•  Regulate flow rate through the filter media</text>
+<text x="390" y="896" class="bullet" font-size="14.5" fill="#2A2A2A">•  Retain / trap separated particles within the media</text>
+<text x="390" y="929" class="bullet" font-size="14.5" fill="#2A2A2A">•  Indicate filter saturation or clogging</text>
+<text x="390" y="962" class="bullet" font-size="14.5" fill="#2A2A2A">•  Allow filter element access / replacement</text>
+<rect x="44" y="1021" width="1612" height="197" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1021" width="320" height="197" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+<rect x="44" y="1021" width="6" height="197" fill="#8A8A8A"/>
+<text x="66" y="1045" class="fnum" font-size="15" fill="#3A3A3A" opacity="0.65">04</text>
+<text x="346" y="1045" text-anchor="end" class="ftag" font-size="10.5" fill="#3A3A3A" opacity="0.7">PROCESS</text>
+<text x="62" y="1071" class="fname" font-size="18.5" fill="#3A3A3A">Purification</text>
+<text x="62" y="1105" class="fnote" font-size="12.5" fill="#3A3A3A" opacity="0.8">(UV treatment stage)</text>
+<text x="390" y="1045" class="bullet" font-size="14.5" fill="#2A2A2A">•  Convey filtered water to the purification stage</text>
+<text x="390" y="1078" class="bullet" font-size="14.5" fill="#2A2A2A">•  Expose water to a disinfection agent or energy source</text>
+<text x="390" y="1111" class="bullet" font-size="14.5" fill="#2A2A2A">•  Regulate exposure dose / time</text>
+<text x="390" y="1144" class="bullet" font-size="14.5" fill="#2A2A2A">•  Monitor treatment completion</text>
+<text x="390" y="1177" class="bullet" font-size="14.5" fill="#2A2A2A">•  Neutralize or vent treatment by-products, if any</text>
+<rect x="44" y="1236" width="1612" height="197" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1236" width="320" height="197" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+<rect x="44" y="1236" width="6" height="197" fill="#8A8A8A"/>
+<text x="66" y="1260" class="fnum" font-size="15" fill="#3A3A3A" opacity="0.65">05</text>
+<text x="346" y="1260" text-anchor="end" class="ftag" font-size="10.5" fill="#3A3A3A" opacity="0.7">PROCESS</text>
+<text x="62" y="1286" class="fname" font-size="18.5" fill="#3A3A3A">Store Clean Water</text>
+<text x="390" y="1260" class="bullet" font-size="14.5" fill="#2A2A2A">•  Convey purified water into storage</text>
+<text x="390" y="1293" class="bullet" font-size="14.5" fill="#2A2A2A">•  Contain / hold the treated water volume</text>
+<text x="390" y="1326" class="bullet" font-size="14.5" fill="#2A2A2A">•  Seal storage against recontamination</text>
+<text x="390" y="1359" class="bullet" font-size="14.5" fill="#2A2A2A">•  Indicate stored volume / level</text>
+<text x="390" y="1392" class="bullet" font-size="14.5" fill="#2A2A2A">•  Preserve water quality over the storage period</text>
+<rect x="44" y="1451" width="1612" height="197" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1451" width="320" height="197" fill="#DFF3DF" stroke="#3C9A3C" stroke-width="1.5"/>
+<rect x="44" y="1451" width="6" height="197" fill="#3C9A3C"/>
+<text x="66" y="1475" class="fnum" font-size="15" fill="#1E5E20" opacity="0.65">06</text>
+<text x="346" y="1475" text-anchor="end" class="ftag" font-size="10.5" fill="#1E5E20" opacity="0.7">OUTPUT</text>
+<text x="62" y="1501" class="fname" font-size="18.5" fill="#1E5E20">Dispense Safe</text>
+<text x="62" y="1525" class="fname" font-size="18.5" fill="#1E5E20">Drinkable Water</text>
+<text x="390" y="1475" class="bullet" font-size="14.5" fill="#2A2A2A">•  Convey water from storage to the outlet</text>
+<text x="390" y="1508" class="bullet" font-size="14.5" fill="#2A2A2A">•  Actuate dispensing on user demand</text>
+<text x="390" y="1541" class="bullet" font-size="14.5" fill="#2A2A2A">•  Regulate dispensed flow rate / volume</text>
+<text x="390" y="1574" class="bullet" font-size="14.5" fill="#2A2A2A">•  Protect the dispensing point from contamination</text>
+<text x="390" y="1607" class="bullet" font-size="14.5" fill="#2A2A2A">•  Stop / shut off flow after dispensing</text>
+<text x="44" y="1706" class="sec" font-size="14" fill="#8A8A8A">DETECTION BRANCH — parallel path off step 03 (Filter Microplastics)</text>
+<line x1="44" y1="1714" x2="1656" y2="1714" stroke="#E3E3E3" stroke-width="1"/>
+<rect x="44" y="1722" width="1612" height="197" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1722" width="320" height="197" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+<rect x="44" y="1722" width="6" height="197" fill="#8A8A8A"/>
+<text x="66" y="1746" class="fnum" font-size="15" fill="#3A3A3A" opacity="0.65">07</text>
+<text x="346" y="1746" text-anchor="end" class="ftag" font-size="10.5" fill="#3A3A3A" opacity="0.7">PROCESS</text>
+<text x="62" y="1772" class="fname" font-size="18.5" fill="#3A3A3A">Collection of</text>
+<text x="62" y="1796" class="fname" font-size="18.5" fill="#3A3A3A">Microplastics</text>
+<text x="390" y="1746" class="bullet" font-size="14.5" fill="#2A2A2A">•  Branch / divert a sample stream from the main flow</text>
+<text x="390" y="1779" class="bullet" font-size="14.5" fill="#2A2A2A">•  Convey the sample to the detection zone</text>
+<text x="390" y="1812" class="bullet" font-size="14.5" fill="#2A2A2A">•  Concentrate / isolate particles within the sample</text>
+<text x="390" y="1845" class="bullet" font-size="14.5" fill="#2A2A2A">•  Hold sample volume steady for measurement</text>
+<text x="390" y="1878" class="bullet" font-size="14.5" fill="#2A2A2A">•  Separate microplastics from other suspended solids</text>
+<rect x="44" y="1937" width="1612" height="263" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1937" width="320" height="263" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+<rect x="44" y="1937" width="6" height="263" fill="#8A8A8A"/>
+<text x="66" y="1961" class="fnum" font-size="15" fill="#3A3A3A" opacity="0.65">08</text>
+<text x="346" y="1961" text-anchor="end" class="ftag" font-size="10.5" fill="#3A3A3A" opacity="0.7">PROCESS</text>
+<text x="62" y="1987" class="fname" font-size="18.5" fill="#3A3A3A">Detection / Count</text>
+<text x="62" y="2011" class="fname" font-size="18.5" fill="#3A3A3A">Microplastics per Unit</text>
+<text x="62" y="2035" class="fname" font-size="18.5" fill="#3A3A3A">Volume</text>
+<text x="390" y="1961" class="bullet" font-size="14.5" fill="#2A2A2A">•  Sense presence of particles in the sample</text>
+<text x="390" y="1994" class="bullet" font-size="14.5" fill="#2A2A2A">•  Distinguish microplastic particles from other debris</text>
+<text x="390" y="2027" class="bullet" font-size="14.5" fill="#2A2A2A">•  Measure particle size and / or count</text>
+<text x="390" y="2060" class="bullet" font-size="14.5" fill="#2A2A2A">•  Convert the sensed signal into quantifiable data</text>
+<text x="390" y="2093" class="bullet" font-size="14.5" fill="#2A2A2A">•  Normalize count to a per-unit-volume value</text>
+<text x="390" y="2126" class="bullet" font-size="14.5" fill="#2A2A2A">•  Compare measured value against a safety threshold</text>
+<text x="390" y="2159" class="bullet" font-size="14.5" fill="#2A2A2A">•  Store / log the measurement</text>
+<rect x="44" y="2218" width="1612" height="197" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="2218" width="320" height="197" fill="#DFF3DF" stroke="#3C9A3C" stroke-width="1.5"/>
+<rect x="44" y="2218" width="6" height="197" fill="#3C9A3C"/>
+<text x="66" y="2242" class="fnum" font-size="15" fill="#1E5E20" opacity="0.65">09</text>
+<text x="346" y="2242" text-anchor="end" class="ftag" font-size="10.5" fill="#1E5E20" opacity="0.7">OUTPUT</text>
+<text x="62" y="2268" class="fname" font-size="18.5" fill="#1E5E20">Display Output</text>
+<text x="390" y="2242" class="bullet" font-size="14.5" fill="#2A2A2A">•  Receive processed detection data</text>
+<text x="390" y="2275" class="bullet" font-size="14.5" fill="#2A2A2A">•  Convert data into human-readable form</text>
+<text x="390" y="2308" class="bullet" font-size="14.5" fill="#2A2A2A">•  Present result to the user (visual / audio / haptic)</text>
+<text x="390" y="2341" class="bullet" font-size="14.5" fill="#2A2A2A">•  Allow switching between simple and detailed views</text>
+<text x="390" y="2374" class="bullet" font-size="14.5" fill="#2A2A2A">•  Indicate alert status if a threshold is exceeded</text>
+<rect x="44" y="2455" width="1612" height="100" rx="8" fill="#F4F0FA" stroke="#8E7CC3" stroke-width="1.5"/>
+<text x="68" y="2487" class="footer-h" font-size="16.5" fill="#4A3B7A">Next step</text>
+<text x="68" y="2511" class="footer-b" font-size="14" fill="#4A3B7A">For each sub-function above, brainstorm 2–4 alternative working principles (mechanisms, sensors, materials, etc.) — those options become the columns</text>
+<text x="68" y="2531" class="footer-b" font-size="14" fill="#4A3B7A">of the Module 8 morphological matrix, and combinations across rows generate candidate concepts.</text>
+</svg>

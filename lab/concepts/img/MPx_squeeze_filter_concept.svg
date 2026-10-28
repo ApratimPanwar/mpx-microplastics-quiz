@@ -1,0 +1,344 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1250" viewBox="0 0 1600 1250" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0NjkwMmZiOC1kYjFhLTQxOWMtOTdmYy1kMTdlZjYxNTQ4MTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaL1NNSm/S9EZ8x+MS0/J9JQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5YzQ5MDE3YS00N2ZiLTRhNmEtYTI5NS1mNmZjZGVmMjM0YjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo40YAaY6RfxAeXtCNzyi9ggAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggsdaGcV1wtDHkXqwMEvd6lIdrdq3EnpKSe/NuqWFbpP6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMW+go0Ruwzr9HU9DtNPQLYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCdfcYkqYCRTRfKAQKuDxY9e34TvCGjaGKZMYi7uIyekmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ2OTAyZmI4LWRiMWEtNDE5Yy05N2ZjLWQxN2VmNjE1NDgxMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA2NDNkNjlmLTEwM2MtNGU0NC05MTE3LWEwZDM2ZDUzYzZhNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCx1oZxXXC0MeRerAwS93qUh2t2rcSekpJ7826pYVuk/qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggwC6Ke05uuJIUZX6hm84ACzYoAsDhV2633DRXNnqBmeuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggFMOZtnpy+ihn9fK2M1UDCZpwOjOhWCBWJXJbsOVKZtl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHqdnscdhYUiE62/imjbj6+/LAaJQLQj6K5wwdHlIuhNIUshU2CZKrNlGJi3/xzxkFH560byHcBlswP+ROJ1HVM=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="gCyl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8f9aa0"/><stop offset="0.3" stop-color="#dfe5e8"/>
+      <stop offset="0.48" stop-color="#f8fafb"/><stop offset="0.8" stop-color="#bcc5ca"/><stop offset="1" stop-color="#86919a"/>
+    </linearGradient>
+    <linearGradient id="gMyc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cdb58d"/><stop offset="0.45" stop-color="#f1e6d2"/><stop offset="1" stop-color="#c2a980"/>
+    </linearGradient>
+    <linearGradient id="gUV" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6d28d9"/><stop offset="0.5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#6d28d9"/>
+    </linearGradient>
+    <pattern id="mesh" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="#e5e7eb"/><path d="M0 0 L6 6 M6 0 L0 6" stroke="#6b7280" stroke-width="0.7"/>
+    </pattern>
+    <pattern id="myc" width="44" height="30" patternUnits="userSpaceOnUse">
+      <rect width="44" height="30" fill="#efe3cc"/>
+      <path d="M0 8 q10 -8 20 2 t24 -2 M0 22 q12 6 22 -4 t22 6 M10 0 q-4 14 6 30 M32 0 q6 12 -4 30" stroke="#b8976a" stroke-width="1" fill="none"/>
+      <circle cx="18" cy="14" r="1.2" fill="#9c7b4f"/><circle cx="36" cy="24" r="1" fill="#9c7b4f"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="bottleClip">
+      <path d="M180,150 Q160,150 160,172 L160,240 Q176,300 160,360 L160,410 Q160,440 190,462 L222,486 L222,522 L278,522 L278,486 L310,462 Q340,440 340,410 L340,360 Q324,300 340,240 L340,172 Q340,150 320,150 Z"/>
+    </clipPath>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/>
+    </marker>
+    <marker id="arrB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2f80c0"/>
+    </marker>
+  </defs>
+
+  <rect width="1600" height="1250" fill="#f4f3ef"/>
+
+  <!-- HEADER -->
+  <text x="30" y="52" font-size="26" font-weight="700" fill="#1d2433">MPx Pure: Squeeze-to-Filter Bottle Attachment</text>
+  <text x="30" y="78" font-size="14" fill="#5b6475">Screws onto an ordinary plastic bottle. Squeezing pushes water through a steel pre-filter, a mycelium bio-filter and a UV-C chamber. No battery, no chip, no charging.</text>
+  <text x="1570" y="52" font-size="12" fill="#8a91a0" text-anchor="end">Concept sketch · v0.1</text>
+
+  <!-- ================= PANEL A : IN USE ================= -->
+  <rect x="30" y="110" width="570" height="1020" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="54" y="142" font-size="15" font-weight="700" fill="#1d2433">A · In use</text>
+
+  <!-- bottle -->
+  <path d="M180,150 Q160,150 160,172 L160,240 Q176,300 160,360 L160,410 Q160,440 190,462 L222,486 L222,522 L278,522 L278,486 L310,462 Q340,440 340,410 L340,360 Q324,300 340,240 L340,172 Q340,150 320,150 Z" fill="#eaf4f9"/>
+  <g clip-path="url(#bottleClip)">
+    <rect x="150" y="252" width="200" height="280" fill="#a9d6ec" fill-opacity="0.75"/>
+    <path d="M150 252 q20 -6 40 0 t40 0 t40 0 t40 0 t40 0" stroke="#7fbadb" stroke-width="2" fill="none"/>
+    <rect x="160" y="182" width="180" height="40" fill="#dce9ef"/>
+    <g stroke="#c4dbe6" stroke-width="2"><line x1="150" y1="400" x2="350" y2="400"/><line x1="150" y1="430" x2="350" y2="430"/></g>
+  </g>
+  <path d="M180,150 Q160,150 160,172 L160,240 Q176,300 160,360 L160,410 Q160,440 190,462 L222,486 L222,522 L278,522 L278,486 L310,462 Q340,440 340,410 L340,360 Q324,300 340,240 L340,172 Q340,150 320,150 Z" fill="none" stroke="#8fb7cb" stroke-width="2"/>
+  <text x="250" y="207" font-size="11" fill="#6f8a97" text-anchor="middle">any PET bottle</text>
+  <line x1="96" y1="300" x2="156" y2="300" stroke="#1d2433" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="404" y1="300" x2="344" y2="300" stroke="#1d2433" stroke-width="2.5" marker-end="url(#arr)"/>
+  <text x="96" y="288" font-size="12" font-weight="700" fill="#1d2433">squeeze</text>
+
+  <!-- attachment -->
+  <rect x="205" y="512" width="90" height="38" rx="6" fill="url(#gCyl)" stroke="#86919a"/>
+  <g stroke="#9aa5ab" stroke-width="1"><line x1="215" y1="516" x2="215" y2="546"/><line x1="225" y1="516" x2="225" y2="546"/><line x1="275" y1="516" x2="275" y2="546"/><line x1="285" y1="516" x2="285" y2="546"/></g>
+  <rect x="178" y="546" width="144" height="254" rx="24" fill="url(#gCyl)" stroke="#86919a"/>
+  <line x1="180" y1="594" x2="320" y2="594" stroke="#6b7680" stroke-width="1.5"/>
+  <line x1="180" y1="744" x2="320" y2="744" stroke="#6b7680" stroke-width="1.5"/>
+  <g stroke="#a3adb3" stroke-width="1.5"><line x1="186" y1="606" x2="186" y2="732"/><line x1="194" y1="606" x2="194" y2="732"/><line x1="314" y1="606" x2="314" y2="732"/></g>
+  <text x="236" y="676" font-size="15" font-weight="800" fill="#6b7680" letter-spacing="1">MPx</text>
+  <!-- turbidity window -->
+  <rect x="286" y="604" width="20" height="100" rx="6" fill="#d7ecf5" stroke="#7fa9b8"/>
+  <g fill="#1d2433"><rect x="289" y="612" width="7" height="6"/><rect x="289" y="630" width="7" height="6"/><rect x="289" y="648" width="7" height="6"/><rect x="289" y="666" width="7" height="6"/><rect x="289" y="684" width="7" height="6"/></g>
+  <!-- UV indicator -->
+  <rect x="210" y="760" width="80" height="8" rx="4" fill="#a78bfa" filter="url(#glow)"/>
+  <!-- outlet -->
+  <path d="M232,800 L268,800 L258,842 L242,842 Z" fill="url(#gCyl)" stroke="#86919a"/>
+  <!-- stream -->
+  <path d="M250 842 L250 1006" stroke="#7fbadb" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="246" cy="880" r="2" fill="#7fbadb"/><circle cx="255" cy="930" r="2" fill="#7fbadb"/>
+  <!-- glass -->
+  <path d="M168,1010 L332,1010 L324,1100 Q322,1110 312,1110 L188,1110 Q178,1110 176,1100 Z" fill="#bfe0f0" fill-opacity="0.8"/>
+  <path d="M168 1010 q16 -5 32 0 t32 0 t32 0 t32 0 t32 0 t32 0" stroke="#8fc3de" stroke-width="1.5" fill="none"/>
+  <path d="M160,900 L340,900 L324,1100 Q322,1110 312,1110 L188,1110 Q178,1110 176,1100 Z" fill="#e8f3f8" fill-opacity="0.35" stroke="#a9c7d4" stroke-width="2"/>
+  <line x1="176" y1="918" x2="186" y2="1090" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- hero callouts -->
+  <g stroke="#9aa3b3" stroke-width="1" fill="none">
+    <polyline points="296,531 380,531 388,531"/>
+    <polyline points="306,650 380,650 388,650"/>
+    <polyline points="320,700 360,716 388,716"/>
+    <polyline points="290,764 380,776 388,776"/>
+    <polyline points="262,830 380,840 388,840"/>
+  </g>
+  <g fill="#9aa3b3"><circle cx="296" cy="531" r="3"/><circle cx="306" cy="650" r="3"/><circle cx="320" cy="700" r="3"/><circle cx="290" cy="764" r="3"/><circle cx="262" cy="830" r="3"/></g>
+  <g font-size="13">
+    <text x="416" y="296" font-weight="700" fill="#1d2433">Squeezing is the power</text>
+    <text x="416" y="313" font-size="11.5" fill="#5b6475">pushes water through every stage</text>
+    <text x="394" y="527" font-weight="700" fill="#1d2433">Screws onto the bottle</text>
+    <text x="394" y="544" font-size="11.5" fill="#5b6475">28 mm neck, silicone seal</text>
+    <text x="394" y="646" font-weight="700" fill="#1d2433">Turbidity window</text>
+    <text x="394" y="663" font-size="11.5" fill="#5b6475">see-through contrast strip</text>
+    <text x="394" y="712" font-weight="700" fill="#1d2433">Twist-off cartridge</text>
+    <text x="394" y="729" font-size="11.5" fill="#5b6475">swap the filter in seconds</text>
+    <text x="394" y="772" font-weight="700" fill="#1d2433">UV-C glow</text>
+    <text x="394" y="789" font-size="11.5" fill="#5b6475">lights up while water flows</text>
+    <text x="394" y="836" font-weight="700" fill="#1d2433">Drip-control outlet</text>
+    <text x="394" y="853" font-size="11.5" fill="#5b6475">slow, steady stream</text>
+  </g>
+  <text x="54" y="1118" font-size="11" fill="#8a91a0" font-style="italic">Body: anodised aluminium + food-grade silicone seals, so no plastic in the wet path of the attachment.</text>
+
+  <!-- ================= PANEL B : SECTION ================= -->
+  <rect x="620" y="110" width="560" height="660" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="644" y="142" font-size="15" font-weight="700" fill="#1d2433">B · Inside, top to bottom</text>
+
+  <!-- bottle neck -->
+  <rect x="770" y="164" width="60" height="40" fill="#a9d6ec" fill-opacity="0.7"/>
+  <rect x="764" y="164" width="6" height="40" fill="#8fb7cb"/><rect x="830" y="164" width="6" height="40" fill="#8fb7cb"/>
+  <!-- outer shell -->
+  <path d="M740,200 L860,200 L860,236 L884,244 L884,670 Q884,690 864,694 L820,700 L812,740 L788,740 L780,700 L736,694 Q716,690 716,670 L716,244 L740,236 Z" fill="#c9d0d4" stroke="#86919a" stroke-width="1.5"/>
+  <!-- inner channel -->
+  <path d="M750,204 L850,204 L850,240 L872,248 L872,664 Q872,680 856,683 L812,690 L806,736 L794,736 L788,690 L744,683 Q728,680 728,664 L728,248 L750,240 Z" fill="#eaf5fb"/>
+  <!-- threads -->
+  <g fill="#86919a"><rect x="740" y="208" width="10" height="4"/><rect x="740" y="218" width="10" height="4"/><rect x="740" y="228" width="10" height="4"/><rect x="850" y="208" width="10" height="4"/><rect x="850" y="218" width="10" height="4"/><rect x="850" y="228" width="10" height="4"/></g>
+  <rect x="764" y="202" width="72" height="4" fill="#475569"/>
+  <!-- turbidity window -->
+  <rect x="728" y="248" width="144" height="50" fill="#d9eef8"/>
+  <rect x="872" y="252" width="12" height="42" fill="#bfe3f3" stroke="#7fa9b8"/>
+  <g fill="#1d2433"><rect x="874" y="256" width="5" height="5"/><rect x="874" y="268" width="5" height="5"/><rect x="874" y="280" width="5" height="5"/></g>
+  <g fill="#9aa3ad"><circle cx="760" cy="266" r="1.5"/><circle cx="800" cy="280" r="1.2"/><circle cx="836" cy="262" r="1.8"/><circle cx="782" cy="288" r="1"/></g>
+  <!-- cartridge bracket -->
+  <path d="M708 304 L700 304 L700 452 L708 452" stroke="#e8503a" stroke-width="2" fill="none"/>
+  <text x="694" y="378" font-size="11" font-weight="700" fill="#e8503a" text-anchor="middle" transform="rotate(-90 694 378)">removable cartridge</text>
+  <!-- pre-filter -->
+  <rect x="728" y="304" width="144" height="8" fill="url(#mesh)" stroke="#6b7280" stroke-width="0.8"/>
+  <!-- mycelium -->
+  <rect x="728" y="316" width="144" height="104" fill="url(#myc)" stroke="#b8976a"/>
+  <g fill="#9aa3ad"><circle cx="752" cy="326" r="1.5"/><circle cx="804" cy="322" r="1.2"/><circle cx="846" cy="330" r="1.6"/><circle cx="776" cy="340" r="1"/></g>
+  <!-- polishing layer -->
+  <rect x="728" y="424" width="144" height="26" fill="#f6f1e6" stroke="#cbbf9f"/>
+  <g stroke="#d8ccae" stroke-width="1"><line x1="736" y1="437" x2="864" y2="437" stroke-dasharray="3 3"/></g>
+  <!-- turbine -->
+  <rect x="728" y="456" width="144" height="48" fill="#eaf5fb"/>
+  <rect x="734" y="462" width="18" height="36" rx="3" fill="#b45309"/><rect x="848" y="462" width="18" height="36" rx="3" fill="#b45309"/>
+  <g stroke="#fde68a" stroke-width="1"><line x1="736" y1="468" x2="750" y2="468"/><line x1="736" y1="476" x2="750" y2="476"/><line x1="736" y1="484" x2="750" y2="484"/><line x1="736" y1="492" x2="750" y2="492"/><line x1="850" y1="468" x2="864" y2="468"/><line x1="850" y1="476" x2="864" y2="476"/><line x1="850" y1="484" x2="864" y2="484"/><line x1="850" y1="492" x2="864" y2="492"/></g>
+  <circle cx="800" cy="480" r="18" fill="none" stroke="#475569" stroke-width="1.5"/>
+  <g fill="#64748b"><path d="M800 480 L800 462 Q810 468 800 480z"/><path d="M800 480 L818 480 Q812 490 800 480z"/><path d="M800 480 L800 498 Q790 492 800 480z"/><path d="M800 480 L782 480 Q788 470 800 480z"/></g>
+  <circle cx="800" cy="480" r="3" fill="#1d2433"/>
+  <!-- wires to LEDs -->
+  <path d="M743 498 L743 530" stroke="#b45309" stroke-width="1.5"/><path d="M857 498 L857 530" stroke="#b45309" stroke-width="1.5"/>
+  <!-- UV chamber -->
+  <rect x="728" y="508" width="144" height="112" fill="#f1ecff"/>
+  <line x1="729" y1="508" x2="729" y2="620" stroke="url(#gUV)" stroke-width="2"/>
+  <line x1="871" y1="508" x2="871" y2="620" stroke="url(#gUV)" stroke-width="2"/>
+  <path d="M800 510 C 760 520, 760 540, 800 548 S 840 576, 800 584 S 760 604, 800 616" stroke="#7fbadb" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <g filter="url(#glow)">
+    <rect x="732" y="530" width="10" height="14" rx="3" fill="#8b5cf6"/><rect x="732" y="578" width="10" height="14" rx="3" fill="#8b5cf6"/>
+    <rect x="858" y="530" width="10" height="14" rx="3" fill="#8b5cf6"/><rect x="858" y="578" width="10" height="14" rx="3" fill="#8b5cf6"/>
+  </g>
+  <g stroke="#a78bfa" stroke-width="1.3" stroke-dasharray="4 3">
+    <line x1="742" y1="537" x2="800" y2="548"/><line x1="742" y1="585" x2="800" y2="584"/>
+    <line x1="858" y1="537" x2="800" y2="530"/><line x1="858" y1="585" x2="800" y2="600"/>
+  </g>
+  <!-- post filter -->
+  <rect x="728" y="626" width="144" height="8" fill="url(#mesh)" stroke="#6b7280" stroke-width="0.8"/>
+  <!-- drip valve -->
+  <path d="M790,690 L810,690 L804,704 L796,704 Z" fill="#475569"/>
+  <!-- flow arrows -->
+  <g stroke="#2f80c0" stroke-width="1.8" marker-end="url(#arrB)">
+    <line x1="800" y1="172" x2="800" y2="196"/><line x1="800" y1="258" x2="800" y2="296"/>
+    <line x1="800" y1="642" x2="800" y2="680"/><line x1="800" y1="708" x2="800" y2="752"/>
+  </g>
+
+  <!-- section legend -->
+  <g stroke="#c3c8d2" stroke-width="1">
+    <line x1="862" y1="218" x2="944" y2="214"/><line x1="886" y1="272" x2="944" y2="268"/>
+    <line x1="874" y1="308" x2="944" y2="304"/><line x1="874" y1="368" x2="944" y2="364"/>
+    <line x1="874" y1="437" x2="944" y2="433"/><line x1="868" y1="480" x2="944" y2="476"/>
+    <line x1="874" y1="565" x2="944" y2="561"/><line x1="874" y1="630" x2="944" y2="629"/>
+    <line x1="812" y1="708" x2="944" y2="708"/>
+  </g>
+  <g font-size="12.5" font-weight="700" fill="#1d2433">
+    <text x="952" y="214">1 · Thread collar + seal</text>
+    <text x="952" y="268">2 · Turbidity window</text>
+    <text x="952" y="304">3 · Stainless pre-filter mesh</text>
+    <text x="952" y="364">4 · Mycelium bio-filter block</text>
+    <text x="952" y="433">5 · Polishing layer (optional)</text>
+    <text x="952" y="476">6 · Flow micro-turbine</text>
+    <text x="952" y="561">7 · UV-C chamber</text>
+    <text x="952" y="629">8 · Post-filter mesh</text>
+    <text x="952" y="704">9 · Drip-control outlet</text>
+  </g>
+  <g font-size="11" fill="#5b6475">
+    <text x="966" y="230">fits standard 28 mm PET necks</text>
+    <text x="966" y="284">visual check, needs no power</text>
+    <text x="966" y="320">catches grit, fibres, big pieces</text>
+    <text x="966" y="380">fungal hyphae trap fine particles</text>
+    <text x="966" y="394">grown in shape, compostable body</text>
+    <text x="966" y="449">chitosan / nanocellulose pad</text>
+    <text x="966" y="492">water flow spins a tiny generator</text>
+    <text x="966" y="506">→ powers the LEDs, no battery</text>
+    <text x="966" y="577">UV-C LEDs + spiral path +</text>
+    <text x="966" y="591">polished aluminium walls</text>
+    <text x="966" y="645">holds media in, nothing drops</text>
+    <text x="966" y="720">slows flow for a longer UV dose</text>
+  </g>
+  <text x="644" y="758" font-size="10.5" fill="#8a91a0" font-style="italic">Schematic, not to scale.</text>
+
+  <!-- ================= PANEL C : CARTRIDGE ================= -->
+  <rect x="1200" y="110" width="370" height="660" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="1224" y="142" font-size="15" font-weight="700" fill="#1d2433">C · Swap the cartridge</text>
+
+  <!-- top unit -->
+  <rect x="1315" y="182" width="140" height="56" fill="url(#gCyl)"/>
+  <ellipse cx="1385" cy="238" rx="70" ry="14" fill="#9aa5ab"/>
+  <ellipse cx="1385" cy="182" rx="70" ry="14" fill="#e6ebee" stroke="#86919a"/>
+  <ellipse cx="1385" cy="182" rx="28" ry="6" fill="#86919a"/>
+  <rect x="1432" y="192" width="10" height="36" rx="4" fill="#d7ecf5" stroke="#7fa9b8"/>
+  <path d="M1300 262 q85 24 170 0" stroke="#1d2433" stroke-width="1.8" fill="none" marker-end="url(#arr)"/>
+  <text x="1480" y="262" font-size="11" fill="#5b6475">twist</text>
+
+  <!-- cartridge -->
+  <rect x="1315" y="306" width="140" height="104" fill="url(#gMyc)"/>
+  <ellipse cx="1385" cy="410" rx="70" ry="14" fill="#c2a980"/>
+  <rect x="1315" y="398" width="140" height="10" fill="#d9d2c2"/>
+  <ellipse cx="1385" cy="306" rx="70" ry="14" fill="url(#mesh)" stroke="#6b7280"/>
+  <g stroke="#b8976a" stroke-width="1" fill="none" opacity="0.8">
+    <path d="M1322 330 q20 -8 40 2 t40 -2 t40 4"/><path d="M1322 356 q24 8 46 -4 t46 6 t20 -4"/><path d="M1322 382 q18 -6 36 2 t40 0 t44 -4"/>
+  </g>
+  <text x="1385" y="362" font-size="12" font-weight="700" fill="#6b4f2a" text-anchor="middle">mycelium</text>
+  <text x="1385" y="377" font-size="10" fill="#6b4f2a" text-anchor="middle">bio-filter</text>
+  <path d="M1300 442 q85 24 170 0" stroke="#1d2433" stroke-width="1.8" fill="none" marker-end="url(#arr)"/>
+  <text x="1480" y="442" font-size="11" fill="#5b6475">twist</text>
+
+  <!-- bottom unit -->
+  <rect x="1315" y="484" width="140" height="80" fill="url(#gCyl)"/>
+  <rect x="1315" y="540" width="140" height="8" fill="#a78bfa" filter="url(#glow)"/>
+  <ellipse cx="1385" cy="564" rx="70" ry="14" fill="#9aa5ab"/>
+  <ellipse cx="1385" cy="484" rx="70" ry="14" fill="url(#mesh)" stroke="#86919a"/>
+  <path d="M1373,574 L1397,574 L1391,600 L1379,600 Z" fill="url(#gCyl)" stroke="#86919a"/>
+
+  <g font-size="11" fill="#5b6475">
+    <text x="1250" y="214" text-anchor="end">collar</text>
+    <text x="1250" y="228" text-anchor="end">+ window</text>
+    <text x="1300" y="360" text-anchor="end">replace</text>
+    <text x="1300" y="374" text-anchor="end">this only</text>
+    <text x="1250" y="520" text-anchor="end">turbine</text>
+    <text x="1250" y="534" text-anchor="end">+ UV + outlet</text>
+  </g>
+
+  <text x="1224" y="636" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">WHEN AND HOW</text>
+  <g font-size="11.5" fill="#5b6475">
+    <text x="1224" y="656">Swap when squeezing gets hard or the window</text>
+    <text x="1224" y="672">stays cloudy (cartridge life still to be tested).</text>
+    <text x="1224" y="694">Metal body, meshes and UV unit are reused.</text>
+    <text x="1224" y="716" font-weight="700" fill="#b4331f">Do not compost used cartridges:</text>
+    <text x="1224" y="732">the mycelium breaks down, but the plastic it</text>
+    <text x="1224" y="748">caught does not. Return or bin them.</text>
+  </g>
+
+  <!-- ================= PANEL D : USE + EVIDENCE ================= -->
+  <rect x="620" y="790" width="950" height="340" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="644" y="822" font-size="15" font-weight="700" fill="#1d2433">D · How to use it, and what each stage really does</text>
+
+  <!-- steps -->
+  <line x1="680" y1="864" x2="1010" y2="864" stroke="#e2ddd2" stroke-width="3"/>
+  <g>
+    <circle cx="680" cy="864" r="24" fill="#eef1f3" stroke="#6b7680" stroke-width="2"/>
+    <rect x="668" y="856" width="24" height="16" rx="3" fill="#b8c1c6"/>
+    <path d="M664 852 q16 -10 32 0" stroke="#1d2433" stroke-width="1.6" fill="none" marker-end="url(#arr)"/>
+    <circle cx="790" cy="864" r="24" fill="#eaf4f9" stroke="#2f80c0" stroke-width="2"/>
+    <rect x="782" y="850" width="16" height="28" rx="6" fill="#a9d6ec"/>
+    <path d="M768 864 l8 0 M812 864 l-8 0" stroke="#1d2433" stroke-width="2"/>
+    <circle cx="900" cy="864" r="24" fill="#f3f7fb" stroke="#7fa9b8" stroke-width="2"/>
+    <path d="M884 864 q16 -14 32 0 q-16 14 -32 0z" fill="#ffffff" stroke="#1d2433" stroke-width="1.6"/>
+    <circle cx="900" cy="864" r="5" fill="#1d2433"/>
+    <circle cx="1010" cy="864" r="24" fill="#ecfdf3" stroke="#16a34a" stroke-width="2"/>
+    <path d="M998 852 L1022 852 L1018 878 L1002 878 Z" fill="#bfe0f0" stroke="#16a34a" stroke-width="1.5"/>
+  </g>
+  <g font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="middle">
+    <text x="680" y="910">1 · Screw on</text><text x="790" y="910">2 · Flip, squeeze</text>
+    <text x="900" y="910">3 · Check window</text><text x="1010" y="910">4 · Drink</text>
+  </g>
+  <g font-size="10.5" fill="#5b6475" text-anchor="middle">
+    <text x="680" y="926">onto a filled bottle</text>
+    <text x="790" y="926">water is pushed</text><text x="790" y="940">through each stage</text>
+    <text x="900" y="926">clear: OK</text><text x="900" y="940">cloudy: filter again</text>
+    <text x="1010" y="926">filtered, UV-treated</text><text x="1010" y="940">water drips out</text>
+  </g>
+
+  <!-- turbidity note -->
+  <rect x="644" y="962" width="430" height="150" rx="10" fill="#fff7e0" stroke="#f0d99a"/>
+  <text x="660" y="984" font-size="12.5" font-weight="700" fill="#1d2433">About the turbidity check</text>
+  <g font-size="11.2" fill="#4a5263">
+    <text x="660" y="1004">The window has a black/white strip seen through the water.</text>
+    <text x="660" y="1020">If the strip looks blurred, the water is cloudy. This needs no power.</text>
+    <text x="660" y="1042" font-weight="700" fill="#92400e">Limit: turbidity measures cloudiness, not plastic.</text>
+    <text x="660" y="1058">Clear water can still hold microplastics; turbidity sensors are</text>
+    <text x="660" y="1074">not microplastic-specific [4]. For a number, a clip-on</text>
+    <text x="660" y="1090">electronic turbidity probe (Arduino-type [5]) can be</text>
+    <text x="660" y="1106">added as an optional accessory.</text>
+  </g>
+
+  <!-- stage table -->
+  <text x="1096" y="866" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">WHAT EACH STAGE REMOVES</text>
+  <rect x="1096" y="876" width="456" height="24" rx="6" fill="#1d2433"/>
+  <g font-size="11" font-weight="700" fill="#ffffff">
+    <text x="1106" y="892">Stage</text><text x="1212" y="892">Removes</text><text x="1380" y="892">Evidence</text>
+  </g>
+  <rect x="1096" y="900" width="456" height="36" fill="#f6f4ef"/>
+  <rect x="1096" y="972" width="456" height="36" fill="#f6f4ef"/>
+  <g font-size="10.8" fill="#1d2433">
+    <text x="1106" y="922" font-weight="600">Steel pre-filter</text>
+    <text x="1212" y="916">grit, fibres, large</text><text x="1212" y="930">microplastics</text>
+    <text x="1380" y="922">standard screening</text>
+
+    <text x="1106" y="958" font-weight="600">Mycelium block</text>
+    <text x="1212" y="952">fine particles that stick</text><text x="1212" y="966">to fungal hyphae</text>
+    <text x="1380" y="952">lab: fungal pellets caught</text><text x="1380" y="966">PS/PMMA, 0.2–5 µm [1][2]</text>
+
+    <text x="1106" y="994" font-weight="600">UV-C chamber</text>
+    <text x="1212" y="988">bacteria and viruses;</text><text x="1212" y="1002" font-weight="700" fill="#b4331f">not plastic</text>
+    <text x="1380" y="988">flow-powered UV shown</text><text x="1380" y="1002">for pipes [3]</text>
+
+    <text x="1106" y="1030" font-weight="600">Post-filter mesh</text>
+    <text x="1212" y="1030">keeps filter bits in</text>
+    <text x="1380" y="1030">n/a</text>
+  </g>
+  <line x1="1096" y1="1044" x2="1552" y2="1044" stroke="#e2ddd2"/>
+  <g font-size="10.8" fill="#8a91a0" font-style="italic">
+    <text x="1096" y="1064">Still to prove: mycelium capture at squeeze-flow speed (the lab work</text>
+    <text x="1096" y="1079">used slow contact), and whether a small turbine gives enough UV-C</text>
+    <text x="1096" y="1094">dose. If not, fall back to a coin cell. UV-C does not remove or</text>
+    <text x="1096" y="1109">destroy microplastics; only the filters do.</text>
+  </g>
+
+  <!-- SOURCES -->
+  <text x="30" y="1162" font-size="11" font-weight="700" fill="#5b6475">Sources</text>
+  <g font-size="10.5" fill="#5b6475">
+    <text x="90" y="1162">[1] Wang, H., Dai, S. et al. (2023). Microplastics removal in the aquatic environment via fungal pelletization. Bioresource Technology Reports.</text>
+    <text x="90" y="1178">[2] Effectiveness of mycofiltration for removal of contaminants from water: a systematic review protocol (2021). Environmental Evidence.</text>
+    <text x="90" y="1194">[3] Innovative microbial water quality management in water distribution systems using in-pipe hydropowered UV disinfection (2024). PubMed ID 39010788.</text>
+    <text x="90" y="1210">[4] Govindarajan et al. (2025). Tracking microplastic pathways: real-time IoT monitoring for water quality and public health. MethodsX 15, 103674.</text>
+    <text x="90" y="1226">[5] Kulkarni, A. (2025). Economical and novel microplastic detection using an Arduino-based turbidity sensor. Preprint, doi:10.22541/au.176252971.19402178/v1.</text>
+  </g>
+</svg>

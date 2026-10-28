@@ -1,0 +1,381 @@
+<title>MPx Boil-Loop 3D</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: full-height workbench — 3D cutaway on the left, the water's route as a numbered list on the right; stacks on phones. */
+:root{
+  --bg:#e9edf0; --panel:#ffffff; --fg:#16202b; --muted:#5a6773; --line:#d3dae0; --chip:#16202b; --chipfg:#ffffff;
+  --cold:#2f80c0; --hot:#e8503a; --warm:#f2a516; --sel:#f3f6f8;
+  --display:"Archivo","Segoe UI",Helvetica,Arial,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0e141a; --panel:#151d25; --fg:#e4ebf0; --muted:#8f9daa; --line:#25303a; --chip:#e4ebf0; --chipfg:#0e141a; --sel:#1c2630; color-scheme:dark } }
+:root[data-theme="dark"]{ --bg:#0e141a; --panel:#151d25; --fg:#e4ebf0; --muted:#8f9daa; --line:#25303a; --chip:#e4ebf0; --chipfg:#0e141a; --sel:#1c2630; color-scheme:dark }
+html,body{height:100%}
+body{background:var(--bg);color:var(--fg);font-family:var(--display);margin:0;overflow:hidden}
+.app{height:100%;display:grid;grid-template-columns:minmax(0,1fr) 360px;grid-template-rows:auto minmax(0,1fr)}
+header{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:10px 20px;padding-block:12px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));border-bottom:1px solid var(--line);background:var(--panel)}
+h1{font-size:17px;font-weight:700;margin:0;letter-spacing:.01em;text-wrap:balance}
+h1 span{font-weight:400;color:var(--muted)}
+.controls{margin-left:auto;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button,.btn{font:500 12.5px var(--display);background:transparent;color:var(--fg);border:0;padding:7px 11px;cursor:pointer}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+.btn{border:1px solid var(--line);border-radius:8px}
+.btn:hover,.seg button:hover{background:var(--sel)}
+.seg button[aria-pressed="true"]:hover{background:var(--fg)}
+button:focus-visible{outline:2px solid var(--cold);outline-offset:2px}
+.stage{position:relative;min-width:0;min-height:0}
+#c{position:absolute;inset:0;width:100%;height:100%;display:block;touch-action:none}
+.labels{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.lab{position:absolute;transform:translate(-50%,-50%);font:600 11px var(--mono);background:var(--chip);color:var(--chipfg);border-radius:999px;min-width:20px;height:20px;display:grid;place-items:center;padding:0 5px;box-shadow:0 1px 4px rgba(0,0,0,.25);transition:opacity .2s}
+.lab.dim{opacity:.25}
+.legend{position:absolute;left:16px;bottom:14px;display:flex;align-items:center;gap:8px;font:500 11px var(--mono);color:var(--muted);background:color-mix(in srgb,var(--panel) 85%,transparent);padding:6px 10px;border-radius:8px;border:1px solid var(--line)}
+.ramp{width:120px;height:8px;border-radius:4px;background:linear-gradient(90deg,#2f80c0,#5bb6e0 18%,#f2c14e 45%,#f2a516 62%,#f26a2e 82%,#e8503a)}
+.hint{position:absolute;right:16px;bottom:14px;font-size:11.5px;color:var(--muted)}
+aside{border-left:1px solid var(--line);background:var(--panel);overflow:auto;padding-block:14px 20px;padding-left:16px;padding-right:max(16px,env(safe-area-inset-right,0px));min-width:0}
+.eyebrow{font:600 10.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:2px 4px 10px}
+ol{list-style:none;margin:0;padding:0;display:grid;gap:4px}
+li button{all:unset;box-sizing:border-box;width:100%;display:grid;grid-template-columns:26px minmax(0,1fr) auto;gap:2px 10px;padding:9px 10px;border-radius:10px;cursor:pointer}
+li button:hover{background:var(--sel)}
+li button:focus-visible{outline:2px solid var(--cold)}
+li button[aria-current="true"]{background:var(--sel);box-shadow:inset 0 0 0 1px var(--line)}
+.n{grid-row:1/3;width:22px;height:22px;border-radius:50%;display:grid;place-items:center;font:600 11px var(--mono);color:#fff;margin-top:1px}
+.t{font-weight:600;font-size:13.5px}
+.temp{font:500 11.5px var(--mono);color:var(--muted);white-space:nowrap;align-self:start;padding-top:2px}
+.d{grid-column:2/4;font-size:12.5px;line-height:1.45;color:var(--muted)}
+li button:not([aria-current="true"]) .d{display:none}
+.note{margin:16px 4px 0;font-size:11.5px;line-height:1.5;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}
+/* capture mode for GIF export */
+body.capture header, body.capture aside, body.capture .hint{display:none}
+body.capture .app{grid-template-columns:1fr;grid-template-rows:1fr}
+.cap{display:none}
+body.capture .cap{display:flex;position:absolute;left:14px;right:14px;top:12px;gap:10px;align-items:flex-start;background:color-mix(in srgb,var(--panel) 92%,transparent);border:1px solid var(--line);border-radius:10px;padding:9px 12px}
+.cap .n{width:24px;height:24px;flex:none}
+.cap b{display:block;font-size:14px}
+.cap span{display:block;font-size:12px;color:var(--muted);line-height:1.4;margin-top:2px}
+body.capture .brand{display:block}
+.brand{display:none;position:absolute;right:14px;bottom:14px;font:600 11px var(--mono);color:var(--muted)}
+@media (max-width:760px){
+  body{overflow:auto}
+  .app{grid-template-columns:1fr;grid-template-rows:auto 62vh auto;height:auto}
+  aside{border-left:0;border-top:1px solid var(--line)}
+  .hint{display:none}
+  .controls{margin-left:0}
+}
+@media (prefers-reduced-motion: reduce){ .lab{transition:none} }
+body.capture{overflow:hidden}
+body.capture .app{grid-template-columns:1fr;grid-template-rows:1fr;height:100%}
+</style>
+
+<div class="app">
+  <header>
+    <h1>MPx Boil-Loop <span>· how the water moves through it</span></h1>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="View">
+        <button id="v-cut" aria-pressed="true">Cutaway</button>
+        <button id="v-xray" aria-pressed="false">X-ray</button>
+        <button id="v-closed" aria-pressed="false">Closed</button>
+      </div>
+      <button class="btn" id="play">Pause flow</button>
+      <button class="btn" id="tour">Play tour</button>
+    </div>
+  </header>
+  <div class="stage">
+    <canvas id="c" aria-label="3D cutaway of the Boil-Loop unit with water flowing through it"></canvas>
+    <div class="labels" id="labels"></div>
+    <div class="cap" id="cap"><div class="n" id="capn"></div><div><b id="capt"></b><span id="capd"></span></div></div>
+    <div class="legend"><span>25°C</span><div class="ramp"></div><span>100°C</span></div>
+    <div class="hint">Drag to orbit · scroll to zoom · click a step</div>
+    <div class="brand">MPx · Boil-Loop concept v0.1</div>
+  </div>
+  <aside>
+    <div class="eyebrow">The water's route</div>
+    <ol id="steps"></ol>
+    <p class="note">Schematic model, not to scale. The body is about 11 cm across and 30 cm tall. Temperatures assume 25°C tap water, ~20 mL/min and an exchanger that recovers 80% of the heat. Lime crusting only works well in hard water.</p>
+  </aside>
+</div>
+
+<script src="../../assets/vendor/three.min.js"></script>
+<script src="../../assets/vendor/OrbitControls.js"></script>
+<script>
+(function(){
+const CAPTURE = location.hash === "#capture";
+if (CAPTURE) document.body.classList.add("capture");
+const D = Math.PI/180;
+const P = (r, deg, y) => new THREE.Vector3(r*Math.sin(deg*D), y, r*Math.cos(deg*D));
+
+/* ---------- stages ---------- */
+const STAGES = [
+ {t:"Inlet jug", temp:"25°C", d:"Untreated tap water runs from the glass jug down a feed tube to the pump.", a:P(4.7,75,37), cam:[[22,40,18],[0,30,0]]},
+ {t:"Pump", temp:"25°C", d:"Pushes about 20 mL/min. It sits on the cold side, so its parts never see hot water.", a:P(4.8,95,4.4), cam:[[18,12,16],[1,6,1]]},
+ {t:"Exchanger, cold side", temp:"25 → 85°C", d:"Climbs the inner tube of a tube-in-tube exchanger and picks up heat from the hot water coming down around it.", a:P(3.75,45,11), cam:[[20,16,22],[2,14,2]]},
+ {t:"Mini-tube heater", temp:"85 → 98°C", d:"A 3 mm steel coil at the top of the insulated core adds the last ~15°C. About 21 W, plus ~10 W lost from the core.", a:P(1.3,45,25.5), cam:[[14,30,16],[0,25,0]]},
+ {t:"Boil coil", temp:"100°C", d:"A wider coil holds the water at a boil for ~4 min. Dissolved lime comes out as solid and crusts around the microplastics. Steam leaves by the top vent.", a:P(1.9,45,14), cam:[[16,18,18],[0,15,0]]},
+ {t:"Lime trap", temp:"~98°C", d:"A riser in the middle of the core lifts the water to a lift-out cartridge under the jug: steel mesh and an 11 µm paper pad. It filters while hot so the lime can't re-dissolve.", a:P(0.1,0,31.4), cam:[[12,38,14],[0,30,0]]},
+ {t:"Exchanger, hot side", temp:"98 → 40°C", d:"Runs down the outer tube, handing its heat to the cold water going up the inner tube. This is where most of the cooling happens.", a:P(4.2,52,22), cam:[[20,24,22],[2,18,2]]},
+ {t:"Body coil to outlet", temp:"40 → ~30°C", d:"A coil pressed into grooves on the inside of the aluminium shell. The fins pass the heat to room air, and the water leaves the spout near room temperature.", a:P(8.2,-17,10), cam:[[24,18,26],[2,14,2]]},
+];
+const NCOL = ["#2f80c0","#2f80c0","#d99a12","#e8503a","#e8503a","#e8503a","#f26a2e","#2f80c0"];
+
+/* ---------- route geometry ---------- */
+function helix(r, y0, y1, turns, a0, n){ const pts=[]; for(let i=0;i<=n;i++){const s=i/n; pts.push(P(r, a0+360*turns*s, y0+(y1-y0)*s));} return pts; }
+const HX=45, HXR=3.75, HOTOFF=5.6;
+const shellA0=60, shellTurns=6+(343-60)/360;
+const segs = [
+  {stage:0, t0:25,t1:25, r:.22, pts:[P(2.6,75,34.2),P(3.6,76,33),P(4.0,78,31.5),P(4.0,78,6.4),P(3.8,82,5.2),P(3.5,85,4.6)]},
+  {stage:1, t0:25,t1:25, r:.22, pts:[P(3.5,85,4.6),P(3.5,85,3.4),P(3.4,70,3.3),P(3.6,55,3.6),P(HXR,HX,4.2)]},
+  {stage:2, t0:25,t1:85, r:.2,  pts:[P(HXR,HX,4.2),P(HXR,HX,16),P(HXR,HX,28.6)]},
+  {stage:3, t0:85,t1:98, r:.18, pts:[P(HXR,HX,28.6),P(2.6,45,29.1),P(1.4,45,28.4)].concat(helix(1.3,28.2,22.4,4,45,160).slice(1))},
+  {stage:4, t0:100,t1:100,r:.32, pts:[P(1.3,45,22.4),P(1.9,60,21.6)].concat(helix(1.9,21.4,7.6,6,75,260).slice(1))},
+  {stage:5, t0:100,t1:98, r:.24, pts:[P(1.9,75,7.6),P(.9,75,7),P(.02,0,7.6),P(.02,0,18),P(.02,0,29.8),P(.02,0,30.9),P(1.4,45,31),P(3.2,HX+HOTOFF,30.4),P(HXR,HX+HOTOFF,29.4)]},
+  {stage:6, t0:98,t1:40, r:.16, pts:[P(HXR,HX+HOTOFF,29.4),P(HXR,HX+HOTOFF,16),P(HXR,HX+HOTOFF,4.6)]},
+  {stage:7, t0:40,t1:30, r:.22, pts:[P(HXR,HX+HOTOFF,4.6),P(4.4,shellA0,4.4),P(4.9,shellA0,5.4),P(4.9,shellA0,16),P(4.9,shellA0,27)].concat(helix(4.9,27,9,shellTurns,shellA0,420).slice(1)).concat([P(6.2,343,9),P(7.6,343,9),P(8.2,343,8.6),P(8.3,343,7.6)])},
+];
+const route=[], routeT=[], routeS=[]; const segStart=[];
+segs.forEach((sg,i)=>{
+  const curve=new THREE.CatmullRomCurve3(sg.pts,false,"centripetal");
+  sg.curve=curve;
+  const n=Math.max(40,Math.ceil(curve.getLength()*6));
+  const pts=curve.getSpacedPoints(n);
+  segStart.push(route.length);
+  pts.forEach((p,k)=>{ if(i>0&&k===0)return; route.push(p); routeT.push(sg.t0+(sg.t1-sg.t0)*k/n); routeS.push(i); });
+});
+const cum=[0]; for(let i=1;i<route.length;i++) cum.push(cum[i-1]+route[i].distanceTo(route[i-1]));
+const TOTAL=cum[cum.length-1];
+
+function tempColor(t){
+  const stops=[[25,0x2f80c0],[35,0x5bb6e0],[55,0xf2c14e],[70,0xf2a516],[88,0xf26a2e],[99,0xe8503a]];
+  if(t<=stops[0][0]) return new THREE.Color(stops[0][1]);
+  for(let i=1;i<stops.length;i++){ if(t<=stops[i][0]){const f=(t-stops[i-1][0])/(stops[i][0]-stops[i-1][0]);return new THREE.Color(stops[i-1][1]).lerp(new THREE.Color(stops[i][1]),f);} }
+  return new THREE.Color(stops[stops.length-1][1]);
+}
+
+/* ---------- renderer / scene ---------- */
+const canvas=document.getElementById("c");
+const renderer=new THREE.WebGLRenderer({canvas,antialias:true,alpha:true,preserveDrawingBuffer:CAPTURE});
+renderer.setPixelRatio(Math.min(2,window.devicePixelRatio||1));
+renderer.outputEncoding=THREE.sRGBEncoding;
+const scene=new THREE.Scene();
+const camera=new THREE.PerspectiveCamera(32,1,.1,500);
+camera.position.set(30,44,80);
+const controls=new THREE.OrbitControls(camera,canvas);
+controls.target.set(0,21,0); controls.enableDamping=true; controls.minDistance=12; controls.maxDistance=110;
+scene.add(new THREE.HemisphereLight(0xffffff,0x8a96a3,.85));
+const key=new THREE.DirectionalLight(0xffffff,.9); key.position.set(25,50,30); scene.add(key);
+const rim=new THREE.DirectionalLight(0xbcd6ff,.45); rim.position.set(-30,20,-25); scene.add(rim);
+
+const M = {
+  alu:new THREE.MeshStandardMaterial({color:0xd5dbdf,metalness:.3,roughness:.38,side:THREE.DoubleSide}),
+  fin:new THREE.MeshStandardMaterial({color:0xaab4bb,metalness:.3,roughness:.45}),
+  dark:new THREE.MeshStandardMaterial({color:0x2b313b,metalness:.4,roughness:.55,side:THREE.DoubleSide}),
+  core:new THREE.MeshStandardMaterial({color:0x3a414d,metalness:.8,roughness:.3,side:THREE.DoubleSide}),
+  liner:new THREE.MeshStandardMaterial({color:0xf3e9db,metalness:.1,roughness:.8,side:THREE.DoubleSide}),
+  glass:new THREE.MeshPhysicalMaterial({color:0xdcefff,metalness:0,roughness:.05,transparent:true,opacity:.22,side:THREE.DoubleSide,depthWrite:false}),
+  water:new THREE.MeshStandardMaterial({color:0x7cc3ea,transparent:true,opacity:.55,roughness:.2,depthWrite:false}),
+  mesh:new THREE.MeshStandardMaterial({color:0xa7b1b8,metalness:.6,roughness:.5,wireframe:true}),
+  paper:new THREE.MeshStandardMaterial({color:0xf2ecdf,roughness:.9}),
+  steel:new THREE.MeshStandardMaterial({color:0xd8dee2,metalness:.4,roughness:.3}),
+  tab:new THREE.MeshStandardMaterial({color:0xe8503a,roughness:.5}),
+};
+const cutStart=Math.PI/2, cutLen=Math.PI*1.5;
+function cyl(r,h,y,mat,cut,seg=64,open=true){const g=new THREE.CylinderGeometry(r,r,h,seg,1,open,cut?cutStart:0,cut?cutLen:Math.PI*2);const m=new THREE.Mesh(g,mat);m.position.y=y+h/2;scene.add(m);return m;}
+
+// base
+const base=cyl(7.4,2,0,M.dark,false,64,false);
+const tray=new THREE.Mesh(new THREE.BoxGeometry(4.6,.6,5.2),M.dark); tray.position.copy(P(9.1,343,2.3)); tray.rotation.y=-17*D; scene.add(tray);
+// shell: cut + full variants
+const shellCut=cyl(5.5,30,2,M.alu,true), shellFull=cyl(5.5,30,2,M.alu.clone(),false);
+shellFull.material.transparent=true;
+const finsCut=new THREE.Group(), finsFull=new THREE.Group();
+for(let k=0;k<32;k++){const a=k*360/32; const g=new THREE.BoxGeometry(.22,29,1.3); const m=new THREE.Mesh(g,M.fin); m.position.copy(P(6.1,a,17)); m.rotation.y=a*D; (a>=90||a===0? null:null); finsFull.add(m.clone()); if(a>=90) finsCut.add(m);}
+scene.add(finsCut,finsFull);
+finsFull.children.forEach(m=>{m.material=M.fin.clone();m.material.transparent=true;});
+// shell inner grooves hint: rings
+// cap
+const capCut=cyl(5.7,1.2,32,M.dark,true,64,false), capFull=cyl(5.7,1.2,32,M.dark.clone(),false,64,false);
+// core (vacuum can)
+const coreO=cyl(2.45,23.6,6,M.core,true), coreI=cyl(2.2,23.2,6.2,M.liner,true);
+const coreTop=new THREE.Mesh(new THREE.RingGeometry(0,2.45,48,1,cutStart,cutLen),M.core); coreTop.rotation.x=-Math.PI/2; coreTop.position.y=29.6; scene.add(coreTop);
+const coreBot=coreTop.clone(); coreBot.position.y=6; scene.add(coreBot);
+// HX outer jacket
+const hxJ=new THREE.Mesh(new THREE.CylinderGeometry(.62,.62,25.6,24,1,true),M.glass.clone()); hxJ.material.opacity=.35; hxJ.material.color.set(0xb8c4cc); hxJ.position.copy(P(HXR,HX+HOTOFF/2,16.8)); scene.add(hxJ);
+// lime trap cartridge
+const cart=new THREE.Group();
+const cMesh=new THREE.Mesh(new THREE.CylinderGeometry(1.9,1.9,1.5,32,4,true),M.mesh); cart.add(cMesh);
+const cPad=new THREE.Mesh(new THREE.CylinderGeometry(1.7,1.7,.12,32),M.paper); cPad.position.y=-.3; cart.add(cPad);
+const cRim=new THREE.Mesh(new THREE.TorusGeometry(1.9,.1,8,40),M.steel); cRim.rotation.x=Math.PI/2; cRim.position.y=.75; cart.add(cRim);
+const cTab=new THREE.Mesh(new THREE.BoxGeometry(.5,.25,1),M.tab); cTab.position.set(0,.85,2.1); cart.add(cTab);
+cart.position.y=30.9; scene.add(cart);
+// lime flakes in cartridge
+const flakeG=new THREE.SphereGeometry(.07,6,6), flakeM=new THREE.MeshStandardMaterial({color:0xf6f1e4,roughness:1});
+const flakes=new THREE.InstancedMesh(flakeG,flakeM,60); const dm=new THREE.Object3D();
+for(let i=0;i<60;i++){const a=i*137.5,r=.3+1.3*((i*0.618)%1); dm.position.set(r*Math.sin(a*D),30.7+((i*7)%10)/30,r*Math.cos(a*D)); dm.updateMatrix(); flakes.setMatrixAt(i,dm.matrix);} scene.add(flakes);
+// pump
+const pump=new THREE.Group();
+const pb=new THREE.Mesh(new THREE.CylinderGeometry(.85,.85,1.8,24),M.steel); pump.add(pb);
+const pm=new THREE.Mesh(new THREE.BoxGeometry(1.5,1.2,1.5),M.dark); pm.position.y=-1.2; pump.add(pm);
+pump.position.copy(P(3.5,85,4.4)); pump.scale.setScalar(.75); scene.add(pump);
+// jug
+const jug=cyl(4,9.6,33.2,M.glass,false,64,false);
+const jw=cyl(3.85,5.6,33.3,M.water,false,48,false);
+const handle=new THREE.Mesh(new THREE.TorusGeometry(2.4,.3,12,32,Math.PI),M.glass.clone()); handle.material.opacity=.45; handle.position.copy(P(4,270,38)); handle.rotation.z=-Math.PI/2; handle.rotation.y=Math.PI/2; scene.add(handle);
+const jlid=cyl(4.15,.5,42.8,M.dark,false,48,false);
+// steam vent pipe
+const vent=new THREE.Mesh(new THREE.TubeGeometry(new THREE.CatmullRomCurve3([P(1.5,285,29.4),P(3,285,30.2),P(4.5,285,31.5),P(4.6,285,33.8)]),40,.15,8),M.steel); scene.add(vent);
+const ventCap=new THREE.Mesh(new THREE.CylinderGeometry(.35,.35,.4,16),M.dark); ventCap.position.copy(P(4.6,285,34)); scene.add(ventCap);
+// cup
+const cupG=cyl(1.8,4.6,2.6,M.glass,false,40,false); cupG.position.x=P(9.1,343,0).x; cupG.position.z=P(9.1,343,0).z;
+const cupW=cyl(1.7,2.4,2.65,M.water,false,32,false); cupW.position.x=cupG.position.x; cupW.position.z=cupG.position.z;
+// status ring
+const ring=new THREE.Mesh(new THREE.TorusGeometry(1.1,.14,10,40),new THREE.MeshBasicMaterial({color:0x38bdf8})); ring.position.copy(P(5.62,318,24)); ring.lookAt(P(20,318,24)); scene.add(ring);
+const disp=new THREE.Mesh(new THREE.CircleGeometry(1,32),new THREE.MeshStandardMaterial({color:0x15191f,roughness:.3})); disp.position.copy(P(5.6,318,24)); disp.lookAt(P(20,318,24)); scene.add(disp);
+
+/* tubes */
+const tubeMeshes=segs.map(sg=>{
+  const n=Math.ceil(sg.curve.getLength()*4);
+  const m=new THREE.Mesh(new THREE.TubeGeometry(sg.curve,n,sg.r,10,false),new THREE.MeshStandardMaterial({color:0xcfd6db,metalness:.5,roughness:.3,transparent:true,opacity:.28,depthWrite:false}));
+  scene.add(m); return m;
+});
+
+/* particles */
+const SPACING=.42, NP=Math.floor(TOTAL/SPACING);
+const pG=new THREE.SphereGeometry(.17,8,6);
+const pMat=new THREE.MeshBasicMaterial({color:0xffffff});
+const parts=new THREE.InstancedMesh(pG,pMat,NP); parts.instanceMatrix.setUsage(THREE.DynamicDrawUsage);
+for(let i=0;i<NP;i++) parts.setColorAt(i,new THREE.Color(1,1,1));
+scene.add(parts);
+// boil bubbles + steam
+const NB=70, bub=new THREE.InstancedMesh(new THREE.SphereGeometry(.09,6,5),new THREE.MeshBasicMaterial({color:0xffffff,transparent:true,opacity:.9}),NB); scene.add(bub);
+const NS=40, steam=new THREE.InstancedMesh(new THREE.SphereGeometry(.35,8,6),new THREE.MeshBasicMaterial({color:0xe9eef2,transparent:true,opacity:.45,depthWrite:false}),NS); scene.add(steam);
+
+function locate(s){ // binary search position along route
+  let lo=0,hi=cum.length-1; while(hi-lo>1){const m=(lo+hi)>>1; if(cum[m]<=s)lo=m; else hi=m;}
+  const f=(s-cum[lo])/((cum[hi]-cum[lo])||1);
+  return {i:lo,f};
+}
+const tmpV=new THREE.Vector3(), tmpC=new THREE.Color(), grey=new THREE.Color(0x9aa3ab), obj=new THREE.Object3D();
+let selected=-1;
+const SPEED=7; // cm per second, visual
+function updateParticles(time){
+  const shift=(time*SPEED)%TOTAL;
+  for(let k=0;k<NP;k++){
+    let s=(k*SPACING+shift)%TOTAL;
+    const {i,f}=locate(s);
+    tmpV.copy(route[i]).lerp(route[Math.min(i+1,route.length-1)],f);
+    const st=routeS[i];
+    const on = selected<0 || st===selected;
+    obj.position.copy(tmpV); obj.scale.setScalar(on?1:.6); obj.updateMatrix(); parts.setMatrixAt(k,obj.matrix);
+    tmpC.copy(tempColor(routeT[i]*(1-f)+routeT[Math.min(i+1,route.length-1)]*f));
+    if(!on) tmpC.lerp(grey,.75);
+    tmpC.convertSRGBToLinear();
+    parts.setColorAt(k,tmpC);
+  }
+  parts.instanceMatrix.needsUpdate=true; parts.instanceColor.needsUpdate=true;
+  // bubbles ride inside boil coil with jitter
+  const b0=segStart[4], b1=segStart[5];
+  const L0=cum[b0], L1=cum[b1];
+  for(let k=0;k<NB;k++){
+    const s=L0+((k/NB)*(L1-L0)+time*SPEED*1.15)%(L1-L0);
+    const {i,f}=locate(s); tmpV.copy(route[i]).lerp(route[i+1]||route[i],f);
+    const w=time*9+k*2.3; tmpV.x+=.17*Math.sin(w); tmpV.y+=.17*Math.cos(w*1.3); tmpV.z+=.17*Math.cos(w);
+    obj.position.copy(tmpV); obj.scale.setScalar((selected<0||selected===4)?1:.001); obj.updateMatrix(); bub.setMatrixAt(k,obj.matrix);
+  }
+  bub.instanceMatrix.needsUpdate=true;
+  const vtop=P(4.6,285,34.2);
+  for(let k=0;k<NS;k++){
+    const ph=((k/NS)+time*.18)%1;
+    obj.position.set(vtop.x+Math.sin(k*1.7+time)*ph*1.2, vtop.y+ph*7, vtop.z+Math.cos(k*2.1)*ph*1.2);
+    obj.scale.setScalar(.4+ph*1.6); obj.updateMatrix(); steam.setMatrixAt(k,obj.matrix);
+  }
+  steam.instanceMatrix.needsUpdate=true; steam.material.opacity=.35;
+}
+
+/* view modes */
+let view="cut";
+function setView(v){
+  view=v;
+  const cut=v==="cut";
+  [shellCut,finsCut,capCut].forEach(o=>o.visible=cut);
+  [shellFull,finsFull,capFull].forEach(o=>o.visible=!cut);
+  const op=v==="xray"?.13:1;
+  shellFull.material.opacity=op; shellFull.material.depthWrite=v!=="xray";
+  finsFull.children.forEach(m=>{m.material.opacity=v==="xray"?.1:1; m.material.depthWrite=v!=="xray";});
+  capFull.material.transparent=v==="xray"; capFull.material.opacity=v==="xray"?.2:1;
+  [["v-cut","cut"],["v-xray","xray"],["v-closed","closed"]].forEach(([id,k])=>document.getElementById(id).setAttribute("aria-pressed",String(k===v)));
+}
+["cut","xray","closed"].forEach(k=>document.getElementById("v-"+(k)).addEventListener("click",()=>setView(k)));
+setView("cut");
+
+/* stage list + labels */
+const ol=document.getElementById("steps"), labels=document.getElementById("labels");
+const labEls=STAGES.map((s,i)=>{const e=document.createElement("div");e.className="lab";e.textContent=i+1;labels.appendChild(e);return e;});
+const btns=STAGES.map((s,i)=>{
+  const li=document.createElement("li"); const b=document.createElement("button"); b.id="step-"+(i+1);
+  b.innerHTML=`<span class="n" style="background:${NCOL[i]}">${i+1}</span><span class="t">${s.t}</span><span class="temp">${s.temp}</span><span class="d">${s.d}</span>`;
+  b.addEventListener("click",()=>{stopTour(); select(selected===i?-1:i,true);});
+  li.appendChild(b); ol.appendChild(li); return b;
+});
+let camTween=null;
+function scaleCam(p,t){return [t[0]+(p[0]-t[0])*1.6,t[1]+(p[1]-t[1])*1.6,t[2]+(p[2]-t[2])*1.6];}
+function select(i,move){
+  selected=i;
+  btns.forEach((b,k)=>b.setAttribute("aria-current",String(k===i)));
+  labEls.forEach((e,k)=>e.classList.toggle("dim",i>=0&&k!==i));
+  tubeMeshes.forEach((m,k)=>{m.material.opacity=(i<0||segs[k].stage===i)?.32:.1;});
+  if(move){
+    const c=i<0?[[30,44,80],[0,21,0]]:STAGES[i].cam.map((v,j)=>j===0?scaleCam(v,STAGES[i].cam[1]):v);
+    camTween={t:0,p0:camera.position.clone(),q0:controls.target.clone(),p1:new THREE.Vector3(...c[0]),q1:new THREE.Vector3(...c[1])};
+  }
+  if(CAPTURE&&i>=0){document.getElementById("capn").textContent=i+1;document.getElementById("capn").style.background=NCOL[i];document.getElementById("capt").textContent=STAGES[i].t+"  ·  "+STAGES[i].temp;document.getElementById("capd").textContent=STAGES[i].d;}
+}
+
+/* play / tour */
+let playing=!window.matchMedia("(prefers-reduced-motion: reduce)").matches, tourOn=false, tourTimer=0;
+const playBtn=document.getElementById("play"), tourBtn=document.getElementById("tour");
+function syncPlay(){playBtn.textContent=playing?"Pause flow":"Play flow";}
+syncPlay();
+playBtn.addEventListener("click",()=>{playing=!playing;syncPlay();});
+function stopTour(){tourOn=false;tourBtn.textContent="Play tour";}
+tourBtn.addEventListener("click",()=>{ if(tourOn){stopTour();select(-1,true);return;} tourOn=true;tourTimer=0;playing=true;syncPlay();tourBtn.textContent="Stop tour";select(0,true);});
+controls.addEventListener("start",()=>{camTween=null;});
+
+/* resize + labels */
+function resize(){
+  const r=canvas.parentElement.getBoundingClientRect();
+  renderer.setSize(r.width,r.height,false); camera.aspect=r.width/r.height; camera.updateProjectionMatrix();
+}
+window.addEventListener("resize",resize); resize();
+const pv=new THREE.Vector3();
+function placeLabels(){
+  const w=canvas.clientWidth,h=canvas.clientHeight;
+  STAGES.forEach((s,i)=>{pv.copy(s.a).project(camera); const e=labEls[i];
+    e.style.left=((pv.x+1)/2*w)+"px"; e.style.top=((1-pv.y)/2*h)+"px"; e.style.visibility=pv.z<1?"visible":"hidden";});
+}
+
+/* loop */
+let time=0,last=performance.now();
+function frame(now){
+  const dt=Math.min(.05,(now-last)/1000); last=now;
+  if(playing) time+=dt;
+  if(tourOn){tourTimer+=dt; if(tourTimer>5){tourTimer=0; const n=selected+1; if(n>=STAGES.length){stopTour();select(-1,true);} else select(n,true);}}
+  if(camTween){camTween.t=Math.min(1,camTween.t+Math.max(dt,1/30)/1.1); const e=camTween.t<.5?2*camTween.t*camTween.t:1-Math.pow(-2*camTween.t+2,2)/2;
+    camera.position.lerpVectors(camTween.p0,camTween.p1,e); controls.target.lerpVectors(camTween.q0,camTween.q1,e); if(camTween.t>=1)camTween=null;}
+  controls.update(); updateParticles(time); placeLabels(); renderer.render(scene,camera);
+  requestAnimationFrame(frame);
+}
+if(!CAPTURE) requestAnimationFrame(frame);
+
+/* deterministic frame for GIF capture: u in [0,1) */
+window.__frame=function(u,period){
+  const ang=(22+30*Math.sin(2*Math.PI*u))*D, R=88;
+  const st=Math.floor(u*STAGES.length)%STAGES.length; select(st,false);
+  camera.position.set(R*Math.sin(ang),46,R*Math.cos(ang)); controls.target.set(0,24.5,0); camera.lookAt(controls.target);
+  updateParticles(u*period); placeLabels(); renderer.render(scene,camera);
+};
+window.__meta={SPACING,SPEED};
+})();
+</script>

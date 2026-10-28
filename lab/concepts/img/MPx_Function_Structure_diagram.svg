@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1258" viewBox="0 0 1900 1258">
+<rect x="0" y="0" width="1900" height="1170" fill="#ffffff"/>
+<defs>
+<marker id="arrM" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="rgb(31,56,100)"/>
+</marker>
+<marker id="arrS" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="rgb(151,110,28)"/>
+</marker>
+<marker id="arrE" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="rgb(120,140,168)"/>
+</marker>
+</defs>
+<text x="950.0" y="42" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">MPx — Function Structure</text>
+<text x="950.0" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">CED Module 6 (Pahl &amp; Beitz, 2007) — built from the SNPS, overall I/O and the 22-item Requirements List</text>
+<text x="70" y="94" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" fill="rgb(151,110,28)" text-anchor="start">PROCESS FUNCTION STRUCTURE</text>
+<text x="70" y="110" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="start">the user's use-process, step by step</text>
+<rect x="90.0" y="120" width="270" height="56" rx="6" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1"/>
+<text x="225.0" y="143" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Fill device</text>
+<text x="225.0" y="161" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">with water</text>
+<line x1="360.0" y1="148.0" x2="380.0" y2="148.0" stroke="rgb(75,74,67)" stroke-width="1.5"/>
+<path d="M360.0,148.0 L376.0,148.0" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="380.0" y="120" width="270" height="56" rx="6" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1"/>
+<text x="515.0" y="143" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Device samples</text>
+<text x="515.0" y="161" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">&amp; detects MPs</text>
+<line x1="650.0" y1="148.0" x2="670.0" y2="148.0" stroke="rgb(75,74,67)" stroke-width="1.5"/>
+<path d="M650.0,148.0 L666.0,148.0" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="670.0" y="120" width="270" height="56" rx="6" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1"/>
+<text x="805.0" y="143" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Water is</text>
+<text x="805.0" y="161" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">filtered</text>
+<line x1="940.0" y1="148.0" x2="960.0" y2="148.0" stroke="rgb(75,74,67)" stroke-width="1.5"/>
+<path d="M940.0,148.0 L956.0,148.0" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="960.0" y="120" width="270" height="56" rx="6" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1"/>
+<text x="1095.0" y="143" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Result is</text>
+<text x="1095.0" y="161" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">indicated</text>
+<line x1="1230.0" y1="148.0" x2="1250.0" y2="148.0" stroke="rgb(75,74,67)" stroke-width="1.5"/>
+<path d="M1230.0,148.0 L1246.0,148.0" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="1250.0" y="120" width="270" height="56" rx="6" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1"/>
+<text x="1385.0" y="143" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Replace filter /</text>
+<text x="1385.0" y="161" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">empty chamber</text>
+<line x1="1520.0" y1="148.0" x2="1540.0" y2="148.0" stroke="rgb(75,74,67)" stroke-width="1.5"/>
+<path d="M1520.0,148.0 L1536.0,148.0" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="1540.0" y="120" width="270" height="56" rx="6" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1"/>
+<text x="1675.0" y="143" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Dispose spent</text>
+<text x="1675.0" y="161" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">filter safely</text>
+<rect x="500.0" y="210" width="900" height="66" rx="7" fill="rgb(31,56,100)" stroke="none" stroke-width="0"/>
+<text x="950.0" y="248.0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="rgb(255,255,255)" text-anchor="middle">Overall function (Level 0) — “Detect – Separate – Contain”</text>
+<text x="950.0" y="266" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(220,228,240)" text-anchor="middle">Input: untreated water, unknown MP content  →  Output: water confirmed free of/reduced in MPs + a reading + captured MPs safely contained</text>
+<text x="18.0" y="340" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="rgb(151,110,28)" text-anchor="start">SIGNAL FLOW</text>
+<rect x="404.0" y="354" width="340" height="74" rx="7" fill="rgb(238,242,248)" stroke="rgb(185,198,220)" stroke-width="1.5"/>
+<text x="574.0" y="381" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">Receive sensor</text>
+<text x="574.0" y="398" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">signal</text>
+<text x="574.0" y="418" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">6.2 · D</text>
+<path d="M744.0,391.0 L776.0,391.0" fill="none" stroke="rgb(151,110,28)" stroke-width="2" stroke-dasharray="7,5" marker-end="url(#arrS)"/>
+<rect x="780.0" y="354" width="340" height="74" rx="7" fill="rgb(238,242,248)" stroke="rgb(185,198,220)" stroke-width="1.5"/>
+<text x="950.0" y="381" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">Process &amp; classify</text>
+<text x="950.0" y="398" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">signal (count / size)</text>
+<text x="950.0" y="418" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">6.2 · D</text>
+<path d="M1120.0,391.0 L1152.0,391.0" fill="none" stroke="rgb(151,110,28)" stroke-width="2" stroke-dasharray="7,5" marker-end="url(#arrS)"/>
+<rect x="1156.0" y="354" width="340" height="74" rx="7" fill="rgb(238,242,248)" stroke="rgb(185,198,220)" stroke-width="1.5"/>
+<text x="1326.0" y="381" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">Indicate signal</text>
+<text x="1326.0" y="398" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">(display / alert)</text>
+<text x="1326.0" y="418" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">4.1 D · 5.3 W · 4.2 D</text>
+<path d="M1496.0,391.0 L1528.0,391.0" fill="none" stroke="rgb(151,110,28)" stroke-width="2" stroke-dasharray="7,5" marker-end="url(#arrS)"/>
+<rect x="1532.0" y="354" width="340" height="74" rx="7" fill="rgb(238,242,248)" stroke="rgb(216,212,198)" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="1702.0" y="381" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">Store signal</text>
+<text x="1702.0" y="398" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">(optional local log)</text>
+<text x="1702.0" y="418" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">wish — not in RL</text>
+<text x="18.0" y="504" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="rgb(31,56,100)" text-anchor="start">MAIN MATERIAL FLOW (WATER) — Level 1</text>
+<rect x="28.0" y="520" width="340" height="96" rx="8" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1"/>
+<text x="198.0" y="554" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="rgb(75,74,67)" text-anchor="middle">Receive</text>
+<text x="198.0" y="574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="rgb(75,74,67)" text-anchor="middle">untreated water</text>
+<path d="M368.0,568.0 L400.0,568.0" fill="none" stroke="rgb(31,56,100)" stroke-width="3.2" marker-end="url(#arrM)"/>
+<rect x="404.0" y="520" width="340" height="96" rx="8" fill="rgb(251,241,222)" stroke="rgb(217,164,65)" stroke-width="1.8"/>
+<text x="574.0" y="554" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">Detect MP</text>
+<text x="574.0" y="574" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">presence</text>
+<text x="574.0" y="604" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">6.2 D · 1.2 W · 4.1 D</text>
+<path d="M744.0,568.0 L776.0,568.0" fill="none" stroke="rgb(31,56,100)" stroke-width="3.2" marker-end="url(#arrM)"/>
+<rect x="780.0" y="520" width="340" height="96" rx="8" fill="rgb(251,241,222)" stroke="rgb(217,164,65)" stroke-width="1.8"/>
+<text x="950.0" y="554" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">Separate &amp;</text>
+<text x="950.0" y="574" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">remove MPs</text>
+<text x="950.0" y="604" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">6.1 D · 3.2 D · 2.1 D · 1.1 D · 6.4 D · 9.1/7.1/4.2 D</text>
+<path d="M1120.0,568.0 L1152.0,568.0" fill="none" stroke="rgb(31,56,100)" stroke-width="3.2" marker-end="url(#arrM)"/>
+<rect x="1156.0" y="520" width="340" height="96" rx="8" fill="rgb(251,241,222)" stroke="rgb(217,164,65)" stroke-width="1.8"/>
+<text x="1326.0" y="554" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">Contain captured</text>
+<text x="1326.0" y="574" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="rgb(31,56,100)" text-anchor="middle">particles</text>
+<text x="1326.0" y="604" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">10.2 D · 3.1 D · 3.4 D · 10.1 W · 3.3/3.5 W</text>
+<path d="M1496.0,568.0 L1528.0,568.0" fill="none" stroke="rgb(31,56,100)" stroke-width="3.2" marker-end="url(#arrM)"/>
+<rect x="1532.0" y="520" width="340" height="96" rx="8" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1"/>
+<text x="1702.0" y="554" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="rgb(75,74,67)" text-anchor="middle">Deliver</text>
+<text x="1702.0" y="574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="rgb(75,74,67)" text-anchor="middle">treated water</text>
+<text x="1702.0" y="604" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">6.3 D</text>
+<path d="M574.0,520 L574.0,436 L574.0,436 L574.0,428" fill="none" stroke="rgb(151,110,28)" stroke-width="2" stroke-dasharray="7,5" marker-end="url(#arrS)"/>
+<text x="18.0" y="664" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="rgb(90,105,130)" text-anchor="start">ENERGY FLOW</text>
+<rect x="762.0" y="676" width="376" height="62" rx="7" fill="rgb(238,242,248)" stroke="rgb(185,198,220)" stroke-width="1.5"/>
+<text x="950.0" y="702" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(60,80,110)" text-anchor="middle">Supply / convert electrical energy</text>
+<text x="950.0" y="720" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" fill="rgb(75,74,67)" text-anchor="middle">(battery or mains — form-factor dependent, see Requirements List)</text>
+<path d="M792.0,676 L792.0,656 L574.0,656 L574.0,620" fill="none" stroke="rgb(120,140,168)" stroke-width="2" marker-end="url(#arrE)"/>
+<path d="M1108.0,676 L1108.0,656 L950.0,656 L950.0,620" fill="none" stroke="rgb(120,140,168)" stroke-width="2" marker-end="url(#arrE)"/>
+<text x="18.0" y="778" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="rgb(31,56,100)" text-anchor="start">LEVEL 2 DETAIL — the three solution-determining sub-functions</text>
+<rect x="396.0" y="788" width="356" height="262" rx="9" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="574.0" y="808" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" fill="rgb(151,110,28)" text-anchor="middle">DETECT — zoomed in</text>
+<rect x="412.0" y="820" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="574.0" y="837.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Sample water</text>
+<text x="574.0" y="853.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">non-invasively</text>
+<path d="M574.0,860 L574.0,869" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="412.0" y="872" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="574.0" y="896.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Illuminate sample</text>
+<path d="M574.0,912 L574.0,921" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="412.0" y="924" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="574.0" y="941.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Sense optical /</text>
+<text x="574.0" y="957.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">fluorescence response</text>
+<path d="M574.0,964 L574.0,973" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="412.0" y="976" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="574.0" y="993.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Convert to</text>
+<text x="574.0" y="1009.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">electrical signal</text>
+<path d="M574.0,616 L574.0,788" fill="none" stroke="rgb(217,164,65)" stroke-width="1.5" stroke-dasharray="3,3"/>
+<rect x="772.0" y="788" width="356" height="262" rx="9" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="950.0" y="808" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" fill="rgb(151,110,28)" text-anchor="middle">SEPARATE — zoomed in</text>
+<rect x="788.0" y="820" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="950.0" y="837.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Channel water through</text>
+<text x="950.0" y="853.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">filter media</text>
+<path d="M950.0,860 L950.0,869" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="788.0" y="872" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="950.0" y="889.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Retain particles ≥</text>
+<text x="950.0" y="905.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">defined pore size</text>
+<path d="M950.0,912 L950.0,921" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="788.0" y="924" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="950.0" y="941.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Prevent secondary</text>
+<text x="950.0" y="957.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">MP shedding</text>
+<path d="M950.0,964 L950.0,973" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="788.0" y="976" width="324" height="40" rx="6" fill="rgb(253,237,231)" stroke="rgb(196,110,80)" stroke-width="1.3" stroke-dasharray="4,3"/>
+<text x="950.0" y="993.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(140,58,30)" text-anchor="middle">Inactivate pathogens</text>
+<text x="950.0" y="1009.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(140,58,30)" text-anchor="middle">(open scope Q — see note)</text>
+<path d="M950.0,616 L950.0,788" fill="none" stroke="rgb(217,164,65)" stroke-width="1.5" stroke-dasharray="3,3"/>
+<rect x="1148.0" y="788" width="356" height="262" rx="9" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="1326.0" y="808" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" fill="rgb(151,110,28)" text-anchor="middle">CONTAIN — zoomed in</text>
+<rect x="1164.0" y="820" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="1326.0" y="837.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Transfer retained particles</text>
+<text x="1326.0" y="853.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">to containment volume</text>
+<path d="M1326.0,860 L1326.0,869" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="1164.0" y="872" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="1326.0" y="889.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Seal / contain</text>
+<text x="1326.0" y="905.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">particles</text>
+<path d="M1326.0,912 L1326.0,921" fill="none" stroke="rgb(75,74,67)" stroke-width="1.5" marker-end="url(#arrE)"/>
+<rect x="1164.0" y="924" width="324" height="40" rx="6" fill="#ffffff" stroke="rgb(216,212,198)" stroke-width="1.3"/>
+<text x="1326.0" y="941.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">Enable tool-free</text>
+<text x="1326.0" y="957.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(32,32,28)" text-anchor="middle">safe removal</text>
+<path d="M1326.0,616 L1326.0,788" fill="none" stroke="rgb(217,164,65)" stroke-width="1.5" stroke-dasharray="3,3"/>
+<text x="18.0" y="1080" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="rgb(32,32,28)" text-anchor="start">LEGEND</text>
+<line x1="28.0" y1="1098" x2="78.0" y2="1098" stroke="rgb(31,56,100)" stroke-width="3"/>
+<text x="88.0" y="1102" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(32,32,28)" text-anchor="start">Material flow (water)</text>
+<line x1="358.0" y1="1098" x2="408.0" y2="1098" stroke="rgb(151,110,28)" stroke-width="2.5" stroke-dasharray="7,5"/>
+<text x="418.0" y="1102" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(32,32,28)" text-anchor="start">Signal flow (detection data)</text>
+<line x1="688.0" y1="1098" x2="738.0" y2="1098" stroke="rgb(120,140,168)" stroke-width="3"/>
+<text x="748.0" y="1102" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(32,32,28)" text-anchor="start">Energy flow</text>
+<rect x="28.0" y="1124" width="26" height="18" rx="4" fill="rgb(251,241,222)" stroke="rgb(217,164,65)" stroke-width="1.5"/>
+<text x="64.0" y="1138" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(32,32,28)" text-anchor="start">Main solution-determining function</text>
+<rect x="448.0" y="1124" width="26" height="18" rx="4" fill="rgb(248,250,252)" stroke="rgb(216,212,198)" stroke-width="1.5"/>
+<text x="484.0" y="1138" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(32,32,28)" text-anchor="start">Boundary / interface function</text>
+<rect x="868.0" y="1124" width="26" height="18" rx="4" fill="rgb(238,242,248)" stroke="rgb(185,198,220)" stroke-width="1.5"/>
+<text x="904.0" y="1138" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(32,32,28)" text-anchor="start">Auxiliary signal-processing function</text>
+<rect x="28.0" y="1164" width="1844" height="64" rx="8" fill="rgb(253,237,231)" stroke="rgb(196,110,80)" stroke-width="1.5"/>
+<text x="46.0" y="1188" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="rgb(140,58,30)" text-anchor="start">Open scope question — flagged, not yet resolved:</text>
+<text x="46.0" y="1208" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(140,58,30)" text-anchor="start">Requirement 6.4 (≥99.99% bacteria/virus/protozoa removal) implies a disinfection sub-function inside SEPARATE — but Presentation 1 (slide 22)</text>
+<text x="46.0" y="1222" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="rgb(140,58,30)" text-anchor="start">scoped “purification” (coagulation + disinfection) as the existing RO/UV system's job, not this device's. Team should confirm before ideation.</text>
+</svg>

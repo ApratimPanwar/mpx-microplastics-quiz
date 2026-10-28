@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1600 1100" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="mpx-input-output-requirements-title mpx-input-output-requirements-desc">
+<title id="mpx-input-output-requirements-title">SNPS 1 — Detect &amp; Remove: Input / Output States</title>
+<desc id="mpx-input-output-requirements-desc">Problem analysis slide showing the input state (untreated drinking water), the critical and numerical technical requirements bridging it, and the output state (treated water with detection result), grounding the process function structure for the MPx microplastic detection and filtration device.</desc>
+<defs>
+<style>
+  text { font-family: Georgia, 'Times New Roman', serif; }
+  .eyebrow { font-family: 'Courier New', Consolas, monospace; font-size: 13px; letter-spacing: 2px; fill: #B5523A; }
+  .h1 { font-family: Georgia, serif; font-size: 34px; font-weight: bold; fill: #1F2937; }
+  .h2 { font-family: Helvetica, Arial, sans-serif; font-size: 16px; fill: #6B7280; }
+  .snps { font-family: Helvetica, Arial, sans-serif; font-style: italic; font-size: 14.5px; fill: #1F2937; }
+  .hairline { stroke: #E5E7EB; stroke-width: 1; }
+  .colhead { font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: bold; letter-spacing: 0.5px; }
+  .prose { font-family: Helvetica, Arial, sans-serif; font-size: 15px; fill: #1F2937; }
+  .reqtext { font-family: Helvetica, Arial, sans-serif; font-size: 14.5px; fill: #1F2937; }
+  .reqid { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #A08434; }
+  .footer { font-family: Helvetica, Arial, sans-serif; font-size: 11.5px; fill: #6B7280; }
+</style>
+<marker id="arrowhead" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+  <polygon points="0 0, 10 4, 0 8" fill="#9CA3AF"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="1600" height="1100" fill="#FFFFFF"/>
+<text x="60" y="56" class="eyebrow">CONCEPTUAL DESIGN · CED MODULE 5–6 · PROBLEM ANALYSIS</text>
+<text x="60" y="110" class="h1">SNPS 1 — Detect &amp; Remove</text>
+<text x="60" y="146" class="h2">Input / Output states of the process function structure, bridged by the critical numerical requirements</text>
+<line x1="60" y1="176" x2="1540" y2="176" class="hairline"/>
+<text x="60" y="204" class="snps">SNPS: To design a system for personal drinking water that allows detection of microplastic presence, enables removal of the detected particles, and allows safe containment of what is captured.</text>
+<rect x="60" y="300" width="380" height="670" rx="14" fill="#EAF3FC" stroke="#BFDBF7" stroke-width="1.5"/>
+<rect x="60" y="300" width="380" height="56" rx="14" fill="#2E6DA4"/>
+<rect x="60" y="342" width="380" height="14" fill="#2E6DA4"/>
+<text x="250" y="336" text-anchor="middle" class="colhead" fill="#FFFFFF">INPUT STATE</text>
+<text x="250" y="402" text-anchor="middle" class="prose">Untreated drinking water of</text>
+<text x="250" y="432" text-anchor="middle" class="prose">unknown microplastic content,</text>
+<text x="250" y="462" text-anchor="middle" class="prose">drawn by a person who needs 1–3 L</text>
+<text x="250" y="492" text-anchor="middle" class="prose">per day across several servings —</text>
+<text x="250" y="522" text-anchor="middle" class="prose">often after already passing</text>
+<text x="250" y="552" text-anchor="middle" class="prose">through an existing RO/UV system</text>
+<text x="250" y="582" text-anchor="middle" class="prose">that does not detect or remove</text>
+<text x="250" y="612" text-anchor="middle" class="prose">microplastic contamination.</text>
+<rect x="480" y="300" width="620" height="670" rx="14" fill="#FFFFFF" stroke="#F0DFA3" stroke-width="1.5"/>
+<rect x="480" y="300" width="620" height="56" rx="14" fill="#B8860B"/>
+<rect x="480" y="342" width="620" height="14" fill="#B8860B"/>
+<text x="790" y="336" text-anchor="middle" class="colhead" fill="#FFFFFF">CRITICAL &amp; NUMERICAL TECHNICAL REQUIREMENTS</text>
+<text x="506" y="381.84" class="reqtext">Remove ≥ 90% of microplastics (1 µm–5 mm) by count — stretch ≥</text>
+<text x="506" y="403.84" class="reqtext">99%</text>
+<text x="1076" y="393" text-anchor="end" class="reqid">[10.1]</text>
+<rect x="480" y="420" width="620" height="46" fill="#FBEBBE"/>
+<line x1="480" y1="420" x2="1100" y2="420" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="447.84" class="reqtext">Resolve particles optically down to ≈ 10 µm</text>
+<text x="1076" y="448" text-anchor="end" class="reqid">[10.2]</text>
+<line x1="480" y1="466" x2="1100" y2="466" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="491.84" class="reqtext">Detection false-positive/negative rate ≤ 10% vs. reference</text>
+<text x="506" y="513.8399999999999" class="reqtext">microscopy / FTIR</text>
+<text x="1076" y="503" text-anchor="end" class="reqid">[10.3]</text>
+<rect x="480" y="530" width="620" height="46" fill="#FBEBBE"/>
+<line x1="480" y1="530" x2="1100" y2="530" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="557.84" class="reqtext">Filtered-water turbidity ≤ 1 NTU (IS 10500:2012)</text>
+<text x="1076" y="558" text-anchor="end" class="reqid">[10.4]</text>
+<line x1="480" y1="576" x2="1100" y2="576" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="603.84" class="reqtext">Core filtration works with no continuous external power source</text>
+<text x="1076" y="604" text-anchor="end" class="reqid">[4.4]</text>
+<rect x="480" y="622" width="620" height="64" fill="#FBEBBE"/>
+<line x1="480" y1="622" x2="1100" y2="622" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="647.84" class="reqtext">Manual actuation force ≤ ≈ 50 N, where manual actuation is</text>
+<text x="506" y="669.84" class="reqtext">used</text>
+<text x="1076" y="659" text-anchor="end" class="reqid">[3.1 / 8.2]</text>
+<line x1="480" y1="686" x2="1100" y2="686" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="711.84" class="reqtext">Filter medium itself must not shed secondary</text>
+<text x="506" y="733.84" class="reqtext">micro/nanoplastics</text>
+<text x="1076" y="723" text-anchor="end" class="reqid">[5.2]</text>
+<rect x="480" y="750" width="620" height="46" fill="#FBEBBE"/>
+<line x1="480" y1="750" x2="1100" y2="750" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="777.84" class="reqtext">Filter element replaceable tool-free in ≤ 30 seconds</text>
+<text x="1076" y="778" text-anchor="end" class="reqid">[11.1]</text>
+<line x1="480" y1="796" x2="1100" y2="796" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="821.84" class="reqtext">Filter element rated ≥ 100 L (or 3 months) before a</text>
+<text x="506" y="843.84" class="reqtext">replacement indicator</text>
+<text x="1076" y="833" text-anchor="end" class="reqid">[14.1]</text>
+<rect x="480" y="860" width="620" height="64" fill="#FBEBBE"/>
+<line x1="480" y1="860" x2="1100" y2="860" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="885.84" class="reqtext">≤ 3 user steps to obtain a filtered, tested serving — no</text>
+<text x="506" y="907.84" class="reqtext">training required</text>
+<text x="1076" y="897" text-anchor="end" class="reqid">[8.3]</text>
+<line x1="480" y1="924" x2="1100" y2="924" stroke="#F0DFA3" stroke-width="1"/>
+<text x="506" y="951.84" class="reqtext">Target retail price ₹1,500–5,000 per unit</text>
+<text x="1076" y="952" text-anchor="end" class="reqid">[16.1]</text>
+<rect x="1140" y="300" width="380" height="670" rx="14" fill="#E1FBF5" stroke="#B7ECE1" stroke-width="1.5"/>
+<rect x="1140" y="300" width="380" height="56" rx="14" fill="#0E9384"/>
+<rect x="1140" y="342" width="380" height="14" fill="#0E9384"/>
+<text x="1330" y="336" text-anchor="middle" class="colhead" fill="#FFFFFF">OUTPUT STATE</text>
+<text x="1330" y="402" text-anchor="middle" class="prose">A person draws water and receives</text>
+<text x="1330" y="432" text-anchor="middle" class="prose">it with microplastics detected and</text>
+<text x="1330" y="462" text-anchor="middle" class="prose">removed at ≥ 90% efficiency,</text>
+<text x="1330" y="492" text-anchor="middle" class="prose">turbidity held below 1 NTU, using</text>
+<text x="1330" y="522" text-anchor="middle" class="prose">a filter medium that cannot itself</text>
+<text x="1330" y="552" text-anchor="middle" class="prose">recontaminate the water and is</text>
+<text x="1330" y="582" text-anchor="middle" class="prose">renewable in under 30 seconds — in</text>
+<text x="1330" y="612" text-anchor="middle" class="prose">≤ 3 steps, without depending on a</text>
+<text x="1330" y="642" text-anchor="middle" class="prose">continuous power source, at a</text>
+<text x="1330" y="672" text-anchor="middle" class="prose">price of ₹1,500–5,000.</text>
+<line x1="446" y1="635" x2="474" y2="635" stroke="#9CA3AF" stroke-width="2.5" marker-end="url(#arrowhead)"/>
+<line x1="1106" y1="635" x2="1134" y2="635" stroke="#9CA3AF" stroke-width="2.5" marker-end="url(#arrowhead)"/>
+<line x1="60" y1="1002" x2="1540" y2="1002" class="hairline"/>
+<text x="60" y="1026" class="footer">Method: Pahl &amp; Beitz (2007) §6.2 problem analysis — overall function as an Input/Output relationship, the basis for the Process Function Structure (CED Module 6). Requirement IDs reference MPx_Technical_Requirements_List.docx.</text>
+</svg>

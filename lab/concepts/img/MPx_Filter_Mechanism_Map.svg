@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1760 5338" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="mpx-filter-mechanism-map-title mpx-filter-mechanism-map-desc">
+<title id="mpx-filter-mechanism-map-title">How could you actually filter out a microplastic?</title>
+<desc id="mpx-filter-mechanism-map-desc">Mind-map of eighteen filtration mechanisms grouped into four families — barrier and membrane filtration, field-driven separation including resonant sound and magnetics, chemical and bio aggregation, and push/pressure mechanisms — each broken into subsections, tagged by portability and by whether its own material could shed microplastic back into the water.</desc>
+<defs><style>
+  text { font-family: Georgia, 'Times New Roman', serif; }
+  .eyebrow { font-family: 'Courier New', Consolas, monospace; font-size: 12px; letter-spacing: 2px; fill: #b5523a; }
+  .h1 { font-family: Georgia, serif; font-size: 30px; fill: #1c1917; }
+  .dek { font-family: Helvetica, Arial, sans-serif; font-size: 14.5px; fill: #5c6675; }
+  .hub-rect { fill: #1c1917; stroke: #1c1917; }
+  .hub-title { font-family: Georgia, serif; font-size: 19px; fill: #faf7f1; }
+  .hub-sub { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #c9beac; }
+  .spine { fill: none; stroke-width: 2.5; opacity: 0.85; }
+  .twig { fill: none; stroke-width: 1.6; opacity: 0.75; }
+  .family-vert { font-family: 'Courier New', Consolas, monospace; font-size: 12px; letter-spacing: 2px; fill: #faf7f1; font-weight: 700; }
+  .family-sub { font-family: Helvetica, Arial, sans-serif; font-style: italic; font-size: 12.5px; fill: #5c6675; }
+  .sub-label { font-family: 'Courier New', Consolas, monospace; font-size: 10.5px; letter-spacing: 1.2px; font-weight: 700; }
+  .leaf-rect { fill: #ffffff; stroke-width: 1.2; }
+  .leaf-title { font-family: Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 700; fill: #1c1917; }
+  .leaf-mech { font-family: Helvetica, Arial, sans-serif; font-size: 11.8px; fill: #4b4a43; }
+  .leaf-tag { font-family: 'Courier New', Consolas, monospace; font-size: 10px; letter-spacing: 1px; font-weight: 700; }
+  .leaf-note { font-family: 'Courier New', Consolas, monospace; font-size: 9.5px; fill: #99a2ae; }
+  .leaf-mat { font-family: 'Courier New', Consolas, monospace; font-size: 9.5px; letter-spacing: 0.3px; font-weight: 700; }
+  .cross-link { fill: none; stroke: #b5523a; stroke-width: 1.4; stroke-dasharray: 2 4; opacity: 0.75; }
+  .pair-link { fill: none; stroke: #6b4c8a; stroke-width: 1.4; stroke-dasharray: 6 3 2 3; opacity: 0.7; }
+  .hairline { stroke: #e1d9cb; stroke-width: 1; }
+  .section-label { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; fill: #5c6675; }
+  .legend-text { font-family: Helvetica, Arial, sans-serif; font-size: 13px; fill: #1c1917; }
+  .note-label { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; fill: #b5523a; }
+  .rec-box { fill: #f1ded7; stroke: #e6c2b6; stroke-width: 1; }
+  .rec-text { font-family: Georgia, serif; font-style: italic; font-size: 14.5px; fill: #1c1917; }
+  .footer-text { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #99a2ae; }
+</style></defs>
+<rect x="0" y="0" width="1760" height="5338" fill="#faf7f1"/>
+<text x="60" y="44" class="eyebrow">MPX · FILTER MODULE — MECHANISM MAP</text>
+<text x="60" y="86" class="h1">How could you actually filter out a microplastic?</text>
+<text x="60" y="118" class="dek">Eighteen filtration mechanisms across four families — how you physically block a particle, how a field or flow pulls it out with</text>
+<text x="60" y="140" class="dek">no media to clog, how you chemically make it big enough to catch, and what actually pushes the water through any of the above.</text>
+<text x="60" y="162" class="dek">Every card also marks whether its own material could shed microplastic back into the water it just cleaned.</text>
+<rect x="60" y="2471.75" width="260" height="138" rx="14" class="hub-rect"/>
+<text x="190" y="2513.75" text-anchor="middle" class="hub-title">Filtering out</text>
+<text x="190" y="2539.75" text-anchor="middle" class="hub-title">a microplastic</text>
+<text x="190" y="2567.75" text-anchor="middle" class="hub-sub">4 families · 24 mechanisms</text>
+<text x="190" y="2585.75" text-anchor="middle" class="hub-sub">11 subsections</text>
+<path d="M 320,2540.75 C 370,2540.75 370,818 420,818" class="spine" style="stroke:#3B6E8F"/>
+<rect x="420" y="210" width="16" height="1216" rx="8" fill="#3B6E8F"/>
+<text x="428" y="818" text-anchor="middle" class="family-vert" transform="rotate(-90 428 818)">BARRIER &amp; MEMBRANE</text>
+<text x="450" y="198" class="family-sub">size exclusion — a physical wall the particle can’t pass</text>
+<text x="800" y="202" class="sub-label" fill="#3B6E8F">POLYMERIC MEMBRANES (MF / UF / NF)</text>
+<path d="M 436,304.5 C 618,304.5 618,304.5 800,304.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="800" y="234" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="800" y="234" width="6" height="141" rx="3" fill="#3B6E8F"/>
+<text x="824" y="256" class="leaf-title">Microfiltration (MF)</text>
+<text x="824" y="274" class="leaf-mech">Pores over 0.1 µm in a PVDF or polyethersulfone sheet strain</text>
+<text x="824" y="291" class="leaf-mech">out larger fragments and fibres by size alone — the coarsest,</text>
+<text x="824" y="308" class="leaf-mech">cheapest, lowest-pressure membrane stage.</text>
+<circle cx="828" cy="329" r="4" fill="#3C8A5B"/>
+<text x="838" y="333" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="333" text-anchor="end" class="leaf-note">misses sub-100nm nanoplastics</text>
+<rect x="824" y="343" width="8" height="8" fill="#B5523A"/>
+<text x="838" y="351" class="leaf-mat" fill="#B5523A">MAY SHED — itself a plastic</text>
+<path d="M 436,465.5 C 618,465.5 618,465.5 800,465.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="800" y="395" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="800" y="395" width="6" height="141" rx="3" fill="#3B6E8F"/>
+<text x="824" y="417" class="leaf-title">Ultrafiltration (UF)</text>
+<text x="824" y="435" class="leaf-mech">2–100 nm pores reject 90–99% of microplastics including fine</text>
+<text x="824" y="452" class="leaf-mech">fibres — the workhorse stage in most household MP filter</text>
+<text x="824" y="469" class="leaf-mech">pitchers and under-sink units today.</text>
+<circle cx="828" cy="490" r="4" fill="#3C8A5B"/>
+<text x="838" y="494" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="494" text-anchor="end" class="leaf-note">fouls faster than MF, needs backwash</text>
+<rect x="824" y="504" width="8" height="8" fill="#B5523A"/>
+<text x="838" y="512" class="leaf-mat" fill="#B5523A">MAY SHED — itself a plastic</text>
+<path d="M 436,626.5 C 618,626.5 618,626.5 800,626.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="800" y="556" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="800" y="556" width="6" height="141" rx="3" fill="#3B6E8F"/>
+<text x="824" y="578" class="leaf-title">Nanofiltration / reverse osmosis</text>
+<text x="824" y="596" class="leaf-mech">Sub-2 nm pores catch nanoplastics and dissolved contaminants</text>
+<text x="824" y="613" class="leaf-mech">together, but need pump pressures of several bar — hard to run</text>
+<text x="824" y="630" class="leaf-mech">without mains power in a handheld device.</text>
+<circle cx="828" cy="651" r="4" fill="#7A8399"/>
+<text x="838" y="655" class="leaf-tag" fill="#7A8399">LAB-ONLY</text>
+<text x="1214" y="655" text-anchor="end" class="leaf-note">highest energy cost of any barrier option</text>
+<rect x="824" y="665" width="8" height="8" fill="#B5523A"/>
+<text x="838" y="673" class="leaf-mat" fill="#B5523A">MAY SHED — itself a plastic</text>
+<text x="800" y="719" class="sub-label" fill="#3B6E8F">CERAMIC MEMBRANES (INERT, NON-SHEDDING)</text>
+<path d="M 436,821.5 C 618,821.5 618,821.5 800,821.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="800" y="751" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="800" y="751" width="6" height="141" rx="3" fill="#3B6E8F"/>
+<text x="824" y="773" class="leaf-title">Ceramic candle filter</text>
+<text x="824" y="791" class="leaf-mech">A sintered alumina or diatomite ‘candle’ strains water by pore</text>
+<text x="824" y="808" class="leaf-mech">size alone, under gravity; scrubbable and reusable for years,</text>
+<text x="824" y="825" class="leaf-mech">with nothing plastic in the flow path to shed.</text>
+<circle cx="828" cy="846" r="4" fill="#3C8A5B"/>
+<text x="838" y="850" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="850" text-anchor="end" class="leaf-note">classic gravity-fed form factor, low cost/unit</text>
+<rect x="824" y="860" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="868" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 436,982.5 C 618,982.5 618,982.5 800,982.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="800" y="912" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="800" y="912" width="6" height="141" rx="3" fill="#3B6E8F"/>
+<text x="824" y="934" class="leaf-title">Sintered ceramic UF (zirconia / SiC)</text>
+<text x="824" y="952" class="leaf-mech">Finer ceramic pores (2–100 nm) push rejection to 95–99% while</text>
+<text x="824" y="969" class="leaf-mech">keeping the same non-shedding, scrub-clean advantage — the</text>
+<text x="824" y="986" class="leaf-mech">trade-off is cost.</text>
+<circle cx="828" cy="1007" r="4" fill="#7A8399"/>
+<text x="838" y="1011" class="leaf-tag" fill="#7A8399">LAB-ONLY</text>
+<text x="1214" y="1011" text-anchor="end" class="leaf-note">$500–3,000/m² vs $20–200/m² polymer — OAE 2026</text>
+<rect x="824" y="1021" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="1029" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<text x="800" y="1075" class="sub-label" fill="#3B6E8F">MESH &amp; DEPTH PREFILTERS</text>
+<path d="M 436,1177.5 C 618,1177.5 618,1177.5 800,1177.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="800" y="1107" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="800" y="1107" width="6" height="141" rx="3" fill="#3B6E8F"/>
+<text x="824" y="1129" class="leaf-title">Stainless-steel micro-mesh</text>
+<text x="824" y="1147" class="leaf-mech">A washable woven steel screen (down to roughly 40–100 µm)</text>
+<text x="824" y="1164" class="leaf-mech">strips out fibres and large fragments before the fine stage;</text>
+<text x="824" y="1181" class="leaf-mech">fully metal, so it cannot itself shed microplastic.</text>
+<circle cx="828" cy="1202" r="4" fill="#3C8A5B"/>
+<text x="838" y="1206" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="1206" text-anchor="end" class="leaf-note">prefilter role, extends downstream filter life</text>
+<rect x="824" y="1216" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="1224" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 436,1347 C 618,1347 618,1347 800,1347" class="twig" style="stroke:#3B6E8F"/>
+<rect x="800" y="1268" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="800" y="1268" width="6" height="158" rx="3" fill="#3B6E8F"/>
+<text x="824" y="1290" class="leaf-title">Sand / gravel depth bed</text>
+<text x="824" y="1308" class="leaf-mech">Water percolates through graded silica sand and gravel;</text>
+<text x="824" y="1325" class="leaf-mech">particles get trapped in the pore network by depth, not a</text>
+<text x="824" y="1342" class="leaf-mech">single sieving plane — the oldest water-treatment trick there</text>
+<text x="824" y="1359" class="leaf-mech">is.</text>
+<circle cx="828" cy="1380" r="4" fill="#3C8A5B"/>
+<text x="838" y="1384" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="1384" text-anchor="end" class="leaf-note">bulky for a handheld unit, needs backwash</text>
+<rect x="824" y="1394" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="1402" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 320,2540.75 C 370,2540.75 370,2071 420,2071" class="spine" style="stroke:#2F7D6B"/>
+<rect x="420" y="1484" width="16" height="1174" rx="8" fill="#2F7D6B"/>
+<text x="428" y="2071" text-anchor="middle" class="family-vert" transform="rotate(-90 428 2071)">FIELD-DRIVEN SEPARATION</text>
+<text x="450" y="1472" class="family-sub">no filter media to clog — a force pulls the particle out</text>
+<text x="800" y="1476" class="sub-label" fill="#2F7D6B">MAGNETIC CAPTURE</text>
+<path d="M 436,1587 C 618,1587 618,1587 800,1587" class="twig" style="stroke:#2F7D6B"/>
+<rect x="800" y="1508" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#2F7D6B"/>
+<rect x="800" y="1508" width="6" height="158" rx="3" fill="#2F7D6B"/>
+<text x="824" y="1530" class="leaf-title">Magnetite (Fe₃O₄) nanoparticle binding</text>
+<text x="824" y="1548" class="leaf-mech">Iron-oxide nanoparticles dosed into the water adsorb onto</text>
+<text x="824" y="1565" class="leaf-mech">microplastic surfaces by hydrophobic/electrostatic attraction,</text>
+<text x="824" y="1582" class="leaf-mech">then a permanent magnet pulls the whole composite out in</text>
+<text x="824" y="1599" class="leaf-mech">seconds.</text>
+<circle cx="828" cy="1620" r="4" fill="#B98A2E"/>
+<text x="838" y="1624" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="1624" text-anchor="end" class="leaf-note">Wiley Small 2024; PMC 2022</text>
+<rect x="824" y="1634" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="1642" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<text x="800" y="1688" class="sub-label" fill="#2F7D6B">RESONANT SOUND (ACOUSTIC)</text>
+<path d="M 436,1799 C 618,1799 618,1799 800,1799" class="twig" style="stroke:#2F7D6B"/>
+<rect x="800" y="1720" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#2F7D6B"/>
+<rect x="800" y="1720" width="6" height="158" rx="3" fill="#2F7D6B"/>
+<text x="824" y="1742" class="leaf-title">Ultrasonic standing-wave focusing</text>
+<text x="824" y="1760" class="leaf-mech">Ultrasound pulsed through a resonating steel tube sets up a</text>
+<text x="824" y="1777" class="leaf-mech">standing wave; its acoustic radiation force pushes particles</text>
+<text x="824" y="1794" class="leaf-mech">to pressure nodes for collection — like a magnet sorting iron</text>
+<text x="824" y="1811" class="leaf-mech">filings, but for size/density.</text>
+<circle cx="828" cy="1832" r="4" fill="#B98A2E"/>
+<text x="838" y="1836" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="1836" text-anchor="end" class="leaf-note">NM Tech prototype: 80% removal, 1L/90min</text>
+<rect x="824" y="1846" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="1854" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 436,1977 C 618,1977 618,1977 800,1977" class="twig" style="stroke:#2F7D6B"/>
+<rect x="800" y="1898" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#2F7D6B"/>
+<rect x="800" y="1898" width="6" height="158" rx="3" fill="#2F7D6B"/>
+<text x="824" y="1920" class="leaf-title">Sweeping-chamber acoustic separation</text>
+<text x="824" y="1938" class="leaf-mech">A shaped acoustic chamber sweeps fibres toward an outlet using</text>
+<text x="824" y="1955" class="leaf-mech">inaudible high-frequency ultrasound — purely physical, no</text>
+<text x="824" y="1972" class="leaf-mech">chemicals, and scales from a 20 L/hr bench unit to a 5–10 t/hr</text>
+<text x="824" y="1989" class="leaf-mech">industrial retrofit.</text>
+<circle cx="828" cy="2010" r="4" fill="#B98A2E"/>
+<text x="838" y="2014" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="2014" text-anchor="end" class="leaf-note">Acousweep, H&amp;M Foundation-backed</text>
+<rect x="824" y="2024" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="2032" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<text x="800" y="2078" class="sub-label" fill="#2F7D6B">ELECTROSTATIC CAPTURE</text>
+<path d="M 436,2189 C 618,2189 618,2189 800,2189" class="twig" style="stroke:#2F7D6B"/>
+<rect x="800" y="2110" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#2F7D6B"/>
+<rect x="800" y="2110" width="6" height="158" rx="3" fill="#2F7D6B"/>
+<text x="824" y="2132" class="leaf-title">Electret / triboelectric charged-fibre filter</text>
+<text x="824" y="2150" class="leaf-mech">Fibres are permanently or self-charged by friction with the</text>
+<text x="824" y="2167" class="leaf-mech">passing water, so they attract polarised microplastic</text>
+<text x="824" y="2184" class="leaf-mech">particles electrostatically on top of ordinary size sieving —</text>
+<text x="824" y="2201" class="leaf-mech">very low pressure drop.</text>
+<circle cx="828" cy="2222" r="4" fill="#B98A2E"/>
+<text x="838" y="2226" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="2226" text-anchor="end" class="leaf-note">most electret media are themselves charged PP fibre</text>
+<rect x="824" y="2236" width="8" height="8" fill="#B5523A"/>
+<text x="838" y="2244" class="leaf-mat" fill="#B5523A">MAY SHED — itself a plastic</text>
+<text x="800" y="2290" class="sub-label" fill="#2F7D6B">FLOW-BASED (NO MEDIA)</text>
+<path d="M 436,2401 C 618,2401 618,2401 800,2401" class="twig" style="stroke:#2F7D6B"/>
+<rect x="800" y="2322" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#2F7D6B"/>
+<rect x="800" y="2322" width="6" height="158" rx="3" fill="#2F7D6B"/>
+<text x="824" y="2344" class="leaf-title">Hydrocyclone swirl separation</text>
+<text x="824" y="2362" class="leaf-mech">Tangential inflow spins water into a vortex; denser or larger</text>
+<text x="824" y="2379" class="leaf-mech">particles fling to the wall and exit the underflow while</text>
+<text x="824" y="2396" class="leaf-mech">cleaner water exits the core — no membrane to clog or replace,</text>
+<text x="824" y="2413" class="leaf-mech">ever.</text>
+<circle cx="828" cy="2434" r="4" fill="#B98A2E"/>
+<text x="838" y="2438" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="2438" text-anchor="end" class="leaf-note">mini-hydrocyclone variants tested at bench scale</text>
+<rect x="824" y="2448" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="2456" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 436,2579 C 618,2579 618,2579 800,2579" class="twig" style="stroke:#2F7D6B"/>
+<rect x="800" y="2500" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#2F7D6B"/>
+<rect x="800" y="2500" width="6" height="158" rx="3" fill="#2F7D6B"/>
+<text x="824" y="2522" class="leaf-title">Dissolved-air / microbubble flotation</text>
+<text x="824" y="2540" class="leaf-mech">Fine bubbles injected into the water attach to hydrophobic</text>
+<text x="824" y="2557" class="leaf-mech">microplastic surfaces and float them to a skimmable top layer;</text>
+<text x="824" y="2574" class="leaf-mech">often paired with a mini-hydrocyclone for a bigger efficiency</text>
+<text x="824" y="2591" class="leaf-mech">boost.</text>
+<circle cx="828" cy="2612" r="4" fill="#B98A2E"/>
+<text x="838" y="2616" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="2616" text-anchor="end" class="leaf-note">ScienceDirect 2024–25 hydrocyclone+microbubble</text>
+<rect x="824" y="2626" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="2634" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 320,2540.75 C 370,2540.75 370,3188.5 420,3188.5" class="spine" style="stroke:#B5523A"/>
+<rect x="420" y="2716" width="16" height="945" rx="8" fill="#B5523A"/>
+<text x="428" y="3188.5" text-anchor="middle" class="family-vert" transform="rotate(-90 428 3188.5)">CHEMICAL &amp; BIO AGGREGATION</text>
+<text x="450" y="2704" class="family-sub">make the particle bigger — then it’s easy to catch</text>
+<text x="800" y="2708" class="sub-label" fill="#B5523A">COAGULATION-FLOCCULATION</text>
+<path d="M 436,2810.5 C 618,2810.5 618,2810.5 800,2810.5" class="twig" style="stroke:#B5523A"/>
+<rect x="800" y="2740" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#B5523A"/>
+<rect x="800" y="2740" width="6" height="141" rx="3" fill="#B5523A"/>
+<text x="824" y="2762" class="leaf-title">Alum / PACl coagulant dosing</text>
+<text x="824" y="2780" class="leaf-mech">A metal-salt coagulant neutralises the microplastic’s surface</text>
+<text x="824" y="2797" class="leaf-mech">charge so particles clump into flocs large enough to settle or</text>
+<text x="824" y="2814" class="leaf-mech">strain out — the standard municipal-plant trick, adapted down.</text>
+<circle cx="828" cy="2835" r="4" fill="#7A8399"/>
+<text x="838" y="2839" class="leaf-tag" fill="#7A8399">LAB-ONLY</text>
+<text x="1214" y="2839" text-anchor="end" class="leaf-note">leaves a metal-ion residue — needs post-rinse</text>
+<rect x="824" y="2849" width="8" height="8" fill="#B98A2E"/>
+<text x="838" y="2857" class="leaf-mat" fill="#B98A2E">CAUTION — watch part/residue</text>
+<path d="M 436,2980 C 618,2980 618,2980 800,2980" class="twig" style="stroke:#B5523A"/>
+<rect x="800" y="2901" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#B5523A"/>
+<rect x="800" y="2901" width="6" height="158" rx="3" fill="#B5523A"/>
+<text x="824" y="2923" class="leaf-title">Chitosan natural coagulant</text>
+<text x="824" y="2941" class="leaf-mech">A biopolymer extracted from crustacean shells binds</text>
+<text x="824" y="2958" class="leaf-mech">microplastics by charge neutralisation just like alum, but is</text>
+<text x="824" y="2975" class="leaf-mech">itself biodegradable — no synthetic residue left behind in the</text>
+<text x="824" y="2992" class="leaf-mech">water.</text>
+<circle cx="828" cy="3013" r="4" fill="#B98A2E"/>
+<text x="838" y="3017" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="3017" text-anchor="end" class="leaf-note">chitosan reviews 2025–26</text>
+<rect x="824" y="3027" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="3035" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<text x="800" y="3081" class="sub-label" fill="#B5523A">ELECTROCOAGULATION</text>
+<path d="M 436,3192 C 618,3192 618,3192 800,3192" class="twig" style="stroke:#B5523A"/>
+<rect x="800" y="3113" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#B5523A"/>
+<rect x="800" y="3113" width="6" height="158" rx="3" fill="#B5523A"/>
+<text x="824" y="3135" class="leaf-title">Fe / Al sacrificial-electrode electrocoagulation</text>
+<text x="824" y="3153" class="leaf-mech">An electric current dissolves a sacrificial metal electrode in</text>
+<text x="824" y="3170" class="leaf-mech">situ, generating the coagulant ions on demand — no chemical</text>
+<text x="824" y="3187" class="leaf-mech">bottle to carry, but it consumes the electrode and needs a</text>
+<text x="824" y="3204" class="leaf-mech">power source.</text>
+<circle cx="828" cy="3225" r="4" fill="#B98A2E"/>
+<text x="838" y="3229" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="3229" text-anchor="end" class="leaf-note">metal-ion residue; electrode is a consumable</text>
+<rect x="824" y="3239" width="8" height="8" fill="#B98A2E"/>
+<text x="838" y="3247" class="leaf-mat" fill="#B98A2E">CAUTION — watch part/residue</text>
+<text x="800" y="3293" class="sub-label" fill="#B5523A">BIO-ADSORBENT MEDIA</text>
+<path d="M 436,3404 C 618,3404 618,3404 800,3404" class="twig" style="stroke:#B5523A"/>
+<rect x="800" y="3325" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#B5523A"/>
+<rect x="800" y="3325" width="6" height="158" rx="3" fill="#B5523A"/>
+<text x="824" y="3347" class="leaf-title">Mycelium (fungal) filter mat</text>
+<text x="824" y="3365" class="leaf-mech">A living or dried fungal hyphae network physically traps</text>
+<text x="824" y="3382" class="leaf-mech">microplastics in its mesh while also bio-adsorbing them onto</text>
+<text x="824" y="3399" class="leaf-mech">its cell walls — the whole filter medium is compostable when</text>
+<text x="824" y="3416" class="leaf-mech">spent.</text>
+<circle cx="828" cy="3437" r="4" fill="#B98A2E"/>
+<text x="838" y="3441" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="3441" text-anchor="end" class="leaf-note">chitosan-modified P. ostreatus, ScienceDirect 2025</text>
+<rect x="824" y="3451" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="3459" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 436,3582 C 618,3582 618,3582 800,3582" class="twig" style="stroke:#B5523A"/>
+<rect x="800" y="3503" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#B5523A"/>
+<rect x="800" y="3503" width="6" height="158" rx="3" fill="#B5523A"/>
+<text x="824" y="3525" class="leaf-title">Nanocellulose / chitosan sponge</text>
+<text x="824" y="3543" class="leaf-mech">An oyster-inspired sponge of nanocellulose and chitosan fibres</text>
+<text x="824" y="3560" class="leaf-mech">offers huge surface area for microplastics to adsorb onto; the</text>
+<text x="824" y="3577" class="leaf-mech">whole sponge is lifted out and replaced — biodegradable, no</text>
+<text x="824" y="3594" class="leaf-mech">synthetic residue.</text>
+<circle cx="828" cy="3615" r="4" fill="#B98A2E"/>
+<text x="838" y="3619" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="3619" text-anchor="end" class="leaf-note">ACS Appl. Polym. Mater. 2021</text>
+<rect x="824" y="3629" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="3637" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 320,2540.75 C 370,2540.75 370,4263.5 420,4263.5" class="spine" style="stroke:#6B4C8A"/>
+<rect x="420" y="3719" width="16" height="1089" rx="8" fill="#6B4C8A"/>
+<text x="428" y="4263.5" text-anchor="middle" class="family-vert" transform="rotate(-90 428 4263.5)">PUSH / PRESSURE MECHANISM</text>
+<text x="450" y="3707" class="family-sub">how the water actually moves through whichever stage above</text>
+<text x="800" y="3711" class="sub-label" fill="#6B4C8A">ZERO-POWER</text>
+<path d="M 436,3822 C 618,3822 618,3822 800,3822" class="twig" style="stroke:#6B4C8A"/>
+<rect x="800" y="3743" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#6B4C8A"/>
+<rect x="800" y="3743" width="6" height="158" rx="3" fill="#6B4C8A"/>
+<text x="824" y="3765" class="leaf-title">Gravity-fed reservoir</text>
+<text x="824" y="3783" class="leaf-mech">An elevated chamber lets gravity alone drive water down</text>
+<text x="824" y="3800" class="leaf-mech">through the filter stage below — zero power, zero moving</text>
+<text x="824" y="3817" class="leaf-mech">parts, but slow, and needs enough height to build usable</text>
+<text x="824" y="3834" class="leaf-mech">pressure.</text>
+<circle cx="828" cy="3855" r="4" fill="#3C8A5B"/>
+<text x="838" y="3859" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="3859" text-anchor="end" class="leaf-note">pairs classically with a sand bed or ceramic candle</text>
+<rect x="824" y="3869" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="3877" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 436,3991.5 C 618,3991.5 618,3991.5 800,3991.5" class="twig" style="stroke:#6B4C8A"/>
+<rect x="800" y="3921" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#6B4C8A"/>
+<rect x="800" y="3921" width="6" height="141" rx="3" fill="#6B4C8A"/>
+<text x="824" y="3943" class="leaf-title">Manual hand-pump / squeeze bulb</text>
+<text x="824" y="3961" class="leaf-mech">The user’s own hand pressure pushes water through on demand —</text>
+<text x="824" y="3978" class="leaf-mech">the LifeStraw/Sawyer approach — fast flow, no battery, but</text>
+<text x="824" y="3995" class="leaf-mech">tiring for larger volumes.</text>
+<circle cx="828" cy="4016" r="4" fill="#3C8A5B"/>
+<text x="838" y="4020" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="4020" text-anchor="end" class="leaf-note">use food-grade silicone bulb, not PVC</text>
+<rect x="824" y="4030" width="8" height="8" fill="#B98A2E"/>
+<text x="838" y="4038" class="leaf-mat" fill="#B98A2E">CAUTION — watch part/residue</text>
+<text x="800" y="4084" class="sub-label" fill="#6B4C8A">MOTORIZED</text>
+<path d="M 436,4186.5 C 618,4186.5 618,4186.5 800,4186.5" class="twig" style="stroke:#6B4C8A"/>
+<rect x="800" y="4116" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#6B4C8A"/>
+<rect x="800" y="4116" width="6" height="141" rx="3" fill="#6B4C8A"/>
+<text x="824" y="4138" class="leaf-title">Peristaltic pump</text>
+<text x="824" y="4156" class="leaf-mech">Rollers compress a flexible tube in sequence, pushing water</text>
+<text x="824" y="4173" class="leaf-mech">along without the pump mechanism ever touching the water</text>
+<text x="824" y="4190" class="leaf-mech">itself — self-priming, contamination-safe, cheap small motors.</text>
+<circle cx="828" cy="4211" r="4" fill="#3C8A5B"/>
+<text x="838" y="4215" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="4215" text-anchor="end" class="leaf-note">use silicone tubing, not PVC — wear is the risk</text>
+<rect x="824" y="4225" width="8" height="8" fill="#B98A2E"/>
+<text x="838" y="4233" class="leaf-mat" fill="#B98A2E">CAUTION — watch part/residue</text>
+<path d="M 436,4356 C 618,4356 618,4356 800,4356" class="twig" style="stroke:#6B4C8A"/>
+<rect x="800" y="4277" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#6B4C8A"/>
+<rect x="800" y="4277" width="6" height="158" rx="3" fill="#6B4C8A"/>
+<text x="824" y="4299" class="leaf-title">Diaphragm / piston micro-pump</text>
+<text x="824" y="4317" class="leaf-mech">A reciprocating diaphragm or piston generates the higher</text>
+<text x="824" y="4334" class="leaf-mech">pressure (several bar) that UF/NF-grade membranes actually</text>
+<text x="824" y="4351" class="leaf-mech">need — more flow and pressure than a peristaltic pump, more</text>
+<text x="824" y="4368" class="leaf-mech">power draw.</text>
+<circle cx="828" cy="4389" r="4" fill="#B98A2E"/>
+<text x="838" y="4393" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="4393" text-anchor="end" class="leaf-note">diaphragm material (EPDM/silicone) matters</text>
+<rect x="824" y="4403" width="8" height="8" fill="#B98A2E"/>
+<text x="838" y="4411" class="leaf-mat" fill="#B98A2E">CAUTION — watch part/residue</text>
+<text x="800" y="4457" class="sub-label" fill="#6B4C8A">STORED-ENERGY / SUCTION</text>
+<path d="M 436,4559.5 C 618,4559.5 618,4559.5 800,4559.5" class="twig" style="stroke:#6B4C8A"/>
+<rect x="800" y="4489" width="430" height="141" rx="8" class="leaf-rect" style="stroke:#6B4C8A"/>
+<rect x="800" y="4489" width="6" height="141" rx="3" fill="#6B4C8A"/>
+<text x="824" y="4511" class="leaf-title">Syringe or hand-crank vacuum draw</text>
+<text x="824" y="4529" class="leaf-mech">Suction pulls water through the filter from the downstream</text>
+<text x="824" y="4546" class="leaf-mech">side instead of pushing from upstream — a simple mechanical</text>
+<text x="824" y="4563" class="leaf-mech">action, easy to prototype with off-the-shelf syringes.</text>
+<circle cx="828" cy="4584" r="4" fill="#3C8A5B"/>
+<text x="838" y="4588" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1214" y="4588" text-anchor="end" class="leaf-note">glass or inert-plastic barrel, low wear</text>
+<rect x="824" y="4598" width="8" height="8" fill="#3C8A5B"/>
+<text x="838" y="4606" class="leaf-mat" fill="#3C8A5B">SAFE MATERIAL — can’t shed plastic</text>
+<path d="M 436,4729 C 618,4729 618,4729 800,4729" class="twig" style="stroke:#6B4C8A"/>
+<rect x="800" y="4650" width="430" height="158" rx="8" class="leaf-rect" style="stroke:#6B4C8A"/>
+<rect x="800" y="4650" width="6" height="158" rx="3" fill="#6B4C8A"/>
+<text x="824" y="4672" class="leaf-title">Pre-charged spring / pressurised cartridge</text>
+<text x="824" y="4690" class="leaf-mech">Mechanical energy stored ahead of time (a compressed spring, a</text>
+<text x="824" y="4707" class="leaf-mech">pressurised gas cartridge) releases on demand for a burst of</text>
+<text x="824" y="4724" class="leaf-mech">flow — no continuous user effort, but needs re-charging or a</text>
+<text x="824" y="4741" class="leaf-mech">refill.</text>
+<circle cx="828" cy="4762" r="4" fill="#B98A2E"/>
+<text x="838" y="4766" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1214" y="4766" text-anchor="end" class="leaf-note">seals/gaskets wear over the cartridge’s life</text>
+<rect x="824" y="4776" width="8" height="8" fill="#B98A2E"/>
+<text x="838" y="4784" class="leaf-mat" fill="#B98A2E">CAUTION — watch part/residue</text>
+<path d="M 1230,1587 C 1304,1587 1304,3192 1230,3192" class="cross-link"/>
+<path d="M 1230,2189 C 1304,2189 1304,3582 1230,3582" class="cross-link"/>
+<line x1="60" y1="4834" x2="1700" y2="4834" class="hairline"/>
+<text x="60" y="4854" class="section-label">HOW TO READ THIS</text>
+<circle cx="60" cy="4878" r="5" fill="#3C8A5B"/>
+<text x="76" y="4882" class="legend-text">Portable — cheap, field-ready today</text>
+<circle cx="460" cy="4878" r="5" fill="#B98A2E"/>
+<text x="476" y="4882" class="legend-text">Emerging — promising, not yet packaged</text>
+<circle cx="900" cy="4878" r="5" fill="#7A8399"/>
+<text x="916" y="4882" class="legend-text">Lab-only — bulky or expensive</text>
+<rect x="56" y="4902" width="8" height="8" fill="#3C8A5B"/>
+<text x="76" y="4910" class="legend-text">Safe material — inert or biodegradable</text>
+<rect x="456" y="4902" width="8" height="8" fill="#B98A2E"/>
+<text x="476" y="4910" class="legend-text">Caution — no plastic shed, but watch a wear part or residue</text>
+<rect x="1056" y="4902" width="8" height="8" fill="#B5523A"/>
+<text x="1076" y="4910" class="legend-text">May shed — the medium is itself a plastic</text>
+<path d="M 60,4932 C 90,4932 90,4932 120,4932" class="cross-link"/>
+<text x="130" y="4936" class="legend-text">Related mechanism, different family</text>
+<rect x="60" y="4966" width="1640" height="223" rx="10" class="rec-box"/>
+<text x="88" y="4996" class="note-label">HOW TO PROCEED — WHAT TO PROTOTYPE, WHAT TO AVOID</text>
+<text x="88" y="5020" class="rec-text">Eighteen mechanisms across four families, and only three of them are size-exclusion membranes — the rest use fields, chemistry or</text>
+<text x="88" y="5041" class="rec-text">flow instead of a medium that can clog. The standout combination for a handheld MPx unit: a ceramic candle prefilter feeding a</text>
+<text x="88" y="5062" class="rec-text">chitosan or nanocellulose polishing sponge, pushed by a peristaltic pump with food-grade silicone tubing — nothing in that flow path</text>
+<text x="88" y="5083" class="rec-text">is itself plastic, so the filter can't reintroduce what it just removed. Acoustic and magnetic separation are worth watching next:</text>
+<text x="88" y="5104" class="rec-text">no consumable media to replace at all, but today's bench hardware (steel resonating tubes, dosed nanoparticles) is still too bulky</text>
+<text x="88" y="5125" class="rec-text">and power-hungry to shrink into a handheld device yet. Avoid raw PVDF/PES/PTFE membrane fibres, PP electret nonwovens, and PVC</text>
+<text x="88" y="5146" class="rec-text">tubing or gaskets — all shed microplastic themselves under wear.</text>
+<line x1="60" y1="5207" x2="1700" y2="5207" class="hairline"/>
+<text x="60" y="5223" class="footer-text">Sources: OAE Publish Environ. Chem. Eng. Health 2026 (ceramic membranes); PMC 2025 (pressure-driven membrane review); ACS Axial / New Mexico Tech</text>
+<text x="60" y="5240" class="footer-text">(ultrasonic acoustic focusing); H&amp;M Foundation — Acousweep (sweeping-chamber acoustic separation); Wiley Small 2024 &amp; PMC 2022 (magnetic Fe3O4 separation);</text>
+<text x="60" y="5257" class="footer-text">RSC Sustainability 2026 (biopolymer/nanocellulose filtration); ACS Appl. Polym. Mater. 2021 (chitosan sponge); ScienceDirect 2021–25 (coagulation,</text>
+<text x="60" y="5274" class="footer-text">electrocoagulation, hydrocyclone + microbubble flotation). Filter/push mechanisms are a new axis alongside MPx_Detection_Methods_Comparison.docx and</text>
+<text x="60" y="5291" class="footer-text">MPx_Detection_Mechanism_Map.svg.</text>
+</svg>

@@ -1,0 +1,391 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1500" viewBox="0 0 1600 1500" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5OThiZmNlMS01YTIwLTRmNzEtYjZlNi1hMjhhNDdkMGExNzcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFXNy1K7fmh7aGw6GxRSNSkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkOTI1Yjg3ZS1lYTNkLTRlMGQtYmQ1OS02MDBhMmVhYTdjZjFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNonDuAtXRwKMohqUKi9q40ZgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggxuLo1qdu6mPP+xmBkNiwmNAERoN89/LpKn+tXYl/FZqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKCeKHZ25CCFmQBKS+K0s58AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAGhlhlBQ0Mi2m4Gu+fWn/BGH2kwXr4aPXLQIiPwGqZOGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjk5OGJmY2UxLTVhMjAtNGY3MS1iNmU2LWEyOGE0N2QwYTE3Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmM3YjVhODNkLTliZGQtNDM2ZC1hMDJlLTFhZDhhNzViZjYwMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDG4ujWp27qY8/7GYGQ2LCY0ARGg3z38ukqf61diX8VmqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggI+/d7Q12C/LrBG7Bfqiev8xMegimskYyPaLH0QiF43iiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggpTNUBUyIdiY7pAafEG6gGGWoERdBsD2w08+bDwmfXkt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNESKIvxE/1RBb8Gn5aGgDIqwJ7E3QMf061DtUlklj79MQrUCsQ/mJwu0ZX49rmO7TQYj83X1NHj7xCkruoE2wA=</c2pa:manifest></metadata><defs><marker id="da" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9" fill="none" stroke="#8a91a0" stroke-width="1.4"/></marker><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#1d2433"/></marker><marker id="aC" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#2f80c0"/></marker><marker id="aH" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#e8503a"/></marker><marker id="aW" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#f2a516"/></marker><marker id="aT" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#f97316"/></marker><marker id="aG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#2a9d8f"/></marker><marker id="aP" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#8e5cc2"/></marker><marker id="aM" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#8a91a0"/></marker><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#f3efe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cdbf9f" stroke-width="1.5"/></pattern><pattern id="mesh" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#eef1f3"/><path d="M0 0L5 5M5 0L0 5" stroke="#8b96a0" stroke-width=".6"/></pattern><pattern id="al" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#d9dee2"/><line x1="0" y1="0" x2="0" y2="8" stroke="#b9c1c7" stroke-width="1"/></pattern></defs><rect width="1600" height="1500" fill="#f4f3ef"/>
+<text x="30.0" y="50.0" font-size="25" font-weight="700" fill="#1d2433" text-anchor="start" >MPx Boil-Tube: heat a little, cool through the tubes (v0.4)</text>
+<text x="30.0" y="76.0" font-size="13.5" font-weight="400" fill="#5b6475" text-anchor="start" >Gravity feeds water through a tube-in-tube coil into a 60 mL boil cell. A wax valve lets it out only when it is ~95 °C, and the same coil cools it on the way down. No pump, no PCB, no battery.</text>
+<text x="1570.0" y="50.0" font-size="11.5" font-weight="400" fill="#8a91a0" text-anchor="end" >MPx · Boil-Tube · concept v0.4 · Oct 2026</text>
+<rect x="30" y="100" width="600" height="990" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="50.0" y="130.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >A · Section through the unit</text>
+<text x="54.0" y="154.0" font-size="12.5" font-weight="600" fill="#5b6475" text-anchor="start" >Ø104 × 420 mm · ~1.0 kg · 0.6 L reservoir · 0.8–1.6 L/h</text>
+<rect x="207.5" y="945.2" width="185.0" height="64.8" rx="10" fill="#3a4150" stroke="#2b313b" stroke-width="1" />
+<rect x="337.0" y="965.6" width="29.6" height="13.0" rx="2" fill="#111" stroke="none" stroke-width="0" />
+<rect x="244.5" y="961.9" width="33.3" height="18.5" rx="2" fill="#3b7a57" stroke="#1f4d36" stroke-width="0.8" />
+<rect x="222.3" y="1008.0" width="18.5" height="5.0" rx="2" fill="#111" stroke="none" stroke-width="0" />
+<rect x="359.2" y="1008.0" width="18.5" height="5.0" rx="2" fill="#111" stroke="none" stroke-width="0" />
+<rect x="216.8" y="640.0" width="166.5" height="305.2" rx="4" fill="#f6f8f9" stroke="#7d8790" stroke-width="1.4" />
+<line x1="203.8" y1="936.0" x2="216.8" y2="936.0" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="936.0" x2="396.2" y2="936.0" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="919.4" x2="216.8" y2="919.4" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="919.4" x2="396.2" y2="919.4" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="902.7" x2="216.8" y2="902.7" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="902.7" x2="396.2" y2="902.7" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="886.0" x2="216.8" y2="886.0" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="886.0" x2="396.2" y2="886.0" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="869.4" x2="216.8" y2="869.4" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="869.4" x2="396.2" y2="869.4" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="852.8" x2="216.8" y2="852.8" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="852.8" x2="396.2" y2="852.8" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="836.1" x2="216.8" y2="836.1" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="836.1" x2="396.2" y2="836.1" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="819.5" x2="216.8" y2="819.5" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="819.5" x2="396.2" y2="819.5" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="802.8" x2="216.8" y2="802.8" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="802.8" x2="396.2" y2="802.8" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="786.1" x2="216.8" y2="786.1" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="786.1" x2="396.2" y2="786.1" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="769.5" x2="216.8" y2="769.5" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="769.5" x2="396.2" y2="769.5" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="752.8" x2="216.8" y2="752.8" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="752.8" x2="396.2" y2="752.8" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="736.2" x2="216.8" y2="736.2" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="736.2" x2="396.2" y2="736.2" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="719.5" x2="216.8" y2="719.5" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="719.5" x2="396.2" y2="719.5" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="702.9" x2="216.8" y2="702.9" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="702.9" x2="396.2" y2="702.9" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="686.2" x2="216.8" y2="686.2" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="686.2" x2="396.2" y2="686.2" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="669.6" x2="216.8" y2="669.6" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="669.6" x2="396.2" y2="669.6" stroke="#7d8790" stroke-width="2" />
+<line x1="203.8" y1="653.0" x2="216.8" y2="653.0" stroke="#7d8790" stroke-width="2" />
+<line x1="383.2" y1="653.0" x2="396.2" y2="653.0" stroke="#7d8790" stroke-width="2" />
+<circle cx="224.1" cy="921.2" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="921.2" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="224.1" cy="889.8" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="889.8" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="224.1" cy="858.3" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="858.3" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="224.1" cy="826.9" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="826.9" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="224.1" cy="795.4" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="795.4" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="224.1" cy="764.0" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="764.0" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="224.1" cy="732.5" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="732.5" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="224.1" cy="701.0" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="701.0" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="224.1" cy="669.6" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="375.9" cy="669.6" r="4.4" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.1" />
+<circle cx="240.8" cy="926.8" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="926.8" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="926.8" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="926.8" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="907.5" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="907.5" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="907.5" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="907.5" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="888.3" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="888.3" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="888.3" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="888.3" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="869.0" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="869.0" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="869.0" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="869.0" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="849.8" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="849.8" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="849.8" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="849.8" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="830.5" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="830.5" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="830.5" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="830.5" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="811.3" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="811.3" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="811.3" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="811.3" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="792.1" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="792.1" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="792.1" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="792.1" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="772.8" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="772.8" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="772.8" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="772.8" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="753.6" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="753.6" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="753.6" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="753.6" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="240.8" cy="734.3" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="240.8" cy="734.3" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<circle cx="359.2" cy="734.3" r="8.8" fill="#e9f3fa" stroke="#2f80c0" stroke-width="1" />
+<circle cx="359.2" cy="734.3" r="4.4" fill="#fbd7cf" stroke="#e8503a" stroke-width="1" />
+<path d="M263.0,469.79999999999995 L263.0,501.25 L255.6,510.5 L255.6,936.0 L240.8,939.7" stroke="#2f80c0" stroke-width="2.2" fill="none" marker-end="url(#aC)"/>
+<path d="M359.2,717.7 L325.9,677.0 L318.5,625.2" stroke="#2f80c0" stroke-width="2.2" fill="none" marker-end="url(#aC)"/>
+<path d="M288.9,630.75 L288.9,667.75 L244.5,714.0" stroke="#e8503a" stroke-width="2.2" fill="none" marker-end="url(#aH)"/>
+<path d="M383.25,788.0 L444.3,788.0 L444.3,806.5" stroke="#6f7a83" stroke-width="5" fill="none" stroke-linecap="round"/>
+<circle cx="414.7" cy="776.9" r="7.4" fill="#e8503a" stroke="#1b1f27" stroke-width="1" />
+<line x1="414.7" y1="776.9" x2="414.7" y2="758.4" stroke="#1b1f27" stroke-width="2" />
+<line x1="444.3" y1="810.2" x2="444.3" y2="899.0" stroke="#2f80c0" stroke-width="1.6" stroke-dasharray="3 4"/>
+<rect x="216.8" y="455.0" width="166.5" height="185.0" rx="6" fill="url(#hatch)" stroke="#b8a87f" stroke-width="1" />
+<rect x="253.8" y="458.7" width="92.5" height="172.1" rx="5" fill="#eef2f4" stroke="#6f7a83" stroke-width="1.6" />
+<rect x="255.6" y="532.7" width="88.8" height="94.4" rx="3" fill="#ffd9c7" stroke="none" stroke-width="0" />
+<line x1="255.6" y1="532.7" x2="344.4" y2="532.7" stroke="#e8503a" stroke-width="1.3" stroke-dasharray="4 3"/>
+<rect x="270.4" y="525.3" width="13.0" height="96.2" rx="3" fill="#f6b8a8" stroke="#e8503a" stroke-width="1" />
+<circle cx="285.2" cy="584.5" r="3.3" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="303.7" cy="556.8" r="3.3" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="292.6" cy="606.7" r="3.3" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="314.8" cy="573.4" r="3.3" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="281.5" cy="547.5" r="3.3" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<rect x="314.8" y="547.5" width="18.5" height="70.3" rx="3" fill="url(#mesh)" stroke="#6f7a83" stroke-width="1" />
+<rect x="281.5" y="617.8" width="22.2" height="14.8" rx="2" fill="#c9a227" stroke="#6b5a14" stroke-width="1" />
+<rect x="325.9" y="617.8" width="16.7" height="9.2" rx="1" fill="#e9e1cc" stroke="#b8a87f" stroke-width="0.8" />
+<line x1="300.0" y1="458.7" x2="300.0" y2="260.8" stroke="#9aa5ad" stroke-width="3" />
+<path d="M292.6,229.29999999999995 q-5 -9 0 -18 q5 -9 0 -18" stroke="#b7c0c8" stroke-width="1.8" fill="none" />
+<path d="M304.6,229.29999999999995 q-5 -9 0 -18 q5 -9 0 -18" stroke="#b7c0c8" stroke-width="1.8" fill="none" />
+<rect x="216.8" y="270.0" width="166.5" height="185.0" rx="8" fill="#e3f1f8" stroke="#a9c7d4" stroke-width="1.4" />
+<rect x="220.4" y="292.2" width="159.1" height="159.1" rx="6" fill="#bfe0f0" stroke="none" stroke-width="0" />
+<rect x="285.2" y="399.5" width="29.6" height="55.5" rx="3" fill="#e3f1f8" stroke="#a9c7d4" stroke-width="1" />
+<line x1="351.8" y1="260.8" x2="351.8" y2="445.8" stroke="#6f7a83" stroke-width="2.2" />
+<circle cx="351.8" cy="445.8" r="4.1" fill="#fff" stroke="#6f7a83" stroke-width="1" />
+<circle cx="351.8" cy="427.2" r="2.8" fill="#fff" stroke="#6f7a83" stroke-width="0.6" />
+<circle cx="353.6" cy="399.5" r="2.8" fill="#fff" stroke="#6f7a83" stroke-width="0.6" />
+<circle cx="349.9" cy="371.8" r="2.8" fill="#fff" stroke="#6f7a83" stroke-width="0.6" />
+<rect x="213.1" y="233.0" width="173.9" height="37.0" rx="6" fill="#3a4150" stroke="#2b313b" stroke-width="1" />
+<rect x="329.6" y="225.6" width="40.7" height="9.2" rx="2" fill="#e8503a" stroke="none" stroke-width="0" />
+<line x1="161.2" y1="1010.0" x2="161.2" y2="233.0" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="155.2" y1="1010.0" x2="167.2" y2="1010.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="155.2" y1="233.0" x2="167.2" y2="233.0" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="147.1" y="612.5" width="28.4" height="16" fill="#ffffff"/>
+<text x="161.2" y="625.5" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >420</text>
+<line x1="203.8" y1="1034.0" x2="396.2" y2="1034.0" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="203.8" y1="1028.0" x2="203.8" y2="1040.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="396.2" y1="1028.0" x2="396.2" y2="1040.0" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="248.4" y="1025.0" width="103.2" height="16" fill="#ffffff"/>
+<text x="300.0" y="1038.0" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >Ø104 over fins</text>
+<line x1="477.6" y1="788.0" x2="477.6" y2="532.7" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="471.6" y1="788.0" x2="483.6" y2="788.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="471.6" y1="532.7" x2="483.6" y2="532.7" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="463.4" y="651.4" width="28.4" height="16" fill="#ffffff"/>
+<text x="477.6" y="664.4" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >138</text>
+<line x1="300.0" y1="242.2" x2="196.0" y2="223.8" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="300.0" cy="242.2" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="50.0" y="221.8" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Cap</text>
+<text x="50.0" y="236.8" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >fill lid + vent;</text>
+<text x="50.0" y="250.2" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >CO₂ escapes here</text>
+<line x1="351.8" y1="418.0" x2="196.0" y2="344.0" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="351.8" cy="418.0" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="50.0" y="342.0" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Mariotte air tube</text>
+<text x="50.0" y="357.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >keeps the feed head</text>
+<text x="50.0" y="370.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >constant as it drains</text>
+<line x1="226.0" y1="344.0" x2="196.0" y2="445.8" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="226.0" cy="344.0" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="50.0" y="443.8" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Reservoir 0.6 L</text>
+<text x="50.0" y="458.8" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >borosilicate glass,</text>
+<text x="50.0" y="472.2" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >lifts off to fill</text>
+<line x1="253.8" y1="492.0" x2="196.0" y2="538.2" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="253.8" cy="492.0" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="50.0" y="536.2" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Boil cell 60 mL</text>
+<text x="50.0" y="551.2" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >SS316, vented; water</text>
+<text x="50.0" y="564.8" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >boils ~3 min here</text>
+<line x1="275.9" y1="566.0" x2="196.0" y2="640.0" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="275.9" cy="566.0" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="50.0" y="638.0" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Heater 60 W</text>
+<text x="50.0" y="653.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >20 V cartridge in an</text>
+<text x="50.0" y="666.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >SS thermowell</text>
+<line x1="255.6" y1="825.0" x2="196.0" y2="751.0" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="255.6" cy="825.0" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="50.0" y="749.0" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Feed line</text>
+<text x="50.0" y="764.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >cold water down to</text>
+<text x="50.0" y="777.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >the coil&#x27;s bottom</text>
+<line x1="240.8" y1="880.5" x2="196.0" y2="862.0" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="240.8" cy="880.5" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="50.0" y="860.0" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Tube-in-tube coil</text>
+<text x="50.0" y="875.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >3/16&quot; in 3/8&quot; SS316L,</text>
+<text x="50.0" y="888.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >2.4 m, Ø70, 11 turns</text>
+<line x1="263.0" y1="973.0" x2="196.0" y2="973.0" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="263.0" cy="973.0" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="50.0" y="971.0" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >USB-C PD in</text>
+<text x="50.0" y="986.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >20 V 3 A trigger;</text>
+<text x="50.0" y="999.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >charger or power bank</text>
+<line x1="300.0" y1="260.8" x2="503.5" y2="279.2" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="300.0" cy="260.8" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="509.5" y="277.2" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Vent tube</text>
+<text x="509.5" y="292.2" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >passes through the</text>
+<text x="509.5" y="305.8" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >reservoir: steam</text>
+<text x="509.5" y="319.2" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >condenses, heat kept</text>
+<line x1="324.1" y1="566.0" x2="503.5" y2="455.0" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="324.1" cy="566.0" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="509.5" y="453.0" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Catcher</text>
+<text x="509.5" y="468.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >SS mesh candle,</text>
+<text x="509.5" y="481.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >25 µm; lime + plastics</text>
+<line x1="292.6" y1="625.2" x2="503.5" y2="566.0" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="292.6" cy="625.2" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="509.5" y="564.0" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Wax gate valve</text>
+<text x="509.5" y="579.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >opens at ~95 °C only:</text>
+<text x="509.5" y="592.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >no un-boiled water out</text>
+<line x1="359.2" y1="723.2" x2="503.5" y2="680.7" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="359.2" cy="723.2" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="509.5" y="678.7" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Riser</text>
+<text x="509.5" y="693.7" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >warm feed into</text>
+<text x="509.5" y="707.2" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >the cell</text>
+<line x1="375.9" y1="843.5" x2="503.5" y2="880.5" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="375.9" cy="843.5" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="509.5" y="878.5" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Body coil + fins</text>
+<text x="509.5" y="893.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >shell trims the last</text>
+<text x="509.5" y="907.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >1–2 °C; Al 6063</text>
+<line x1="414.7" y1="769.5" x2="503.5" y2="760.2" stroke="#9aa3b3" stroke-width="1" />
+<circle cx="414.7" cy="769.5" r="2.3" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<text x="509.5" y="758.2" font-size="12.3" font-weight="700" fill="#1d2433" text-anchor="start" >Needle valve + spout</text>
+<text x="509.5" y="773.2" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >sets flow 0.8–1.6 L/h</text>
+<text x="509.5" y="786.8" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >(and boil time)</text>
+<text x="54.0" y="1074.0" font-size="11.2" font-weight="400" fill="#8a91a0" text-anchor="start" >Section, not to scale. Blue: cold feed up the outer tube. Red: boiled water down the inner tube.</text>
+<rect x="650" y="100" width="920" height="330" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="670.0" y="130.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >B · One pass of water (1.2 L/h, 25 °C room)</text>
+<rect x="672.0" y="160.0" width="132.0" height="86.0" rx="10" fill="#fbfaf7" stroke="#2f80c0" stroke-width="1.3" />
+<rect x="672.0" y="160.0" width="5.0" height="86.0" rx="2" fill="#2f80c0" stroke="none" stroke-width="0" />
+<text x="686.0" y="184.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Reservoir</text>
+<text x="686.0" y="204.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Mariotte, 0.6 L</text>
+<text x="686.0" y="228.0" font-size="12" font-weight="700" fill="#2f80c0" text-anchor="start" >25 °C</text>
+<line x1="804.0" y1="203.0" x2="818.0" y2="203.0" stroke="#1d2433" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="820.0" y="160.0" width="132.0" height="86.0" rx="10" fill="#fbfaf7" stroke="#2f80c0" stroke-width="1.3" />
+<rect x="820.0" y="160.0" width="5.0" height="86.0" rx="2" fill="#2f80c0" stroke="none" stroke-width="0" />
+<text x="834.0" y="184.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Coil, outer</text>
+<text x="834.0" y="204.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >climbs, takes heat</text>
+<text x="834.0" y="228.0" font-size="12" font-weight="700" fill="#2f80c0" text-anchor="start" >25 → ~95 °C</text>
+<line x1="952.0" y1="203.0" x2="966.0" y2="203.0" stroke="#1d2433" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="968.0" y="160.0" width="132.0" height="86.0" rx="10" fill="#fbfaf7" stroke="#e8503a" stroke-width="1.3" />
+<rect x="968.0" y="160.0" width="5.0" height="86.0" rx="2" fill="#e8503a" stroke="none" stroke-width="0" />
+<text x="982.0" y="184.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Boil cell</text>
+<text x="982.0" y="204.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >60 mL, ~3 min</text>
+<text x="982.0" y="228.0" font-size="12" font-weight="700" fill="#e8503a" text-anchor="start" >~100 °C</text>
+<line x1="1100.0" y1="203.0" x2="1114.0" y2="203.0" stroke="#1d2433" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="1116.0" y="160.0" width="132.0" height="86.0" rx="10" fill="#fbfaf7" stroke="#e8503a" stroke-width="1.3" />
+<rect x="1116.0" y="160.0" width="5.0" height="86.0" rx="2" fill="#e8503a" stroke="none" stroke-width="0" />
+<text x="1130.0" y="184.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Catcher + gate</text>
+<text x="1130.0" y="204.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >25 µm mesh, wax</text>
+<text x="1130.0" y="228.0" font-size="12" font-weight="700" fill="#e8503a" text-anchor="start" >opens ≥ 95 °C</text>
+<line x1="1248.0" y1="203.0" x2="1262.0" y2="203.0" stroke="#1d2433" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="1264.0" y="160.0" width="132.0" height="86.0" rx="10" fill="#fbfaf7" stroke="#e8503a" stroke-width="1.3" />
+<rect x="1264.0" y="160.0" width="5.0" height="86.0" rx="2" fill="#e8503a" stroke="none" stroke-width="0" />
+<text x="1278.0" y="184.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Coil, inner</text>
+<text x="1278.0" y="204.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >falls, gives heat</text>
+<text x="1278.0" y="228.0" font-size="12" font-weight="700" fill="#e8503a" text-anchor="start" >→ ~29 °C</text>
+<line x1="1396.0" y1="203.0" x2="1410.0" y2="203.0" stroke="#1d2433" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="1412.0" y="160.0" width="132.0" height="86.0" rx="10" fill="#fbfaf7" stroke="#2f80c0" stroke-width="1.3" />
+<rect x="1412.0" y="160.0" width="5.0" height="86.0" rx="2" fill="#2f80c0" stroke="none" stroke-width="0" />
+<text x="1426.0" y="184.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Body coil</text>
+<text x="1426.0" y="204.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >fins trim it</text>
+<text x="1426.0" y="228.0" font-size="12" font-weight="700" fill="#2f80c0" text-anchor="start" >→ ~27 °C</text>
+<path d="M1032,246 L1032,284 L1336,284 L1336,250" stroke="#f2a516" stroke-width="1.4" fill="none" stroke-dasharray="4 3" marker-end="url(#aW)"/>
+<text x="1184.0" y="302.0" font-size="11" font-weight="600" fill="#f2a516" text-anchor="middle" >the same coil: heat passes from the inner tube to the outer</text>
+<text x="672.0" y="344.0" font-size="12" font-weight="400" fill="#5b6475" text-anchor="start" >Why it needs so little power: the coil hands ~95% of the heat from outgoing water to incoming water (ε 0.95). The heater only makes up the</text>
+<text x="672.0" y="361.0" font-size="12" font-weight="400" fill="#5b6475" text-anchor="start" >last few degrees, steam and losses: ~22 W at 1.2 L/h, against ~121 W with no coil. The same tubes are the cooler: water leaves at ~27 °C</text>
+<text x="672.0" y="378.0" font-size="12" font-weight="400" fill="#5b6475" text-anchor="start" >straight away, with no waiting.</text>
+<rect x="650" y="450" width="450" height="640" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="670.0" y="480.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >C · All the electrics: 7 parts, no PCB</text>
+<text x="672.0" y="506.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >USB-C 20 V +</text>
+<rect x="689.0" y="525.0" width="92.0" height="30.0" rx="6" fill="#fbfaf7" stroke="#8e5cc2" stroke-width="1.3" />
+<text x="735.0" y="544.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="middle" >PD trigger</text>
+<text x="735.0" y="569.0" font-size="10.5" font-weight="400" fill="#5b6475" text-anchor="middle" >asks for 20 V 3 A</text>
+<rect x="805.0" y="525.0" width="70.0" height="30.0" rx="6" fill="#fbfaf7" stroke="#1d2433" stroke-width="1.3" />
+<text x="840.0" y="544.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="middle" >Fuse 5 A</text>
+<rect x="898.0" y="525.0" width="84.0" height="30.0" rx="6" fill="#fbfaf7" stroke="#1d2433" stroke-width="1.3" />
+<text x="940.0" y="544.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="middle" >Rocker</text>
+<text x="940.0" y="569.0" font-size="10.5" font-weight="400" fill="#5b6475" text-anchor="middle" >LED on</text>
+<line x1="689.0" y1="540.0" x2="689.0" y2="540.0" stroke="#1d2433" stroke-width="1.2" />
+<line x1="781.0" y1="540.0" x2="805.0" y2="540.0" stroke="#1d2433" stroke-width="1.4" />
+<line x1="875.0" y1="540.0" x2="898.0" y2="540.0" stroke="#1d2433" stroke-width="1.4" />
+<path d="M982,540 L1060,540 L1060,620 L1030,620" stroke="#1d2433" stroke-width="1.4" fill="none" />
+<rect x="940.0" y="605.0" width="90.0" height="30.0" rx="6" fill="#fbfaf7" stroke="#e8503a" stroke-width="1.3" />
+<text x="985.0" y="624.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="middle" >KSD 130 °C</text>
+<text x="985.0" y="649.0" font-size="10.5" font-weight="400" fill="#5b6475" text-anchor="middle" >dry-boil cut</text>
+<rect x="822.0" y="605.0" width="96.0" height="30.0" rx="6" fill="#fbfaf7" stroke="#1d2433" stroke-width="1.3" />
+<text x="870.0" y="624.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="middle" >TCO 152 °C</text>
+<text x="870.0" y="649.0" font-size="10.5" font-weight="400" fill="#5b6475" text-anchor="middle" >one-shot</text>
+<line x1="940.0" y1="620.0" x2="918.0" y2="620.0" stroke="#1d2433" stroke-width="1.4" />
+<line x1="822.0" y1="620.0" x2="800.0" y2="620.0" stroke="#1d2433" stroke-width="1.4" />
+<rect x="704.0" y="605.0" width="96.0" height="30.0" rx="6" fill="#fbfaf7" stroke="#e8503a" stroke-width="1.3" />
+<text x="752.0" y="624.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="middle" >Heater 60 W</text>
+<text x="752.0" y="649.0" font-size="10.5" font-weight="400" fill="#5b6475" text-anchor="middle" >20 V, 6.7 Ω</text>
+<path d="M704,620 L680,620 L680,690 L700,690" stroke="#1d2433" stroke-width="1.4" fill="none" />
+<text x="706.0" y="694.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >USB-C GND</text>
+<text x="672.0" y="735.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Temperature control is mechanical: water can&#x27;t pass the wax gate</text>
+<text x="672.0" y="751.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >until it is ~95 °C, so there is no sensor or controller. The heater</text>
+<text x="672.0" y="767.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >simply runs; spare power goes into steam, and the vent tube returns</text>
+<text x="672.0" y="783.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >that heat to the reservoir.</text>
+<text x="672.0" y="809.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Power: any 65 W+ USB-C charger, or a 100 W power bank off-grid. Per</text>
+<text x="672.0" y="825.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >litre ~19 Wh plus ~12 min of warm-up, so a 90 Wh bank gives about 3</text>
+<text x="672.0" y="841.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >L.</text>
+<text x="672.0" y="875.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Safety</text>
+<text x="672.0" y="893.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Two dry-boil cut-offs (130 °C thermostat, 152 °C fuse) on the</text>
+<text x="672.0" y="909.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >thermowell. 20 V only: no mains inside. The cell is vented, so</text>
+<text x="672.0" y="925.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >nothing is under pressure.</text>
+<rect x="1120" y="450" width="450" height="640" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="1140.0" y="480.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >D · Prototype now from stock parts</text>
+<text x="1140.0" y="500.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹1,500</text>
+<text x="1205.0" y="500.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Boil cell: 1.5&quot; SS316 tri-clamp spool 100 mm + 2 end caps</text>
+<text x="1205.0" y="514.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >(heater boss + outlet), clamps</text>
+<text x="1140.0" y="535.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹2,400</text>
+<text x="1205.0" y="535.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >SS316 tube: 3/16&quot; × 3.8 m and 3/8&quot; × 2.4 m; coil by hand on</text>
+<text x="1205.0" y="549.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >a Ø70 pipe</text>
+<text x="1140.0" y="570.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹2,800</text>
+<text x="1205.0" y="570.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >2 bored-through tees 3/8&quot; × 3/16&quot; + 6 compression fittings</text>
+<text x="1205.0" y="584.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >(twin-ferrule)</text>
+<text x="1140.0" y="605.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹400</text>
+<text x="1205.0" y="605.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >24 V 60 W cartridge heater + KSD301 130 °C + TCO + fuse +</text>
+<text x="1205.0" y="619.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >rocker</text>
+<text x="1140.0" y="640.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹600</text>
+<text x="1205.0" y="640.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >24 V 3 A DC adapter for the bench (USB-C PD trigger for the</text>
+<text x="1205.0" y="654.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >product)</text>
+<text x="1140.0" y="675.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹400</text>
+<text x="1205.0" y="675.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Wax gate: car-engine thermostat (~88–92 °C) in a 2&quot;</text>
+<text x="1205.0" y="689.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >tri-clamp housing; check its opening temp</text>
+<text x="1140.0" y="710.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹1,200</text>
+<text x="1205.0" y="710.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >1/8&quot; SS needle valve at the spout</text>
+<text x="1140.0" y="730.5" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹700</text>
+<text x="1205.0" y="730.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Reservoir: 1 L glass aspirator bottle with bottom outlet +</text>
+<text x="1205.0" y="745.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >glass/SS Mariotte tube</text>
+<text x="1140.0" y="765.5" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹600</text>
+<text x="1205.0" y="765.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Catcher: 1.5&quot; tri-clamp screen gasket 300–500 mesh</text>
+<text x="1140.0" y="786.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹900</text>
+<text x="1205.0" y="786.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Body: finned Al heat-sink tube or radiator fin strip, coil</text>
+<text x="1205.0" y="800.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >clamped inside</text>
+<text x="1140.0" y="821.0" font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="start" >~₹1,500</text>
+<text x="1205.0" y="821.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Aerogel wrap, 3D-printed frame, 2 bimetal thermometers for</text>
+<text x="1205.0" y="835.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >tests, sundries</text>
+<text x="1140.0" y="866.0" font-size="12.5" font-weight="700" fill="#2a9d8f" text-anchor="start" >≈ ₹15,000 bench prototype (full list in the BOM)</text>
+<text x="1140.0" y="886.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Big and modular is fine: every joint is a clamp or compression fitting,</text>
+<text x="1140.0" y="901.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >so the coil length, cell size and gate can be swapped while testing.</text>
+<rect x="30" y="1110" width="1540" height="280" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="50.0" y="1140.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >E · Numbers (sims T1–T5) and fit to the requirements</text>
+<text x="50.0" y="1160.0" font-size="13" font-weight="700" fill="#1d2433" text-anchor="start" >Coil (T1)</text>
+<text x="50.0" y="1182.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >2.4 m tube-in-tube, ~114 mm tall</text>
+<text x="50.0" y="1200.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >ε 0.97 / 0.95 / 0.93 at 0.8/1.2/1.6 L/h</text>
+<text x="50.0" y="1218.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >≥ 0.89 even with no coil-flow boost</text>
+<text x="50.0" y="1236.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >1.5× length margin built in</text>
+<text x="430.0" y="1160.0" font-size="13" font-weight="700" fill="#1d2433" text-anchor="start" >Heater (T2, T4)</text>
+<text x="430.0" y="1182.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >16 / 22 / 30 W steady at 0.8/1.2/1.6 L/h</text>
+<text x="430.0" y="1200.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >60 W fitted: margin for 35 °C water</text>
+<text x="430.0" y="1218.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >warm-up ~12 min, first water ~15 min</text>
+<text x="430.0" y="1236.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >cell 60 mL = 3 min at 1.2 L/h</text>
+<text x="810.0" y="1160.0" font-size="13" font-weight="700" fill="#1d2433" text-anchor="start" >Gravity (T3)</text>
+<text x="810.0" y="1182.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >cold side needs ~28 mm head</text>
+<text x="810.0" y="1200.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >hot side needs ~50 mm</text>
+<text x="810.0" y="1218.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >available: ~50 / ~138 mm</text>
+<text x="810.0" y="1236.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >no pump needed</text>
+<text x="1190.0" y="1160.0" font-size="13" font-weight="700" fill="#1d2433" text-anchor="start" >Water out (T5)</text>
+<text x="1190.0" y="1182.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >25 °C room: ~27 °C at 1.2 L/h</text>
+<text x="1190.0" y="1200.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >35 °C room: ~37 °C</text>
+<text x="1190.0" y="1218.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >shell within ~1.5 °C of room</text>
+<text x="1190.0" y="1236.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >never below room temperature</text>
+<line x1="50.0" y1="1262.0" x2="1550.0" y2="1262.0" stroke="#eee" stroke-width="1" />
+<rect x="50.0" y="1280.0" width="60.0" height="20.0" rx="10" fill="#2a9d8f" stroke="none" stroke-width="0" />
+<text x="120.0" y="1295.0" font-size="13" font-weight="700" fill="#1d2433" text-anchor="start" >Meets</text>
+<text x="50.0" y="1322.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Portable bottle form; tubes + body do the cooling as asked; 7 electrical</text>
+<text x="50.0" y="1338.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >parts, no PCB/battery (req 9.3); runs from a power bank (req 4.1/4.6);</text>
+<text x="50.0" y="1354.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >continuous flow, drinkable straight away (req 2.1); no plastic on the wet side</text>
+<text x="50.0" y="1370.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >(5.1/5.2).</text>
+<rect x="555.0" y="1280.0" width="60.0" height="20.0" rx="10" fill="#f2a516" stroke="none" stroke-width="0" />
+<text x="625.0" y="1295.0" font-size="13" font-weight="700" fill="#1d2433" text-anchor="start" >Still open</text>
+<text x="555.0" y="1322.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Removal needs hard water (~285 mg/L for 90%, req 10.1). ~22 parts (req 9.2 ≤</text>
+<text x="555.0" y="1338.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >20). Product parts ~₹2,000 → retail ~₹6,600: above the ₹5,000 quartile, below</text>
+<text x="555.0" y="1354.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >₹8,000 (req 16.1).</text>
+<rect x="1060.0" y="1280.0" width="60.0" height="20.0" rx="10" fill="#e8503a" stroke="none" stroke-width="0" />
+<text x="1130.0" y="1295.0" font-size="13" font-weight="700" fill="#1d2433" text-anchor="start" >Risks to test</text>
+<text x="1060.0" y="1322.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Wax-gate opening temperature and leakage; lime scaling the 3/16&quot; inner tube</text>
+<text x="1060.0" y="1338.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >(needs a citric-acid flush); mesh clogging at the gate; air locks when</text>
+<text x="1060.0" y="1354.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >refilling the Mariotte reservoir.</text>
+<rect x="30" y="1405" width="1540" height="80" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="50.0" y="1432.0" font-size="12.5" font-weight="700" fill="#e8503a" text-anchor="start" >CHECK ON THE BENCH FIRST</text>
+<text x="50.0" y="1454.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >1) Gate: opening temperature and that nothing passes below it. 2) Coil ε and outlet temperature at 0.8/1.2/1.6 L/h with 4 thermometers. 3) Lime formed in 2–3 min in the 60 mL cell (titration). 4) Bead removal, Nile Red counts (Concept 05). 5) Scale</text>
+<text x="50.0" y="1470.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >in the inner tube after 20 L.</text></svg>

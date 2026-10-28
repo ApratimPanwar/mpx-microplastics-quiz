@@ -1,0 +1,55 @@
+{
+ "H1_H2": {
+  "400": {
+   "heat_min": 7.2,
+   "total_min": 11.2,
+   "steam_lost_g": 17,
+   "Wh_per_batch": 59,
+   "A_at_230V": 1.74
+  },
+  "600": {
+   "heat_min": 4.8,
+   "total_min": 8.8,
+   "steam_lost_g": 27,
+   "Wh_per_batch": 66,
+   "A_at_230V": 2.61
+  },
+  "800": {
+   "heat_min": 3.6,
+   "total_min": 7.6,
+   "steam_lost_g": 37,
+   "Wh_per_batch": 72,
+   "A_at_230V": 3.48
+  }
+ },
+ "H3_d_settles_fully_um": {
+  "1": 21.6,
+  "2": 15.3,
+  "3": 12.5,
+  "5": 9.7
+ },
+ "H4_min_to_40C": {
+  "plain steel chamber": {
+   "minutes": 240,
+   "water_used_mL": 0
+  },
+  "clip-on Al fin sleeve": {
+   "minutes": 91,
+   "water_used_mL": 0
+  },
+  "fin sleeve + wet cotton wrap": {
+   "minutes": 30,
+   "water_used_mL": 37
+  },
+  "stand in 1.5 L tap water, refill once": {
+   "minutes": 16,
+   "water_used_mL": 0
+  }
+ },
+ "H5": {
+  "mesh_area_cm2": 23.75829444277281,
+  "drain_time_s_clean": 72,
+  "lime_per_batch_mg_at_180": 80,
+  "note": "drain time scales with how much lime reaches the mesh; measure on the bench"
+ }
+}

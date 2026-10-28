@@ -1,0 +1,419 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1240" viewBox="0 0 1700 1240" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4N2EwZjE1NC0yNzQzLTRlMzctYWViZS0yMzNjY2I1ZmYzMzAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGGEqIrBHlXzEETlOZYsp6IAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplMGUwNDBkYy03ZWY4LTRjYTMtYWRkNy02ZjlmMDk4ZmNkYTlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNocJrTcCleMfDzsDkZV+RQ/gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggxYDgRwIFZfp0OT5GU7r2AOEfri7keHE2jbiy/2dCWqekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLmlWeeEqXZbhaM8lkSu844AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCC8FVfA+CUSIBjGdOH6zThZWu4dHtk6sDH2IkKf4ItG2WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg3YTBmMTU0LTI3NDMtNGUzNy1hZWJlLTIzM2NjYjVmZjMzMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdlYmI0YTUzLTk2NjAtNDY2Zi1hZTlmLTM4ZmYyZjgyNjllMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDFgOBHAgVl+nQ5PkZTuvYA4R+uLuR4cTaNuLL/Z0Jap6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggWz9aThw2aQNA6sjt6j0IuDfQOZpII8TKwcsF3veiLVSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg/h1Q/86X2uAIS/H7RrASFLAX15xC1MFzHs8AeqL2FfZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAmpj+WwIjThlSTCDVuynU6GVz24QKq5B4riSGYyzp2cn2Oy1z0Pff6MoKYQBkZ0//s2SmhxY2683hdlN+p9Cw0=</c2pa:manifest></metadata><defs><marker id="da" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9" fill="none" stroke="#8a91a0" stroke-width="1.4"/></marker><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#1d2433"/></marker><marker id="aC" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#2f80c0"/></marker><marker id="aH" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#e8503a"/></marker><marker id="aW" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#f2a516"/></marker><marker id="aT" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#f97316"/></marker><marker id="aG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#2a9d8f"/></marker><marker id="aP" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#8e5cc2"/></marker><marker id="aM" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#8a91a0"/></marker><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#f3efe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cdbf9f" stroke-width="1.5"/></pattern><pattern id="mesh" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#eef1f3"/><path d="M0 0L5 5M5 0L0 5" stroke="#8b96a0" stroke-width=".6"/></pattern><pattern id="al" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#d9dee2"/><line x1="0" y1="0" x2="0" y2="8" stroke="#b9c1c7" stroke-width="1"/></pattern></defs><rect width="1700" height="1240" fill="#f4f3ef"/>
+<text x="30.0" y="50.0" font-size="25" font-weight="700" fill="#1d2433" text-anchor="start" >MPx Boil-Loop · General arrangement (preliminary)</text>
+<text x="30.0" y="76.0" font-size="13.5" font-weight="400" fill="#5b6475" text-anchor="start" >Side section through the body axis, front elevation and plan section. All dimensions in mm. Sized by the v0.2 simulations for 3–5 L/h on a 100 W USB-C supply with a 99 Wh battery.</text>
+<text x="1670.0" y="50.0" font-size="11.5" font-weight="400" fill="#8a91a0" text-anchor="end" >MPx · Boil-Loop · preliminary v0.2 · Oct 2026</text>
+<rect x="30" y="100" width="640" height="900" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="50.0" y="130.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >A · Side section through body axis (front of product on the left)</text>
+<rect x="127.0" y="812.8" width="372.6" height="97.2" rx="10" fill="#3a4150" stroke="#2b313b" stroke-width="1" />
+<rect x="133.5" y="890.6" width="359.6" height="2.0" rx="0" fill="#2b313b" stroke="none" stroke-width="0" />
+<rect x="146.4" y="909.0" width="19.4" height="5.0" rx="2" fill="#111" stroke="none" stroke-width="0" />
+<rect x="476.9" y="909.0" width="19.4" height="5.0" rx="2" fill="#111" stroke="none" stroke-width="0" />
+<rect x="143.2" y="861.4" width="97.2" height="16.2" rx="2" fill="#3b7a57" stroke="#1f4d36" stroke-width="1" />
+<rect x="256.6" y="825.8" width="116.6" height="58.3" rx="4" fill="#5b6070" stroke="#20242c" stroke-width="1" />
+<circle cx="271.2" cy="854.9" r="13.9" fill="#7c8494" stroke="#20242c" stroke-width="0.8" />
+<circle cx="300.3" cy="854.9" r="13.9" fill="#7c8494" stroke="#20242c" stroke-width="0.8" />
+<circle cx="329.5" cy="854.9" r="13.9" fill="#7c8494" stroke="#20242c" stroke-width="0.8" />
+<circle cx="358.7" cy="854.9" r="13.9" fill="#7c8494" stroke="#20242c" stroke-width="0.8" />
+<rect x="386.2" y="820.9" width="89.1" height="68.0" rx="4" fill="#41506a" stroke="#1b2230" stroke-width="1" />
+<circle cx="429.9" cy="854.9" r="22.7" fill="#9aa6b8" stroke="#1b2230" stroke-width="1" />
+<rect x="195.0" y="819.3" width="48.6" height="48.6" rx="3" fill="#c5ccd2" stroke="#6f7a83" stroke-width="1" />
+<circle cx="219.3" cy="843.6" r="13.0" fill="#e9edf0" stroke="#6f7a83" stroke-width="1" />
+<rect x="248.5" y="803.1" width="243.0" height="9.7" rx="0" fill="url(#hatch)" stroke="#b8a87f" stroke-width="0.8" />
+<rect x="240.4" y="326.8" width="4.1" height="486.0" rx="0" fill="url(#al)" stroke="#7d8790" stroke-width="0.8" />
+<rect x="495.6" y="326.8" width="4.1" height="486.0" rx="0" fill="url(#al)" stroke="#7d8790" stroke-width="0.8" />
+<rect x="227.4" y="330.0" width="13.0" height="479.5" rx="0" fill="#e7ebee" stroke="#9aa5ad" stroke-width="0.6" />
+<rect x="499.6" y="330.0" width="13.0" height="479.5" rx="0" fill="#e7ebee" stroke="#9aa5ad" stroke-width="0.6" />
+<line x1="250.1" y1="780.4" x2="250.1" y2="407.8" stroke="#2f80c0" stroke-width="7.715250000000001" stroke-linecap="round" opacity=".85"/>
+<line x1="489.9" y1="780.4" x2="489.9" y2="407.8" stroke="#2f80c0" stroke-width="7.715250000000001" stroke-linecap="round" opacity=".85"/>
+<rect x="256.6" y="334.9" width="6.5" height="469.8" rx="0" fill="url(#hatch)" stroke="#b8a87f" stroke-width="0.6" />
+<rect x="476.9" y="334.9" width="6.5" height="469.8" rx="0" fill="url(#hatch)" stroke="#b8a87f" stroke-width="0.6" />
+<circle cx="272.8" cy="788.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="788.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="788.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="788.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="771.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="771.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="771.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="771.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="754.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="754.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="754.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="754.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="737.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="737.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="737.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="737.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="720.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="720.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="720.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="720.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="703.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="703.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="703.5" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="703.5" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="686.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="686.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="686.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="686.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="669.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="669.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="669.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="669.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="652.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="652.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="652.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="652.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="635.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="635.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="635.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="635.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="272.8" cy="618.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="272.8" cy="618.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<circle cx="467.2" cy="618.4" r="7.7" fill="#eef1f3" stroke="#6f7a83" stroke-width="0.8" />
+<circle cx="467.2" cy="618.4" r="5.1" fill="#fbd7cf" stroke="#e8503a" stroke-width="0.9" />
+<rect x="321.4" y="650.8" width="97.2" height="129.6" rx="4" fill="#cfd5da" stroke="#6f7a83" stroke-width="1" />
+<line x1="327.9" y1="756.1" x2="412.1" y2="756.1" stroke="#e8503a" stroke-width="2.2" stroke-dasharray="1 0"/>
+<line x1="327.9" y1="707.5" x2="412.1" y2="707.5" stroke="#e8503a" stroke-width="2.2" stroke-dasharray="1 0"/>
+<line x1="327.9" y1="675.1" x2="412.1" y2="675.1" stroke="#e8503a" stroke-width="2.2" stroke-dasharray="1 0"/>
+<rect x="342.5" y="654.0" width="9.7" height="113.4" rx="3" fill="#f6b8a8" stroke="#e8503a" stroke-width="0.8" />
+<rect x="387.8" y="654.0" width="9.7" height="113.4" rx="3" fill="#f6b8a8" stroke="#e8503a" stroke-width="0.8" />
+<rect x="293.1" y="343.0" width="153.9" height="283.5" rx="6" fill="url(#hatch)" stroke="#8c939e" stroke-width="1" />
+<rect x="301.1" y="351.1" width="137.7" height="267.3" rx="4" fill="#fff7ed" stroke="#6f7a83" stroke-width="1" />
+<rect x="301.1" y="375.4" width="137.7" height="243.0" rx="3" fill="#ffd9c7" stroke="none" stroke-width="0" />
+<line x1="301.1" y1="375.4" x2="438.9" y2="375.4" stroke="#e8503a" stroke-width="1.4" stroke-dasharray="5 3"/>
+<rect x="366.8" y="351.1" width="6.5" height="226.8" rx="0" fill="#c5ccd2" stroke="#6f7a83" stroke-width="0.8" />
+<rect x="327.9" y="323.6" width="13.0" height="267.3" rx="4" fill="#e7c9c0" stroke="#e8503a" stroke-width="1" />
+<circle cx="314.9" cy="569.8" r="3.6" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="345.7" cy="521.2" r="3.6" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="316.5" cy="472.6" r="3.6" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="350.6" cy="424.0" r="3.6" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="321.4" cy="399.7" r="3.6" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="340.8" cy="586.0" r="3.6" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<circle cx="357.0" cy="480.7" r="3.6" fill="#fff" stroke="#e8503a" stroke-width="0.7" />
+<rect x="383.0" y="415.9" width="48.6" height="170.1" rx="4" fill="url(#mesh)" stroke="#6f7a83" stroke-width="1" />
+<rect x="400.8" y="415.9" width="13.0" height="170.1" rx="2" fill="#fff" stroke="#6f7a83" stroke-width="0.6" />
+<rect x="386.2" y="394.8" width="42.1" height="21.1" rx="3" fill="#9aa5ad" stroke="#6f7a83" stroke-width="0.8" />
+<rect x="373.2" y="602.2" width="64.8" height="16.2" rx="2" fill="#e9e1cc" stroke="#b8a87f" stroke-width="0.8" />
+<path d="M407.26,586.0 L407.26,634.5999999999999 Q407.26,641.0799999999999 434.8,608.6800000000001 L460.72,610.3" stroke="#e8503a" stroke-width="2.6" fill="none" />
+<path d="M227.44,326.79999999999995 L227.44,274.9599999999999 L256.6,229.5999999999999 L512.56,229.5999999999999 L512.56,326.79999999999995 Z" stroke="#1d2433" stroke-width="1" fill="#3a4150" />
+<rect x="233.9" y="249.0" width="29.2" height="2.0" rx="0" fill="#38bdf8" stroke="none" stroke-width="0" />
+<path d="M230.67999999999998,274.9599999999999 L254.98,237.69999999999993" stroke="#38bdf8" stroke-width="3" fill="none" />
+<rect x="289.0" y="219.9" width="162.0" height="13.0" rx="4" fill="#4a5263" stroke="#1b1f27" stroke-width="1" />
+<rect x="353.8" y="210.2" width="32.4" height="9.7" rx="3" fill="#e8503a" stroke="none" stroke-width="0" />
+<circle cx="418.6" cy="286.3" r="6.5" fill="none" stroke="#2f80c0" stroke-width="2" />
+<circle cx="434.8" cy="286.3" r="6.5" fill="none" stroke="#2f80c0" stroke-width="2" />
+<circle cx="451.0" cy="286.3" r="6.5" fill="none" stroke="#2f80c0" stroke-width="2" />
+<circle cx="467.2" cy="286.3" r="6.5" fill="none" stroke="#2f80c0" stroke-width="2" />
+<line x1="370.0" y1="343.0" x2="370.0" y2="294.4" stroke="#9aa5ad" stroke-width="3" />
+<path d="M370.0,294.4 L470.44,294.4 L470.44,226.3599999999999" stroke="#9aa5ad" stroke-width="2.4" fill="none" />
+<path d="M248.5,610.3 L188.56,610.3 L188.56,624.88" stroke="#6f7a83" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M219.34,819.28 L219.34,803.08 L245.26,796.6 L245.26,618.4 L248.5,610.3" stroke="#2f80c0" stroke-width="2.2" fill="none" />
+<rect x="127.0" y="890.6" width="105.3" height="4.9" rx="0" fill="url(#mesh)" stroke="#6f7a83" stroke-width="0.8" />
+<line x1="188.6" y1="634.6" x2="188.6" y2="880.8" stroke="#2f80c0" stroke-width="1.6" stroke-dasharray="3 4"/>
+<path d="M429.94,825.76 L429.94,806.3199999999999 L454.24,796.6" stroke="#2f80c0" stroke-width="2" fill="none" marker-end="url(#aC)"/>
+<line x1="50.9" y1="910.0" x2="50.9" y2="229.6" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="44.9" y1="910.0" x2="56.9" y2="910.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="44.9" y1="229.6" x2="56.9" y2="229.6" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="36.7" y="560.8" width="28.4" height="16" fill="#ffffff"/>
+<text x="50.9" y="573.8" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >420</text>
+<line x1="156.2" y1="885.7" x2="156.2" y2="624.9" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="150.2" y1="885.7" x2="162.2" y2="885.7" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="150.2" y1="624.9" x2="162.2" y2="624.9" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="142.0" y="746.3" width="28.4" height="16" fill="#ffffff"/>
+<text x="156.2" y="759.3" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >160</text>
+<line x1="127.0" y1="938.0" x2="499.6" y2="938.0" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="127.0" y1="932.0" x2="127.0" y2="944.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="499.6" y1="932.0" x2="499.6" y2="944.0" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="282.1" y="929.0" width="62.4" height="16" fill="#ffffff"/>
+<text x="313.3" y="942.0" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >230 deep</text>
+<line x1="227.4" y1="189.6" x2="512.6" y2="189.6" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="227.4" y1="183.6" x2="227.4" y2="195.6" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="512.6" y1="183.6" x2="512.6" y2="195.6" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="274.2" y="180.5999999999999" width="191.6" height="16" fill="#ffffff"/>
+<text x="370.0" y="193.6" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >Ø176 over fins · Ø160 shell</text>
+<line x1="532.0" y1="610.3" x2="532.0" y2="375.4" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="526.0" y1="610.3" x2="538.0" y2="610.3" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="526.0" y1="375.4" x2="538.0" y2="375.4" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="500.8" y="483.8" width="62.4" height="16" fill="#ffffff"/>
+<text x="532.0" y="496.8" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >head 145</text>
+<line x1="561.2" y1="812.8" x2="561.2" y2="326.8" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="555.2" y1="812.8" x2="567.2" y2="812.8" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="555.2" y1="326.8" x2="567.2" y2="326.8" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="547.0" y="560.8" width="28.4" height="16" fill="#ffffff"/>
+<text x="561.2" y="573.8" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >300</text>
+<line x1="329.5" y1="391.6" x2="86.5" y2="375.4" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="329.5" cy="391.6" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="375.4" r="9.0" fill="#e8503a" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="379.4" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >1</text>
+<line x1="321.4" y1="505.0" x2="86.5" y2="472.6" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="321.4" cy="505.0" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="472.6" r="9.0" fill="#e8503a" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="476.6" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >2</text>
+<line x1="402.4" y1="488.8" x2="632.4" y2="424.0" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="402.4" cy="488.8" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="632.4" cy="424.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="632.4" y="428.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >3</text>
+<line x1="402.4" y1="594.1" x2="632.4" y2="561.7" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="402.4" cy="594.1" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="632.4" cy="561.7" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="632.4" y="565.7" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >4</text>
+<line x1="370.0" y1="683.2" x2="86.5" y2="683.2" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="370.0" cy="683.2" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="683.2" r="9.0" fill="#e8503a" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="687.2" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >5</text>
+<line x1="467.2" y1="715.6" x2="632.4" y2="667.0" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="467.2" cy="715.6" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="632.4" cy="667.0" r="9.0" fill="#f2a516" stroke="#fff" stroke-width="1.2" />
+<text x="632.4" y="671.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >6</text>
+<line x1="489.9" y1="521.2" x2="632.4" y2="505.0" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="489.9" cy="521.2" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="632.4" cy="505.0" r="9.0" fill="#2f80c0" stroke="#fff" stroke-width="1.2" />
+<text x="632.4" y="509.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >7</text>
+<line x1="480.2" y1="375.4" x2="632.4" y2="351.1" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="480.2" cy="375.4" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="632.4" cy="351.1" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="632.4" y="355.1" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >8</text>
+<line x1="243.6" y1="424.0" x2="86.5" y2="553.6" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="243.6" cy="424.0" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="553.6" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="557.6" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >9</text>
+<line x1="434.8" y1="286.3" x2="632.4" y2="262.0" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="434.8" cy="286.3" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="632.4" cy="262.0" r="9.0" fill="#2f80c0" stroke="#fff" stroke-width="1.2" />
+<text x="632.4" y="266.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >10</text>
+<line x1="243.6" y1="262.0" x2="86.5" y2="253.9" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="243.6" cy="262.0" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="253.9" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="257.9" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >11</text>
+<line x1="370.0" y1="216.6" x2="86.5" y2="197.2" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="370.0" cy="216.6" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="197.2" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="201.2" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >12</text>
+<line x1="188.6" y1="615.2" x2="86.5" y2="594.1" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="188.6" cy="615.2" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="594.1" r="9.0" fill="#2f80c0" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="598.1" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >13</text>
+<line x1="219.3" y1="837.1" x2="86.5" y2="756.1" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="219.3" cy="837.1" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="756.1" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="760.1" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >14</text>
+<line x1="191.8" y1="869.5" x2="86.5" y2="812.8" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="191.8" cy="869.5" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="812.8" r="9.0" fill="#2a9d8f" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="816.8" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >15</text>
+<line x1="313.3" y1="845.2" x2="86.5" y2="877.6" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="313.3" cy="845.2" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="86.5" cy="877.6" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="86.5" y="881.6" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >16</text>
+<line x1="429.9" y1="837.1" x2="632.4" y2="796.6" stroke="#9aa3b3" stroke-width="0.9" />
+<circle cx="429.9" cy="837.1" r="2.2" fill="#1d2433" stroke="#1d2433" stroke-width="0.5" />
+<circle cx="632.4" cy="796.6" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="632.4" y="800.6" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >17</text>
+<rect x="690" y="100" width="500" height="500" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="710.0" y="130.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >B · Front elevation</text>
+<rect x="795.0" y="500.0" width="290.0" height="60.0" rx="10" fill="#3a4150" stroke="#2b313b" stroke-width="1" />
+<rect x="802.0" y="200.0" width="176.0" height="300.0" rx="10" fill="#d9dee2" stroke="#7d8790" stroke-width="1" />
+<line x1="816.7" y1="205.0" x2="816.7" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="831.3" y1="205.0" x2="831.3" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="846.0" y1="205.0" x2="846.0" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="860.7" y1="205.0" x2="860.7" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="875.3" y1="205.0" x2="875.3" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="890.0" y1="205.0" x2="890.0" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="904.7" y1="205.0" x2="904.7" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="919.3" y1="205.0" x2="919.3" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="934.0" y1="205.0" x2="934.0" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="948.7" y1="205.0" x2="948.7" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<line x1="963.3" y1="205.0" x2="963.3" y2="495.0" stroke="#9aa5ad" stroke-width="1" />
+<path d="M802.0,200.0 L802.0,168.0 L820.0,140.0 L960.0,140.0 L978.0,168.0 L978.0,200.0 Z" stroke="#1d2433" stroke-width="1" fill="#3a4150" />
+<circle cx="890.0" cy="162.0" r="15.0" fill="#111" stroke="#38bdf8" stroke-width="2.5" />
+<text x="890.0" y="165.0" font-size="8" font-weight="700" fill="#e6f6ff" text-anchor="middle" >54 W</text>
+<text x="890.0" y="174.0" font-size="7" font-weight="400" fill="#93c5fd" text-anchor="middle" >29°C</text>
+<circle cx="858.0" cy="162.0" r="7.0" fill="#4a5263" stroke="#9aa5ad" stroke-width="1" />
+<circle cx="922.0" cy="162.0" r="7.0" fill="#4a5263" stroke="#9aa5ad" stroke-width="1" />
+<path d="M890.0,375.0 L890.0,390.0" stroke="#6f7a83" stroke-width="6" fill="none" />
+<rect x="830.0" y="488.0" width="120.0" height="10.0" rx="3" fill="url(#mesh)" stroke="#6f7a83" stroke-width="1" />
+<rect x="866.0" y="410.0" width="48.0" height="78.0" rx="4" fill="#e8f3f8" stroke="#a9c7d4" stroke-width="1" />
+<rect x="866.0" y="450.0" width="48.0" height="38.0" rx="4" fill="#bfe0f0" stroke="none" stroke-width="0" />
+<rect x="988.0" y="298.0" width="92.0" height="200.0" rx="8" fill="#e3f1f8" stroke="#a9c7d4" stroke-width="1.4" />
+<rect x="992.0" y="340.0" width="84.0" height="150.0" rx="5" fill="#bfe0f0" stroke="none" stroke-width="0" />
+<rect x="986.0" y="292.0" width="96.0" height="8.0" rx="3" fill="#9aa5ad" stroke="#6f7a83" stroke-width="1" />
+<path d="M1010.0,292.0 Q1034.0,262.0 1058.0,292.0" stroke="#6f7a83" stroke-width="5" fill="none" stroke-linecap="round"/>
+<line x1="1070.0" y1="340.0" x2="1078.0" y2="340.0" stroke="#6f7a83" stroke-width="1" />
+<text x="1067.0" y="344.0" font-size="9" font-weight="400" fill="#5b6475" text-anchor="end" >1.5 L</text>
+<line x1="1070.0" y1="440.0" x2="1078.0" y2="440.0" stroke="#6f7a83" stroke-width="1" />
+<text x="1067.0" y="444.0" font-size="9" font-weight="400" fill="#5b6475" text-anchor="end" >0.5</text>
+<line x1="795.0" y1="586.0" x2="1085.0" y2="586.0" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="795.0" y1="580.0" x2="795.0" y2="592.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="1085.0" y1="580.0" x2="1085.0" y2="592.0" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="908.8" y="577.0" width="62.4" height="16" fill="#ffffff"/>
+<text x="940.0" y="590.0" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >290 wide</text>
+<line x1="775.0" y1="560.0" x2="775.0" y2="140.0" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="769.0" y1="560.0" x2="781.0" y2="560.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="769.0" y1="140.0" x2="781.0" y2="140.0" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="760.8" y="341.0" width="28.4" height="16" fill="#ffffff"/>
+<text x="775.0" y="354.0" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >420</text>
+<line x1="1118.0" y1="498.0" x2="1118.0" y2="262.0" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="1112.0" y1="498.0" x2="1124.0" y2="498.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="1112.0" y1="262.0" x2="1124.0" y2="262.0" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="1073.2" y="371.0" width="89.6" height="16" fill="#ffffff"/>
+<text x="1118.0" y="384.0" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >tank lifts ↑</text>
+<text x="890.0" y="554.0" font-size="1" font-weight="400" fill="#1d2433" text-anchor="start" ></text>
+<text x="705.0" y="572.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Display and two touch keys sit on the cap chamfer, angled 30° up toward the user.</text>
+<rect x="1210" y="100" width="460" height="500" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="1230.0" y="130.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >C · Plan section at z = 120 (front at top)</text>
+<rect x="1295.0" y="240.0" width="290.0" height="230.0" rx="18" fill="#eef0f2" stroke="#6f7a83" stroke-width="1.2" />
+<rect x="1330.0" y="240.0" width="120.0" height="58.0" rx="6" fill="url(#mesh)" stroke="#6f7a83" stroke-width="1" />
+<text x="1390.0" y="272.0" font-size="10" font-weight="400" fill="#5b6475" text-anchor="middle" >drip tray</text>
+<circle cx="1390.0" cy="390.0" r="88.0" fill="#d9dee2" stroke="#7d8790" stroke-width="1" />
+<line x1="1470.0" y1="390.0" x2="1478.0" y2="390.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1467.3" y1="410.7" x2="1475.0" y2="412.8" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1459.3" y1="430.0" x2="1466.2" y2="434.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1446.6" y1="446.6" x2="1452.2" y2="452.2" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1430.0" y1="459.3" x2="1434.0" y2="466.2" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1410.7" y1="467.3" x2="1412.8" y2="475.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1390.0" y1="470.0" x2="1390.0" y2="478.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1369.3" y1="467.3" x2="1367.2" y2="475.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1350.0" y1="459.3" x2="1346.0" y2="466.2" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1333.4" y1="446.6" x2="1327.8" y2="452.2" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1320.7" y1="430.0" x2="1313.8" y2="434.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1312.7" y1="410.7" x2="1305.0" y2="412.8" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1310.0" y1="390.0" x2="1302.0" y2="390.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1312.7" y1="369.3" x2="1305.0" y2="367.2" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1320.7" y1="350.0" x2="1313.8" y2="346.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1333.4" y1="333.4" x2="1327.8" y2="327.8" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1350.0" y1="320.7" x2="1346.0" y2="313.8" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1369.3" y1="312.7" x2="1367.2" y2="305.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1390.0" y1="310.0" x2="1390.0" y2="302.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1410.7" y1="312.7" x2="1412.8" y2="305.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1430.0" y1="320.7" x2="1434.0" y2="313.8" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1446.6" y1="333.4" x2="1452.2" y2="327.8" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1459.3" y1="350.0" x2="1466.2" y2="346.0" stroke="#7d8790" stroke-width="1.6" />
+<line x1="1467.3" y1="369.3" x2="1475.0" y2="367.2" stroke="#7d8790" stroke-width="1.6" />
+<circle cx="1390.0" cy="390.0" r="77.5" fill="#fff" stroke="#7d8790" stroke-width="1" />
+<circle cx="1462.5" cy="404.7" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1436.1" cy="447.9" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1388.1" cy="464.0" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1341.0" cy="445.5" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1316.8" cy="401.0" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1326.9" cy="351.4" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1366.5" cy="319.8" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1417.1" cy="321.1" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1455.0" cy="354.6" r="3.2" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.2" />
+<circle cx="1390.0" cy="390.0" r="70.0" fill="none" stroke="#b8a87f" stroke-width="4" stroke-dasharray="2 2"/>
+<circle cx="1390.0" cy="390.0" r="65.0" fill="none" stroke="#6f7a83" stroke-width="1" />
+<circle cx="1390.0" cy="390.0" r="55.0" fill="none" stroke="#6f7a83" stroke-width="1" />
+<circle cx="1390.0" cy="390.0" r="60.0" fill="none" stroke="#f2a516" stroke-width="6" opacity=".55"/>
+<rect x="1360.0" y="370.0" width="60.0" height="40.0" rx="3" fill="#cfd5da" stroke="#6f7a83" stroke-width="1" />
+<circle cx="1376.0" cy="390.0" r="3.0" fill="#f6b8a8" stroke="#e8503a" stroke-width="1" />
+<circle cx="1404.0" cy="390.0" r="3.0" fill="#f6b8a8" stroke="#e8503a" stroke-width="1" />
+<rect x="1488.0" y="320.0" width="92.0" height="150.0" rx="8" fill="#e3f1f8" stroke="#a9c7d4" stroke-width="1.4" />
+<text x="1534.0" y="395.0" font-size="11" font-weight="600" fill="#5b6475" text-anchor="middle" >tank</text>
+<text x="1534.0" y="410.0" font-size="10" font-weight="400" fill="#5b6475" text-anchor="middle" >1.5 L</text>
+<path d="M1390.0,302.0 L1390.0,278.0" stroke="#6f7a83" stroke-width="5" fill="none" />
+<rect x="1420.0" y="468.0" width="22.0" height="6.0" rx="3" fill="#111" stroke="none" stroke-width="0" />
+<text x="1431.0" y="486.0" font-size="9.5" font-weight="400" fill="#5b6475" text-anchor="middle" >USB-C</text>
+<line x1="1295.0" y1="218.0" x2="1585.0" y2="218.0" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="1295.0" y1="212.0" x2="1295.0" y2="224.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="1585.0" y1="212.0" x2="1585.0" y2="224.0" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="1425.8" y="209.0" width="28.4" height="16" fill="#ffffff"/>
+<text x="1440.0" y="222.0" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >290</text>
+<line x1="1275.0" y1="240.0" x2="1275.0" y2="470.0" stroke="#8a91a0" stroke-width="1" marker-start="url(#da)" marker-end="url(#da)"/>
+<line x1="1269.0" y1="240.0" x2="1281.0" y2="240.0" stroke="#8a91a0" stroke-width="0.8" />
+<line x1="1269.0" y1="470.0" x2="1281.0" y2="470.0" stroke="#8a91a0" stroke-width="0.8" />
+<rect x="1260.8" y="346.0" width="28.4" height="16" fill="#ffffff"/>
+<text x="1275.0" y="359.0" font-size="11" font-weight="600" fill="#1d2433" text-anchor="middle" >230</text>
+<text x="1390.0" y="394.0" font-size="10" font-weight="700" fill="#1d2433" text-anchor="middle" >H1</text>
+<text x="1230.0" y="560.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Rings from the centre: heater block, HX coil (amber), insulation,</text>
+<text x="1230.0" y="575.6" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >body-coil runs (blue) in shell grooves, finned aluminium shell.</text>
+<rect x="690" y="620" width="980" height="380" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="710.0" y="650.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >D · Parts in the section (numbers match A)</text>
+<circle cx="715.0" cy="666.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="670.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >1</text>
+<text x="733.0" y="670.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Immersion heater H2, 12 V ~40 W cartridge in SS316 thermowell: keeps the</text>
+<text x="733.0" y="685.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >boil zone at a simmer</text>
+<circle cx="715.0" cy="703.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="707.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >2</text>
+<text x="733.0" y="707.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Boil zone: open, vented, ~4 min mean residence (270–330 mL); lime forms</text>
+<text x="733.0" y="722.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >and crusts the plastics</text>
+<circle cx="715.0" cy="740.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="744.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >3</text>
+<text x="733.0" y="744.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Candle filter in the calm zone: pleated cellulose (11 µm) on SS316 core,</text>
+<text x="733.0" y="759.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >~150 cm², lifts out by its bail</text>
+<circle cx="715.0" cy="777.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="781.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >4</text>
+<text x="733.0" y="781.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Sludge sump: settled lime and plastic, ~25 mL per 100 L at 180 mg/L</text>
+<text x="733.0" y="796.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >hardness; rinse when the app says</text>
+<circle cx="715.0" cy="814.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="818.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >5</text>
+<text x="733.0" y="818.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Heater block H1: Al 6061 block, 2 × 12 V 40 W cartridges, SS316 tube</text>
+<text x="733.0" y="833.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >clamped in a milled groove; ~95 → 99 °C</text>
+<circle cx="715.0" cy="851.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="855.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >6</text>
+<text x="733.0" y="855.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Counterflow exchanger: 1/4&quot; in 3/8&quot; SS316L tube-in-tube, 4.1 m, Ø120</text>
+<text x="733.0" y="870.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >mean, 11 turns; hot inside, cold in annulus</text>
+<circle cx="715.0" cy="888.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="892.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >7</text>
+<text x="733.0" y="892.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Body coil: 1/4&quot; SS316L serpentine (~2.4 m) pressed into axial grooves of</text>
+<text x="733.0" y="907.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >the shell; ~29 → 28 °C</text>
+<circle cx="715.0" cy="925.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="929.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >8</text>
+<text x="733.0" y="929.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Insulation: 4–10 mm aerogel blanket around core and HX; mica sheet on the</text>
+<text x="733.0" y="944.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >heater block</text>
+<circle cx="715.0" cy="962.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="715.0" y="966.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >9</text>
+<text x="733.0" y="966.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Shell: 6063-T5 aluminium extrusion Ø160 × 2.5 mm, 24 × 8 mm fins, black</text>
+<text x="733.0" y="981.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >anodised</text>
+<circle cx="1205.0" cy="666.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="1205.0" y="670.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >10</text>
+<text x="1223.0" y="670.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Vent condenser: cold feed line coiled round the steam vent; recovers ~70%</text>
+<text x="1223.0" y="685.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >of steam heat, CO₂ escapes</text>
+<circle cx="1205.0" cy="703.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="1205.0" y="707.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >11</text>
+<text x="1223.0" y="707.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >1.28&quot; round IPS display + 2 capacitive keys on the cap chamfer</text>
+<circle cx="1205.0" cy="724.5" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="1205.0" y="728.5" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >12</text>
+<text x="1223.0" y="728.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Twist-lock top hatch with interlock (stays locked while calm zone &gt; 50</text>
+<text x="1223.0" y="744.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >°C)</text>
+<circle cx="1205.0" cy="761.5" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="1205.0" y="765.5" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >13</text>
+<text x="1223.0" y="765.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Detachable SS316 spout nozzle, 160 mm clear above the grate</text>
+<circle cx="1205.0" cy="783.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="1205.0" y="787.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >14</text>
+<text x="1223.0" y="787.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >3-way motorised ball valve (SS304/316 body, 12 V): dispense, or return to</text>
+<text x="1223.0" y="802.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >tank during warm-up</text>
+<circle cx="1205.0" cy="820.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="1205.0" y="824.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >15</text>
+<text x="1223.0" y="824.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Main PCB: ESP32-S3, USB-C PD charger, heater/pump/valve drivers, safety</text>
+<text x="1223.0" y="839.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >chain (see electronics sheet)</text>
+<circle cx="1205.0" cy="857.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="1205.0" y="861.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >16</text>
+<text x="1223.0" y="861.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Battery: 4S2P 18650 Li-ion, 3.45 Ah cells, 14.4 V / 99 Wh, with 4S BMS</text>
+<text x="1223.0" y="876.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >and NTC</text>
+<circle cx="1205.0" cy="894.0" r="9.0" fill="#1d2433" stroke="#fff" stroke-width="1.2" />
+<text x="1205.0" y="898.0" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >17</text>
+<text x="1223.0" y="898.0" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >Peristaltic pump, 12 V, 12–155 mL/min, food-grade tube; sits on the cold</text>
+<text x="1223.0" y="913.5" font-size="11.5" font-weight="400" fill="#5b6475" text-anchor="start" >side only</text>
+<rect x="30" y="1020" width="1640" height="190" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="50.0" y="1050.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >E · Key dimensions and figures (from the v0.2 simulations)</text>
+<text x="50.0" y="1078.0" font-size="12" font-weight="700" fill="#1d2433" text-anchor="start" >Envelope</text>
+<text x="50.0" y="1096.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >290 W × 230 D × 420 H mm; fits under a 600 mm wall-cabinet gap</text>
+<text x="50.0" y="1111.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >with 180 mm to spare</text>
+<text x="455.0" y="1078.0" font-size="12" font-weight="700" fill="#1d2433" text-anchor="start" >Output</text>
+<text x="455.0" y="1096.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >3–5 L/h after a ~17 min cold start; 1.5 L side tank = one run</text>
+<text x="860.0" y="1078.0" font-size="12" font-weight="700" fill="#1d2433" text-anchor="start" >Power</text>
+<text x="860.0" y="1096.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >~54 W steady at 4 L/h, ~66 W at 5 L/h; 150 W installed for</text>
+<text x="860.0" y="1111.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >warm-up</text>
+<text x="1265.0" y="1078.0" font-size="12" font-weight="700" fill="#1d2433" text-anchor="start" >Exchanger</text>
+<text x="1265.0" y="1096.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >4.1 m, ε ≈ 0.93–0.96 (model), ≥ 0.85 even without coil-flow</text>
+<text x="1265.0" y="1111.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >enhancement</text>
+<text x="50.0" y="1144.0" font-size="12" font-weight="700" fill="#1d2433" text-anchor="start" >Gravity side</text>
+<text x="50.0" y="1162.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >145 mm head from calm-zone surface to spout; ~60 mm used by</text>
+<text x="50.0" y="1177.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >pipes, ~85 mm left for the filter</text>
+<text x="455.0" y="1144.0" font-size="12" font-weight="700" fill="#1d2433" text-anchor="start" >Mass</text>
+<text x="455.0" y="1162.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >~5.3 kg dry (est.): HX tubes 1.2, shell 1.3, heater block 0.3,</text>
+<text x="455.0" y="1177.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >base + electronics + battery 1.4</text>
+<text x="860.0" y="1144.0" font-size="12" font-weight="700" fill="#1d2433" text-anchor="start" >Touch temps</text>
+<text x="860.0" y="1162.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >Shell ~28–30 °C at 25 °C room; cap insulated from the 100 °C core</text>
+<text x="1265.0" y="1144.0" font-size="12" font-weight="700" fill="#1d2433" text-anchor="start" >Water out</text>
+<text x="1265.0" y="1162.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >~28 °C at 25 °C room (≈ room + 3 °C); can&#x27;t go below room</text>
+<text x="1265.0" y="1177.0" font-size="11.2" font-weight="400" fill="#5b6475" text-anchor="start" >temperature</text></svg>

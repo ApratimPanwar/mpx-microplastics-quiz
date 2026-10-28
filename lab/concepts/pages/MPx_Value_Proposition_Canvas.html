@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>MPx — Value Proposition Canvas</title>
+<style>
+  :root {
+    --ink: #17181a;
+    --line: #17181a;
+    --border: #2f66d0;
+    --muted: #6b6b66;
+    --navy: #1f3864;
+    --card: #fafaf7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: #eef1f6;
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 28px 0 44px;
+  }
+  .sheet {
+    width: 1760px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(20,20,30,0.12);
+    padding: 34px 40px 30px;
+  }
+  header.doc {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 4px;
+  }
+  header.doc h1 {
+    font-size: 27px;
+    margin: 0;
+    color: var(--navy);
+    letter-spacing: 0.2px;
+  }
+  header.doc .meta {
+    font-size: 12.5px;
+    color: var(--muted);
+    text-align: right;
+    line-height: 1.5;
+  }
+  .subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    margin: 2px 0 18px;
+  }
+
+  .canvas-wrap {
+    border: 2px solid var(--border);
+    border-radius: 6px;
+    padding: 22px 30px 26px;
+    position: relative;
+  }
+
+  .col-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6px;
+  }
+  .col-labels .left, .col-labels .right {
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--ink);
+  }
+
+  .stage {
+    position: relative;
+    width: 1690px;
+    height: 960px;
+  }
+
+  /* text overlay blocks */
+  .zone {
+    position: absolute;
+    text-align: left;
+  }
+  .zone h3 {
+    margin: 0 0 8px;
+    font-size: 15.5px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .zone ul {
+    margin: 0;
+    padding-left: 18px;
+  }
+  .zone li {
+    font-size: 12.5px;
+    line-height: 1.4;
+    color: #2c2c28;
+    margin-bottom: 7px;
+  }
+  .zone.value h3 { color: var(--navy); }
+  .zone.profile h3 { color: #7a3a12; }
+
+  /* square spans x:60..780, y:60..780 -> center 420,420 */
+  .z-gaincreate  { left: 130px; top: 78px;  width: 560px; }
+  .z-products    { left: 100px; top: 335px; width: 620px; }
+  .z-painrelieve { left: 130px; top: 585px; width: 560px; }
+
+  /* circle center approx x:1300,y:420 r:380 */
+  .z-gains { left: 1080px; top: 110px; width: 440px; }
+  .z-jobs  { left: 1470px; top: 340px; width: 300px; }
+  .z-pains { left: 1075px; top: 610px; width: 450px; }
+
+  .segment-note {
+    margin-top: 18px;
+    padding: 14px 18px;
+    background: var(--card);
+    border: 1px solid #e2ded1;
+    border-radius: 6px;
+    font-size: 12.5px;
+    color: #46453e;
+    line-height: 1.5;
+  }
+  .segment-note b { color: var(--navy); }
+
+  .legend {
+    margin-top: 10px;
+    font-size: 11px;
+    color: var(--muted);
+    text-align: right;
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <header class="doc">
+    <h1>MPx — Value Proposition Canvas</h1>
+    <div class="meta">Osterwalder &amp; Pigneur, <i>Value Proposition Design</i> (Strategyzer)<br/>PD-298 Dissertation Project · MDes Programme, IISc</div>
+  </header>
+  <div class="subtitle">Where the filtration, detection and purification systems create fit with the project's primary customer segment.</div>
+
+  <div class="canvas-wrap">
+    <div class="col-labels">
+      <div class="left">Value Proposition</div>
+      <div class="right">Customer Segment</div>
+    </div>
+
+    <div class="stage">
+      <svg width="1690" height="960" viewBox="0 0 1690 960" style="position:absolute; left:0; top:0;">
+        <!-- SQUARE (value map) -->
+        <rect x="60" y="60" width="720" height="720" fill="none" stroke="#17181a" stroke-width="4"/>
+        <line x1="60" y1="60" x2="780" y2="780" stroke="#c7c3b4" stroke-width="1.5"/>
+        <line x1="60" y1="780" x2="780" y2="60" stroke="#c7c3b4" stroke-width="1.5"/>
+
+        <!-- CIRCLE (customer profile) -->
+        <circle cx="1300" cy="420" r="380" fill="none" stroke="#17181a" stroke-width="4"/>
+        <!-- three sector lines at 90 (up), 210 (lower-left), 330 (lower-right) degrees -->
+        <line x1="1300" y1="420" x2="1300" y2="40" stroke="#c7c3b4" stroke-width="1.5"/>
+        <line x1="1300" y1="420" x2="971.1" y2="610" stroke="#c7c3b4" stroke-width="1.5"/>
+        <line x1="1300" y1="420" x2="1628.9" y2="610" stroke="#c7c3b4" stroke-width="1.5"/>
+
+        <!-- gift icon (products/services -> fit) -->
+        <g transform="translate(808,405)">
+          <rect x="0" y="10" width="34" height="26" fill="none" stroke="#17181a" stroke-width="2.4"/>
+          <rect x="-4" y="0" width="42" height="12" fill="none" stroke="#17181a" stroke-width="2.4"/>
+          <line x1="17" y1="0" x2="17" y2="36" stroke="#17181a" stroke-width="2.4"/>
+          <path d="M17,0 C4,0 4,-14 12,-14 C18,-14 17,-4 17,0" fill="none" stroke="#17181a" stroke-width="2"/>
+          <path d="M17,0 C30,0 30,-14 22,-14 C16,-14 17,-4 17,0" fill="none" stroke="#17181a" stroke-width="2"/>
+        </g>
+        <line x1="860" y1="420" x2="930" y2="420" stroke="#17181a" stroke-width="2.4" marker-end="url(#arrow)"/>
+
+        <!-- FIT circle -->
+        <circle cx="963" cy="420" r="32" fill="#ffffff" stroke="#17181a" stroke-width="2.6"/>
+        <text x="963" y="426" text-anchor="middle" font-size="15" font-weight="700" font-family="Arial" fill="#17181a">FIT</text>
+        <line x1="963" y1="452" x2="963" y2="470" stroke="#17181a" stroke-width="2"/>
+
+        <!-- face icon (customer profile -> fit) -->
+        <g transform="translate(1090,420)">
+          <circle cx="0" cy="0" r="18" fill="none" stroke="#17181a" stroke-width="2.4"/>
+          <circle cx="-7" cy="-3" r="4.5" fill="none" stroke="#17181a" stroke-width="2"/>
+          <circle cx="7" cy="-3" r="4.5" fill="none" stroke="#17181a" stroke-width="2"/>
+          <line x1="-2.5" y1="-3" x2="2.5" y2="-3" stroke="#17181a" stroke-width="2"/>
+          <path d="M-7,6 C-3,11 3,11 7,6" fill="none" stroke="#17181a" stroke-width="2"/>
+        </g>
+        <line x1="1072" y1="420" x2="997" y2="420" stroke="#17181a" stroke-width="2.4" marker-end="url(#arrow)"/>
+
+        <defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+            <path d="M0,0 L7,3 L0,6 Z" fill="#17181a"/>
+          </marker>
+        </defs>
+      </svg>
+
+      <!-- text zones -->
+      <div class="zone value z-products">
+        <h3>Products &amp; Services</h3>
+        <ul>
+          <li><b>Filtration system</b> — replaceable, non-synthetic media that captures microplastics without shedding new plastic</li>
+          <li><b>Detection system</b> — optical/fluorescence sensing, ≈10 µm resolution, reports particle count &amp; size-class</li>
+          <li><b>Purification &amp; assurance layer</b> — validated safety labelling plus a real-time or logged confirmation of what was removed</li>
+        </ul>
+      </div>
+
+      <div class="zone value z-gaincreate">
+        <h3>Gain Creators</h3>
+        <ul>
+          <li>Visible, real-time reading — the #1 trust signal in our own user research (60%, n=47)</li>
+          <li>Extends the RO/UV system people already trust, rather than replacing it</li>
+          <li>Simple / detailed view toggle — serves data-curious users (40%) and the "just filter it" majority (30%) alike</li>
+          <li>Subscription-friendly cartridge pricing — 92% open to a consumables model</li>
+        </ul>
+      </div>
+
+      <div class="zone value z-painrelieve">
+        <h3>Pain Relievers</h3>
+        <ul>
+          <li>Closes the gap between what people assume is in their water and what's actually there</li>
+          <li>Independent lab certification + honest "filters microplastics, not a certified purifier" labelling</li>
+          <li>Targets microplastics specifically — a gap today's RO/UV/carbon filters aren't built or marketed for</li>
+          <li>Price anchored to stated willingness to pay (₹1,500–5,000, median ₹3,000)</li>
+        </ul>
+      </div>
+
+      <div class="zone profile z-gains">
+        <h3>Gains</h3>
+        <ul>
+          <li>Confidence their daily drinking water is safe</li>
+          <li>Proof, not just a promise</li>
+          <li>No disruption to an already-established filtration habit</li>
+          <li>A sense of control over an invisible risk</li>
+        </ul>
+      </div>
+
+      <div class="zone profile z-jobs">
+        <h3>Jobs</h3>
+        <ul>
+          <li>Drink safe water every day (median 1–3 L, several servings)</li>
+          <li>Choose and maintain a home water-treatment setup</li>
+          <li>Protect their household from contamination</li>
+          <li>Decide whether a new claim (microplastics) is worth acting on</li>
+        </ul>
+      </div>
+
+      <div class="zone profile z-pains">
+        <h3>Pains</h3>
+        <ul>
+          <li>Still uneasy despite already filtering — trust in current filter only 3.1/5</li>
+          <li>No way to see or verify what's actually being removed</li>
+          <li>Uncertain science (WHO: no numeric threshold) makes it hard to know if action is warranted</li>
+          <li>Risk of paying for something that doesn't really work</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="segment-note">
+    <b>Primary segment mapped above:</b> urban, RO/UV-owning households already concerned about water safety (MPx stakeholder quiz, n = 47, Aug 2026 — 70% already use RO and/or UV; mean concern for health effects 3.94/5). A distinct underserved/rural segment named in the proposal's business case would need its own canvas — its jobs, pains and gains differ (affordability and access likely outweigh real-time data display).
+  </div>
+  <div class="legend">Structure: Osterwalder &amp; Pigneur, <i>Value Proposition Design</i> (Strategyzer) — Customer Profile (Jobs / Pains / Gains) and Value Map (Products &amp; Services / Pain Relievers / Gain Creators), matched to fit.</div>
+
+</div>
+</body>
+</html>

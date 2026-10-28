@@ -1,0 +1,339 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="1188" viewBox="0 0 1680 1188" font-family="'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2ZjUxZjZhMy0xN2JmLTQxMmMtYjYwOS04ZDNlOTQyM2JhYjcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLedua4o0Gb8a8Ioy6vOKI4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxODgzODJiOS0zZTdmLTQwY2MtOWJiMC03Nzk5ODYyYzQxNzJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNodlu+BgD7PkDpzyABNsW5cQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg4f38xzxQgfQv9InIAGOJPACpJKIjpEfiQ+iRxKhMa7OkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJxNUjJzqolZJYj5b/NLSDQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDi8FxPVinXeX7sgkqa4XF4po7JEdlqVRqaUA7U6EdpIGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjRZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjZmNTFmNmEzLTE3YmYtNDEyYy1iNjA5LThkM2U5NDIzYmFiNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjU2Njc0M2E5LWFhODYtNGIwZi1iZTJmLWI2MmZhMDRlMjU0YXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDh/fzHPFCB9C/0icgAY4k8AKkkoiOkR+JD6JHEqExrs6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggijEEl8RfGGX1YrSyPd7E+L02AfR99Og3xf+hSFHaSweiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggKdxHdHXMrNT+FYFrubDedi+2njxarSOYU7tPZPTA/jl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNDNVNi8HM9+Hc0Ip+MLMWhrghAm5d0KomUocV3xMdn64kkas8VIPuwS7ErgQ1s7Mfo5ESvZbzomI5DdVqQhW9Q=</c2pa:manifest></metadata><defs><marker id="ah" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1.5 L10,5 L0,8.5 z" fill="#1f4e8c"/></marker><pattern id="h45" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#9ca3af" stroke-width="1"/></pattern><pattern id="h135" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="7" stroke="#9ca3af" stroke-width="1"/></pattern><pattern id="hglass" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="9" stroke="#7fb3d5" stroke-width="1"/></pattern><pattern id="hins" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="0.9" fill="#c2a46b"/></pattern></defs><rect width="1680.0" height="1188.0" fill="#ffffff"/>
+<rect x="40.0" y="40.0" width="1600.0" height="1108.0" fill="none" stroke="#111827" stroke-width="2"/>
+<line x1="240.0" y1="40.0" x2="240.0" y2="52.0" stroke="#111827"/>
+<line x1="440.0" y1="40.0" x2="440.0" y2="52.0" stroke="#111827"/>
+<line x1="640.0" y1="40.0" x2="640.0" y2="52.0" stroke="#111827"/>
+<line x1="840.0" y1="40.0" x2="840.0" y2="52.0" stroke="#111827"/>
+<line x1="1040.0" y1="40.0" x2="1040.0" y2="52.0" stroke="#111827"/>
+<line x1="1240.0" y1="40.0" x2="1240.0" y2="52.0" stroke="#111827"/>
+<line x1="1440.0" y1="40.0" x2="1440.0" y2="52.0" stroke="#111827"/>
+<rect x="920.0" y="940.0" width="720.0" height="208.0" fill="#fff" stroke="#111827" stroke-width="2"/>
+<line x1="920.0" y1="980.0" x2="1640.0" y2="980.0" stroke="#111827"/>
+<line x1="920.0" y1="1020.0" x2="1640.0" y2="1020.0" stroke="#111827"/>
+<line x1="920.0" y1="1060.0" x2="1640.0" y2="1060.0" stroke="#111827"/>
+<line x1="920.0" y1="1100.0" x2="1640.0" y2="1100.0" stroke="#111827"/>
+<line x1="1160.0" y1="980.0" x2="1160.0" y2="1100.0" stroke="#111827"/>
+<line x1="1400.0" y1="980.0" x2="1400.0" y2="1100.0" stroke="#111827"/>
+<text x="932.0" y="968.0" font-size="15" font-weight="700" fill="#111827" text-anchor="start">MPx-SQ2-000 · General assembly</text>
+<text x="928.0" y="994.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">MATERIAL</text>
+<text x="928.0" y="1012.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">316L (see parts list)</text>
+<text x="1168.0" y="994.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">FINISH</text>
+<text x="1168.0" y="1012.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">Electropolished, passivated (ASTM A967)</text>
+<text x="1408.0" y="994.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">SCALE</text>
+<text x="1408.0" y="1012.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">2:1</text>
+<text x="928.0" y="1034.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">QTY / UNIT</text>
+<text x="928.0" y="1052.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">1</text>
+<text x="1168.0" y="1034.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">MASS (est.)</text>
+<text x="1168.0" y="1052.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">~202 g core unit</text>
+<text x="1408.0" y="1034.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">UNITS · TOL.</text>
+<text x="1408.0" y="1052.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">mm · ISO 2768-m</text>
+<text x="928.0" y="1074.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">PROJECTION</text>
+<text x="928.0" y="1092.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">First angle (IS/ISO)</text>
+<text x="1168.0" y="1074.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">DRAWN</text>
+<text x="1168.0" y="1092.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">MPx team (PD-298)</text>
+<text x="1408.0" y="1074.4" font-size="8.5" font-weight="600" fill="#374151" text-anchor="start">DATE</text>
+<text x="1408.0" y="1092.0" font-size="10.5" font-weight="500" fill="#111827" text-anchor="start">24 Oct 2026</text>
+<text x="932.0" y="1128.0" font-size="10" font-weight="500" fill="#374151" text-anchor="start">MPx Squeeze v2 (Mini) · IISc CPDM · preliminary, not for manufacture</text>
+<text x="1628.0" y="1128.0" font-size="12" font-weight="700" fill="#111827" text-anchor="end">SHEET 1 / 6</text>
+<g stroke="#111827" fill="none" stroke-width="1.2"><path d="M1492.0,1065.0 L1512.0,1061.0 L1512.0,1083.0 L1492.0,1079.0 Z"/><circle cx="1534.0" cy="1072.0" r="11"/><circle cx="1534.0" cy="1072.0" r="5"/></g>
+<text x="920.0" y="842.4" font-size="11" font-weight="700" fill="#111827" text-anchor="start">NOTES</text>
+<text x="920.0" y="860.8" font-size="10" font-weight="400" fill="#111827" text-anchor="start">1. Section A-A on axis, cassette A fitted, spout closed. Flow left to right (bottle inverted in use).</text>
+<text x="920.0" y="879.2" font-size="10" font-weight="400" fill="#111827" text-anchor="start">2. Only plastic in the water path: the PET bottle itself and silicone seals (FDA 21 CFR 177.2600).</text>
+<text x="920.0" y="897.6" font-size="10" font-weight="400" fill="#111827" text-anchor="start">3. Clean flow, cassette A: ~0.27 L/min at 60 N squeeze (0.18 bar); ~2.3 L/min at 1.5 bar tap.</text>
+<text x="920.0" y="916.0" font-size="10" font-weight="400" fill="#111827" text-anchor="start">4. Leak test 1.5 bar air under water, 60 s; bubble-point every cassette (ISO 4003).</text>
+<polyline points="80.0,218.4 323.2,218.4 323.2,241.2 80.0,241.2" fill="none" stroke="#6b7280" stroke-width="1.0" stroke-dasharray="5 3"/>
+<rect x="175.2" y="196.0" width="12.0" height="22.4" rx="0.0" fill="none" stroke="#6b7280" stroke-width="1.0" stroke-dasharray="5 3"/>
+<polyline points="80.0,437.6 323.2,437.6 323.2,414.8 80.0,414.8" fill="none" stroke="#6b7280" stroke-width="1.0" stroke-dasharray="5 3"/>
+<rect x="175.2" y="437.6" width="12.0" height="22.4" rx="0.0" fill="none" stroke="#6b7280" stroke-width="1.0" stroke-dasharray="5 3"/>
+<text x="72.0" y="176.0" font-size="9.5" font-weight="400" fill="#6b7280" text-anchor="start">PET bottle neck</text>
+<polygon points="208.0,214.4 208.0,198.4 332.0,198.4 332.0,120.0 437.6,120.0 437.6,136.0 376.0,136.0 376.0,134.4 364.0,134.4 364.0,147.2 364.0,154.0 354.8,154.0 354.8,166.0 364.0,166.0 364.0,168.0 352.0,168.0 352.0,268.0 332.0,268.0 332.0,214.4" fill="url(#h135)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="208.0,441.6 208.0,457.6 332.0,457.6 332.0,536.0 437.6,536.0 437.6,520.0 376.0,520.0 376.0,521.6 364.0,521.6 364.0,508.8 364.0,502.0 354.8,502.0 354.8,490.0 364.0,490.0 364.0,488.0 352.0,488.0 352.0,388.0 332.0,388.0 332.0,441.6" fill="url(#h135)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="326.4,280.0 326.4,260.0 332.0,260.0 332.0,268.0 352.0,268.0 352.0,280.0" fill="url(#h45)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="326.4,376.0 326.4,396.0 332.0,396.0 332.0,388.0 352.0,388.0 352.0,376.0" fill="url(#h45)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="364.0,174.0 364.0,148.0 383.2,148.0 383.2,167.8 370.4,167.8 370.4,174.0" fill="url(#h45)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="364.0,482.0 364.0,508.0 383.2,508.0 383.2,488.2 370.4,488.2 370.4,482.0" fill="url(#h45)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="389.6,316.0 389.6,176.0 383.2,176.0 383.2,166.0 392.4,166.0 392.4,154.0 383.2,154.0 383.2,147.2 367.2,147.2 367.2,140.0 376.0,140.0 376.0,136.0 440.0,136.0 440.0,120.0 464.0,120.0 464.0,152.0 405.6,152.0 405.6,280.0 464.0,280.0 504.0,280.0 504.0,292.0 576.0,292.0 576.0,314.0 604.0,314.0 604.0,328.0 572.0,328.0 572.0,316.0" fill="url(#h45)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="389.6,340.0 389.6,480.0 383.2,480.0 383.2,490.0 392.4,490.0 392.4,502.0 383.2,502.0 383.2,508.8 367.2,508.8 367.2,516.0 376.0,516.0 376.0,520.0 440.0,520.0 440.0,536.0 464.0,536.0 464.0,504.0 405.6,504.0 405.6,376.0 464.0,376.0 504.0,376.0 504.0,364.0 576.0,364.0 576.0,342.0 604.0,342.0 604.0,328.0 572.0,328.0 572.0,340.0" fill="url(#h45)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="108.0,328.0 108.0,260.0 326.4,260.0 326.4,265.6 113.6,265.6 113.6,328.0" fill="url(#hins)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="108.0,328.0 108.0,396.0 326.4,396.0 326.4,390.4 113.6,390.4 113.6,328.0" fill="url(#hins)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="370.4,328.0 370.4,168.0 383.2,168.0 383.2,328.0" fill="url(#hins)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="370.4,328.0 370.4,488.0 383.2,488.0 383.2,328.0" fill="url(#hins)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="504.0,292.0 504.0,280.0 608.0,280.0 608.0,313.8 580.0,313.8 580.0,292.0" fill="url(#h135)" stroke="#111827" stroke-width="1.4"/>
+<polygon points="504.0,364.0 504.0,376.0 608.0,376.0 608.0,342.2 580.0,342.2 580.0,364.0" fill="url(#h135)" stroke="#111827" stroke-width="1.4"/>
+<rect x="352.0" y="187.6" width="18.4" height="85.0" rx="0.0" fill="#eef1f5" stroke="#374151" stroke-width="0.8"/>
+<rect x="352.0" y="383.4" width="18.4" height="85.0" rx="0.0" fill="#eef1f5" stroke="#374151" stroke-width="0.8"/>
+<rect x="383.2" y="176.0" width="6.4" height="140.0" rx="0.0" fill="#eef1f5" stroke="#374151" stroke-width="0.8"/>
+<rect x="383.2" y="340.0" width="6.4" height="140.0" rx="0.0" fill="#eef1f5" stroke="#374151" stroke-width="0.8"/>
+<rect x="320.0" y="226.0" width="12.0" height="26.0" rx="0.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<rect x="320.0" y="404.0" width="12.0" height="26.0" rx="0.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<circle cx="359.2" cy="160.0" r="6.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<circle cx="359.2" cy="496.0" r="6.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<circle cx="388.0" cy="160.0" r="6.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<circle cx="388.0" cy="496.0" r="6.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<circle cx="548.0" cy="294.0" r="6.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<circle cx="548.0" cy="362.0" r="6.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<circle cx="592.0" cy="314.0" r="4.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<circle cx="592.0" cy="342.0" r="4.0" fill="#111" stroke="#111827" stroke-width="0.6"/>
+<line x1="64.0" y1="328.0" x2="656.0" y2="328.0" stroke="#b45309" stroke-width="0.9" stroke-dasharray="18 4 3 4"/>
+<line x1="208.0" y1="214.4" x2="316.0" y2="214.4" stroke="#374151" stroke-width="0.7"/>
+<line x1="208.0" y1="441.6" x2="316.0" y2="441.6" stroke="#374151" stroke-width="0.7"/>
+<line x1="376.0" y1="136.0" x2="437.6" y2="136.0" stroke="#374151" stroke-width="0.7"/>
+<line x1="376.0" y1="520.0" x2="437.6" y2="520.0" stroke="#374151" stroke-width="0.7"/>
+<line x1="88.0" y1="292.0" x2="144.0" y2="292.0" stroke="#2f80c0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="192.0" y1="246.4" x2="192.0" y2="264.0" stroke="#2f80c0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="256.0" y1="246.4" x2="256.0" y2="264.0" stroke="#2f80c0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="240.0" y1="308.0" x2="336.0" y2="308.0" stroke="#2f80c0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="360.8" y1="256.0" x2="360.8" y2="196.0" stroke="#2f80c0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="386.4" y1="216.0" x2="386.4" y2="288.0" stroke="#2f80c0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="416.0" y1="321.6" x2="584.0" y2="321.6" stroke="#2f80c0" stroke-width="2.0" marker-end="url(#ah)"/>
+<line x1="208.0" y1="460.6" x2="208.0" y2="574.0" stroke="#1f4e8c" stroke-width="0.7"/>
+<line x1="608.0" y1="460.6" x2="608.0" y2="574.0" stroke="#1f4e8c" stroke-width="0.7"/>
+<line x1="208.0" y1="568.0" x2="608.0" y2="568.0" stroke="#1f4e8c" stroke-width="1" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="408.0" y="564.0" font-size="11" font-weight="500" fill="#1f4e8c" text-anchor="middle">50 outside the bottle</text>
+<line x1="108.0" y1="399.0" x2="108.0" y2="574.0" stroke="#1f4e8c" stroke-width="0.7"/>
+<line x1="208.0" y1="399.0" x2="208.0" y2="574.0" stroke="#1f4e8c" stroke-width="0.7"/>
+<line x1="108.0" y1="568.0" x2="208.0" y2="568.0" stroke="#1f4e8c" stroke-width="1" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="158.0" y="564.0" font-size="11" font-weight="500" fill="#1f4e8c" text-anchor="middle">12.5 in neck</text>
+<line x1="440.6" y1="536.0" x2="710.0" y2="536.0" stroke="#1f4e8c" stroke-width="0.7"/>
+<line x1="440.6" y1="120.0" x2="710.0" y2="120.0" stroke="#1f4e8c" stroke-width="0.7"/>
+<line x1="704.0" y1="536.0" x2="704.0" y2="120.0" stroke="#1f4e8c" stroke-width="1" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="699.0" y="328.0" font-size="11" font-weight="500" fill="#1f4e8c" text-anchor="middle" transform="rotate(-90 699.0 328.0)">Ø52 max</text>
+<line x1="379.0" y1="482.0" x2="678.0" y2="482.0" stroke="#1f4e8c" stroke-width="0.7"/>
+<line x1="379.0" y1="174.0" x2="678.0" y2="174.0" stroke="#1f4e8c" stroke-width="0.7"/>
+<line x1="672.0" y1="482.0" x2="672.0" y2="174.0" stroke="#1f4e8c" stroke-width="1" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="667.0" y="328.0" font-size="11" font-weight="500" fill="#1f4e8c" text-anchor="middle" transform="rotate(-90 667.0 328.0)">Ø38.5 active disc</text>
+<line x1="232.0" y1="96.0" x2="256.0" y2="198.4" stroke="#111827" stroke-width="0.9"/>
+<circle cx="256.0" cy="198.4" r="2.2" fill="#111827"/>
+<circle cx="232.0" cy="96.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="232.0" y="100.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">1</text>
+<line x1="120.0" y1="128.0" x2="144.0" y2="260.0" stroke="#111827" stroke-width="0.9"/>
+<circle cx="144.0" cy="260.0" r="2.2" fill="#111827"/>
+<circle cx="120.0" cy="128.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="120.0" y="132.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">2</text>
+<line x1="288.0" y1="96.0" x2="344.0" y2="273.6" stroke="#111827" stroke-width="0.9"/>
+<circle cx="344.0" cy="273.6" r="2.2" fill="#111827"/>
+<circle cx="288.0" cy="96.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="288.0" y="100.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">2a</text>
+<line x1="344.0" y1="96.0" x2="366.4" y2="152.0" stroke="#111827" stroke-width="0.9"/>
+<circle cx="366.4" cy="152.0" r="2.2" fill="#111827"/>
+<circle cx="344.0" cy="96.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="344.0" y="100.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">3</text>
+<line x1="472.0" y1="96.0" x2="448.0" y2="128.0" stroke="#111827" stroke-width="0.9"/>
+<circle cx="448.0" cy="128.0" r="2.2" fill="#111827"/>
+<circle cx="472.0" cy="96.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="472.0" y="100.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">4</text>
+<line x1="592.0" y1="152.0" x2="560.0" y2="280.0" stroke="#111827" stroke-width="0.9"/>
+<circle cx="560.0" cy="280.0" r="2.2" fill="#111827"/>
+<circle cx="592.0" cy="152.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="592.0" y="156.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">5</text>
+<line x1="400.0" y1="96.0" x2="322.4" y2="240.0" stroke="#111827" stroke-width="0.9"/>
+<circle cx="322.4" cy="240.0" r="2.2" fill="#111827"/>
+<circle cx="400.0" cy="96.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="400.0" y="100.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">S1</text>
+<line x1="304.0" y1="516.0" x2="359.2" y2="496.0" stroke="#111827" stroke-width="0.9"/>
+<circle cx="359.2" cy="496.0" r="2.2" fill="#111827"/>
+<circle cx="304.0" cy="516.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="304.0" y="520.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">S2</text>
+<line x1="424.0" y1="516.0" x2="388.0" y2="496.0" stroke="#111827" stroke-width="0.9"/>
+<circle cx="388.0" cy="496.0" r="2.2" fill="#111827"/>
+<circle cx="424.0" cy="516.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="424.0" y="520.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">S3</text>
+<line x1="608.0" y1="472.0" x2="548.0" y2="362.0" stroke="#111827" stroke-width="0.9"/>
+<circle cx="548.0" cy="362.0" r="2.2" fill="#111827"/>
+<circle cx="608.0" cy="472.0" r="13" fill="#fff" stroke="#111827" stroke-width="1.3"/>
+<text x="608.0" y="476.5" font-size="11" font-weight="700" fill="#111827" text-anchor="middle">S4</text>
+<text x="408.0" y="608.0" font-size="12.5" font-weight="700" fill="#111827" text-anchor="middle">SECTION A-A  (2:1)</text>
+<text x="48.0" y="624.0" font-size="13" font-weight="700" fill="#111827" text-anchor="start">PARTS LIST</text>
+<rect x="48.0" y="636.0" width="832.0" height="22.4" fill="#eef2f7" stroke="#111827" stroke-width="1"/>
+<text x="54.0" y="651.2" font-size="9.2" font-weight="700" fill="#111827" text-anchor="start">#</text>
+<text x="98.0" y="651.2" font-size="9.2" font-weight="700" fill="#111827" text-anchor="start">Part no.</text>
+<text x="198.0" y="651.2" font-size="9.2" font-weight="700" fill="#111827" text-anchor="start">Name</text>
+<text x="398.0" y="651.2" font-size="9.2" font-weight="700" fill="#111827" text-anchor="start">Material / spec</text>
+<text x="742.0" y="651.2" font-size="9.2" font-weight="700" fill="#111827" text-anchor="start">M/B</text>
+<text x="810.0" y="651.2" font-size="9.2" font-weight="700" fill="#111827" text-anchor="start">Qty</text>
+<text x="850.0" y="651.2" font-size="9.2" font-weight="700" fill="#111827" text-anchor="start">g</text>
+<rect x="48.0" y="658.4" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="673.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="98.0" y="673.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-001</text>
+<text x="198.0" y="673.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Inlet cap (bottle side)</text>
+<text x="398.0" y="673.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">316L bar Ø55; 28 PCO 1881 int., M48×1 int.; 8 roof ribs</text>
+<text x="742.0" y="673.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make</text>
+<text x="810.0" y="673.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="673.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">96</text>
+<rect x="48.0" y="680.8" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="696.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">2</text>
+<text x="98.0" y="696.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-002</text>
+<text x="198.0" y="696.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Prefilter cup, 20 µm (built in)</text>
+<text x="398.0" y="696.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">316L sintered laminate cup Ø17×28, 20 µm</text>
+<text x="742.0" y="696.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Buy*</text>
+<text x="810.0" y="696.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="696.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">5</text>
+<rect x="48.0" y="703.2" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="718.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">2a</text>
+<text x="98.0" y="718.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-002a</text>
+<text x="198.0" y="718.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Prefilter collar</text>
+<text x="398.0" y="718.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">316L bar Ø18; press + laser weld to 1 and 2</text>
+<text x="742.0" y="718.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make</text>
+<text x="810.0" y="718.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="718.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">2</text>
+<rect x="48.0" y="725.6" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="740.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">3</text>
+<text x="98.0" y="740.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-003A</text>
+<text x="198.0" y="740.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Disc cassette A (fine)</text>
+<text x="398.0" y="740.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Frame 316L Ø45×2.4 + disc Ø40×1.6 asym. sintered 316L</text>
+<text x="742.0" y="740.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make+Buy</text>
+<text x="810.0" y="740.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="740.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">17</text>
+<rect x="48.0" y="748.0" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="763.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">3B/C</text>
+<text x="98.0" y="763.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-003B/C</text>
+<text x="198.0" y="763.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Disc cassettes B, C (options)</text>
+<text x="398.0" y="763.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">same frame; grade 0.2 / grade 0.5 symmetric discs</text>
+<text x="742.0" y="763.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make+Buy</text>
+<text x="810.0" y="763.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">opt.</text>
+<text x="850.0" y="763.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">17</text>
+<rect x="48.0" y="770.4" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="785.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">4</text>
+<text x="98.0" y="785.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-004</text>
+<text x="198.0" y="785.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Base + spout stem</text>
+<text x="398.0" y="785.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">316L bar Ø55; M48×1 ext., M12×1 stem, 8 drain ribs</text>
+<text x="742.0" y="785.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make</text>
+<text x="810.0" y="785.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="785.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">74</text>
+<rect x="48.0" y="792.8" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="808.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">5</text>
+<text x="98.0" y="808.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-005</text>
+<text x="198.0" y="808.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Push-pull sleeve</text>
+<text x="398.0" y="808.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">316L bar Ø14; slides 4 mm</text>
+<text x="742.0" y="808.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make</text>
+<text x="810.0" y="808.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="808.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">7</text>
+<rect x="48.0" y="815.2" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="830.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">10</text>
+<text x="98.0" y="830.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-010</text>
+<text x="198.0" y="830.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Tap adapter (M22 female)</text>
+<text x="398.0" y="830.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">316L; 28 PCO male neck + M22×1 int.</text>
+<text x="742.0" y="830.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make</text>
+<text x="810.0" y="830.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="830.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">94</text>
+<rect x="48.0" y="837.6" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="852.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">11</text>
+<text x="98.0" y="852.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ-011</text>
+<text x="198.0" y="852.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">M24 → M22 tap adapter</text>
+<text x="398.0" y="852.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">carried over from v1</text>
+<text x="742.0" y="852.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make</text>
+<text x="810.0" y="852.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="852.8" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">36</text>
+<rect x="48.0" y="860.0" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="875.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">12</text>
+<text x="98.0" y="875.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ-012</text>
+<text x="198.0" y="875.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Universal tap ferrule + silicone sleeve</text>
+<text x="398.0" y="875.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">carried over from v1</text>
+<text x="742.0" y="875.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make/Buy</text>
+<text x="810.0" y="875.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="875.2" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">40</text>
+<rect x="48.0" y="882.4" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="897.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">13</text>
+<text x="98.0" y="897.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-013</text>
+<text x="198.0" y="897.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Backflush coupler</text>
+<text x="398.0" y="897.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">316L; 28 PCO int. + M12×1 int.</text>
+<text x="742.0" y="897.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make</text>
+<text x="810.0" y="897.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="897.6" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">77</text>
+<rect x="48.0" y="904.8" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="920.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">14</text>
+<text x="98.0" y="920.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-014</text>
+<text x="198.0" y="920.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Inspection holder</text>
+<text x="398.0" y="920.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">316L dish + Ø50 borosilicate cover glass</text>
+<text x="742.0" y="920.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Make/Buy</text>
+<text x="810.0" y="920.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1</text>
+<text x="850.0" y="920.0" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">78</text>
+<rect x="48.0" y="927.2" width="832.0" height="22.4" fill="#fff" stroke="#111827" stroke-width="0.6"/>
+<text x="54.0" y="942.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">S1–S7</text>
+<text x="98.0" y="942.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">MPx-SQ2-020</text>
+<text x="198.0" y="942.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Seal kit (sheet 6)</text>
+<text x="398.0" y="942.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Silicone 60 ShA, FDA 21 CFR 177.2600</text>
+<text x="742.0" y="942.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">Buy</text>
+<text x="810.0" y="942.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">1 kit</text>
+<text x="850.0" y="942.4" font-size="9.2" font-weight="400" fill="#111827" text-anchor="start">2</text>
+<line x1="92.0" y1="636.0" x2="92.0" y2="949.5999999999999" stroke="#111827" stroke-width="0.6"/>
+<line x1="192.0" y1="636.0" x2="192.0" y2="949.5999999999999" stroke="#111827" stroke-width="0.6"/>
+<line x1="392.0" y1="636.0" x2="392.0" y2="949.5999999999999" stroke="#111827" stroke-width="0.6"/>
+<line x1="736.0" y1="636.0" x2="736.0" y2="949.5999999999999" stroke="#111827" stroke-width="0.6"/>
+<line x1="804.0" y1="636.0" x2="804.0" y2="949.5999999999999" stroke="#111827" stroke-width="0.6"/>
+<line x1="844.0" y1="636.0" x2="844.0" y2="949.5999999999999" stroke="#111827" stroke-width="0.6"/>
+<text x="48.0" y="969.6" font-size="10" font-weight="400" fill="#111827" text-anchor="start">Core unit (items 1–5 + seals) ≈ 202 g from CAD volumes (v1: 315 g). Items 10–14 are accessories.</text>
+<text x="48.0" y="989.6" font-size="10" font-weight="400" fill="#111827" text-anchor="start">* Sintered laminate cups and asymmetric discs are bought from porous-metal suppliers to drawing (sheets 2, 3).</text>
+<text x="928.0" y="88.0" font-size="13" font-weight="700" fill="#111827" text-anchor="start">WHAT CHANGED FROM v1</text>
+<text x="928.0" y="112.0" font-size="10.2" font-weight="400" fill="#111827" text-anchor="start">Envelope Ø52 × 50 mm outside the bottle (v1: Ø35 × 155.5 mm).</text>
+<text x="928.0" y="131.2" font-size="10.2" font-weight="400" fill="#111827" text-anchor="start">Two stages: built-in 20 µm prefilter cup that sits inside the bottle neck,</text>
+<text x="928.0" y="150.4" font-size="10.2" font-weight="400" fill="#111827" text-anchor="start">  then one removable disc cassette (~1 µm) that comes out flat for the microscope.</text>
+<text x="928.0" y="169.6" font-size="10.2" font-weight="400" fill="#111827" text-anchor="start">Tube element, body, element base and dust cap removed: 5 core parts (v1: 9).</text>
+<text x="928.0" y="188.8" font-size="10.2" font-weight="400" fill="#111827" text-anchor="start">Cassettes A / B / C share one frame, so the disc grade is a user choice.</text>
+<text x="928.0" y="232.0" font-size="13" font-weight="700" fill="#111827" text-anchor="start">USE MODES</text>
+<text x="928.0" y="256.0" font-size="11.5" font-weight="700" fill="#111827" text-anchor="start">A · Squeeze</text>
+<rect x="928.0" y="266.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="986.0" y="285.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">PET bottle</text>
+<line x1="1046.0" y1="280.8" x2="1066.0" y2="280.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1068.0" y="266.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1126.0" y="285.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">2 prefilter</text>
+<line x1="1186.0" y1="280.8" x2="1206.0" y2="280.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1208.0" y="266.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1266.0" y="285.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">3 cassette</text>
+<line x1="1326.0" y1="280.8" x2="1346.0" y2="280.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1348.0" y="266.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1406.0" y="285.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">5 spout</text>
+<line x1="1466.0" y1="280.8" x2="1486.0" y2="280.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1488.0" y="266.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1546.0" y="285.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">cup / mouth</text>
+<text x="928.0" y="312.8" font-size="9.5" font-weight="400" fill="#374151" text-anchor="start">bottle inverted; ~0.2 bar at 60 N</text>
+<text x="928.0" y="340.0" font-size="11.5" font-weight="700" fill="#111827" text-anchor="start">B · Tap</text>
+<rect x="928.0" y="350.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="986.0" y="369.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">tap</text>
+<line x1="1046.0" y1="364.8" x2="1066.0" y2="364.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1068.0" y="350.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1126.0" y="369.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">12 / 11</text>
+<line x1="1186.0" y1="364.8" x2="1206.0" y2="364.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1208.0" y="350.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1266.0" y="369.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">10 neck</text>
+<line x1="1326.0" y1="364.8" x2="1346.0" y2="364.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1348.0" y="350.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1406.0" y="369.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">2 → 3</text>
+<line x1="1466.0" y1="364.8" x2="1486.0" y2="364.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1488.0" y="350.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1546.0" y="369.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">5 spout</text>
+<text x="928.0" y="396.8" font-size="9.5" font-weight="400" fill="#374151" text-anchor="start">tap 1–2 bar; open the tap gently</text>
+<text x="928.0" y="424.0" font-size="11.5" font-weight="700" fill="#111827" text-anchor="start">C · Backflush</text>
+<rect x="928.0" y="434.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="986.0" y="453.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">tap / bottle</text>
+<line x1="1046.0" y1="448.8" x2="1066.0" y2="448.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1068.0" y="434.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1126.0" y="453.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">10 / bottle</text>
+<line x1="1186.0" y1="448.8" x2="1206.0" y2="448.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1208.0" y="434.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1266.0" y="453.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">13 on stem</text>
+<line x1="1326.0" y1="448.8" x2="1346.0" y2="448.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1348.0" y="434.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1406.0" y="453.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">3 → 2 (rev.)</text>
+<line x1="1466.0" y1="448.8" x2="1486.0" y2="448.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1488.0" y="434.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1546.0" y="453.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">out at 1</text>
+<text x="928.0" y="480.8" font-size="9.5" font-weight="400" fill="#374151" text-anchor="start">reverse flow 10–20 s, catch in a dish</text>
+<text x="928.0" y="508.0" font-size="11.5" font-weight="700" fill="#111827" text-anchor="start">D · Inspect</text>
+<rect x="928.0" y="518.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="986.0" y="537.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">unscrew 4</text>
+<line x1="1046.0" y1="532.8" x2="1066.0" y2="532.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1068.0" y="518.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1126.0" y="537.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">lift 3</text>
+<line x1="1186.0" y1="532.8" x2="1206.0" y2="532.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1208.0" y="518.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1266.0" y="537.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">14 holder</text>
+<line x1="1326.0" y1="532.8" x2="1346.0" y2="532.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1348.0" y="518.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1406.0" y="537.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">cover glass</text>
+<line x1="1466.0" y1="532.8" x2="1486.0" y2="532.8" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="1488.0" y="518.0" width="116.0" height="30.0" rx="6" fill="#f3f6fa" stroke="#111827" stroke-width="1"/>
+<text x="1546.0" y="537.6" font-size="9.5" font-weight="500" fill="#111827" text-anchor="middle">phone lens</text>
+<text x="928.0" y="564.8" font-size="9.5" font-weight="400" fill="#374151" text-anchor="start">disc is the slide; Nile red for &lt; 20 µm</text>
+<text x="928.0" y="608.0" font-size="9.8" font-weight="400" fill="#374151" text-anchor="start">Two size fractions for analysis: the prefilter keeps ≥ 20 µm (backflush it</text>
+<text x="928.0" y="626.4" font-size="9.8" font-weight="400" fill="#374151" text-anchor="start">into a dish); the disc keeps ~1–20 µm, about 96 % of microplastics by count.</text></svg>

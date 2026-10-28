@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1860" height="973" viewBox="0 0 1860 973">
+<rect x="0" y="0" width="1860" height="973" fill="#ffffff"/>
+<line x1="960.0" y1="186.0" x2="300.0" y2="288.0" stroke="#c7c3b4" stroke-width="2"/>
+<line x1="960.0" y1="186.0" x2="740.0" y2="288.0" stroke="#c7c3b4" stroke-width="2"/>
+<line x1="960.0" y1="186.0" x2="1180.0" y2="288.0" stroke="#c7c3b4" stroke-width="2"/>
+<line x1="960.0" y1="186.0" x2="1620.0" y2="288.0" stroke="#c7c3b4" stroke-width="2"/>
+<rect x="610.0" y="120.0" width="700.0" height="66.0" rx="8" fill="rgb(31, 56, 100)" stroke="none" stroke-width="0"/>
+<text x="960.0" y="140.0" font-family="Arial, Helvetica, sans-serif" font-size="10.0" font-weight="normal" fill="rgb(255, 255, 255)" text-anchor="middle">Goal — Level 0</text>
+<text x="960.0" y="156.8" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" fill="rgb(255, 255, 255)" text-anchor="middle">Fulfil the MPx SNPS</text>
+<text x="960.0" y="175.0" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" fill="rgb(255, 255, 255)" text-anchor="middle">[1.000][1.000]</text>
+<rect x="90.0" y="288.0" width="420.0" height="64.0" rx="7" fill="rgb(251, 241, 222)" stroke="rgb(217, 164, 65)" stroke-width="1.5"/>
+<text x="300.0" y="314.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" font-weight="bold" fill="rgb(31, 56, 100)" text-anchor="middle">REMOVAL</text>
+<text x="300.0" y="334.0" font-family="Consolas, 'Courier New', monospace" font-size="12.0" font-weight="normal" fill="rgb(32, 32, 28)" text-anchor="middle">Level 1 · global weight 0.462</text>
+<rect x="90.0" y="374.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="103.0" y="395.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Filtration efficacy</text>
+<text x="497.0" y="395.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.500][0.231]</text>
+<rect x="103.0" y="404.0" width="60.3" height="18.0" rx="9" fill="rgb(217, 164, 65)" stroke="rgb(217, 164, 65)" stroke-width="1"/>
+<text x="133.1" y="416.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="bold" fill="rgb(58, 42, 6)" text-anchor="middle">6.1 · D</text>
+<rect x="90.0" y="443.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="103.0" y="464.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Filtration integrity (no secondary shed)</text>
+<text x="497.0" y="464.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.333][0.154]</text>
+<rect x="103.0" y="473.0" width="60.3" height="18.0" rx="9" fill="rgb(217, 164, 65)" stroke="rgb(217, 164, 65)" stroke-width="1"/>
+<text x="133.1" y="485.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="bold" fill="rgb(58, 42, 6)" text-anchor="middle">3.2 · D</text>
+<rect x="90.0" y="512.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="103.0" y="533.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Throughput / flow rate</text>
+<text x="497.0" y="533.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.083][0.038]</text>
+<rect x="103.0" y="542.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="133.1" y="554.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">2.1 · D</text>
+<rect x="168.3" y="542.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="198.4" y="554.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">1.1 · D</text>
+<rect x="90.0" y="581.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="103.0" y="602.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Filter service-life &amp; maintainability</text>
+<text x="497.0" y="602.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.083][0.038]</text>
+<rect x="103.0" y="611.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="133.1" y="623.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">9.1 · D</text>
+<rect x="168.3" y="611.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="198.4" y="623.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">7.1 · D</text>
+<rect x="233.5" y="611.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="263.7" y="623.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">4.2 · D</text>
+<rect x="530.0" y="288.0" width="420.0" height="64.0" rx="7" fill="rgb(251, 241, 222)" stroke="rgb(217, 164, 65)" stroke-width="1.5"/>
+<text x="740.0" y="314.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" font-weight="bold" fill="rgb(31, 56, 100)" text-anchor="middle">DETECTION</text>
+<text x="740.0" y="334.0" font-family="Consolas, 'Courier New', monospace" font-size="12.0" font-weight="normal" fill="rgb(32, 32, 28)" text-anchor="middle">Level 1 · global weight 0.231</text>
+<rect x="530.0" y="374.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="543.0" y="395.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Detection accuracy / reliability</text>
+<text x="937.0" y="395.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.500][0.115]</text>
+<rect x="543.0" y="404.0" width="60.3" height="18.0" rx="9" fill="rgb(217, 164, 65)" stroke="rgb(217, 164, 65)" stroke-width="1"/>
+<text x="573.1" y="416.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="bold" fill="rgb(58, 42, 6)" text-anchor="middle">6.2 · D</text>
+<rect x="530.0" y="443.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="543.0" y="464.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Result communication to user</text>
+<text x="937.0" y="464.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.333][0.077]</text>
+<rect x="543.0" y="473.0" width="60.3" height="18.0" rx="9" fill="rgb(238, 242, 248)" stroke="rgb(185, 198, 220)" stroke-width="1"/>
+<text x="573.1" y="485.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="bold" fill="rgb(31, 56, 100)" text-anchor="middle">4.1 · D</text>
+<rect x="530.0" y="512.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="543.0" y="533.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Non-invasive sampling</text>
+<text x="937.0" y="533.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.083][0.019]</text>
+<rect x="543.0" y="542.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="573.1" y="554.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">1.2 · W</text>
+<rect x="530.0" y="581.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="543.0" y="602.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Display readability</text>
+<text x="937.0" y="602.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.083][0.019]</text>
+<rect x="543.0" y="611.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="573.1" y="623.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">5.3 · W</text>
+<rect x="970.0" y="288.0" width="420.0" height="64.0" rx="7" fill="rgb(251, 241, 222)" stroke="rgb(217, 164, 65)" stroke-width="1.5"/>
+<text x="1180.0" y="314.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" font-weight="bold" fill="rgb(31, 56, 100)" text-anchor="middle">CONTAINMENT</text>
+<text x="1180.0" y="334.0" font-family="Consolas, 'Courier New', monospace" font-size="12.0" font-weight="normal" fill="rgb(32, 32, 28)" text-anchor="middle">Level 1 · global weight 0.231</text>
+<rect x="970.0" y="374.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="983.0" y="395.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Post-capture containment integrity</text>
+<text x="1377.0" y="395.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.417][0.096]</text>
+<rect x="983.0" y="404.0" width="66.6" height="18.0" rx="9" fill="rgb(217, 164, 65)" stroke="rgb(217, 164, 65)" stroke-width="1"/>
+<text x="1016.3" y="416.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="bold" fill="rgb(58, 42, 6)" text-anchor="middle">10.2 · D</text>
+<rect x="970.0" y="443.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="983.0" y="464.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Material safety (water-contact parts)</text>
+<text x="1377.0" y="464.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.417][0.096]</text>
+<rect x="983.0" y="473.0" width="60.3" height="18.0" rx="9" fill="rgb(238, 242, 248)" stroke="rgb(185, 198, 220)" stroke-width="1"/>
+<text x="1013.1" y="485.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="bold" fill="rgb(31, 56, 100)" text-anchor="middle">3.1 · D</text>
+<rect x="1048.3" y="473.0" width="60.3" height="18.0" rx="9" fill="rgb(238, 242, 248)" stroke="rgb(185, 198, 220)" stroke-width="1"/>
+<text x="1078.4" y="485.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="bold" fill="rgb(31, 56, 100)" text-anchor="middle">3.4 · D</text>
+<rect x="970.0" y="512.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="983.0" y="533.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">End-of-life disposal pathway</text>
+<text x="1377.0" y="533.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.083][0.019]</text>
+<rect x="983.0" y="542.0" width="66.6" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1016.3" y="554.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">10.1 · W</text>
+<rect x="970.0" y="581.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="983.0" y="602.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Housing robustness</text>
+<text x="1377.0" y="602.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.083][0.019]</text>
+<rect x="983.0" y="611.0" width="60.3" height="18.0" rx="9" fill="rgb(255, 255, 255)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1013.1" y="623.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" font-style="italic" fill="rgb(154, 150, 137)" text-anchor="middle">3.3 · W</text>
+<rect x="1048.3" y="611.0" width="60.3" height="18.0" rx="9" fill="rgb(255, 255, 255)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1078.4" y="623.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" font-style="italic" fill="rgb(154, 150, 137)" text-anchor="middle">3.5 · W</text>
+<rect x="1410.0" y="288.0" width="420.0" height="64.0" rx="7" fill="rgb(251, 241, 222)" stroke="rgb(217, 164, 65)" stroke-width="1.5"/>
+<text x="1620.0" y="314.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" font-weight="bold" fill="rgb(31, 56, 100)" text-anchor="middle">CROSS-CUTTING</text>
+<text x="1620.0" y="334.0" font-family="Consolas, 'Courier New', monospace" font-size="12.0" font-weight="normal" fill="rgb(32, 32, 28)" text-anchor="middle">Level 1 · global weight 0.077</text>
+<rect x="1410.0" y="374.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1423.0" y="395.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Affordability</text>
+<text x="1817.0" y="395.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.667][0.051]</text>
+<rect x="1423.0" y="404.0" width="66.6" height="18.0" rx="9" fill="rgb(238, 242, 248)" stroke="rgb(185, 198, 220)" stroke-width="1"/>
+<text x="1456.3" y="416.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="bold" fill="rgb(31, 56, 100)" text-anchor="middle">11.1 · D</text>
+<rect x="1410.0" y="443.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1423.0" y="464.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Ergonomics</text>
+<text x="1817.0" y="464.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.167][0.013]</text>
+<rect x="1423.0" y="473.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1453.1" y="485.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">5.2 · D</text>
+<rect x="1488.3" y="473.0" width="60.3" height="18.0" rx="9" fill="rgb(255, 255, 255)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1518.4" y="485.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" font-style="italic" fill="rgb(154, 150, 137)" text-anchor="middle">5.1 · W</text>
+<rect x="1410.0" y="512.0" width="420.0" height="59.0" rx="6" fill="#ffffff" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1423.0" y="533.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="rgb(32, 32, 28)" text-anchor="start">Environmental range &amp; noise</text>
+<text x="1817.0" y="533.0" font-family="Consolas, 'Courier New', monospace" font-size="11.0" font-weight="normal" fill="rgb(31, 56, 100)" text-anchor="end">[0.167][0.013]</text>
+<rect x="1423.0" y="542.0" width="60.3" height="18.0" rx="9" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1453.1" y="554.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" fill="rgb(75, 74, 67)" text-anchor="middle">8.2 · D</text>
+<rect x="1488.3" y="542.0" width="60.3" height="18.0" rx="9" fill="rgb(255, 255, 255)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="1518.4" y="554.7" font-family="Consolas, 'Courier New', monospace" font-size="10.5" font-weight="normal" font-style="italic" fill="rgb(154, 150, 137)" text-anchor="middle">8.1 · W</text>
+<rect x="60.0" y="798.0" width="1740.0" height="135.0" rx="6" fill="rgb(250, 249, 245)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="76.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" fill="rgb(70, 69, 62)" text-anchor="start">Reading the tree:</text>
+<text x="191.5" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(70, 69, 62)" text-anchor="start">Level 1 branches show one global weight each (their local weight equals their global weight, since the root's weight is 1.000); the four sum to 1.000: 0.462 + 0.231 + 0.231 + 0.077. Sub-objective cards below them show [local weight — among that branch's siblings][global weight — share</text>
+<text x="76.0" y="837.3" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(70, 69, 62)" text-anchor="start">of the whole SNPS]; global weight = local weight × parent's global weight, and sibling local weights sum to 1.000 at every level.</text>
+<rect x="76.0" y="849.5" width="13" height="13" rx="3" fill="rgb(217, 164, 65)" stroke="rgb(70, 69, 62)" stroke-width="1"/>
+<text x="95.0" y="860.5" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(70, 69, 62)" text-anchor="start">Tier 1 — core (leaf global weight ≥ 0.09)</text>
+<rect x="366.9" y="849.5" width="13" height="13" rx="3" fill="rgb(238, 242, 248)" stroke="rgb(185, 198, 220)" stroke-width="1"/>
+<text x="385.9" y="860.5" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(70, 69, 62)" text-anchor="start">Tier 2 — important (0.04–0.08)</text>
+<rect x="590.7" y="849.5" width="13" height="13" rx="3" fill="rgb(242, 241, 234)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="609.7" y="860.5" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(70, 69, 62)" text-anchor="start">Tier 3 — supporting (0.01–0.02)</text>
+<rect x="820.7" y="849.5" width="13" height="13" rx="3" fill="rgb(255, 255, 255)" stroke="rgb(216, 212, 198)" stroke-width="1"/>
+<text x="839.7" y="860.5" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(70, 69, 62)" text-anchor="start">Tier 4 — defer if trade-offs required (&lt; 0.01)</text>
+<text x="76.0" y="883.8" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="normal" fill="rgb(70, 69, 62)" text-anchor="start">D = Demand (mandatory — tier reflects prioritisation, not permission to drop) · W = Wish (desirable — tier reflects genuine trade-off headroom). Full pairwise-comparison matrices and the ranked 22-item table are in the accompanying report.</text>
+</svg>

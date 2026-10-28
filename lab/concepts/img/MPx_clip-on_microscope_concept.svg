@@ -1,0 +1,380 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" font-family="Inter, Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowNzZiNWY4Yy03NGM2LTQzOTctYWJhZC0yZjhlYjcwNjI5YzcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJccmoxf7taE0RNz5682NowAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjZDFiMDhkYy03OGMwLTQyOTUtOGJhZi04ZjIzNTkwMmRjYTlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoJ6b5+MD4XR7H92DsDLSL6gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggdqZ+kSwjGE21CaXlOSqq1Y/d0Em95mIyuTX3kCWlwGakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIoLiJRK5BemtDqEphsjXUAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCgNH0vNv/IBdMV/bckCEcdH5ax8buB122R2/d2W45mUmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjMZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA3NmI1ZjhjLTc0YzYtNDM5Ny1hYmFkLTJmOGViNzA2MjljNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmNhMzAyZjA2LWQ1ZDMtNDM5Mi1hNjZkLTBlMDZhNzgwYjNmZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB2pn6RLCMYTbUJpeU5KqrVj93QSb3mYjK5NfeQJaXAZqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggbwvCTKUvXZRsopWfffZ2iWZ5tesh3N6prvar5422AnCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg4gWD92s9Zp3iI6Dscq0bbrvI/zSCH8poaCCitn8msOF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLjWIGzk39moekMeeWQKJzwsSrlwaLGa1MEO2247oKpyiogUci121pKvU/zN3SbyHOLdQcaibeQ2ZsHVe0j8Q5g=</c2pa:manifest></metadata>
+  <defs>
+    <radialGradient id="glass" cx="0.35" cy="0.32" r="0.75">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#c7e6f3"/>
+      <stop offset="1" stop-color="#5e98b3"/>
+    </radialGradient>
+    <radialGradient id="glowdot" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff1c2"/>
+      <stop offset="0.35" stop-color="#ff8a3d"/>
+      <stop offset="1" stop-color="#e8503a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="insetClip"><circle cx="1400" cy="420" r="110"/></clipPath>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/>
+    </marker>
+    <marker id="arrO" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ff7a3d"/>
+    </marker>
+  </defs>
+
+  <!-- background -->
+  <rect width="1600" height="1000" fill="#f6f4ef"/>
+
+  <!-- header -->
+  <text x="30" y="52" font-size="26" font-weight="700" fill="#1d2433">MPx — Clip-on Smartphone Fluorescence Microscope</text>
+  <text x="30" y="78" font-size="14" fill="#5b6475">Concept: ball-lens bead + yellow filter over the phone camera, lit by the phone's own flash, for Nile-Red-stained microplastics on a glass slide</text>
+  <text x="1570" y="52" font-size="12" fill="#8a91a0" text-anchor="end">Concept sketch · v0.1</text>
+
+  <!-- ============ PANEL A : SECTION VIEW ============ -->
+  <rect x="30" y="110" width="760" height="460" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="54" y="142" font-size="15" font-weight="700" fill="#1d2433">A · Section view</text>
+
+  <!-- phone -->
+  <rect x="100" y="175" width="620" height="44" rx="12" fill="#2b3140"/>
+  <rect x="108" y="175" width="604" height="7" rx="3" fill="#4d5e7e"/>
+  <text x="560" y="203" font-size="11" fill="#aab3c4">smartphone (screen facing up)</text>
+
+  <!-- housing -->
+  <rect x="84" y="219" width="396" height="161" rx="8" fill="#c9ced8" stroke="#8d97a8"/>
+  <rect x="98" y="219" width="368" height="147" fill="#1b1f27"/>
+  <!-- clip hook over phone edge -->
+  <rect x="84" y="158" width="16" height="66" fill="#c9ced8" stroke="#8d97a8"/>
+  <rect x="84" y="158" width="72" height="14" rx="5" fill="#c9ced8" stroke="#8d97a8"/>
+  <rect x="140" y="170" width="14" height="5" rx="2" fill="#6b7384"/>
+
+  <!-- camera + flash on underside -->
+  <rect x="196" y="219" width="48" height="8" rx="2" fill="#0e1117" stroke="#3a4150"/>
+  <ellipse cx="220" cy="223" rx="10" ry="3" fill="#3a5a7a"/>
+  <rect x="318" y="219" width="24" height="6" rx="1" fill="#fff5c8" stroke="#6b7384"/>
+
+  <!-- blue excitation filter -->
+  <rect x="316" y="228" width="28" height="5" fill="#3b7bd6"/>
+  <!-- light guide -->
+  <polygon points="318,235 344,235 258,297 238,289" fill="#9fd3ff" fill-opacity="0.28" stroke="#6fb3e8" stroke-width="1.2"/>
+  <line x1="331" y1="237" x2="249" y2="293" stroke="#4d8ff0" stroke-width="2.2" stroke-dasharray="5 3"/>
+
+  <!-- yellow emission filter -->
+  <rect x="194" y="232" width="52" height="6" fill="#f5c518" stroke="#c99c00" stroke-width="0.8"/>
+  <!-- ball lens jig -->
+  <rect x="172" y="253" width="34" height="14" fill="#7b8494"/>
+  <rect x="234" y="253" width="34" height="14" fill="#7b8494"/>
+  <circle cx="220" cy="260" r="12.5" fill="url(#glass)" stroke="#4d7f96" stroke-width="0.8"/>
+
+  <!-- emission rays -->
+  <g stroke="#ff7a3d" stroke-width="1.4" fill="none" opacity="0.95">
+    <path d="M206 298 L220 262 L233 226"/>
+    <path d="M234 298 L220 262 L207 226"/>
+    <path d="M220 298 L220 226" stroke-dasharray="2 2"/>
+  </g>
+
+  <!-- focus gap dimension -->
+  <g stroke="#e9ecf2" stroke-width="1">
+    <line x1="176" y1="273" x2="176" y2="299"/>
+    <line x1="172" y1="273" x2="180" y2="273"/>
+    <line x1="172" y1="299" x2="180" y2="299"/>
+  </g>
+  <text x="184" y="290" font-size="10" fill="#e9ecf2" font-style="italic">f</text>
+
+  <!-- slide passes through slot -->
+  <rect x="60" y="302" width="470" height="10" fill="#cde6ee" fill-opacity="0.9" stroke="#7fa9b8"/>
+  <rect x="192" y="298" width="56" height="4" fill="#f4f1ea" stroke="#d9cdb8" stroke-width="0.6"/>
+  <g filter="url(#glow)" fill="#ff6a2e">
+    <circle cx="204" cy="299.5" r="1.8"/><circle cx="216" cy="299.5" r="1.4"/>
+    <circle cx="226" cy="299.5" r="2"/><circle cx="239" cy="299.5" r="1.4"/>
+  </g>
+  <line x1="36" y1="307" x2="57" y2="307" stroke="#1d2433" stroke-width="1.6" marker-end="url(#arr)"/>
+  <text x="36" y="296" font-size="10.5" fill="#5b6475">slide in</text>
+
+  <!-- callout badges -->
+  <g font-size="11" font-weight="700" text-anchor="middle" fill="#1d2433">
+    <g stroke="#9aa3b3" stroke-width="1" fill="none">
+      <line x1="700" y1="150" x2="660" y2="177"/>
+      <line x1="66" y1="148" x2="88" y2="160"/>
+      <line x1="126" y1="229" x2="196" y2="223"/>
+      <line x1="126" y1="252" x2="194" y2="235"/>
+      <line x1="126" y1="276" x2="208" y2="262"/>
+      <line x1="386" y1="238" x2="343" y2="222"/>
+      <line x1="404" y1="262" x2="345" y2="231"/>
+      <line x1="386" y1="290" x2="300" y2="266"/>
+      <line x1="126" y1="338" x2="196" y2="312"/>
+      <line x1="500" y1="358" x2="480" y2="350"/>
+    </g>
+    <g fill="#ffffff" stroke="#1d2433" stroke-width="1.3">
+      <circle cx="700" cy="150" r="10"/><circle cx="116" cy="229" r="10"/><circle cx="116" cy="252" r="10"/>
+      <circle cx="116" cy="276" r="10"/><circle cx="396" cy="238" r="10"/><circle cx="414" cy="262" r="10"/>
+      <circle cx="396" cy="290" r="10"/><circle cx="116" cy="338" r="10"/><circle cx="58" cy="144" r="10"/>
+      <circle cx="510" cy="362" r="10"/>
+    </g>
+    <text x="700" y="154">1</text><text x="116" y="233">2</text><text x="116" y="256">3</text>
+    <text x="116" y="280">4</text><text x="396" y="242">5</text><text x="414" y="266">6</text>
+    <text x="396" y="294">7</text><text x="116" y="342">8</text><text x="58" y="148">9</text>
+    <text x="510" y="366">10</text>
+  </g>
+
+  <!-- legend -->
+  <g font-size="12" fill="#1d2433">
+    <text x="560" y="238" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">PARTS</text>
+    <g font-weight="700" fill="#5b6475">
+      <text x="560" y="262">1</text><text x="560" y="290">2</text><text x="560" y="318">3</text>
+      <text x="560" y="346">4</text><text x="560" y="374">5</text><text x="560" y="402">6</text>
+      <text x="560" y="430">7</text><text x="560" y="458">8</text><text x="560" y="486">9</text>
+      <text x="560" y="514">10</text>
+    </g>
+    <text x="582" y="262">Smartphone (host, camera + app)</text>
+    <text x="582" y="290">Rear camera</text>
+    <text x="582" y="318">Yellow long-pass emission filter</text>
+    <text x="582" y="346">Ø1–3 mm spherical bead in jig</text>
+    <text x="582" y="374">Flash LED (built-in light)</text>
+    <text x="582" y="402">Blue excitation gel filter</text>
+    <text x="582" y="430">Acrylic light guide (oblique)</text>
+    <text x="582" y="458">Glass slide + stained membrane</text>
+    <text x="582" y="486">Spring clip over phone edge</text>
+    <text x="582" y="514">Light-tight body, matte black</text>
+  </g>
+
+  <!-- light path chips -->
+  <text x="54" y="405" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">LIGHT PATH</text>
+  <g font-size="10.5" font-weight="600" text-anchor="middle">
+    <rect x="54" y="414" width="76" height="30" rx="15" fill="#fff5c8" stroke="#e3d38a"/><text x="92" y="433" fill="#1d2433">Flash LED</text>
+    <rect x="138" y="414" width="76" height="30" rx="15" fill="#3b7bd6"/><text x="176" y="433" fill="#fff">Blue gel</text>
+    <rect x="222" y="414" width="76" height="30" rx="15" fill="#ff7a3d"/><text x="260" y="433" fill="#fff">Nile Red glow</text>
+    <rect x="306" y="414" width="76" height="30" rx="15" fill="#e6eef5" stroke="#b9cbd8"/><text x="344" y="433" fill="#1d2433">Ball lens</text>
+    <rect x="390" y="414" width="76" height="30" rx="15" fill="#f5c518"/><text x="428" y="433" fill="#1d2433">Yellow filter</text>
+    <rect x="474" y="414" width="76" height="30" rx="15" fill="#2b3140"/><text x="512" y="433" fill="#fff">Camera</text>
+  </g>
+  <g fill="#9aa3b3" font-size="12" text-anchor="middle">
+    <text x="134" y="433">›</text><text x="218" y="433">›</text><text x="302" y="433">›</text><text x="386" y="433">›</text><text x="470" y="433">›</text>
+  </g>
+  <g font-size="11.5" fill="#5b6475">
+    <text x="54" y="474">The flash, through a blue gel, lights the membrane at an angle via the acrylic guide.</text>
+    <text x="54" y="492">Stained plastics fluoresce, the bead magnifies them, and the yellow filter passes only</text>
+    <text x="54" y="510">the orange-red emission to the camera, so no extra battery or LED is needed.</text>
+    <text x="54" y="534" font-style="italic" fill="#8a91a0">f = focus gap, set by jig height ≈ working distance of the bead</text>
+  </g>
+
+  <!-- ============ PANEL B : 3/4 VIEW ============ -->
+  <rect x="810" y="110" width="760" height="460" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="834" y="142" font-size="15" font-weight="700" fill="#1d2433">B · On the phone (rear view)</text>
+
+  <g transform="translate(1040 362) rotate(-14) scale(0.82)">
+    <rect x="-110" y="-200" width="240" height="420" rx="32" fill="#151922"/>
+    <rect x="-120" y="-210" width="240" height="420" rx="32" fill="#2b3140"/>
+    <rect x="-112" y="-202" width="224" height="404" rx="26" fill="none" stroke="#3d4659"/>
+    <!-- slide (behind module) -->
+    <rect x="-205" y="-152" width="350" height="26" rx="3" fill="#cde6ee" stroke="#7fa9b8"/>
+    <rect x="-205" y="-152" width="30" height="26" rx="3" fill="#b6d6e2" stroke="#7fa9b8"/>
+    <!-- clip module -->
+    <rect x="-104" y="-192" width="172" height="122" rx="14" fill="#9aa3b3"/>
+    <rect x="-112" y="-200" width="172" height="122" rx="14" fill="#d7dbe3" stroke="#8d97a8"/>
+    <rect x="-130" y="-196" width="22" height="114" rx="6" fill="#c9ced8" stroke="#8d97a8"/>
+    <line x1="-112" y1="-152" x2="-100" y2="-152" stroke="#6b7384" stroke-width="2"/>
+    <line x1="-112" y1="-126" x2="-100" y2="-126" stroke="#6b7384" stroke-width="2"/>
+    <line x1="48" y1="-152" x2="60" y2="-152" stroke="#6b7384" stroke-width="2"/>
+    <line x1="48" y1="-126" x2="60" y2="-126" stroke="#6b7384" stroke-width="2"/>
+    <text x="-26" y="-174" font-size="16" font-weight="800" fill="#4a5263" text-anchor="middle" letter-spacing="1">MPx</text>
+    <circle cx="-26" cy="-102" r="7" fill="#f5c518" stroke="#8d97a8"/>
+    <!-- logo on phone -->
+    <circle cx="0" cy="40" r="16" fill="none" stroke="#3d4659" stroke-width="2"/>
+    <!-- insertion arrow -->
+    <line x1="-270" y1="-139" x2="-214" y2="-139" stroke="#1d2433" stroke-width="2" marker-end="url(#arr)"/>
+    <text x="-270" y="-152" font-size="13" fill="#5b6475">sample slide</text>
+  </g>
+
+  <!-- feature callouts -->
+  <g font-size="13">
+    <circle cx="1268" cy="176" r="5" fill="#f5c518"/>
+    <text x="1282" y="181" font-weight="700" fill="#1d2433">Clips over the rear camera</text>
+    <text x="1282" y="199" fill="#5b6475" font-size="12">self-aligns the bead to the lens</text>
+    <circle cx="1268" cy="222" r="5" fill="#7fa9b8"/>
+    <text x="1282" y="227" font-weight="700" fill="#1d2433">Slide-in sample tray</text>
+    <text x="1282" y="245" fill="#5b6475" font-size="12">swap samples in seconds</text>
+    <circle cx="1268" cy="268" r="5" fill="#3b7bd6"/>
+    <text x="1282" y="273" font-weight="700" fill="#1d2433">Lit by the phone's flash</text>
+    <text x="1282" y="291" fill="#5b6475" font-size="12">no batteries, pocket-sized</text>
+  </g>
+
+  <!-- inset: what the camera sees -->
+  <text x="1400" y="300" font-size="11" font-weight="700" fill="#8a91a0" text-anchor="middle" letter-spacing="0.5">PHONE SCREEN VIEW</text>
+  <circle cx="1400" cy="420" r="112" fill="#e9e3d4"/>
+  <g clip-path="url(#insetClip)">
+    <rect x="1280" y="300" width="240" height="240" fill="#0c0b0d"/>
+    <g stroke="#2a1a16" stroke-width="1" fill="none">
+      <path d="M1290 350 q60 20 120 -10 t100 20"/><path d="M1290 470 q50 -30 110 0 t110 -10"/>
+      <path d="M1320 310 q10 60 -10 120 t20 110"/><path d="M1470 310 q-20 70 10 130 t-10 100"/>
+    </g>
+    <g filter="url(#glow)">
+      <circle cx="1368" cy="386" r="7" fill="#ff7a3d"/>
+      <polygon points="1422,428 1440,422 1447,437 1436,451 1420,446" fill="#ff6a2e"/>
+      <path d="M1336 470 q30 -22 60 -6 q18 10 42 -2" stroke="#ff8a3d" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <circle cx="1462" cy="372" r="4" fill="#ffa057"/>
+      <circle cx="1398" cy="488" r="5" fill="#ff7a3d"/>
+      <circle cx="1346" cy="424" r="3" fill="#ffa057"/>
+      <circle cx="1450" cy="494" r="3" fill="#ff7a3d"/>
+      <circle cx="1410" cy="354" r="2.5" fill="#ffb070"/>
+    </g>
+    <g fill="none" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1">
+      <rect x="1356" y="374" width="24" height="24"/>
+      <rect x="1414" y="416" width="40" height="40"/>
+      <rect x="1330" y="452" width="112" height="28"/>
+      <rect x="1454" y="364" width="16" height="16"/>
+    </g>
+  </g>
+  <circle cx="1400" cy="420" r="112" fill="none" stroke="#2b3140" stroke-width="6"/>
+  <rect x="1440" y="520" width="92" height="24" rx="12" fill="#2b3140"/>
+  <text x="1486" y="536" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">auto-count</text>
+  <text x="1400" y="560" font-size="11.5" fill="#5b6475" text-anchor="middle">Stained plastics glow orange-red on a dark field</text>
+
+  <!-- ============ PANEL C : EXPLODED STACK ============ -->
+  <rect x="30" y="590" width="760" height="380" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="54" y="622" font-size="15" font-weight="700" fill="#1d2433">C · Exploded stack</text>
+
+  <line x1="250" y1="660" x2="250" y2="930" stroke="#ff7a3d" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- layer 5: body -->
+  <g>
+    <polygon points="130,915 250,949 250,957 130,923" fill="#262b35"/>
+    <polygon points="250,949 370,915 370,923 250,957" fill="#1b1f27"/>
+    <polygon points="130,915 250,881 370,915 250,949" fill="#3a404c"/>
+    <polygon points="276,905 300,898 318,904 294,911" fill="#9fd3ff" fill-opacity="0.6" stroke="#6fb3e8"/>
+  </g>
+  <!-- layer 4: slide -->
+  <g>
+    <polygon points="100,855 250,881 250,887 100,861" fill="#a9ccd8"/>
+    <polygon points="250,881 400,855 400,861 250,887" fill="#94bccb"/>
+    <polygon points="100,855 250,829 400,855 250,881" fill="#cde6ee" fill-opacity="0.95" stroke="#7fa9b8"/>
+    <ellipse cx="250" cy="855" rx="34" ry="10" fill="#f4f1ea" stroke="#d9cdb8"/>
+    <g filter="url(#glow)" fill="#ff6a2e">
+      <circle cx="236" cy="853" r="2"/><circle cx="252" cy="858" r="1.6"/><circle cx="264" cy="852" r="2.2"/><circle cx="246" cy="849" r="1.3"/>
+    </g>
+  </g>
+  <!-- layer 3: bead jig -->
+  <g>
+    <polygon points="160,795 250,821 250,829 160,803" fill="#5d6574"/>
+    <polygon points="250,821 340,795 340,803 250,829" fill="#4d5463"/>
+    <polygon points="160,795 250,769 340,795 250,821" fill="#7b8494"/>
+    <ellipse cx="250" cy="795" rx="16" ry="5" fill="#2d323c"/>
+    <circle cx="250" cy="787" r="13" fill="url(#glass)" stroke="#4d7f96" stroke-width="0.8"/>
+  </g>
+  <!-- layer 2: filters -->
+  <g>
+    <polygon points="190,735 250,752 250,757 190,740" fill="#c99c00"/>
+    <polygon points="250,752 310,735 310,740 250,757" fill="#b38a00"/>
+    <polygon points="190,735 250,718 310,735 250,752" fill="#f5c518" fill-opacity="0.92"/>
+  </g>
+  <!-- layer 1: phone -->
+  <g>
+    <polygon points="130,675 250,709 250,717 130,683" fill="#1b1f27"/>
+    <polygon points="250,709 370,675 370,683 250,717" fill="#151922"/>
+    <polygon points="130,675 250,641 370,675 250,709" fill="#2b3140"/>
+    <ellipse cx="250" cy="675" rx="17" ry="6" fill="#0e1117" stroke="#55607a"/>
+    <ellipse cx="296" cy="688" rx="7" ry="2.5" fill="#fff5c8"/>
+  </g>
+
+  <!-- stack labels -->
+  <g stroke="#c3c8d2" stroke-width="1">
+    <line x1="378" y1="675" x2="430" y2="675"/><line x1="318" y1="735" x2="430" y2="735"/>
+    <line x1="348" y1="795" x2="430" y2="795"/><line x1="408" y1="855" x2="430" y2="855"/>
+    <line x1="378" y1="915" x2="430" y2="915"/>
+  </g>
+  <g font-size="13" fill="#1d2433">
+    <text x="440" y="672" font-weight="700">Phone rear camera + flash</text>
+    <text x="440" y="689" font-size="11.5" fill="#5b6475">sensor, light source, app</text>
+    <text x="440" y="732" font-weight="700">Yellow long-pass filter</text>
+    <text x="440" y="749" font-size="11.5" fill="#5b6475">blocks blue light, passes the glow</text>
+    <text x="440" y="792" font-weight="700">Spherical bead in jig</text>
+    <text x="440" y="809" font-size="11.5" fill="#5b6475">glass / sapphire ball lens magnifier</text>
+    <text x="440" y="852" font-weight="700">Glass slide + membrane</text>
+    <text x="440" y="869" font-size="11.5" fill="#5b6475">Nile-Red-stained filter from the water</text>
+    <text x="440" y="912" font-weight="700">Clip body + light guide</text>
+    <text x="440" y="929" font-size="11.5" fill="#5b6475">light-tight, 3D-printed</text>
+  </g>
+  <text x="64" y="800" font-size="11" fill="#ff7a3d" transform="rotate(-90 64 800)" text-anchor="middle" font-weight="600">optical axis</text>
+
+  <!-- ============ PANEL D : HOW IT'S USED ============ -->
+  <rect x="810" y="590" width="760" height="380" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="834" y="622" font-size="15" font-weight="700" fill="#1d2433">D · How it's used</text>
+
+  <!-- step 1 -->
+  <g transform="translate(834 640)">
+    <rect width="136" height="210" rx="12" fill="#f8f7f3" stroke="#e7e2d7"/>
+    <circle cx="20" cy="20" r="12" fill="#1d2433"/><text x="20" y="24" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+    <g transform="translate(84 56) rotate(35)">
+      <rect x="-12" y="-22" width="24" height="36" rx="5" fill="#cde6ee" stroke="#7fa9b8"/>
+      <rect x="-5" y="14" width="10" height="8" fill="#cde6ee" stroke="#7fa9b8"/>
+    </g>
+    <circle cx="68" cy="84" r="2.5" fill="#4d8ff0"/><circle cx="66" cy="91" r="2" fill="#4d8ff0"/>
+    <rect x="40" y="96" width="56" height="4" fill="#f4f1ea" stroke="#d9cdb8"/>
+    <polygon points="40,100 96,100 76,122 60,122" fill="#e6eef5" stroke="#7fa9b8"/>
+    <rect x="63" y="122" width="10" height="12" fill="#e6eef5" stroke="#7fa9b8"/>
+    <text x="68" y="160" font-size="14" font-weight="700" fill="#1d2433" text-anchor="middle">Filter</text>
+    <text x="68" y="180" font-size="11" fill="#5b6475" text-anchor="middle">Pass the water</text>
+    <text x="68" y="195" font-size="11" fill="#5b6475" text-anchor="middle">through a membrane</text>
+  </g>
+  <!-- step 2 -->
+  <g transform="translate(980 640)">
+    <rect width="136" height="210" rx="12" fill="#f8f7f3" stroke="#e7e2d7"/>
+    <circle cx="20" cy="20" r="12" fill="#1d2433"/><text x="20" y="24" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+    <g transform="translate(72 56) rotate(20)">
+      <ellipse cx="0" cy="-12" rx="8" ry="10" fill="#e8503a"/>
+      <rect x="-3" y="-3" width="6" height="32" rx="2" fill="#cde6ee" stroke="#7fa9b8"/>
+    </g>
+    <path d="M62 94 q-5 7 0 10 q5 -3 0 -10z" fill="#e8503a"/>
+    <ellipse cx="68" cy="118" rx="32" ry="9" fill="#f7c9c0" stroke="#d99c8f"/>
+    <text x="68" y="160" font-size="14" font-weight="700" fill="#1d2433" text-anchor="middle">Stain</text>
+    <text x="68" y="180" font-size="11" fill="#5b6475" text-anchor="middle">Add Nile Red,</text>
+    <text x="68" y="195" font-size="11" fill="#5b6475" text-anchor="middle">wait a few minutes</text>
+  </g>
+  <!-- step 3 -->
+  <g transform="translate(1126 640)">
+    <rect width="136" height="210" rx="12" fill="#f8f7f3" stroke="#e7e2d7"/>
+    <circle cx="20" cy="20" r="12" fill="#1d2433"/><text x="20" y="24" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+    <rect x="18" y="80" width="100" height="26" rx="2" fill="#cde6ee" stroke="#7fa9b8"/>
+    <circle cx="68" cy="93" r="11" fill="#f4f1ea" stroke="#d9cdb8"/>
+    <g fill="#ff6a2e"><circle cx="63" cy="90" r="1.6"/><circle cx="71" cy="96" r="1.4"/><circle cx="73" cy="88" r="1.2"/></g>
+    <text x="68" y="160" font-size="14" font-weight="700" fill="#1d2433" text-anchor="middle">Mount</text>
+    <text x="68" y="180" font-size="11" fill="#5b6475" text-anchor="middle">Place the membrane</text>
+    <text x="68" y="195" font-size="11" fill="#5b6475" text-anchor="middle">on the glass slide</text>
+  </g>
+  <!-- step 4 -->
+  <g transform="translate(1272 640)">
+    <rect width="136" height="210" rx="12" fill="#f8f7f3" stroke="#e7e2d7"/>
+    <circle cx="20" cy="20" r="12" fill="#1d2433"/><text x="20" y="24" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+    <rect x="48" y="44" width="50" height="88" rx="9" fill="#2b3140"/>
+    <rect x="30" y="66" width="80" height="8" fill="#cde6ee" stroke="#7fa9b8"/>
+    <rect x="44" y="50" width="40" height="30" rx="5" fill="#d7dbe3" stroke="#8d97a8"/>
+    <line x1="8" y1="70" x2="27" y2="70" stroke="#1d2433" stroke-width="1.8" marker-end="url(#arr)"/>
+    <text x="68" y="160" font-size="14" font-weight="700" fill="#1d2433" text-anchor="middle">Insert</text>
+    <text x="68" y="180" font-size="11" fill="#5b6475" text-anchor="middle">Slide into the clip</text>
+    <text x="68" y="195" font-size="11" fill="#5b6475" text-anchor="middle">on the phone camera</text>
+  </g>
+  <!-- step 5 -->
+  <g transform="translate(1418 640)">
+    <rect width="136" height="210" rx="12" fill="#f8f7f3" stroke="#e7e2d7"/>
+    <circle cx="20" cy="20" r="12" fill="#1d2433"/><text x="20" y="24" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+    <rect x="40" y="44" width="56" height="90" rx="9" fill="#2b3140"/>
+    <rect x="44" y="52" width="48" height="66" rx="3" fill="#0c0b0d"/>
+    <g filter="url(#glow)" fill="#ff7a3d">
+      <circle cx="56" cy="66" r="2.5"/><circle cx="76" cy="74" r="3"/><circle cx="62" cy="92" r="2"/>
+      <circle cx="82" cy="100" r="2.2"/><circle cx="52" cy="106" r="1.6"/>
+    </g>
+    <text x="68" y="128" font-size="8" fill="#ffffff" text-anchor="middle">n = 5</text>
+    <text x="68" y="160" font-size="14" font-weight="700" fill="#1d2433" text-anchor="middle">Capture</text>
+    <text x="68" y="180" font-size="11" fill="#5b6475" text-anchor="middle">Flash on, take photo,</text>
+    <text x="68" y="195" font-size="11" fill="#5b6475" text-anchor="middle">app counts particles</text>
+  </g>
+
+  <!-- why it works -->
+  <rect x="834" y="866" width="720" height="90" rx="10" fill="#fff7e0" stroke="#f0d99a"/>
+  <text x="850" y="888" font-size="12.5" font-weight="700" fill="#1d2433">Why it works</text>
+  <g font-size="11.5" fill="#4a5263">
+    <text x="850" y="907">Nile Red binds to plastic surfaces and fluoresces orange-red (~580–650 nm) under blue–green light (~450–550 nm).</text>
+    <text x="850" y="924">The yellow long-pass filter blocks the excitation light, so only stained particles glow on a dark field.</text>
+    <text x="850" y="941">Caveat: natural organic matter also takes up the stain, so pre-digest with H₂O₂ or filter by size/shape in the app.</text>
+  </g>
+</svg>

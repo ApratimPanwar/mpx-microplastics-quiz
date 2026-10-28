@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1760 7649" role="img" aria-labelledby="title desc">
+<title id="title">MPx Sub-Function to Technology Map</title>
+<desc id="desc">Every sub-function of the MPx process function structure mapped to candidate technologies, product methods, and interventions, grouped by main water flow and the microplastic detection branch, colour-coded by input, process, and output stage.</desc>
+<defs><style>
+  .title { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+  .subtitle { font-family: Helvetica, Arial, sans-serif; }
+  .sec { font-family: Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: 0.06em; }
+  .sname { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+  .snote { font-family: Helvetica, Arial, sans-serif; font-style: italic; }
+  .stag { font-family: Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: 0.08em; }
+  .snum { font-family: Helvetica, Arial, sans-serif; font-weight: 700; }
+  .sf { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+  .opt { font-family: Helvetica, Arial, sans-serif; }
+  .legend { font-family: Helvetica, Arial, sans-serif; }
+  .footer-h { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+  .footer-b { font-family: Helvetica, Arial, sans-serif; }
+</style></defs>
+<rect x="0" y="0" width="1760" height="7649" fill="#FFFFFF"/>
+<text x="44" y="76" class="title" font-size="32" fill="#1A1A1A">Sub-Function &#8594; Technology / Method / Intervention Map</text>
+<text x="44" y="102" class="subtitle" font-size="16" fill="#555">MPx — CED Module 8 morphological chart (generation stage): candidate options for every sub-function, nothing selected yet</text>
+<text x="44" y="126" class="subtitle" font-size="13.5" fill="#666">Filtration options (Step 03) are drawn from MPx_Filter_Mechanism_Map.svg; detection options (Step 08) from MPx_Detection_Methods_Comparison.docx. The rest (source ID,</text>
+<text x="44" y="145" class="subtitle" font-size="13.5" fill="#666">water input, purification, storage, dispensing, sample collection, display) are freshly researched this round — see the sources list at the end.</text>
+<line x1="44" y1="168" x2="1716" y2="168" stroke="#DADADA" stroke-width="1.5"/>
+<rect x="44" y="205" width="16" height="16" rx="3" fill="#FDE4E3" stroke="#D9534F" stroke-width="1.5"/>
+<text x="66" y="217" class="legend" font-size="13.5" fill="#444">Input stage</text>
+<rect x="179.2" y="205" width="16" height="16" rx="3" fill="#EDEDED" stroke="#8A8A8A" stroke-width="1.5"/>
+<text x="201.2" y="217" class="legend" font-size="13.5" fill="#444">Process stage</text>
+<rect x="328.8" y="205" width="16" height="16" rx="3" fill="#DFF3DF" stroke="#3C9A3C" stroke-width="1.5"/>
+<text x="350.8" y="217" class="legend" font-size="13.5" fill="#444">Output stage</text>
+<text x="471.20000000000005" y="217" class="legend" font-size="13.5" fill="#888" font-style="italic">left = sub-function · right = options for it (not solutions selected)</text>
+<text x="44" y="301" class="sec" font-size="14" fill="#8A8A8A">MAIN WATER FLOW</text>
+<line x1="44" y1="309" x2="1716" y2="309" stroke="#E3E3E3" stroke-width="1"/>
+<rect x="44" y="315" width="1672" height="40" fill="#FDE4E3"/>
+<rect x="44" y="315" width="6" height="40" fill="#D9534F"/>
+<text x="62" y="344" class="snum" font-size="15" fill="#7B241C">01</text>
+<text x="100" y="345" class="sname" font-size="19" fill="#7B241C">IDENTIFY WATER SOURCE</text>
+<text x="1700" y="344" text-anchor="end" class="stag" font-size="11.5" fill="#7B241C" opacity="0.75">INPUT</text>
+<rect x="44" y="361" width="1672" height="141" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="361" width="400" height="141" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="361" width="4" height="141" fill="#D9534F"/>
+<text x="60" y="391" class="sf" font-size="14.5" fill="#7B241C">Sense / confirm source type (tap, bottle, jug,</text>
+<text x="60" y="411" class="sf" font-size="14.5" fill="#7B241C">natural body)</text>
+<text x="468" y="391" class="opt" font-size="13.5" fill="#2A2A2A">•  Manual user selection — physical mode switch or app menu</text>
+<text x="468" y="420" class="opt" font-size="13.5" fill="#2A2A2A">•  Conductivity / TDS probe to auto-classify source quality</text>
+<text x="468" y="449" class="opt" font-size="13.5" fill="#2A2A2A">•  Camera + ML source recognition (stretch)</text>
+<text x="468" y="478" class="opt" font-size="13.5" fill="#2A2A2A">•  No dedicated sensor — universal source-agnostic inlet</text>
+<rect x="44" y="504" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="504" width="400" height="112" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="504" width="4" height="112" fill="#D9534F"/>
+<text x="60" y="534" class="sf" font-size="14.5" fill="#7B241C">Present selectable source options to the user</text>
+<text x="468" y="534" class="opt" font-size="13.5" fill="#2A2A2A">•  Physical rotary or slide selector on the housing</text>
+<text x="468" y="563" class="opt" font-size="13.5" fill="#2A2A2A">•  Companion mobile-app source picker</text>
+<text x="468" y="592" class="opt" font-size="13.5" fill="#2A2A2A">•  Icon-based silkscreen selector ring</text>
+<rect x="44" y="618" width="1672" height="141" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="618" width="400" height="141" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="618" width="4" height="141" fill="#D9534F"/>
+<text x="60" y="648" class="sf" font-size="14.5" fill="#7B241C">Verify source is compatible with the device</text>
+<text x="60" y="668" class="sf" font-size="14.5" fill="#7B241C">(exclude unsuitable inputs)</text>
+<text x="468" y="648" class="opt" font-size="13.5" fill="#2A2A2A">•  Inlet screen / strainer as a size gate (excludes debris, insects)</text>
+<text x="468" y="677" class="opt" font-size="13.5" fill="#2A2A2A">•  Conductivity threshold cutoff (flags saline / seawater)</text>
+<text x="468" y="706" class="opt" font-size="13.5" fill="#2A2A2A">•  Pre-fill turbidity check, visual or optical, before accepting</text>
+<text x="468" y="735" class="opt" font-size="13.5" fill="#2A2A2A">•  User acknowledgement / warning prompt (procedural, no sensor)</text>
+<rect x="44" y="761" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="761" width="400" height="112" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="761" width="4" height="112" fill="#D9534F"/>
+<text x="60" y="791" class="sf" font-size="14.5" fill="#7B241C">Signal source-dependent settings to downstream</text>
+<text x="60" y="811" class="sf" font-size="14.5" fill="#7B241C">stages (e.g. expected turbidity)</text>
+<text x="468" y="791" class="opt" font-size="13.5" fill="#2A2A2A">•  Firmware profile switch — adjusts pump speed / detection sensitivity per source</text>
+<text x="468" y="820" class="opt" font-size="13.5" fill="#2A2A2A">•  Simple lookup table triggered by the user’s source selection</text>
+<text x="468" y="849" class="opt" font-size="13.5" fill="#2A2A2A">•  No adaptive signalling — fixed universal operating profile</text>
+<rect x="44" y="895" width="1672" height="40" fill="#FDE4E3"/>
+<rect x="44" y="895" width="6" height="40" fill="#D9534F"/>
+<text x="62" y="924" class="snum" font-size="15" fill="#7B241C">02</text>
+<text x="100" y="925" class="sname" font-size="19" fill="#7B241C">WATER INPUT IN DEVICE</text>
+<text x="1700" y="924" text-anchor="end" class="stag" font-size="11.5" fill="#7B241C" opacity="0.75">INPUT</text>
+<rect x="44" y="941" width="1672" height="141" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="941" width="400" height="141" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="941" width="4" height="141" fill="#D9534F"/>
+<text x="60" y="971" class="sf" font-size="14.5" fill="#7B241C">Convey water from the source into the device</text>
+<text x="468" y="971" class="opt" font-size="13.5" fill="#2A2A2A">•  Gravity pour-in through an open funnel / hopper</text>
+<text x="468" y="1000" class="opt" font-size="13.5" fill="#2A2A2A">•  Straw / suction draw (syringe or vacuum primer)</text>
+<text x="468" y="1029" class="opt" font-size="13.5" fill="#2A2A2A">•  Direct tap or bottle quick-connect fitting</text>
+<text x="468" y="1058" class="opt" font-size="13.5" fill="#2A2A2A">•  Peristaltic or diaphragm pump draw-in</text>
+<rect x="44" y="1084" width="1672" height="141" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1084" width="400" height="141" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="1084" width="4" height="141" fill="#D9534F"/>
+<text x="60" y="1114" class="sf" font-size="14.5" fill="#7B241C">Connect / seal the input interface to the</text>
+<text x="60" y="1134" class="sf" font-size="14.5" fill="#7B241C">source</text>
+<text x="468" y="1114" class="opt" font-size="13.5" fill="#2A2A2A">•  Universal funnel mouth — pour-in only, no seal needed</text>
+<text x="468" y="1143" class="opt" font-size="13.5" fill="#2A2A2A">•  Threaded quick-connect fitting (garden-hose-style ball valve)</text>
+<text x="468" y="1172" class="opt" font-size="13.5" fill="#2A2A2A">•  Snap-fit push-to-connect fitting with O-ring</text>
+<text x="468" y="1201" class="opt" font-size="13.5" fill="#2A2A2A">•  Magnetic self-aligning collar</text>
+<rect x="44" y="1227" width="1672" height="141" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1227" width="400" height="141" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="1227" width="4" height="141" fill="#D9534F"/>
+<text x="60" y="1257" class="sf" font-size="14.5" fill="#7B241C">Regulate inflow rate and volume</text>
+<text x="468" y="1257" class="opt" font-size="13.5" fill="#2A2A2A">•  Fixed-orifice flow restrictor</text>
+<text x="468" y="1286" class="opt" font-size="13.5" fill="#2A2A2A">•  Adjustable needle or ball valve</text>
+<text x="468" y="1315" class="opt" font-size="13.5" fill="#2A2A2A">•  Pump duty-cycle (PWM) control</text>
+<text x="468" y="1344" class="opt" font-size="13.5" fill="#2A2A2A">•  Passive overflow standpipe as a volume cap</text>
+<rect x="44" y="1370" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1370" width="400" height="112" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="1370" width="4" height="112" fill="#D9534F"/>
+<text x="60" y="1400" class="sf" font-size="14.5" fill="#7B241C">Vent displaced air during filling</text>
+<text x="468" y="1400" class="opt" font-size="13.5" fill="#2A2A2A">•  Vent hole with a hydrophobic membrane (blocks water, passes air)</text>
+<text x="468" y="1429" class="opt" font-size="13.5" fill="#2A2A2A">•  Open-top fill — inherently vented</text>
+<text x="468" y="1458" class="opt" font-size="13.5" fill="#2A2A2A">•  One-way air-relief valve</text>
+<rect x="44" y="1484" width="1672" height="141" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1484" width="400" height="141" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="1484" width="4" height="141" fill="#D9534F"/>
+<text x="60" y="1514" class="sf" font-size="14.5" fill="#7B241C">Measure / register input volume</text>
+<text x="468" y="1514" class="opt" font-size="13.5" fill="#2A2A2A">•  Graduated sight window / markings on the housing (passive, zero power)</text>
+<text x="468" y="1543" class="opt" font-size="13.5" fill="#2A2A2A">•  In-line paddle-wheel or turbine flow sensor</text>
+<text x="468" y="1572" class="opt" font-size="13.5" fill="#2A2A2A">•  Load-cell / weight sensing at the base</text>
+<text x="468" y="1601" class="opt" font-size="13.5" fill="#2A2A2A">•  Capacitive or float fill-level sensor (see Step 05 options)</text>
+<rect x="44" y="1627" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1627" width="400" height="112" fill="#FDE4E3" opacity="0.55" stroke="#D9534F" stroke-width="1"/>
+<rect x="44" y="1627" width="4" height="112" fill="#D9534F"/>
+<text x="60" y="1657" class="sf" font-size="14.5" fill="#7B241C">Prevent backflow or contamination re-entry</text>
+<text x="468" y="1657" class="opt" font-size="13.5" fill="#2A2A2A">•  Silicone duckbill / umbrella one-way valve</text>
+<text x="468" y="1686" class="opt" font-size="13.5" fill="#2A2A2A">•  Spring-loaded check valve</text>
+<text x="468" y="1715" class="opt" font-size="13.5" fill="#2A2A2A">•  Air-gap inlet design — physical separation, no valve needed</text>
+<rect x="44" y="1761" width="1672" height="40" fill="#EDEDED"/>
+<rect x="44" y="1761" width="6" height="40" fill="#8A8A8A"/>
+<text x="62" y="1790" class="snum" font-size="15" fill="#3A3A3A">03</text>
+<text x="100" y="1791" class="sname" font-size="19" fill="#3A3A3A">FILTER MICROPLASTICS</text>
+<text x="1700" y="1790" text-anchor="end" class="stag" font-size="11.5" fill="#3A3A3A" opacity="0.75">PROCESS</text>
+<text x="62" y="1821" class="snote" font-size="13" fill="#666">options drawn directly from MPx_Filter_Mechanism_Map.svg (4 families, 24 mechanisms)</text>
+<rect x="44" y="1833" width="1672" height="199" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="1833" width="400" height="199" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="1833" width="4" height="199" fill="#8A8A8A"/>
+<text x="60" y="1863" class="sf" font-size="14.5" fill="#3A3A3A">Convey water through the filter stage</text>
+<text x="468" y="1863" class="opt" font-size="13.5" fill="#2A2A2A">•  Zero-power gravity-fed reservoir</text>
+<text x="468" y="1892" class="opt" font-size="13.5" fill="#2A2A2A">•  Manual hand-pump / squeeze bulb</text>
+<text x="468" y="1921" class="opt" font-size="13.5" fill="#2A2A2A">•  Motorised peristaltic pump</text>
+<text x="468" y="1950" class="opt" font-size="13.5" fill="#2A2A2A">•  Motorised diaphragm / piston micro-pump</text>
+<text x="468" y="1979" class="opt" font-size="13.5" fill="#2A2A2A">•  Stored-energy syringe / vacuum draw</text>
+<text x="468" y="2008" class="opt" font-size="13.5" fill="#2A2A2A">•  Pre-charged spring or pressurised cartridge</text>
+<rect x="44" y="2034" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="2034" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="2034" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="2064" class="sf" font-size="14.5" fill="#3A3A3A">Separate coarse particles / debris</text>
+<text x="60" y="2084" class="sf" font-size="14.5" fill="#3A3A3A">(pre-filter)</text>
+<text x="468" y="2064" class="opt" font-size="13.5" fill="#2A2A2A">•  Steel micro-mesh screen</text>
+<text x="468" y="2093" class="opt" font-size="13.5" fill="#2A2A2A">•  Sand / gravel depth bed</text>
+<text x="468" y="2122" class="opt" font-size="13.5" fill="#2A2A2A">•  Sintered ceramic candle pre-filter</text>
+<rect x="44" y="2148" width="1672" height="315" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="2148" width="400" height="315" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="2148" width="4" height="315" fill="#8A8A8A"/>
+<text x="60" y="2178" class="sf" font-size="14.5" fill="#3A3A3A">Separate microplastic particles by size or</text>
+<text x="60" y="2198" class="sf" font-size="14.5" fill="#3A3A3A">shape (fine filter)</text>
+<text x="468" y="2178" class="opt" font-size="13.5" fill="#2A2A2A">•  Polymeric membrane — UF / NF</text>
+<text x="468" y="2207" class="opt" font-size="13.5" fill="#2A2A2A">•  Ceramic UF membrane</text>
+<text x="468" y="2236" class="opt" font-size="13.5" fill="#2A2A2A">•  Acoustic / resonant standing-wave focusing (incl. Acousweep)</text>
+<text x="468" y="2265" class="opt" font-size="13.5" fill="#2A2A2A">•  Magnetic Fe₃O₄ nanoparticle capture</text>
+<text x="468" y="2294" class="opt" font-size="13.5" fill="#2A2A2A">•  Electrostatic / electret capture</text>
+<text x="468" y="2323" class="opt" font-size="13.5" fill="#2A2A2A">•  Hydrocyclone — no-media, flow-based</text>
+<text x="468" y="2352" class="opt" font-size="13.5" fill="#2A2A2A">•  Dissolved-air / microbubble flotation</text>
+<text x="468" y="2381" class="opt" font-size="13.5" fill="#2A2A2A">•  Coagulation-flocculation (alum/PACl or chitosan)</text>
+<text x="468" y="2410" class="opt" font-size="13.5" fill="#2A2A2A">•  Electrocoagulation — Fe/Al sacrificial electrode</text>
+<text x="468" y="2439" class="opt" font-size="13.5" fill="#2A2A2A">•  Bio-adsorbent media — mycelium mat, nanocellulose/chitosan sponge</text>
+<rect x="44" y="2465" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="2465" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="2465" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="2495" class="sf" font-size="14.5" fill="#3A3A3A">Regulate flow rate through the filter media</text>
+<text x="468" y="2495" class="opt" font-size="13.5" fill="#2A2A2A">•  Fixed flow-restrictor orifice downstream of the filter</text>
+<text x="468" y="2524" class="opt" font-size="13.5" fill="#2A2A2A">•  Pump duty-cycle / PWM control</text>
+<text x="468" y="2553" class="opt" font-size="13.5" fill="#2A2A2A">•  Pressure-relief bypass valve</text>
+<rect x="44" y="2579" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="2579" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="2579" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="2609" class="sf" font-size="14.5" fill="#3A3A3A">Retain / trap separated particles within the</text>
+<text x="60" y="2629" class="sf" font-size="14.5" fill="#3A3A3A">media</text>
+<text x="468" y="2609" class="opt" font-size="13.5" fill="#2A2A2A">•  Inherent to the chosen fine-filter mechanism above</text>
+<text x="468" y="2638" class="opt" font-size="13.5" fill="#2A2A2A">•  Backing support mesh + edge O-ring seal, prevents media bypass</text>
+<text x="468" y="2667" class="opt" font-size="13.5" fill="#2A2A2A">•  Cartridge housing with compression seal</text>
+<rect x="44" y="2693" width="1672" height="141" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="2693" width="400" height="141" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="2693" width="4" height="141" fill="#8A8A8A"/>
+<text x="60" y="2723" class="sf" font-size="14.5" fill="#3A3A3A">Indicate filter saturation or clogging</text>
+<text x="468" y="2723" class="opt" font-size="13.5" fill="#2A2A2A">•  Differential-pressure sensor / switch across the filter</text>
+<text x="468" y="2752" class="opt" font-size="13.5" fill="#2A2A2A">•  Flow-rate drop-off timer (compares fill time to a baseline)</text>
+<text x="468" y="2781" class="opt" font-size="13.5" fill="#2A2A2A">•  Mechanical pressure-indicator disc, colour-change (N95-style)</text>
+<text x="468" y="2810" class="opt" font-size="13.5" fill="#2A2A2A">•  Manual replacement-schedule reminder via app or calendar, no sensor</text>
+<rect x="44" y="2836" width="1672" height="141" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="2836" width="400" height="141" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="2836" width="4" height="141" fill="#8A8A8A"/>
+<text x="60" y="2866" class="sf" font-size="14.5" fill="#3A3A3A">Allow filter element access / replacement</text>
+<text x="468" y="2866" class="opt" font-size="13.5" fill="#2A2A2A">•  Twist-lock cartridge housing</text>
+<text x="468" y="2895" class="opt" font-size="13.5" fill="#2A2A2A">•  Tool-free snap-fit end cap</text>
+<text x="468" y="2924" class="opt" font-size="13.5" fill="#2A2A2A">•  Screw-cap housing with O-ring</text>
+<text x="468" y="2953" class="opt" font-size="13.5" fill="#2A2A2A">•  Quick-connect push-fit cartridge</text>
+<rect x="44" y="2999" width="1672" height="40" fill="#EDEDED"/>
+<rect x="44" y="2999" width="6" height="40" fill="#8A8A8A"/>
+<text x="62" y="3028" class="snum" font-size="15" fill="#3A3A3A">04</text>
+<text x="100" y="3029" class="sname" font-size="19" fill="#3A3A3A">PURIFICATION</text>
+<text x="1700" y="3028" text-anchor="end" class="stag" font-size="11.5" fill="#3A3A3A" opacity="0.75">PROCESS</text>
+<text x="62" y="3059" class="snote" font-size="13" fill="#666">UV treatment stage — dose benchmarks per NSF/ANSI and UV-C LED literature</text>
+<rect x="44" y="3071" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="3071" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="3071" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="3101" class="sf" font-size="14.5" fill="#3A3A3A">Convey filtered water to the purification</text>
+<text x="60" y="3121" class="sf" font-size="14.5" fill="#3A3A3A">stage</text>
+<text x="468" y="3101" class="opt" font-size="13.5" fill="#2A2A2A">•  Gravity-fed chamber</text>
+<text x="468" y="3130" class="opt" font-size="13.5" fill="#2A2A2A">•  Shared pump line from the filtration stage</text>
+<text x="468" y="3159" class="opt" font-size="13.5" fill="#2A2A2A">•  Static in-line flow-through tube</text>
+<rect x="44" y="3185" width="1672" height="170" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="3185" width="400" height="170" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="3185" width="4" height="170" fill="#8A8A8A"/>
+<text x="60" y="3215" class="sf" font-size="14.5" fill="#3A3A3A">Expose water to a disinfection agent or energy</text>
+<text x="60" y="3235" class="sf" font-size="14.5" fill="#3A3A3A">source</text>
+<text x="468" y="3215" class="opt" font-size="13.5" fill="#2A2A2A">•  UV-C LED array, ~265 nm — NSF Class A target ≥40 mJ/cm², Class B ≥16 mJ/cm²</text>
+<text x="468" y="3244" class="opt" font-size="13.5" fill="#2A2A2A">•  Traditional UV mercury lamp — higher output but larger, fragile, being phased out</text>
+<text x="468" y="3273" class="opt" font-size="13.5" fill="#2A2A2A">•  Chlorine or silver-ion dosing cartridge</text>
+<text x="468" y="3302" class="opt" font-size="13.5" fill="#2A2A2A">•  Electrochemical disinfection — in-situ chlorine generation via electrolysis</text>
+<text x="468" y="3331" class="opt" font-size="13.5" fill="#2A2A2A">•  Ozone micro-generator</text>
+<rect x="44" y="3357" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="3357" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="3357" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="3387" class="sf" font-size="14.5" fill="#3A3A3A">Regulate exposure dose / time</text>
+<text x="468" y="3387" class="opt" font-size="13.5" fill="#2A2A2A">•  Fixed-residence-time flow-through tube — dose set by geometry</text>
+<text x="468" y="3416" class="opt" font-size="13.5" fill="#2A2A2A">•  Timed batch-hold cycle — valve closes, UV runs for a set duration</text>
+<text x="468" y="3445" class="opt" font-size="13.5" fill="#2A2A2A">•  Flow-rate-linked LED intensity control — dose as a function of flow speed</text>
+<rect x="44" y="3471" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="3471" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="3471" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="3501" class="sf" font-size="14.5" fill="#3A3A3A">Monitor treatment completion</text>
+<text x="468" y="3501" class="opt" font-size="13.5" fill="#2A2A2A">•  UV sensor / photodiode feedback confirming LED output</text>
+<text x="468" y="3530" class="opt" font-size="13.5" fill="#2A2A2A">•  Cycle-timer indicator, open-loop, no feedback</text>
+<text x="468" y="3559" class="opt" font-size="13.5" fill="#2A2A2A">•  Residual chlorine test strip, for the chemical-dosing route</text>
+<rect x="44" y="3585" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="3585" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="3585" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="3615" class="sf" font-size="14.5" fill="#3A3A3A">Neutralize or vent treatment by-products, if</text>
+<text x="60" y="3635" class="sf" font-size="14.5" fill="#3A3A3A">any</text>
+<text x="468" y="3615" class="opt" font-size="13.5" fill="#2A2A2A">•  Not applicable for UV-C — no chemical by-product, a key advantage over chlorination</text>
+<text x="468" y="3644" class="opt" font-size="13.5" fill="#2A2A2A">•  Activated-carbon polishing stage for the chlorine/ozone routes</text>
+<text x="468" y="3673" class="opt" font-size="13.5" fill="#2A2A2A">•  Off-gas vent for the ozone route</text>
+<rect x="44" y="3719" width="1672" height="40" fill="#EDEDED"/>
+<rect x="44" y="3719" width="6" height="40" fill="#8A8A8A"/>
+<text x="62" y="3748" class="snum" font-size="15" fill="#3A3A3A">05</text>
+<text x="100" y="3749" class="sname" font-size="19" fill="#3A3A3A">STORE CLEAN WATER</text>
+<text x="1700" y="3748" text-anchor="end" class="stag" font-size="11.5" fill="#3A3A3A" opacity="0.75">PROCESS</text>
+<rect x="44" y="3765" width="1672" height="83" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="3765" width="400" height="83" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="3765" width="4" height="83" fill="#8A8A8A"/>
+<text x="60" y="3795" class="sf" font-size="14.5" fill="#3A3A3A">Convey purified water into storage</text>
+<text x="468" y="3795" class="opt" font-size="13.5" fill="#2A2A2A">•  Gravity drop into the reservoir</text>
+<text x="468" y="3824" class="opt" font-size="13.5" fill="#2A2A2A">•  Continued pump-through into a sealed tank</text>
+<rect x="44" y="3850" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="3850" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="3850" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="3880" class="sf" font-size="14.5" fill="#3A3A3A">Contain / hold the treated water volume</text>
+<text x="468" y="3880" class="opt" font-size="13.5" fill="#2A2A2A">•  Rigid BPA-free copolyester / Tritan reservoir</text>
+<text x="468" y="3909" class="opt" font-size="13.5" fill="#2A2A2A">•  Food-grade stainless-steel tank</text>
+<text x="468" y="3938" class="opt" font-size="13.5" fill="#2A2A2A">•  Collapsible food-grade silicone bladder — compact / portable</text>
+<rect x="44" y="3964" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="3964" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="3964" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="3994" class="sf" font-size="14.5" fill="#3A3A3A">Seal storage against recontamination</text>
+<text x="468" y="3994" class="opt" font-size="13.5" fill="#2A2A2A">•  Screw-cap lid with silicone O-ring</text>
+<text x="468" y="4023" class="opt" font-size="13.5" fill="#2A2A2A">•  Snap-fit lid with gasket</text>
+<text x="468" y="4052" class="opt" font-size="13.5" fill="#2A2A2A">•  Self-sealing valve cap — opens only under suction or pressure</text>
+<rect x="44" y="4078" width="1672" height="170" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="4078" width="400" height="170" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="4078" width="4" height="170" fill="#8A8A8A"/>
+<text x="60" y="4108" class="sf" font-size="14.5" fill="#3A3A3A">Indicate stored volume / level</text>
+<text x="468" y="4108" class="opt" font-size="13.5" fill="#2A2A2A">•  Hydrostatic pressure sensor — cheapest, most power-efficient, best portable fit</text>
+<text x="468" y="4137" class="opt" font-size="13.5" fill="#2A2A2A">•  Float sensor / reed switch</text>
+<text x="468" y="4166" class="opt" font-size="13.5" fill="#2A2A2A">•  Capacitive level probe</text>
+<text x="468" y="4195" class="opt" font-size="13.5" fill="#2A2A2A">•  Ultrasonic level sensor — non-contact, but 10–100× more power draw</text>
+<text x="468" y="4224" class="opt" font-size="13.5" fill="#2A2A2A">•  Sight-glass / graduated window — zero power, passive</text>
+<rect x="44" y="4250" width="1672" height="141" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="4250" width="400" height="141" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="4250" width="4" height="141" fill="#8A8A8A"/>
+<text x="60" y="4280" class="sf" font-size="14.5" fill="#3A3A3A">Preserve water quality over the storage period</text>
+<text x="468" y="4280" class="opt" font-size="13.5" fill="#2A2A2A">•  UV-C LED periodic recirculation / idle-state disinfection pulse</text>
+<text x="468" y="4309" class="opt" font-size="13.5" fill="#2A2A2A">•  Opaque housing — blocks light, limits algae growth</text>
+<text x="468" y="4338" class="opt" font-size="13.5" fill="#2A2A2A">•  Silver-ion impregnated liner — passive antimicrobial</text>
+<text x="468" y="4367" class="opt" font-size="13.5" fill="#2A2A2A">•  UI reminder encouraging short storage duration (procedural)</text>
+<rect x="44" y="4413" width="1672" height="40" fill="#DFF3DF"/>
+<rect x="44" y="4413" width="6" height="40" fill="#3C9A3C"/>
+<text x="62" y="4442" class="snum" font-size="15" fill="#1E5E20">06</text>
+<text x="100" y="4443" class="sname" font-size="19" fill="#1E5E20">DISPENSE SAFE DRINKABLE WATER</text>
+<text x="1700" y="4442" text-anchor="end" class="stag" font-size="11.5" fill="#1E5E20" opacity="0.75">OUTPUT</text>
+<rect x="44" y="4459" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="4459" width="400" height="112" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="4459" width="4" height="112" fill="#3C9A3C"/>
+<text x="60" y="4489" class="sf" font-size="14.5" fill="#1E5E20">Convey water from storage to the outlet</text>
+<text x="468" y="4489" class="opt" font-size="13.5" fill="#2A2A2A">•  Gravity-fed spout</text>
+<text x="468" y="4518" class="opt" font-size="13.5" fill="#2A2A2A">•  Same pump line reused for dispensing</text>
+<text x="468" y="4547" class="opt" font-size="13.5" fill="#2A2A2A">•  Dedicated small dispensing pump</text>
+<rect x="44" y="4573" width="1672" height="141" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="4573" width="400" height="141" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="4573" width="4" height="141" fill="#3C9A3C"/>
+<text x="60" y="4603" class="sf" font-size="14.5" fill="#1E5E20">Actuate dispensing on user demand</text>
+<text x="468" y="4603" class="opt" font-size="13.5" fill="#2A2A2A">•  Push-button / bite-valve spout (Sawyer / Grayl-style press-to-open)</text>
+<text x="468" y="4632" class="opt" font-size="13.5" fill="#2A2A2A">•  Squeeze-bulb actuation</text>
+<text x="468" y="4661" class="opt" font-size="13.5" fill="#2A2A2A">•  Tilt-to-pour, passive, no actuator</text>
+<text x="468" y="4690" class="opt" font-size="13.5" fill="#2A2A2A">•  Touch-sensor-triggered electric valve</text>
+<rect x="44" y="4716" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="4716" width="400" height="112" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="4716" width="4" height="112" fill="#3C9A3C"/>
+<text x="60" y="4746" class="sf" font-size="14.5" fill="#1E5E20">Regulate dispensed flow rate / volume</text>
+<text x="468" y="4746" class="opt" font-size="13.5" fill="#2A2A2A">•  Fixed-orifice spout nozzle</text>
+<text x="468" y="4775" class="opt" font-size="13.5" fill="#2A2A2A">•  Adjustable flow-control collar</text>
+<text x="468" y="4804" class="opt" font-size="13.5" fill="#2A2A2A">•  Portion-metered pump cycle — fixed volume per press</text>
+<rect x="44" y="4830" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="4830" width="400" height="112" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="4830" width="4" height="112" fill="#3C9A3C"/>
+<text x="60" y="4860" class="sf" font-size="14.5" fill="#1E5E20">Protect the dispensing point from</text>
+<text x="60" y="4880" class="sf" font-size="14.5" fill="#1E5E20">contamination</text>
+<text x="468" y="4860" class="opt" font-size="13.5" fill="#2A2A2A">•  Silicone one-way duckbill valve at the mouthpiece, prevents backwash</text>
+<text x="468" y="4889" class="opt" font-size="13.5" fill="#2A2A2A">•  Flip-cap dust cover over the spout</text>
+<text x="468" y="4918" class="opt" font-size="13.5" fill="#2A2A2A">•  Retractable / telescoping spout</text>
+<rect x="44" y="4944" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="4944" width="400" height="112" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="4944" width="4" height="112" fill="#3C9A3C"/>
+<text x="60" y="4974" class="sf" font-size="14.5" fill="#1E5E20">Stop / shut off flow after dispensing</text>
+<text x="468" y="4974" class="opt" font-size="13.5" fill="#2A2A2A">•  Spring-return valve, auto-closes on release</text>
+<text x="468" y="5003" class="opt" font-size="13.5" fill="#2A2A2A">•  Timed pump cutoff</text>
+<text x="468" y="5032" class="opt" font-size="13.5" fill="#2A2A2A">•  Manual cap reseal</text>
+<text x="44" y="5114" class="sec" font-size="14" fill="#8A8A8A">DETECTION BRANCH &#8212; parallel path off Step 03 (Filter Microplastics)</text>
+<line x1="44" y1="5122" x2="1716" y2="5122" stroke="#E3E3E3" stroke-width="1"/>
+<rect x="44" y="5128" width="1672" height="40" fill="#EDEDED"/>
+<rect x="44" y="5128" width="6" height="40" fill="#8A8A8A"/>
+<text x="62" y="5157" class="snum" font-size="15" fill="#3A3A3A">07</text>
+<text x="100" y="5158" class="sname" font-size="19" fill="#3A3A3A">COLLECTION OF MICROPLASTICS</text>
+<text x="1700" y="5157" text-anchor="end" class="stag" font-size="11.5" fill="#3A3A3A" opacity="0.75">PROCESS</text>
+<rect x="44" y="5174" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="5174" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="5174" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="5204" class="sf" font-size="14.5" fill="#3A3A3A">Branch / divert a sample stream from the main</text>
+<text x="60" y="5224" class="sf" font-size="14.5" fill="#3A3A3A">flow</text>
+<text x="468" y="5204" class="opt" font-size="13.5" fill="#2A2A2A">•  T-junction bleed line with a micro-valve</text>
+<text x="468" y="5233" class="opt" font-size="13.5" fill="#2A2A2A">•  Sample port with syringe draw</text>
+<text x="468" y="5262" class="opt" font-size="13.5" fill="#2A2A2A">•  Bypass loop timed to open periodically</text>
+<rect x="44" y="5288" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="5288" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="5288" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="5318" class="sf" font-size="14.5" fill="#3A3A3A">Convey the sample to the detection zone</text>
+<text x="468" y="5318" class="opt" font-size="13.5" fill="#2A2A2A">•  Small-bore capillary tube, gravity- or pump-fed</text>
+<text x="468" y="5347" class="opt" font-size="13.5" fill="#2A2A2A">•  Dedicated micro-pump on the sample line</text>
+<text x="468" y="5376" class="opt" font-size="13.5" fill="#2A2A2A">•  Manual pipette transfer — lab-adjacent, less automated</text>
+<rect x="44" y="5402" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="5402" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="5402" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="5432" class="sf" font-size="14.5" fill="#3A3A3A">Concentrate / isolate particles within the</text>
+<text x="60" y="5452" class="sf" font-size="14.5" fill="#3A3A3A">sample</text>
+<text x="468" y="5432" class="opt" font-size="13.5" fill="#2A2A2A">•  Secondary fine mesh / membrane trap sized to the sample volume</text>
+<text x="468" y="5461" class="opt" font-size="13.5" fill="#2A2A2A">•  Centrifugal micro-separation — miniaturised hydrocyclone-style</text>
+<text x="468" y="5490" class="opt" font-size="13.5" fill="#2A2A2A">•  Settling / gravity concentration chamber</text>
+<rect x="44" y="5516" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="5516" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="5516" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="5546" class="sf" font-size="14.5" fill="#3A3A3A">Hold sample volume steady for measurement</text>
+<text x="468" y="5546" class="opt" font-size="13.5" fill="#2A2A2A">•  Fixed-volume flow-through cuvette / cell</text>
+<text x="468" y="5575" class="opt" font-size="13.5" fill="#2A2A2A">•  Batch-hold micro-chamber with shutter valve</text>
+<text x="468" y="5604" class="opt" font-size="13.5" fill="#2A2A2A">•  Continuous-flow tube — inline reading, no hold</text>
+<rect x="44" y="5630" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="5630" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="5630" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="5660" class="sf" font-size="14.5" fill="#3A3A3A">Separate microplastics from other suspended</text>
+<text x="60" y="5680" class="sf" font-size="14.5" fill="#3A3A3A">solids</text>
+<text x="468" y="5660" class="opt" font-size="13.5" fill="#2A2A2A">•  Fluorescent tagging (Nile Red) to optically distinguish plastics from organics</text>
+<text x="468" y="5689" class="opt" font-size="13.5" fill="#2A2A2A">•  Density-based separation — plastics vs. minerals</text>
+<text x="468" y="5718" class="opt" font-size="13.5" fill="#2A2A2A">•  Polymer-specific spectral signature (Raman / FTIR) to exclude non-plastic hits</text>
+<rect x="44" y="5764" width="1672" height="40" fill="#EDEDED"/>
+<rect x="44" y="5764" width="6" height="40" fill="#8A8A8A"/>
+<text x="62" y="5793" class="snum" font-size="15" fill="#3A3A3A">08</text>
+<text x="100" y="5794" class="sname" font-size="19" fill="#3A3A3A">DETECTION / COUNT MICROPLASTICS PER UNIT VOLUME</text>
+<text x="1700" y="5793" text-anchor="end" class="stag" font-size="11.5" fill="#3A3A3A" opacity="0.75">PROCESS</text>
+<text x="62" y="5824" class="snote" font-size="13" fill="#666">options drawn directly from MPx_Detection_Methods_Comparison.docx (15-method Tier A/B table)</text>
+<rect x="44" y="5836" width="1672" height="141" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="5836" width="400" height="141" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="5836" width="4" height="141" fill="#8A8A8A"/>
+<text x="60" y="5866" class="sf" font-size="14.5" fill="#3A3A3A">Sense presence of particles in the sample</text>
+<text x="468" y="5866" class="opt" font-size="13.5" fill="#2A2A2A">•  Smartphone camera + fluorescence excitation, Nile Red staining</text>
+<text x="468" y="5895" class="opt" font-size="13.5" fill="#2A2A2A">•  $10 clip-on microscope + camera</text>
+<text x="468" y="5924" class="opt" font-size="13.5" fill="#2A2A2A">•  Turbidity / optical-density proxy sensor — cheap, but not MP-specific</text>
+<text x="468" y="5953" class="opt" font-size="13.5" fill="#2A2A2A">•  UV-fluorescence flow-tube detector</text>
+<rect x="44" y="5979" width="1672" height="141" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="5979" width="400" height="141" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="5979" width="4" height="141" fill="#8A8A8A"/>
+<text x="60" y="6009" class="sf" font-size="14.5" fill="#3A3A3A">Distinguish microplastic particles from other</text>
+<text x="60" y="6029" class="sf" font-size="14.5" fill="#3A3A3A">debris</text>
+<text x="468" y="6009" class="opt" font-size="13.5" fill="#2A2A2A">•  Nile Red fluorescence + colour/shape filtering</text>
+<text x="468" y="6038" class="opt" font-size="13.5" fill="#2A2A2A">•  YOLOv5 / YOLOv8 ML classification on captured images</text>
+<text x="468" y="6067" class="opt" font-size="13.5" fill="#2A2A2A">•  Electrostatic pretreatment + TOC discrimination</text>
+<text x="468" y="6096" class="opt" font-size="13.5" fill="#2A2A2A">•  Polymer-specific Raman / FTIR signature — lab-grade, likely too costly/bulky for portable</text>
+<rect x="44" y="6122" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="6122" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="6122" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="6152" class="sf" font-size="14.5" fill="#3A3A3A">Measure particle size and / or count</text>
+<text x="468" y="6152" class="opt" font-size="13.5" fill="#2A2A2A">•  Image-processing pixel-to-size calibration, works with any camera-based method</text>
+<text x="468" y="6181" class="opt" font-size="13.5" fill="#2A2A2A">•  Impedance / Coulter-counter-style particle sizing</text>
+<text x="468" y="6210" class="opt" font-size="13.5" fill="#2A2A2A">•  Manual visual count under magnification — low-cost fallback</text>
+<rect x="44" y="6236" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="6236" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="6236" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="6266" class="sf" font-size="14.5" fill="#3A3A3A">Convert the sensed signal into quantifiable</text>
+<text x="60" y="6286" class="sf" font-size="14.5" fill="#3A3A3A">data</text>
+<text x="468" y="6266" class="opt" font-size="13.5" fill="#2A2A2A">•  On-device microcontroller image processing — edge ML (TinyML-class chip)</text>
+<text x="468" y="6295" class="opt" font-size="13.5" fill="#2A2A2A">•  Cloud / phone-app processing — offloads compute, avoids FLOro’s cost overrun</text>
+<text x="468" y="6324" class="opt" font-size="13.5" fill="#2A2A2A">•  Simple threshold-comparator circuit, turbidity route only</text>
+<rect x="44" y="6350" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="6350" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="6350" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="6380" class="sf" font-size="14.5" fill="#3A3A3A">Normalize count to a per-unit-volume value</text>
+<text x="468" y="6380" class="opt" font-size="13.5" fill="#2A2A2A">•  Firmware calculation using the known sample-chamber volume (Step 07)</text>
+<text x="468" y="6409" class="opt" font-size="13.5" fill="#2A2A2A">•  Calibration curve against reference standards</text>
+<text x="468" y="6438" class="opt" font-size="13.5" fill="#2A2A2A">•  Flow-rate-linked continuous count — particles/second × known flow rate</text>
+<rect x="44" y="6464" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="6464" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="6464" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="6494" class="sf" font-size="14.5" fill="#3A3A3A">Compare measured value against a safety</text>
+<text x="60" y="6514" class="sf" font-size="14.5" fill="#3A3A3A">threshold</text>
+<text x="468" y="6494" class="opt" font-size="13.5" fill="#2A2A2A">•  On-device firmware threshold logic, simple pass/fail</text>
+<text x="468" y="6523" class="opt" font-size="13.5" fill="#2A2A2A">•  App-side comparison against the team’s 90% / 99% removal-efficiency target</text>
+<text x="468" y="6552" class="opt" font-size="13.5" fill="#2A2A2A">•  User-configurable sensitivity threshold</text>
+<rect x="44" y="6578" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="6578" width="400" height="112" fill="#EDEDED" opacity="0.55" stroke="#8A8A8A" stroke-width="1"/>
+<rect x="44" y="6578" width="4" height="112" fill="#8A8A8A"/>
+<text x="60" y="6608" class="sf" font-size="14.5" fill="#3A3A3A">Store / log the measurement</text>
+<text x="468" y="6608" class="opt" font-size="13.5" fill="#2A2A2A">•  On-device flash memory log, timestamped readings</text>
+<text x="468" y="6637" class="opt" font-size="13.5" fill="#2A2A2A">•  Companion-app cloud or local history log</text>
+<text x="468" y="6666" class="opt" font-size="13.5" fill="#2A2A2A">•  No logging — instantaneous display only</text>
+<rect x="44" y="6712" width="1672" height="40" fill="#DFF3DF"/>
+<rect x="44" y="6712" width="6" height="40" fill="#3C9A3C"/>
+<text x="62" y="6741" class="snum" font-size="15" fill="#1E5E20">09</text>
+<text x="100" y="6742" class="sname" font-size="19" fill="#1E5E20">DISPLAY OUTPUT</text>
+<text x="1700" y="6741" text-anchor="end" class="stag" font-size="11.5" fill="#1E5E20" opacity="0.75">OUTPUT</text>
+<rect x="44" y="6758" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="6758" width="400" height="112" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="6758" width="4" height="112" fill="#3C9A3C"/>
+<text x="60" y="6788" class="sf" font-size="14.5" fill="#1E5E20">Receive processed detection data</text>
+<text x="468" y="6788" class="opt" font-size="13.5" fill="#2A2A2A">•  Wired connection from the detection PCB to the display module</text>
+<text x="468" y="6817" class="opt" font-size="13.5" fill="#2A2A2A">•  BLE / Wi-Fi link to a companion phone app</text>
+<text x="468" y="6846" class="opt" font-size="13.5" fill="#2A2A2A">•  Direct analog signal to a simple indicator, no digital data</text>
+<rect x="44" y="6872" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="6872" width="400" height="112" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="6872" width="4" height="112" fill="#3C9A3C"/>
+<text x="60" y="6902" class="sf" font-size="14.5" fill="#1E5E20">Convert data into human-readable form</text>
+<text x="468" y="6902" class="opt" font-size="13.5" fill="#2A2A2A">•  On-device firmware renders text / icons</text>
+<text x="468" y="6931" class="opt" font-size="13.5" fill="#2A2A2A">•  Phone-app UI does all rendering, device just transmits raw data</text>
+<text x="468" y="6960" class="opt" font-size="13.5" fill="#2A2A2A">•  Simple LED colour / blink-pattern code</text>
+<rect x="44" y="6986" width="1672" height="199" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="6986" width="400" height="199" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="6986" width="4" height="199" fill="#3C9A3C"/>
+<text x="60" y="7016" class="sf" font-size="14.5" fill="#1E5E20">Present result to the user (visual / audio /</text>
+<text x="60" y="7036" class="sf" font-size="14.5" fill="#1E5E20">haptic)</text>
+<text x="468" y="7016" class="opt" font-size="13.5" fill="#2A2A2A">•  E-paper / e-ink screen — near-0 static power, sunlight-readable, best for infrequent updates</text>
+<text x="468" y="7045" class="opt" font-size="13.5" fill="#2A2A2A">•  Memory LCD (MIP) — 1–5 µW static, supports scrolling/animation, weeks–months battery life</text>
+<text x="468" y="7074" class="opt" font-size="13.5" fill="#2A2A2A">•  PMOLED — higher power, best contrast/speed, poor sunlight readability</text>
+<text x="468" y="7103" class="opt" font-size="13.5" fill="#2A2A2A">•  Simple RGB LED indicator array — lowest cost/power, coarse info only</text>
+<text x="468" y="7132" class="opt" font-size="13.5" fill="#2A2A2A">•  Buzzer / audio alert — fits the 30% of quiz respondents who want no visible detail</text>
+<text x="468" y="7161" class="opt" font-size="13.5" fill="#2A2A2A">•  Haptic vibration alert</text>
+<rect x="44" y="7187" width="1672" height="112" fill="#FBFBFB" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="7187" width="400" height="112" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="7187" width="4" height="112" fill="#3C9A3C"/>
+<text x="60" y="7217" class="sf" font-size="14.5" fill="#1E5E20">Allow switching between simple and detailed</text>
+<text x="60" y="7237" class="sf" font-size="14.5" fill="#1E5E20">views</text>
+<text x="468" y="7217" class="opt" font-size="13.5" fill="#2A2A2A">•  Physical toggle button / switch</text>
+<text x="468" y="7246" class="opt" font-size="13.5" fill="#2A2A2A">•  App-side settings menu</text>
+<text x="468" y="7275" class="opt" font-size="13.5" fill="#2A2A2A">•  Long-press gesture on a single button</text>
+<rect x="44" y="7301" width="1672" height="112" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+<rect x="44" y="7301" width="400" height="112" fill="#DFF3DF" opacity="0.55" stroke="#3C9A3C" stroke-width="1"/>
+<rect x="44" y="7301" width="4" height="112" fill="#3C9A3C"/>
+<text x="60" y="7331" class="sf" font-size="14.5" fill="#1E5E20">Indicate alert status if a threshold is</text>
+<text x="60" y="7351" class="sf" font-size="14.5" fill="#1E5E20">exceeded</text>
+<text x="468" y="7331" class="opt" font-size="13.5" fill="#2A2A2A">•  Dedicated red LED / icon flash</text>
+<text x="468" y="7360" class="opt" font-size="13.5" fill="#2A2A2A">•  Audible alarm chirp</text>
+<text x="468" y="7389" class="opt" font-size="13.5" fill="#2A2A2A">•  Push notification via the companion app</text>
+<rect x="44" y="7465" width="1672" height="140" rx="8" fill="#F4F0FA" stroke="#8E7CC3" stroke-width="1.5"/>
+<text x="68" y="7495" class="footer-h" font-size="16" fill="#4A3B7A">Next step</text>
+<text x="68" y="7517" class="footer-b" font-size="13" fill="#4A3B7A">This is the generation half of Module 8 — formulate the sub-function, then list independent options, as in the team’s own Detection Ranking + Morphological Matrix and</text>
+<text x="68" y="7536" class="footer-b" font-size="13" fill="#4A3B7A">10-Concepts docs. Next: draw a small number of hand-picked paths through this map (one option per row, combined into a coherent concept), then score them against the</text>
+<text x="68" y="7555" class="footer-b" font-size="13" fill="#4A3B7A">Weighted Objective Tree. Rows with many options (Step 03 fine-filter, Step 08 sensing/distinguishing, Step 09 display) are where the concept space actually branches, and</text>
+<text x="68" y="7574" class="footer-b" font-size="13" fill="#4A3B7A">are most worth a team brainstorm before narrowing.</text>
+</svg>

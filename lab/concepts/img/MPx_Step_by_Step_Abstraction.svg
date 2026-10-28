@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1700 1116" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="mpx-step-abstraction-title mpx-step-abstraction-desc">
+<title id="mpx-step-abstraction-title">Step-by-Step Abstraction of the Problem</title>
+<desc id="mpx-step-abstraction-desc">Pahl and Beitz five-step abstraction procedure applied to the MPx technical requirements list, progressively narrowing from a trimmed functional and numerical requirements list through qualitative and generalised statements to a final solution-neutral problem formulation that converges on the team's own SNPS 1.</desc>
+<defs>
+<style>
+  text { font-family: Georgia, 'Times New Roman', serif; }
+  .eyebrow { font-family: 'Courier New', Consolas, monospace; font-size: 13px; letter-spacing: 1.5px; fill: #B5523A; }
+  .h1 { font-family: Georgia, serif; font-size: 32px; font-weight: bold; fill: #1F2937; }
+  .h2 { font-family: Helvetica, Arial, sans-serif; font-size: 15.5px; fill: #6B7280; }
+  .hairline { stroke: #E5E7EB; stroke-width: 1; }
+  .steplabel { font-family: 'Courier New', Consolas, monospace; font-size: 14px; font-weight: bold; letter-spacing: 1px; fill: #FFFFFF; }
+  .stepsub { font-family: Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #FFFFFF; opacity: 0.92; }
+  .item { font-family: Helvetica, Arial, sans-serif; font-size: 13px; fill: #1F2937; }
+  .finaltext { font-family: Georgia, serif; font-style: italic; font-size: 15px; fill: #1F2937; }
+  .finalnote { font-family: Helvetica, Arial, sans-serif; font-size: 11.5px; fill: #6B7280; }
+  .footer { font-family: Helvetica, Arial, sans-serif; font-size: 11px; fill: #6B7280; }
+</style>
+<marker id="arrowhead" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+  <polygon points="0 0, 10 4, 0 8" fill="#9CA3AF"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="1700" height="1116" fill="#FFFFFF"/>
+<text x="60" y="52" class="eyebrow">CONCEPTUAL DESIGN · CED MODULE 5 · PAHL &amp; BEITZ (2007) §6.2</text>
+<text x="60" y="102" class="h1">Step-by-Step Abstraction of the Problem</text>
+<text x="60" y="136" class="h2">The MPx requirements list, narrowed through the 5-step abstraction procedure to its essential, solution-neutral problem</text>
+<line x1="60" y1="164" x2="1640" y2="164" class="hairline"/>
+<rect x="60" y="230" width="360" height="776" rx="14" fill="#FFFFFF" stroke="#BFDBF7" stroke-width="1.5"/>
+<rect x="60" y="230" width="360" height="64" rx="14" fill="#2E6DA4"/>
+<rect x="60" y="280" width="360" height="14" fill="#2E6DA4"/>
+<text x="240" y="256" text-anchor="middle" class="steplabel">Steps 1–2</text>
+<text x="240" y="276" text-anchor="middle" class="stepsub">Eliminate preferences &amp; non-essential</text>
+<text x="240" y="291" text-anchor="middle" class="stepsub">requirements</text>
+<text x="82" y="330" class="item">– Water intake 1–3 L/day,</text>
+<text x="82" y="352" class="item">  several servings</text>
+<text x="82" y="382" class="item">– Filter element replaceable,</text>
+<text x="82" y="404" class="item">  independent of housing</text>
+<text x="82" y="434" class="item">– Detection sampling doesn’t</text>
+<text x="82" y="456" class="item">  alter the main flow path</text>
+<text x="82" y="486" class="item">– Drive mechanism unspecified —</text>
+<text x="82" y="508" class="item">  manual, gravity, pump or mains</text>
+<text x="82" y="538" class="item">– Filtration works without</text>
+<text x="82" y="560" class="item">  continuous external power</text>
+<text x="82" y="590" class="item">– Manual actuation force ≤ ≈ 50</text>
+<text x="82" y="612" class="item">  N</text>
+<text x="82" y="642" class="item">– Filter medium must not itself</text>
+<text x="82" y="664" class="item">  shed micro/nanoplastics</text>
+<text x="82" y="694" class="item">– Removal efficiency ≥ 90% (1</text>
+<text x="82" y="716" class="item">  µm–5 mm), stretch ≥ 99%</text>
+<text x="82" y="746" class="item">– Detection resolves particles</text>
+<text x="82" y="768" class="item">  to ≈ 10 µm, error ≤ 10%</text>
+<text x="82" y="798" class="item">– Turbidity of filtered water ≤</text>
+<text x="82" y="820" class="item">  1 NTU</text>
+<text x="82" y="850" class="item">– Filter element ≥ 100 L / 3</text>
+<text x="82" y="872" class="item">  months before replacement</text>
+<text x="82" y="902" class="item">– Captured particles safely</text>
+<text x="82" y="924" class="item">  contained after removal</text>
+<text x="82" y="954" class="item">– Target retail price</text>
+<text x="82" y="976" class="item">  ₹1,500–5,000</text>
+<line x1="426" y1="618" x2="458" y2="618" stroke="#9CA3AF" stroke-width="2.5" marker-end="url(#arrowhead)"/>
+<rect x="464" y="230" width="360" height="686" rx="14" fill="#FFFFFF" stroke="#F0DFA3" stroke-width="1.5"/>
+<rect x="464" y="230" width="360" height="64" rx="14" fill="#B8860B"/>
+<rect x="464" y="280" width="360" height="14" fill="#B8860B"/>
+<text x="644" y="256" text-anchor="middle" class="steplabel">Step 3</text>
+<text x="644" y="276" text-anchor="middle" class="stepsub">Transform quantitative data into</text>
+<text x="644" y="291" text-anchor="middle" class="stepsub">qualitative statements</text>
+<text x="486" y="330" class="item">– Personal, individual-scale</text>
+<text x="486" y="352" class="item">  daily water volumes</text>
+<text x="486" y="382" class="item">– Filtration and detection</text>
+<text x="486" y="404" class="item">  independent of one fixed</text>
+<text x="486" y="426" class="item">  mechanism or housing</text>
+<text x="486" y="456" class="item">– Filtration operable without</text>
+<text x="486" y="478" class="item">  continuous external power</text>
+<text x="486" y="508" class="item">– Operable by ordinary manual</text>
+<text x="486" y="530" class="item">  human force, where used</text>
+<text x="486" y="560" class="item">– Filter medium safe for</text>
+<text x="486" y="582" class="item">  drinking water, and for the</text>
+<text x="486" y="604" class="item">  water itself</text>
+<text x="486" y="634" class="item">– High, reliable microplastic</text>
+<text x="486" y="656" class="item">  removal effectiveness</text>
+<text x="486" y="686" class="item">– Accurate, trustworthy</text>
+<text x="486" y="708" class="item">  detection of microplastic</text>
+<text x="486" y="730" class="item">  presence and clarity</text>
+<text x="486" y="760" class="item">– Long-lived, easily renewable</text>
+<text x="486" y="782" class="item">  filter medium</text>
+<text x="486" y="812" class="item">– Safe containment of what is</text>
+<text x="486" y="834" class="item">  captured</text>
+<text x="486" y="864" class="item">– Affordable to an individual</text>
+<text x="486" y="886" class="item">  consumer</text>
+<line x1="830" y1="573" x2="862" y2="573" stroke="#9CA3AF" stroke-width="2.5" marker-end="url(#arrowhead)"/>
+<rect x="868" y="230" width="360" height="626" rx="14" fill="#FFFFFF" stroke="#F0C79E" stroke-width="1.5"/>
+<rect x="868" y="230" width="360" height="64" rx="14" fill="#C2660E"/>
+<rect x="868" y="280" width="360" height="14" fill="#C2660E"/>
+<text x="1048" y="256" text-anchor="middle" class="steplabel">Step 4</text>
+<text x="1048" y="276" text-anchor="middle" class="stepsub">Generalise the results, as far as</text>
+<text x="1048" y="291" text-anchor="middle" class="stepsub">purposeful</text>
+<text x="890" y="330" class="item">– Water of varying,</text>
+<text x="890" y="352" class="item">  individually-relevant volumes</text>
+<text x="890" y="382" class="item">– A process independent of any</text>
+<text x="890" y="404" class="item">  one mechanism, material or</text>
+<text x="890" y="426" class="item">  housing form</text>
+<text x="890" y="456" class="item">– Operable without continuous</text>
+<text x="890" y="478" class="item">  external power or specialised</text>
+<text x="890" y="500" class="item">  skill</text>
+<text x="890" y="530" class="item">– A filtering/sensing medium</text>
+<text x="890" y="552" class="item">  that is itself safe and</text>
+<text x="890" y="574" class="item">  doesn’t recontaminate the</text>
+<text x="890" y="596" class="item">  water</text>
+<text x="890" y="626" class="item">– Reliable separation of</text>
+<text x="890" y="648" class="item">  microplastic particles from</text>
+<text x="890" y="670" class="item">  water</text>
+<text x="890" y="700" class="item">– Trustworthy knowledge of what</text>
+<text x="890" y="722" class="item">  remains, or has been removed</text>
+<text x="890" y="752" class="item">– Safe, ongoing containment and</text>
+<text x="890" y="774" class="item">  renewal of what is captured</text>
+<text x="890" y="804" class="item">– Accessible and affordable to</text>
+<text x="890" y="826" class="item">  an ordinary individual</text>
+<rect x="1272" y="230" width="368" height="634" rx="14" fill="#E1FBF5" stroke="#B7ECE1" stroke-width="1.5"/>
+<rect x="1272" y="230" width="368" height="64" rx="14" fill="#0E9384"/>
+<rect x="1272" y="280" width="368" height="14" fill="#0E9384"/>
+<text x="1456" y="256" text-anchor="middle" class="steplabel">Step 5</text>
+<text x="1456" y="276" text-anchor="middle" class="stepsub">Formulate in solution-neutral terms</text>
+<text x="1456" y="336" text-anchor="middle" class="finaltext">Detect the presence of</text>
+<text x="1456" y="360" text-anchor="middle" class="finaltext">microplastics in</text>
+<text x="1456" y="384" text-anchor="middle" class="finaltext">personal drinking water,</text>
+<text x="1456" y="408" text-anchor="middle" class="finaltext">separate and remove them</text>
+<text x="1456" y="432" text-anchor="middle" class="finaltext">reliably using a medium</text>
+<text x="1456" y="456" text-anchor="middle" class="finaltext">that does not itself</text>
+<text x="1456" y="480" text-anchor="middle" class="finaltext">contaminate the water,</text>
+<text x="1456" y="504" text-anchor="middle" class="finaltext">and safely contain what</text>
+<text x="1456" y="528" text-anchor="middle" class="finaltext">is captured —</text>
+<text x="1456" y="552" text-anchor="middle" class="finaltext">independent of any</text>
+<text x="1456" y="576" text-anchor="middle" class="finaltext">particular mechanism,</text>
+<text x="1456" y="600" text-anchor="middle" class="finaltext">power source or housing</text>
+<text x="1456" y="624" text-anchor="middle" class="finaltext">form, and accessible to</text>
+<text x="1456" y="648" text-anchor="middle" class="finaltext">an ordinary individual</text>
+<text x="1456" y="672" text-anchor="middle" class="finaltext">user.</text>
+<line x1="1296" y1="700" x2="1616" y2="700" class="hairline"/>
+<text x="1456" y="718" text-anchor="middle" class="finalnote">This converges on the</text>
+<text x="1456" y="736" text-anchor="middle" class="finalnote">team’s own SNPS 1 — Detect</text>
+<text x="1456" y="754" text-anchor="middle" class="finalnote">&amp; Remove (Task</text>
+<text x="1456" y="772" text-anchor="middle" class="finalnote">Clarification 3),</text>
+<text x="1456" y="790" text-anchor="middle" class="finalnote">confirming it as the</text>
+<text x="1456" y="808" text-anchor="middle" class="finalnote">operative solution-neutral</text>
+<text x="1456" y="826" text-anchor="middle" class="finalnote">problem statement carried</text>
+<text x="1456" y="844" text-anchor="middle" class="finalnote">into conceptual design.</text>
+<line x1="1234" y1="543" x2="1266" y2="543" stroke="#9CA3AF" stroke-width="2.5" marker-end="url(#arrowhead)"/>
+<line x1="60" y1="1038" x2="1640" y2="1038" class="hairline"/>
+<text x="60" y="1062" class="footer">Procedure: Pahl &amp; Beitz, Engineering Design (2007), §6.2 "Abstracting to Identify the Essential Problems" — same 5 steps used for the team's own SNPS candidates in Task Clarification 3. Source data: MPx_Technical_Requirements_List.docx (24 items, 17 headings).</text>
+</svg>

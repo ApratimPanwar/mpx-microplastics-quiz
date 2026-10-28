@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1560 2398" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="mpx-detection-mechanism-map-title mpx-detection-mechanism-map-desc">
+<title id="mpx-detection-mechanism-map-title">How could you actually detect a microplastic?</title>
+<desc id="mpx-detection-mechanism-map-desc">Mind-map of ten physical, chemical, electrical and acoustic detection mechanisms grouped into four families — light and color, electricity and charge, heat and mass, mechanical and acoustic — each tagged as portable, emerging, or lab-only, with cross-links showing related mechanisms across families.</desc>
+<defs><style>
+  text { font-family: Georgia, 'Times New Roman', serif; }
+  .eyebrow { font-family: 'Courier New', Consolas, monospace; font-size: 12px; letter-spacing: 2px; fill: #b5523a; }
+  .h1 { font-family: Georgia, serif; font-size: 30px; fill: #1c1917; }
+  .dek { font-family: Helvetica, Arial, sans-serif; font-size: 14.5px; fill: #5c6675; }
+  .hub-rect { fill: #1c1917; stroke: #1c1917; }
+  .hub-title { font-family: Georgia, serif; font-size: 19px; fill: #faf7f1; }
+  .hub-sub { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #c9beac; }
+  .spine { fill: none; stroke-width: 2.5; opacity: 0.85; }
+  .twig { fill: none; stroke-width: 1.6; opacity: 0.75; }
+  .family-vert { font-family: 'Courier New', Consolas, monospace; font-size: 12px; letter-spacing: 2px; fill: #faf7f1; font-weight: 700; }
+  .family-sub { font-family: Helvetica, Arial, sans-serif; font-style: italic; font-size: 12.5px; fill: #5c6675; }
+  .leaf-rect { fill: #ffffff; stroke-width: 1.2; }
+  .leaf-title { font-family: Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 700; fill: #1c1917; }
+  .leaf-mech { font-family: Helvetica, Arial, sans-serif; font-size: 11.8px; fill: #4b4a43; }
+  .leaf-tag { font-family: 'Courier New', Consolas, monospace; font-size: 10px; letter-spacing: 1px; font-weight: 700; }
+  .leaf-note { font-family: 'Courier New', Consolas, monospace; font-size: 9.5px; fill: #99a2ae; }
+  .cross-link { fill: none; stroke: #b5523a; stroke-width: 1.4; stroke-dasharray: 2 4; opacity: 0.75; }
+  .prep-link { fill: none; stroke: #6b4c8a; stroke-width: 1.4; stroke-dasharray: 5 4; opacity: 0.6; }
+  .hairline { stroke: #e1d9cb; stroke-width: 1; }
+  .section-label { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; fill: #5c6675; }
+  .legend-text { font-family: Helvetica, Arial, sans-serif; font-size: 13px; fill: #1c1917; }
+  .note-label { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; fill: #b5523a; }
+  .rec-box { fill: #f1ded7; stroke: #e6c2b6; stroke-width: 1; }
+  .rec-text { font-family: Georgia, serif; font-style: italic; font-size: 14.5px; fill: #1c1917; }
+  .footer-text { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #99a2ae; }
+</style></defs>
+<rect x="0" y="0" width="1560" height="2398" fill="#faf7f1"/>
+<text x="60" y="44" class="eyebrow">MPX · DETECT MODULE — MECHANISM MAP</text>
+<text x="60" y="86" class="h1">How could you actually detect a microplastic?</text>
+<text x="60" y="118" class="dek">Ten distinct physical, chemical and electrical mechanisms — grouped into four families by what they actually measure,</text>
+<text x="60" y="140" class="dek">not by whether they use a camera. Colour marks the family; the small tag on each card marks whether it's</text>
+<text x="60" y="162" class="dek">field-portable today, an emerging direction worth prototyping, or lab-only.</text>
+<rect x="60" y="1130.75" width="260" height="132" rx="14" class="hub-rect"/>
+<text x="190" y="1176.75" text-anchor="middle" class="hub-title">Detecting</text>
+<text x="190" y="1202.75" text-anchor="middle" class="hub-title">a microplastic</text>
+<text x="190" y="1230.75" text-anchor="middle" class="hub-sub">4 families · 10 mechanisms</text>
+<path d="M 320,1196.75 C 370,1196.75 370,529.5 420,529.5" class="spine" style="stroke:#3B6E8F"/>
+<rect x="420" y="190" width="16" height="679" rx="8" fill="#3B6E8F"/>
+<text x="428" y="529.5" text-anchor="middle" class="family-vert" transform="rotate(-90 428 529.5)">LIGHT &amp; COLOR</text>
+<text x="450" y="180" class="family-sub">optical / photonic principles</text>
+<path d="M 436,252.5 C 598,252.5 598,252.5 760,252.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="760" y="190" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="760" y="190" width="6" height="125" rx="3" fill="#3B6E8F"/>
+<text x="784" y="212" class="leaf-title">FTIR &amp; Raman spectroscopy</text>
+<text x="784" y="230" class="leaf-mech">Light hits the particle; the pattern of absorbed or</text>
+<text x="784" y="247" class="leaf-mech">scattered wavelengths is a molecular fingerprint for the</text>
+<text x="784" y="264" class="leaf-mech">polymer.</text>
+<circle cx="788" cy="295" r="4" fill="#7A8399"/>
+<text x="798" y="299" class="leaf-tag" fill="#7A8399">LAB-ONLY</text>
+<text x="1116" y="299" text-anchor="end" class="leaf-note">≈ existing [8],[9]</text>
+<path d="M 436,391 C 598,391 598,391 760,391" class="twig" style="stroke:#3B6E8F"/>
+<rect x="760" y="337" width="372" height="108" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="760" y="337" width="6" height="108" rx="3" fill="#3B6E8F"/>
+<text x="784" y="359" class="leaf-title">Fluorescent staining (Nile Red)</text>
+<text x="784" y="377" class="leaf-mech">A lipophilic dye binds plastic surfaces and glows under</text>
+<text x="784" y="394" class="leaf-mech">UV light, making fragments visible to camera or eye.</text>
+<circle cx="788" cy="425" r="4" fill="#3C8A5B"/>
+<text x="798" y="429" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1116" y="429" text-anchor="end" class="leaf-note">= existing [1],[3]</text>
+<path d="M 436,529.5 C 598,529.5 598,529.5 760,529.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="760" y="467" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="760" y="467" width="6" height="125" rx="3" fill="#3B6E8F"/>
+<text x="784" y="489" class="leaf-title">Polarization / holographic imaging</text>
+<text x="784" y="507" class="leaf-mech">Plastics bend polarized light unevenly; the resulting</text>
+<text x="784" y="524" class="leaf-mech">interference pattern picks them out with no dye or ML</text>
+<text x="784" y="541" class="leaf-mech">step.</text>
+<circle cx="788" cy="572" r="4" fill="#B98A2E"/>
+<text x="798" y="576" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1116" y="576" text-anchor="end" class="leaf-note">NEW — Nature Sci Rep 2024</text>
+<path d="M 436,668 C 598,668 598,668 760,668" class="twig" style="stroke:#3B6E8F"/>
+<rect x="760" y="614" width="372" height="108" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="760" y="614" width="6" height="108" rx="3" fill="#3B6E8F"/>
+<text x="784" y="636" class="leaf-title">Plasmonic resonance (SPR / SERS)</text>
+<text x="784" y="654" class="leaf-mech">Plastic binding a gold-nanostructured chip shifts a</text>
+<text x="784" y="671" class="leaf-mech">resonant light signal by a precisely measurable amount.</text>
+<circle cx="788" cy="702" r="4" fill="#7A8399"/>
+<text x="798" y="706" class="leaf-tag" fill="#7A8399">LAB-ONLY</text>
+<text x="1116" y="706" text-anchor="end" class="leaf-note">NEW</text>
+<path d="M 436,806.5 C 598,806.5 598,806.5 760,806.5" class="twig" style="stroke:#3B6E8F"/>
+<rect x="760" y="744" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#3B6E8F"/>
+<rect x="760" y="744" width="6" height="125" rx="3" fill="#3B6E8F"/>
+<text x="784" y="766" class="leaf-title">Visual microscopy</text>
+<text x="784" y="784" class="leaf-mech">Filtered residue is examined and counted by eye under</text>
+<text x="784" y="801" class="leaf-mech">basic magnification — cheapest method, ancestor of all</text>
+<text x="784" y="818" class="leaf-mech">the above.</text>
+<circle cx="788" cy="849" r="4" fill="#3C8A5B"/>
+<text x="798" y="853" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1116" y="853" text-anchor="end" class="leaf-note">= existing [13], ~51% recovery</text>
+<path d="M 320,1196.75 C 370,1196.75 370,1061 420,1061" class="spine" style="stroke:#2F7D6B"/>
+<rect x="420" y="925" width="16" height="272" rx="8" fill="#2F7D6B"/>
+<text x="428" y="1061" text-anchor="middle" class="family-vert" transform="rotate(-90 428 1061)">ELECTRICITY &amp; CHARGE</text>
+<text x="450" y="915" class="family-sub">no light required</text>
+<path d="M 436,987.5 C 598,987.5 598,987.5 760,987.5" class="twig" style="stroke:#2F7D6B"/>
+<rect x="760" y="925" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#2F7D6B"/>
+<rect x="760" y="925" width="6" height="125" rx="3" fill="#2F7D6B"/>
+<text x="784" y="947" class="leaf-title">Impedance / microwave cytometry</text>
+<text x="784" y="965" class="leaf-mech">Each particle passing microelectrodes changes the local</text>
+<text x="784" y="982" class="leaf-mech">electrical field by a characteristic amount — sized and</text>
+<text x="784" y="999" class="leaf-mech">typed with no light source at all.</text>
+<circle cx="788" cy="1030" r="4" fill="#B98A2E"/>
+<text x="798" y="1034" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1116" y="1034" text-anchor="end" class="leaf-note">NEW — ACS Sensors 2024</text>
+<path d="M 436,1134.5 C 598,1134.5 598,1134.5 760,1134.5" class="twig" style="stroke:#2F7D6B"/>
+<rect x="760" y="1072" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#2F7D6B"/>
+<rect x="760" y="1072" width="6" height="125" rx="3" fill="#2F7D6B"/>
+<text x="784" y="1094" class="leaf-title">Electrochemical biosensing (aptamer strip)</text>
+<text x="784" y="1112" class="leaf-mech">A DNA aptamer or antibody on an electrode grabs plastic</text>
+<text x="784" y="1129" class="leaf-mech">selectively; binding changes current or resistance, like</text>
+<text x="784" y="1146" class="leaf-mech">a glucose test strip.</text>
+<circle cx="788" cy="1177" r="4" fill="#B98A2E"/>
+<text x="798" y="1181" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1116" y="1181" text-anchor="end" class="leaf-note">builds on existing [7]</text>
+<path d="M 320,1196.75 C 370,1196.75 370,1462.5 420,1462.5" class="spine" style="stroke:#B5523A"/>
+<rect x="420" y="1253" width="16" height="419" rx="8" fill="#B5523A"/>
+<text x="428" y="1462.5" text-anchor="middle" class="family-vert" transform="rotate(-90 428 1462.5)">HEAT &amp; MASS</text>
+<text x="450" y="1243" class="family-sub">thermal / mass-spectrometric</text>
+<path d="M 436,1315.5 C 598,1315.5 598,1315.5 760,1315.5" class="twig" style="stroke:#B5523A"/>
+<rect x="760" y="1253" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#B5523A"/>
+<rect x="760" y="1253" width="6" height="125" rx="3" fill="#B5523A"/>
+<text x="784" y="1275" class="leaf-title">Pyrolysis-GC-MS</text>
+<text x="784" y="1293" class="leaf-mech">The particle is burned under inert gas; its fragment</text>
+<text x="784" y="1310" class="leaf-mech">pattern is a chemical 'burn signature' that IDs the</text>
+<text x="784" y="1327" class="leaf-mech">polymer.</text>
+<circle cx="788" cy="1358" r="4" fill="#7A8399"/>
+<text x="798" y="1362" class="leaf-tag" fill="#7A8399">LAB-ONLY</text>
+<text x="1116" y="1362" text-anchor="end" class="leaf-note">= existing [12]</text>
+<path d="M 436,1462.5 C 598,1462.5 598,1462.5 760,1462.5" class="twig" style="stroke:#B5523A"/>
+<rect x="760" y="1400" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#B5523A"/>
+<rect x="760" y="1400" width="6" height="125" rx="3" fill="#B5523A"/>
+<text x="784" y="1422" class="leaf-title">TGA / DSC (thermal analysis)</text>
+<text x="784" y="1440" class="leaf-mech">Mass-loss or heat-flow is tracked while heating — each</text>
+<text x="784" y="1457" class="leaf-mech">polymer melts or degrades at its own characteristic</text>
+<text x="784" y="1474" class="leaf-mech">temperature.</text>
+<circle cx="788" cy="1505" r="4" fill="#7A8399"/>
+<text x="798" y="1509" class="leaf-tag" fill="#7A8399">LAB-ONLY</text>
+<text x="1116" y="1509" text-anchor="end" class="leaf-note">NEW</text>
+<path d="M 436,1609.5 C 598,1609.5 598,1609.5 760,1609.5" class="twig" style="stroke:#B5523A"/>
+<rect x="760" y="1547" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#B5523A"/>
+<rect x="760" y="1547" width="6" height="125" rx="3" fill="#B5523A"/>
+<text x="784" y="1569" class="leaf-title">ICP-MS / XRF (elemental)</text>
+<text x="784" y="1587" class="leaf-mech">Measures trace metal additives baked into the plastic —</text>
+<text x="784" y="1604" class="leaf-mech">a manufacturing 'barcode' rather than the polymer</text>
+<text x="784" y="1621" class="leaf-mech">itself.</text>
+<circle cx="788" cy="1652" r="4" fill="#7A8399"/>
+<text x="798" y="1656" class="leaf-tag" fill="#7A8399">LAB-ONLY</text>
+<text x="1116" y="1656" text-anchor="end" class="leaf-note">≈ existing [10]</text>
+<path d="M 320,1196.75 C 370,1196.75 370,1864 420,1864" class="spine" style="stroke:#6B4C8A"/>
+<rect x="420" y="1728" width="16" height="272" rx="8" fill="#6B4C8A"/>
+<text x="428" y="1864" text-anchor="middle" class="family-vert" transform="rotate(-90 428 1864)">MECHANICAL &amp; ACOUSTIC</text>
+<text x="450" y="1718" class="family-sub">physical separation, no electronics</text>
+<path d="M 436,1790.5 C 598,1790.5 598,1790.5 760,1790.5" class="twig" style="stroke:#6B4C8A"/>
+<rect x="760" y="1728" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#6B4C8A"/>
+<rect x="760" y="1728" width="6" height="125" rx="3" fill="#6B4C8A"/>
+<text x="784" y="1750" class="leaf-title">Surface Acoustic Wave (SAW)</text>
+<text x="784" y="1768" class="leaf-mech">A sound wave crossing a piezoelectric chip slows when</text>
+<text x="784" y="1785" class="leaf-mech">particles add mass to its surface — detection by weight,</text>
+<text x="784" y="1802" class="leaf-mech">not light.</text>
+<circle cx="788" cy="1833" r="4" fill="#B98A2E"/>
+<text x="798" y="1837" class="leaf-tag" fill="#B98A2E">EMERGING</text>
+<text x="1116" y="1837" text-anchor="end" class="leaf-note">NEW</text>
+<path d="M 436,1937.5 C 598,1937.5 598,1937.5 760,1937.5" class="twig" style="stroke:#6B4C8A"/>
+<rect x="760" y="1875" width="372" height="125" rx="8" class="leaf-rect" style="stroke:#6B4C8A"/>
+<rect x="760" y="1875" width="6" height="125" rx="3" fill="#6B4C8A"/>
+<text x="784" y="1897" class="leaf-title">Density separation (float / sink)</text>
+<text x="784" y="1915" class="leaf-mech">A dense salt solution makes plastics float free of sand</text>
+<text x="784" y="1932" class="leaf-mech">and sediment, isolating them before any method above is</text>
+<text x="784" y="1949" class="leaf-mech">applied.</text>
+<circle cx="788" cy="1980" r="4" fill="#3C8A5B"/>
+<text x="798" y="1984" class="leaf-tag" fill="#3C8A5B">PORTABLE</text>
+<text x="1116" y="1984" text-anchor="end" class="leaf-note">NEW — classic prep step</text>
+<path d="M 1132,391 C 1202,391 1202,1134.5 1132,1134.5" class="cross-link"/>
+<path d="M 1132,987.5 C 1202,987.5 1202,1790.5 1132,1790.5" class="cross-link"/>
+<path d="M 320,1230.75 C 540,1230.75 540,1937.5 760,1937.5" class="prep-link"/>
+<line x1="60" y1="2022" x2="1500" y2="2022" class="hairline"/>
+<text x="60" y="2042" class="section-label">HOW TO READ THIS</text>
+<circle cx="60" cy="2066" r="5" fill="#3C8A5B"/>
+<text x="76" y="2070" class="legend-text">Portable — cheap, field-ready today</text>
+<circle cx="420" cy="2066" r="5" fill="#B98A2E"/>
+<text x="436" y="2070" class="legend-text">Emerging — promising, not yet packaged</text>
+<circle cx="800" cy="2066" r="5" fill="#7A8399"/>
+<text x="816" y="2070" class="legend-text">Lab-only — bulky or expensive instrumentation</text>
+<path d="M 1160,2066 C 1190,2066 1190,2066 1220,2066" class="cross-link"/>
+<text x="1230" y="2070" class="legend-text">Related mechanism, different family</text>
+<rect x="60" y="2102" width="1440" height="181" rx="10" class="rec-box"/>
+<text x="88" y="2132" class="note-label">HOW TO PROCEED — WHAT'S ACTUALLY NEW HERE</text>
+<text x="88" y="2156" class="rec-text">Seven of these ten mechanisms are outside your existing 15-method research — the two worth a real look are electrochemical</text>
+<text x="88" y="2177" class="rec-text">biosensing (an aptamer or antibody test strip: no camera, no dye, no optics, just an electrode that changes resistance when it</text>
+<text x="88" y="2198" class="rec-text">grabs plastic — closer to a pregnancy-test strip than to a microscope) and density separation as a five-minute mechanical</text>
+<text x="88" y="2219" class="rec-text">pre-filter ahead of whichever detector you build. Both are cheap, both are genuinely untried in your own design space, and</text>
+<text x="88" y="2240" class="rec-text">neither depends on the smartphone-camera-plus-ML path every one of your current concepts shares.</text>
+<line x1="60" y1="2301" x2="1500" y2="2301" class="hairline"/>
+<text x="60" y="2317" class="footer-text">Sources: RSC Environ. Sci. Adv. 2025 (d5va00064e); MDPI Biosensors 13(4):143, 2025; Zandieh et al., Angew. Chem. Int. Ed. 2025 (plastic-binding DNA</text>
+<text x="60" y="2334" class="footer-text">aptamers); ACS Sensors 2024 (impedance/microwave cytometry); Nature Sci. Rep. 2024 (polarization holographic imaging). Method numbers [1]-[15] match</text>
+<text x="60" y="2351" class="footer-text">MPx_Detection_Methods_Comparison.docx.</text>
+</svg>

@@ -1,0 +1,394 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1240" viewBox="0 0 1600 1240" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3OWE1M2MyNy1iMGRlLTQzODItOWY2NS1iZmI3OGJlNGFiMzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOydC/6eqDrwnjQ9A8yS9NsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyZWNmNjZmNi03ZWVlLTQwZmItODQ4Yy01MGE2Mzc2NTdkOTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNogtgiABsHCwtLEc0c7NWQ2QAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggnH4QoesggEXO1FD1A5guaPd/ZlrSbFGqqZOVxQS/dwakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaP4ENefOWbDv67eFfG9NBxAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCB7yro+wGXAfGpwn4H5ZWi7wpC1YOtt+11+wMrmexDt42RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc5YTUzYzI3LWIwZGUtNDM4Mi05ZjY1LWJmYjc4YmU0YWIzMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjk3M2JlZWRiLWRhNzAtNGRjZS1hMDExLTE5NmUyYTgxMDE5MHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCcfhCh6yCARc7UUPUDmC5o939mWtJsUaqpk5XFBL93BqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg0rbVhR4rABxQ4xB0as7ZB2mlDgAFdsjikpRDIqgk2/eiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg/1ha29UKKpcErnNxkXFH9lK4/wWamp8GW0t9u0mUWSN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJzxv+m2rnfaExb8Qnuc/Etehr9n0dIpcA6Fs6wt5oJqdSTyaA+It54pT/Cs/8a0nfsonCB6E4GVuq60B0K3xc0=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="gTop" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#f9faf8"/><stop offset="1" stop-color="#e4e8e4"/>
+    </linearGradient>
+    <linearGradient id="gFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eceeea"/><stop offset="1" stop-color="#cfd5d0"/>
+    </linearGradient>
+    <linearGradient id="gSide" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c7cec9"/><stop offset="1" stop-color="#a9b1ab"/>
+    </linearGradient>
+    <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#1d2433" stop-opacity="0.28"/><stop offset="1" stop-color="#1d2433" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/>
+    </marker>
+  </defs>
+
+  <rect width="1600" height="1240" fill="#f4f3ef"/>
+
+  <!-- HEADER -->
+  <text x="30" y="52" font-size="26" font-weight="700" fill="#1d2433">MPx Detect: Stand-alone Microplastic Analyser</text>
+  <text x="30" y="78" font-size="14" fill="#5b6475">Drop in a sample → it stains, images, counts and classifies microplastics with YOLOv8 on a Raspberry Pi → shows SAFE / NOT SAFE and logs the result. No phone needed.</text>
+  <text x="1570" y="52" font-size="12" fill="#8a91a0" text-anchor="end">Concept sketch · v0.1 · based on FLOro [1]</text>
+
+  <!-- ================= PANEL A : HERO ================= -->
+  <rect x="30" y="110" width="840" height="530" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="54" y="142" font-size="15" font-weight="700" fill="#1d2433">A · The unit</text>
+
+  <rect x="54" y="160" width="232" height="30" rx="15" fill="#1d2433"/>
+  <text x="170" y="180" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">No phone · no chemicals to handle</text>
+  <text x="54" y="214" font-size="12" fill="#5b6475">≈ 16 × 12 × 8 cm · battery powered</text>
+  <text x="54" y="231" font-size="11" fill="#8a91a0" font-style="italic">(target size; FLOro was 22 × 23 × 20 cm)</text>
+
+  <!-- shadow -->
+  <ellipse cx="470" cy="566" rx="330" ry="26" fill="url(#shadow)"/>
+
+  <!-- side face -->
+  <path d="M640,408 L752,322 Q762,314 762,326 L762,448 Q762,460 752,468 L650,544 Q640,551 640,538 Z" fill="url(#gSide)"/>
+  <!-- front face -->
+  <path d="M180,410 Q180,400 192,400 L628,400 Q640,400 640,412 L640,522 Q640,548 614,548 L206,548 Q180,548 180,522 Z" fill="url(#gFront)"/>
+  <!-- top face -->
+  <path d="M196,400 L626,400 Q640,400 650,392 L750,318 Q762,310 748,310 L316,310 Q304,310 294,318 L190,394 Q184,400 196,400 Z" fill="url(#gTop)" stroke="#ffffff" stroke-width="1.5"/>
+  <!-- accent seam -->
+  <line x1="196" y1="402" x2="626" y2="402" stroke="#ff6a3d" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M642,406 L752,322" stroke="#ff6a3d" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+
+  <!-- screen bezel + screen on top face -->
+  <polygon points="366,390 634,390 714,322 446,322" fill="#0f172a"/>
+  <g transform="matrix(1 0 -0.8 0.6 453.2 326.2)">
+    <rect x="0" y="0" width="248" height="96" rx="4" fill="#0b1220"/>
+    <text x="14" y="48" font-size="34" font-weight="800" fill="#ffffff">18</text>
+    <text x="14" y="66" font-size="10" fill="#94a3b8">particles found</text>
+    <text x="14" y="82" font-size="10" fill="#94a3b8">≈ 12 per L</text>
+    <rect x="108" y="12" width="126" height="30" rx="8" fill="#16a34a"/>
+    <text x="171" y="33" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">✓ SAFE</text>
+    <rect x="108" y="54" width="70" height="6" rx="3" fill="#ff7a3d"/>
+    <rect x="108" y="66" width="44" height="6" rx="3" fill="#f59e0b"/>
+    <rect x="108" y="78" width="28" height="6" rx="3" fill="#fbbf24"/>
+  </g>
+
+  <!-- front details -->
+  <text x="600" y="452" font-size="20" font-weight="800" fill="#9aa39d" text-anchor="end" letter-spacing="2">MPx</text>
+  <rect x="226" y="460" width="170" height="12" rx="6" fill="#1f2937"/>
+  <rect x="470" y="512" width="130" height="5" rx="2.5" fill="#22c55e" filter="url(#glow)"/>
+  <!-- side details -->
+  <g stroke="#8e968f" stroke-width="2" stroke-linecap="round">
+    <line x1="668" y1="470" x2="668" y2="500"/><line x1="680" y1="461" x2="680" y2="491"/>
+    <line x1="692" y1="452" x2="692" y2="482"/><line x1="704" y1="443" x2="704" y2="473"/>
+  </g>
+  <polygon points="722,428 742,413 742,421 722,436" fill="#374151"/>
+  <ellipse cx="740" cy="372" rx="6" ry="8" fill="#e4e8e4" stroke="#8e968f"/>
+
+  <!-- cartridge half-inserted -->
+  <polygon points="232,472 390,472 390,478 232,478" fill="#b9c2cc"/>
+  <polygon points="232,466 390,466 336,506 178,506" fill="#ffffff" stroke="#9aa3ad" stroke-width="1.2"/>
+  <polygon points="178,506 336,506 336,512 178,512" fill="#cfd6dd"/>
+  <ellipse cx="280" cy="487" rx="15" ry="5.5" fill="#f4f1ea" stroke="#d9cdb8"/>
+  <circle cx="276" cy="486" r="1.6" fill="#ff6a2e"/><circle cx="285" cy="488" r="1.3" fill="#ff6a2e"/>
+  <g fill="#1d2433"><rect x="322" y="474" width="4" height="4"/><rect x="330" y="474" width="4" height="4"/><rect x="326" y="478" width="4" height="4"/><rect x="318" y="480" width="4" height="4"/><rect x="330" y="482" width="4" height="4"/></g>
+  <line x1="170" y1="540" x2="206" y2="513" stroke="#1d2433" stroke-width="1.8" marker-end="url(#arr)"/>
+
+  <!-- dropper -->
+  <g transform="translate(118 300) rotate(-12)">
+    <ellipse cx="0" cy="0" rx="12" ry="16" fill="#1d2433"/>
+    <rect x="-8" y="12" width="16" height="72" rx="4" fill="#e8f2f6" stroke="#9fb4bf"/>
+    <rect x="-7" y="44" width="14" height="38" rx="3" fill="#bfe0ec"/>
+    <path d="M-5,84 L-2,108 L2,108 L5,84 Z" fill="#e8f2f6" stroke="#9fb4bf"/>
+  </g>
+  <path d="M142 422 q-4 7 0 10 q4 -3 0 -10z" fill="#4d8ff0"/>
+  <text x="90" y="460" font-size="11" fill="#5b6475">dropper in kit</text>
+
+  <!-- callouts -->
+  <g stroke="#9aa3b3" stroke-width="1" fill="none">
+    <polyline points="610,340 700,206 712,206"/>
+    <polyline points="250,500 130,590 118,590"/>
+    <polyline points="560,516 640,590 652,590"/>
+    <polyline points="734,424 800,470 806,470"/>
+  </g>
+  <g fill="#9aa3b3"><circle cx="610" cy="340" r="3"/><circle cx="250" cy="500" r="3"/><circle cx="560" cy="516" r="3"/><circle cx="734" cy="424" r="3"/></g>
+  <g font-size="13">
+    <text x="716" y="202" font-weight="700" fill="#1d2433">3.5″ touchscreen</text>
+    <text x="716" y="219" font-size="11.5" fill="#5b6475">count, verdict, history</text>
+    <text x="54" y="586" font-weight="700" fill="#1d2433">Sample cartridge</text>
+    <text x="54" y="603" font-size="11.5" fill="#5b6475">1 drop on the membrane → push in</text>
+    <text x="54" y="619" font-size="11.5" fill="#5b6475">(pulled in by rollers, light-sealed)</text>
+    <text x="656" y="586" font-weight="700" fill="#1d2433">Status light</text>
+    <text x="656" y="603" font-size="11.5" fill="#5b6475">blue working · green safe · red not</text>
+    <text x="760" y="492" font-weight="700" fill="#1d2433">USB-C</text>
+    <text x="760" y="508" font-size="11.5" fill="#5b6475">charge + data</text>
+  </g>
+
+  <!-- ================= PANEL B : SCREENS ================= -->
+  <rect x="890" y="110" width="680" height="530" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="914" y="142" font-size="15" font-weight="700" fill="#1d2433">B · What the screen shows</text>
+
+  <!-- result screen -->
+  <rect x="914" y="160" width="400" height="270" rx="16" fill="#111827"/>
+  <rect x="924" y="170" width="380" height="250" rx="8" fill="#0b1220"/>
+  <text x="938" y="191" font-size="12" font-weight="700" fill="#ffffff">Sample #0142</text>
+  <text x="1292" y="191" font-size="10" fill="#94a3b8" text-anchor="end">23 Sep 2026 · 08:31</text>
+  <rect x="938" y="202" width="150" height="150" rx="6" fill="#0c0b0d"/>
+  <g stroke="#2a1a16" stroke-width="1" fill="none">
+    <path d="M940 240 q40 20 80 -8 t66 16"/><path d="M940 320 q40 -24 80 0 t66 -8"/><path d="M970 204 q8 60 -6 100 t12 46"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="972" cy="236" r="6" fill="#ff7a3d"/>
+    <polygon points="1030,268 1046,262 1052,276 1042,288 1028,283" fill="#ff5a2e"/>
+    <path d="M956 318 q22 -16 44 -4 q14 8 30 -2" stroke="#ffa057" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="1066" cy="226" r="4" fill="#fbbf24"/>
+    <circle cx="1012" cy="334" r="4" fill="#ff7a3d"/>
+  </g>
+  <g fill="none" stroke-width="1">
+    <rect x="962" y="226" width="20" height="20" stroke="#ff7a3d"/>
+    <rect x="1024" y="258" width="32" height="34" stroke="#f472b6"/>
+    <rect x="950" y="304" width="86" height="22" stroke="#fbbf24"/>
+    <rect x="1059" y="219" width="14" height="14" stroke="#38bdf8"/>
+  </g>
+  <g font-size="8" fill="#ffffff">
+    <text x="962" y="223">PE 0.93</text><text x="1024" y="255">PVC 0.91</text><text x="950" y="301">Nylon 0.88</text>
+  </g>
+  <text x="1104" y="246" font-size="46" font-weight="800" fill="#ffffff">18</text>
+  <text x="1164" y="232" font-size="11" fill="#94a3b8">particles</text>
+  <text x="1164" y="246" font-size="11" fill="#94a3b8">detected</text>
+  <text x="1104" y="268" font-size="11" fill="#cbd5e1">≈ 12 per litre (est.)</text>
+  <g font-size="9.5" fill="#cbd5e1">
+    <text x="1104" y="292">PE</text><rect x="1134" y="285" width="44" height="7" rx="3" fill="#ff7a3d"/><text x="1182" y="292">7</text>
+    <text x="1104" y="310">PS</text><rect x="1134" y="303" width="25" height="7" rx="3" fill="#f59e0b"/><text x="1163" y="310">4</text>
+    <text x="1104" y="328">PVC</text><rect x="1134" y="321" width="19" height="7" rx="3" fill="#f472b6"/><text x="1157" y="328">3</text>
+    <text x="1204" y="292">Nylon</text><rect x="1238" y="285" width="13" height="7" rx="3" fill="#fbbf24"/><text x="1255" y="292">2</text>
+    <text x="1204" y="310">PET</text><rect x="1238" y="303" width="7" height="7" rx="3" fill="#38bdf8"/><text x="1249" y="310">1</text>
+    <text x="1204" y="328">ABS</text><rect x="1238" y="321" width="7" height="7" rx="3" fill="#a78bfa"/><text x="1249" y="328">1</text>
+  </g>
+  <text x="1104" y="348" font-size="9" fill="#64748b">YOLOv8 · 19 s · 6 polymer classes</text>
+  <rect x="938" y="364" width="352" height="44" rx="10" fill="#16a34a"/>
+  <text x="956" y="392" font-size="17" font-weight="800" fill="#ffffff">✓ SAFE TO DRINK</text>
+  <text x="1276" y="385" font-size="10" fill="#dcfce7" text-anchor="end">below your limit</text>
+  <text x="1276" y="399" font-size="10" fill="#dcfce7" text-anchor="end">of 50 per L</text>
+
+  <!-- analysing screen -->
+  <rect x="1330" y="160" width="226" height="150" rx="12" fill="#111827"/>
+  <rect x="1338" y="168" width="210" height="134" rx="6" fill="#0b1220"/>
+  <text x="1350" y="189" font-size="12" font-weight="700" fill="#ffffff">Analysing…</text>
+  <g font-size="10">
+    <text x="1350" y="210" fill="#4ade80">✓  Cartridge loaded</text>
+    <text x="1350" y="227" fill="#4ade80">✓  Nile Red dispensed</text>
+    <text x="1350" y="244" fill="#fbbf24">◔  Dark incubation  11:42</text>
+    <text x="1350" y="261" fill="#64748b">○  UV imaging + YOLOv8</text>
+  </g>
+  <rect x="1350" y="278" width="186" height="6" rx="3" fill="#1e293b"/>
+  <rect x="1350" y="278" width="112" height="6" rx="3" fill="#ff7a3d"/>
+
+  <!-- log screen -->
+  <rect x="1330" y="322" width="226" height="150" rx="12" fill="#111827"/>
+  <rect x="1338" y="330" width="210" height="134" rx="6" fill="#0b1220"/>
+  <text x="1350" y="351" font-size="12" font-weight="700" fill="#ffffff">History</text>
+  <text x="1536" y="351" font-size="9" fill="#4ade80" text-anchor="end">synced ✓</text>
+  <g font-size="10" fill="#cbd5e1">
+    <text x="1350" y="375">23 Sep · 12 / L</text><rect x="1480" y="365" width="56" height="15" rx="7.5" fill="#16a34a"/><text x="1508" y="376" font-size="8.5" font-weight="700" fill="#fff" text-anchor="middle">SAFE</text>
+    <text x="1350" y="398">22 Sep · 74 / L</text><rect x="1480" y="388" width="56" height="15" rx="7.5" fill="#dc2626"/><text x="1508" y="399" font-size="8.5" font-weight="700" fill="#fff" text-anchor="middle">NOT SAFE</text>
+    <text x="1350" y="421">21 Sep · 44 / L</text><rect x="1480" y="411" width="56" height="15" rx="7.5" fill="#d97706"/><text x="1508" y="422" font-size="8.5" font-weight="700" fill="#fff" text-anchor="middle">RE-TEST</text>
+    <text x="1350" y="444">20 Sep · 9 / L</text><rect x="1480" y="434" width="56" height="15" rx="7.5" fill="#16a34a"/><text x="1508" y="445" font-size="8.5" font-weight="700" fill="#fff" text-anchor="middle">SAFE</text>
+  </g>
+
+  <!-- verdict + log explanation -->
+  <text x="914" y="462" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">HOW IT DECIDES</text>
+  <g font-size="11.5" font-weight="700" text-anchor="middle">
+    <rect x="914" y="474" width="124" height="28" rx="14" fill="#dcfce7" stroke="#16a34a"/><text x="976" y="492" fill="#166534">SAFE  ≤ limit</text>
+    <rect x="1048" y="474" width="124" height="28" rx="14" fill="#fef3c7" stroke="#d97706"/><text x="1110" y="492" fill="#92400e">RE-TEST  near limit</text>
+    <rect x="1182" y="474" width="124" height="28" rx="14" fill="#fee2e2" stroke="#dc2626"/><text x="1244" y="492" fill="#991b1b">NOT SAFE  &gt; limit</text>
+  </g>
+  <g font-size="11.5" fill="#5b6475">
+    <text x="914" y="524">The limit (particles per litre) is a setting. WHO (2019) found no health-based</text>
+    <text x="914" y="541">guideline value for microplastics in drinking water [4], so none is hard-coded.</text>
+  </g>
+  <text x="914" y="572" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">WHAT IT LOGS</text>
+  <g font-size="11.5" fill="#5b6475">
+    <text x="914" y="592">Cartridge QR ID · time · location · count · polymer mix · raw image</text>
+    <text x="914" y="609">→ saved on microSD (CSV + images), synced over Wi-Fi when in range</text>
+  </g>
+  <g font-size="11.5" fill="#5b6475">
+    <text x="1330" y="496">Works offline in the field;</text>
+    <text x="1330" y="513">results upload later to a</text>
+    <text x="1330" y="530">web dashboard or export</text>
+    <text x="1330" y="547">as CSV.</text>
+  </g>
+
+  <!-- ================= PANEL C : SECTION ================= -->
+  <rect x="30" y="660" width="840" height="490" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="54" y="692" font-size="15" font-weight="700" fill="#1d2433">C · Inside the unit (section)</text>
+
+  <!-- body -->
+  <rect x="70" y="720" width="480" height="330" rx="40" fill="#e3e7e3" stroke="#b8bfbb" stroke-width="2"/>
+  <rect x="84" y="740" width="452" height="296" rx="28" fill="#f7f8f7"/>
+  <!-- touchscreen -->
+  <rect x="140" y="716" width="360" height="14" rx="4" fill="#111827"/>
+  <line x1="148" y1="719" x2="492" y2="719" stroke="#475569" stroke-width="1"/>
+
+  <!-- dark imaging chamber -->
+  <rect x="210" y="758" width="150" height="206" rx="10" fill="#1b1f27"/>
+  <!-- camera -->
+  <rect x="240" y="768" width="90" height="10" rx="2" fill="#146c43"/>
+  <rect x="275" y="778" width="20" height="6" fill="#0b0d12"/>
+  <rect x="268" y="786" width="34" height="66" rx="4" fill="#4b5563"/>
+  <ellipse cx="285" cy="852" rx="15" ry="3" fill="#7fb3cc"/>
+  <!-- yellow filter -->
+  <rect x="262" y="858" width="46" height="6" fill="#f5c518"/>
+  <!-- UV LEDs -->
+  <path d="M218,902 a8,8 0 0 1 16,0 z" fill="#8b5cf6"/><rect x="216" y="902" width="20" height="4" fill="#6b7280"/>
+  <path d="M336,902 a8,8 0 0 1 16,0 z" fill="#8b5cf6"/><rect x="334" y="902" width="20" height="4" fill="#6b7280"/>
+  <g stroke="#a78bfa" stroke-width="1.6" stroke-dasharray="4 3">
+    <line x1="232" y1="906" x2="270" y2="924"/><line x1="338" y1="906" x2="300" y2="924"/>
+  </g>
+  <!-- stain line -->
+  <path d="M160 812 L200 812 L240 812 L262 918" stroke="#e8503a" stroke-width="3" fill="none" stroke-linejoin="round"/>
+  <!-- emission -->
+  <g stroke="#ff7a3d" stroke-width="1.5">
+    <line x1="278" y1="924" x2="280" y2="866"/><line x1="292" y1="924" x2="290" y2="866"/>
+  </g>
+  <!-- cartridge -->
+  <rect x="36" y="928" width="300" height="12" rx="3" fill="#ffffff" stroke="#9aa3ad"/>
+  <rect x="36" y="926" width="22" height="16" rx="4" fill="#cfd6dd" stroke="#9aa3ad"/>
+  <rect x="262" y="924" width="46" height="4" fill="#f4f1ea" stroke="#d9cdb8" stroke-width="0.6"/>
+  <g filter="url(#glow)" fill="#ff6a2e"><circle cx="272" cy="925" r="1.8"/><circle cx="285" cy="925" r="1.4"/><circle cx="298" cy="925" r="2"/></g>
+  <!-- rollers -->
+  <circle cx="120" cy="921" r="6" fill="#6b7280"/><circle cx="120" cy="947" r="6" fill="#6b7280"/>
+  <!-- NR capsule + pump -->
+  <rect x="110" y="780" width="64" height="30" rx="14" fill="#fde2dc" stroke="#e8503a"/>
+  <text x="142" y="799" font-size="10" font-weight="700" fill="#b4331f" text-anchor="middle">Nile Red</text>
+  <rect x="120" y="826" width="40" height="22" rx="4" fill="#9aa3ad"/>
+  <line x1="142" y1="810" x2="142" y2="826" stroke="#e8503a" stroke-width="3"/>
+  <path d="M160 837 L184 837 L184 812" stroke="#e8503a" stroke-width="3" fill="none"/>
+  <!-- fan -->
+  <circle cx="180" cy="996" r="18" fill="#e5e7eb" stroke="#6b7280"/>
+  <g fill="#6b7280"><path d="M180 996 q-4 -14 6 -14 q2 8 -6 14z"/><path d="M180 996 q14 -4 14 6 q-8 2 -14 -6z"/><path d="M180 996 q4 14 -6 14 q-2 -8 6 -14z"/><path d="M180 996 q-14 4 -14 -6 q8 -2 14 6z"/></g>
+  <!-- Pi 4 -->
+  <rect x="390" y="790" width="130" height="80" rx="6" fill="#0f7a3d"/>
+  <rect x="428" y="806" width="28" height="28" rx="2" fill="#9ca3af"/>
+  <g fill="#c0c7d0"><rect x="508" y="798" width="12" height="14"/><rect x="508" y="818" width="12" height="14"/><rect x="508" y="838" width="12" height="14"/></g>
+  <text x="455" y="860" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">Raspberry Pi 4</text>
+  <path d="M330 773 C360 773 360 800 390 800" stroke="#9aa3ad" stroke-width="2" fill="none"/>
+  <path d="M470 790 L470 730" stroke="#9aa3ad" stroke-width="2" fill="none"/>
+  <!-- power -->
+  <rect x="390" y="900" width="80" height="36" rx="4" fill="#6b7280"/>
+  <text x="430" y="922" font-size="9" fill="#ffffff" text-anchor="middle">BMS + charger</text>
+  <rect x="390" y="962" width="130" height="50" rx="10" fill="#374151"/>
+  <circle cx="420" cy="987" r="15" fill="#4b5563" stroke="#6b7280"/><circle cx="458" cy="987" r="15" fill="#4b5563" stroke="#6b7280"/>
+  <text x="496" y="991" font-size="9" fill="#e5e7eb" text-anchor="middle">Li-ion</text>
+  <rect x="544" y="912" width="10" height="16" rx="2" fill="#374151"/>
+  <!-- status light -->
+  <rect x="70" y="990" width="6" height="30" rx="3" fill="#22c55e" filter="url(#glow)"/>
+
+  <!-- badges -->
+  <g stroke="#9aa3b3" stroke-width="1">
+    <line x1="98" y1="770" x2="112" y2="786"/><line x1="98" y1="848" x2="120" y2="840"/>
+    <line x1="120" y1="966" x2="120" y2="953"/><line x1="60" y1="958" x2="60" y2="941"/>
+    <line x1="372" y1="884" x2="350" y2="900"/><line x1="330" y1="866" x2="308" y2="862"/>
+    <line x1="330" y1="818" x2="302" y2="818"/><line x1="152" y1="996" x2="162" y2="996"/>
+    <line x1="508" y1="1024" x2="500" y2="1012"/>
+  </g>
+  <g font-size="10.5" font-weight="700" text-anchor="middle" fill="#1d2433">
+    <g fill="#ffffff" stroke="#1d2433" stroke-width="1.3">
+      <circle cx="520" cy="708" r="10"/><circle cx="98" cy="762" r="10"/><circle cx="98" cy="856" r="10"/>
+      <circle cx="120" cy="976" r="10"/><circle cx="60" cy="968" r="10"/><circle cx="376" cy="878" r="10"/>
+      <circle cx="340" cy="866" r="10"/><circle cx="340" cy="818" r="10"/><circle cx="376" cy="768" r="10"/>
+      <circle cx="142" cy="996" r="10"/><circle cx="455" cy="778" r="10"/><circle cx="515" cy="1030" r="10"/>
+    </g>
+    <text x="520" y="712">1</text><text x="98" y="766">2</text><text x="98" y="860">3</text>
+    <text x="120" y="980">4</text><text x="60" y="972">5</text><text x="376" y="882">6</text>
+    <text x="340" y="870">7</text><text x="340" y="822">8</text><text x="376" y="772">9</text>
+    <text x="142" y="1000">10</text><text x="455" y="782">11</text><text x="515" y="1034">12</text>
+  </g>
+
+  <!-- legend -->
+  <g font-size="12" fill="#1d2433">
+    <text x="590" y="722" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">PARTS</text>
+    <g font-weight="700" fill="#5b6475">
+      <text x="590" y="746">1</text><text x="590" y="773">2</text><text x="590" y="800">3</text><text x="590" y="827">4</text>
+      <text x="590" y="854">5</text><text x="590" y="881">6</text><text x="590" y="908">7</text><text x="590" y="935">8</text>
+      <text x="590" y="962">9</text><text x="590" y="989">10</text><text x="590" y="1016">11</text><text x="590" y="1043">12</text>
+    </g>
+    <text x="612" y="746">3.5″ touchscreen (UI + results)</text>
+    <text x="612" y="773">Sealed Nile Red capsule</text>
+    <text x="612" y="800">Micro-pump → stain nozzle</text>
+    <text x="612" y="827">Auto-load rollers at the slot</text>
+    <text x="612" y="854">Cartridge + filter membrane</text>
+    <text x="612" y="881">395 nm UV LEDs (excitation)</text>
+    <text x="612" y="908">Yellow long-pass filter, &gt;550 nm</text>
+    <text x="612" y="935">Macro lens + Pi camera</text>
+    <text x="612" y="962">Light-tight imaging chamber</text>
+    <text x="612" y="989">Fan: dries acetone, cools Pi</text>
+    <text x="612" y="1016">Raspberry Pi 4: runs YOLOv8</text>
+    <text x="612" y="1043">Li-ion pack + USB-C charging</text>
+  </g>
+  <g font-size="11.5" fill="#5b6475">
+    <text x="54" y="1082">Staining and imaging happen in one sealed chamber: the unit pulls the cartridge in, dispenses Nile Red,</text>
+    <text x="54" y="1099">dries it with the fan and waits in the dark, then images under 395 nm UV through the yellow filter.</text>
+    <text x="54" y="1116">The Pi runs YOLOv8 on the image and shows the result. The user never touches the dye or a microscope.</text>
+  </g>
+  <text x="54" y="1138" font-size="10.5" fill="#8a91a0" font-style="italic">Schematic, not to scale.</text>
+
+  <!-- ================= PANEL D : PIPELINE + SOURCES ================= -->
+  <rect x="890" y="660" width="680" height="490" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="914" y="692" font-size="15" font-weight="700" fill="#1d2433">D · Automatic pipeline</text>
+
+  <line x1="950" y1="742" x2="1530" y2="742" stroke="#e2ddd2" stroke-width="3"/>
+  <!-- step icons -->
+  <g>
+    <circle cx="950" cy="742" r="28" fill="#eef6fb" stroke="#4d8ff0" stroke-width="2"/>
+    <path d="M950 726 q-12 16 0 24 q12 -8 0 -24z" fill="#4d8ff0"/>
+    <circle cx="1095" cy="742" r="28" fill="#fdf0ec" stroke="#e8503a" stroke-width="2"/>
+    <rect x="1081" y="733" width="28" height="18" rx="9" fill="#fde2dc" stroke="#e8503a"/>
+    <circle cx="1240" cy="742" r="28" fill="#f3efff" stroke="#8b5cf6" stroke-width="2"/>
+    <circle cx="1240" cy="742" r="6" fill="#8b5cf6"/>
+    <g stroke="#8b5cf6" stroke-width="2" stroke-linecap="round"><line x1="1240" y1="726" x2="1240" y2="731"/><line x1="1240" y1="753" x2="1240" y2="758"/><line x1="1224" y1="742" x2="1229" y2="742"/><line x1="1251" y1="742" x2="1256" y2="742"/><line x1="1229" y1="731" x2="1232" y2="734"/><line x1="1248" y1="750" x2="1251" y2="753"/><line x1="1251" y1="731" x2="1248" y2="734"/><line x1="1229" y1="753" x2="1232" y2="750"/></g>
+    <circle cx="1385" cy="742" r="28" fill="#fff4ec" stroke="#ff7a3d" stroke-width="2"/>
+    <rect x="1371" y="730" width="14" height="14" fill="none" stroke="#ff7a3d" stroke-width="2"/>
+    <rect x="1387" y="741" width="11" height="11" fill="none" stroke="#ff7a3d" stroke-width="2"/>
+    <circle cx="1530" cy="742" r="28" fill="#ecfdf3" stroke="#16a34a" stroke-width="2"/>
+    <path d="M1518 742 l8 8 l14 -16" stroke="#16a34a" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="middle">
+    <text x="950" y="792">1 · Add 1 drop</text><text x="1095" y="792">2 · Auto-stain</text><text x="1240" y="792">3 · UV imaging</text>
+    <text x="1385" y="792">4 · YOLOv8 on Pi</text><text x="1522" y="792">5 · Verdict + log</text>
+  </g>
+  <g font-size="10.5" fill="#5b6475" text-anchor="middle">
+    <text x="950" y="810">concentrated sample</text><text x="950" y="824">onto the cartridge</text>
+    <text x="1095" y="810">Nile Red dispensed,</text><text x="1095" y="824">15 min in the dark</text>
+    <text x="1240" y="810">395 nm LEDs +</text><text x="1240" y="824">yellow LP filter</text>
+    <text x="1385" y="810">count + polymer type</text><text x="1385" y="824">≈ 19 s per image</text>
+    <text x="1522" y="810">safe / not safe,</text><text x="1522" y="824">saved and synced</text>
+  </g>
+
+  <!-- table -->
+  <text x="914" y="862" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">FROM THE PAPERS → THIS UNIT</text>
+  <rect x="914" y="872" width="640" height="24" rx="6" fill="#1d2433"/>
+  <g font-size="11" font-weight="700" fill="#ffffff">
+    <text x="924" y="888">Parameter</text><text x="1060" y="888">In the source paper</text><text x="1330" y="888">MPx Detect</text>
+  </g>
+  <g fill="#f6f4ef">
+    <rect x="914" y="896" width="640" height="22"/><rect x="914" y="940" width="640" height="22"/>
+    <rect x="914" y="984" width="640" height="22"/><rect x="914" y="1028" width="640" height="22"/>
+  </g>
+  <g font-size="11" fill="#1d2433">
+    <text x="924" y="911" font-weight="600">Excitation</text><text x="1060" y="911">395 nm UV torch [1]</text><text x="1330" y="911">395 nm UV LED pair, built in</text>
+    <text x="924" y="933" font-weight="600">Emission filter</text><text x="1060" y="933">Yellow long-pass, blocks &lt;550 nm [1]</text><text x="1330" y="933">Same, fixed over the lens</text>
+    <text x="924" y="955" font-weight="600">Staining</text><text x="1060" y="955">NR in acetone, 15 min dark, by hand [1]</text><text x="1330" y="955">Sealed capsule, auto-dispensed</text>
+    <text x="924" y="977" font-weight="600">Detection</text><text x="1060" y="977">YOLOv8, 6 polymers, mAP@50 94.8 % [1]</text><text x="1330" y="977">YOLOv8, retrained on MPx images</text>
+    <text x="924" y="999" font-weight="600">Compute + UI</text><text x="1060" y="999">Raspberry Pi 4 + 3.5″ TFT [1]</text><text x="1330" y="999">Same, on battery</text>
+    <text x="924" y="1021" font-weight="600">Speed</text><text x="1060" y="1021">≈ 19 s processing [1]</text><text x="1330" y="1021">≈ 19 s after the 15 min stain</text>
+    <text x="924" y="1043" font-weight="600">Smallest particle</text><text x="1060" y="1043">&gt;100 µm [1]; 10 µm with better optics [2]</text><text x="1330" y="1043">Target ≤ 20 µm (macro lens)</text>
+    <text x="924" y="1065" font-weight="600">Cost</text><text x="1060" y="1065">$139 hardware, $0.10 per test [1]</text><text x="1330" y="1065">Unit + low-cost cartridges</text>
+  </g>
+  <line x1="914" y1="1072" x2="1554" y2="1072" stroke="#e2ddd2"/>
+  <g font-size="10.5" fill="#8a91a0" font-style="italic">
+    <text x="914" y="1094">Phone-based YOLO detection reached 98 % accuracy with a $10 lens [3], which supports a low-cost camera path.</text>
+    <text x="914" y="1110">Nile Red limits: organic matter can also stain (false positives), and black/rubber particles can be missed [1][2].</text>
+    <text x="914" y="1126">MPx values in the right column are design targets, not measured results.</text>
+  </g>
+
+  <!-- SOURCES -->
+  <text x="30" y="1176" font-size="11" font-weight="700" fill="#5b6475">Sources</text>
+  <g font-size="10.5" fill="#5b6475">
+    <text x="90" y="1176">[1] Rermborirak et al. (2025). Low-cost portable microplastic detection system integrating Nile Red fluorescence staining with YOLOv8-based deep learning (FLOro). J. Hazard. Mater. Adv. 19, 100787.</text>
+    <text x="90" y="1193">[2] Leonard et al. (2022). Smartphone-enabled rapid quantification of microplastics. J. Hazard. Mater. Lett. 3, 100052.</text>
+    <text x="90" y="1210">[3] Arju et al. (2025). Deep-learning enabled rapid and low-cost detection of microplastics in consumer products. RSC Adv. 15, 10473.</text>
+    <text x="90" y="1227">[4] World Health Organization (2019). Microplastics in drinking-water. ISBN 978-92-4-151619-8.</text>
+  </g>
+</svg>

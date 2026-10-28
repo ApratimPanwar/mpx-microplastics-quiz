@@ -1,0 +1,525 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="1172" viewBox="0 0 1680 1172" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphNTU5NjM0OS02OWQ2LTQ0MzgtYTZkOS05ZjcyODFmNGQ5YmEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJDoesRT4deIqybjVX7ZUU0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiOWMxNzJlZC0yMTU4LTRiNzAtOTRkYy1hYzAxYTJkOGUxYzNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoAKyu7aYDhUDG9UwepWkg7wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggd+pQTqq0XlviNRglPiWH/ma9DahxImSQBUyf+ENMZqakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIrtKg8aaTSDZLDFdHQxwzwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAaWPUEgAOTUkDRgYwDyptX4x6WT7L8e1GIGItXRIWPBWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmE1NTk2MzQ5LTY5ZDYtNDQzOC1hNmQ5LTlmNzI4MWY0ZDliYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjBjMmFjNTczLTE1ZTUtNDJiYS1iMGQ1LTgwODg4ZDJiZjczOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB36lBOqrReW+I1GCU+JYf+Zr0NqHEiZJAFTJ/4Q0xmpqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg6NuIImJ0d6AvxG748sdu2IUMoOWRUar0p6cBVdNJB+KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggkT21x9YZo0PBlVyoRtW9aOB5uC18AeCogxr9NzXCg110Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPxchzIXk1vf8Whq58EqAocCkWn46onSvuW20EMvLW2C8ajdCrOlQCjBss9LmOdEezLq46u0OicJDhVTqoM6KHQ=</c2pa:manifest></metadata><rect width="1680" height="1172" fill="#f4f3ef"/><text x="30" y="54" font-size="32" fill="#1d2433" font-weight="800">MPx Concept Evaluation · Pahl &amp; Beitz checklist</text>
+<text x="30" y="86" font-size="17" fill="#5b6475">Weights from our technical-requirement ranks (1 = most important → 10 points, 10 = least → 1 point). Scores 0–4 (VDI 2225).</text>
+<rect x="357" y="112" width="210" height="28" rx="7" fill="#2563eb"/>
+<text x="462.0" y="131" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">DETECTION</text>
+<rect x="571" y="112" width="852" height="28" rx="7" fill="#0f766e"/>
+<text x="997.0" y="131" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">FILTRATION</text>
+<rect x="1427" y="112" width="210" height="28" rx="7" fill="#7c3aed"/>
+<text x="1532.0" y="131" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">DEGRADATION</text>
+<rect x="357" y="146" width="103" height="66" rx="7" fill="#fff7ed" stroke="#e2ddd2"/>
+<text x="408.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C05</text>
+<text x="408.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Phone</text>
+<text x="408.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">clip-on</text>
+<rect x="464" y="146" width="103" height="66" rx="7" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="515.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C06</text>
+<text x="515.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Stand-alone</text>
+<text x="515.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">analyser</text>
+<rect x="571" y="146" width="103" height="66" rx="7" fill="#fff7ed" stroke="#e2ddd2"/>
+<text x="622.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C04</text>
+<text x="622.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Motor</text>
+<text x="622.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">centrifuge*</text>
+<rect x="678" y="146" width="103" height="66" rx="7" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="729.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C10</text>
+<text x="729.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Ferrofluid</text>
+<text x="729.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">ball</text>
+<rect x="785" y="146" width="103" height="66" rx="7" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="836.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C09</text>
+<text x="836.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Hand-crank</text>
+<text x="836.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">centrifuge</text>
+<rect x="892" y="146" width="103" height="66" rx="7" fill="#fff7ed" stroke="#e2ddd2"/>
+<text x="943.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C07</text>
+<text x="943.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Squeeze</text>
+<text x="943.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">bottle</text>
+<rect x="999" y="146" width="103" height="66" rx="7" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="1050.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C01</text>
+<text x="1050.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Turbidity</text>
+<text x="1050.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">pre-screen</text>
+<rect x="1106" y="146" width="103" height="66" rx="7" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="1157.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C08</text>
+<text x="1157.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Ferrofluid</text>
+<text x="1157.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">container</text>
+<rect x="1213" y="146" width="103" height="66" rx="7" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="1264.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C02</text>
+<text x="1264.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Acoustic</text>
+<text x="1264.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">separation</text>
+<rect x="1320" y="146" width="103" height="66" rx="7" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="1371.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">C03</text>
+<text x="1371.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Microbubble</text>
+<text x="1371.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">+ oil</text>
+<rect x="1427" y="146" width="103" height="66" rx="7" fill="#fff7ed" stroke="#e2ddd2"/>
+<text x="1478.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">D1</text>
+<text x="1478.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Solar UV</text>
+<text x="1478.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">cooker</text>
+<rect x="1534" y="146" width="103" height="66" rx="7" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="1585.5" y="169" font-size="18" fill="#1d2433" font-weight="800" text-anchor="middle">D2</text>
+<text x="1585.5" y="188" font-size="13" fill="#4a5263" font-weight="700" text-anchor="middle">Pyrolysis</text>
+<text x="1585.5" y="204" font-size="13" fill="#4a5263" text-anchor="middle">capsule</text>
+<text x="40" y="186" font-size="17" fill="#1d2433" font-weight="700">Checklist heading</text>
+<text x="343" y="186" font-size="15" fill="#8a91a0" font-weight="700" text-anchor="end">weight</text>
+<rect x="30" y="218" width="325" height="42" fill="#fbfaf7"/>
+<text x="40" y="238" font-size="16" fill="#1d2433" font-weight="600">Function</text>
+<text x="40" y="254" font-size="12.5" fill="#8a91a0">1.1, 1.2, 2.1, 4.1</text>
+<text x="343" y="245" font-size="17" fill="#b4331f" font-weight="700" text-anchor="end">19.6%</text>
+<rect x="358" y="221" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="408.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="465" y="221" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="515.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="572" y="221" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="622.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="679" y="221" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="729.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="786" y="221" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="836.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="893" y="221" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="943.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1000" y="221" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1050.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1107" y="221" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="221" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1264.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1321" y="221" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1371.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1428" y="221" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="221" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1585.5" y="246" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<text x="40" y="280" font-size="16" fill="#1d2433" font-weight="600">Working principles</text>
+<text x="40" y="296" font-size="12.5" fill="#8a91a0">6.1, 6.2, 6.3, 6.4</text>
+<text x="343" y="287" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">7.0%</text>
+<rect x="358" y="263" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="408.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="465" y="263" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="515.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="572" y="263" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="622.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="679" y="263" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="729.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="786" y="263" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="836.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="893" y="263" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="943.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1000" y="263" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1050.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1107" y="263" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1157.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1214" y="263" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1264.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1321" y="263" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1371.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1428" y="263" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1478.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1535" y="263" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1585.5" y="288" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="30" y="302" width="325" height="42" fill="#fbfaf7"/>
+<text x="40" y="322" font-size="16" fill="#1d2433" font-weight="600">Embodiment</text>
+<text x="40" y="338" font-size="12.5" fill="#8a91a0">3.3</text>
+<text x="343" y="329" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">2.8%</text>
+<rect x="358" y="305" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="408.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="465" y="305" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="515.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="572" y="305" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="622.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="679" y="305" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="729.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="786" y="305" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="836.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="893" y="305" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="943.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="1000" y="305" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1050.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1107" y="305" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="305" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="1264.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="1321" y="305" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1371.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1428" y="305" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="305" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1585.5" y="330" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<text x="40" y="364" font-size="16" fill="#1d2433" font-weight="600">Safety</text>
+<text x="40" y="380" font-size="12.5" fill="#8a91a0">3.1, 3.2, 3.4</text>
+<text x="343" y="371" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">4.9%</text>
+<rect x="358" y="347" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="408.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="465" y="347" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="515.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="572" y="347" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="622.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="679" y="347" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="729.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="786" y="347" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="836.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="893" y="347" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="943.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1000" y="347" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1050.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1107" y="347" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="347" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1264.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1321" y="347" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1371.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1428" y="347" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="347" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="1585.5" y="372" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="30" y="386" width="325" height="42" fill="#fbfaf7"/>
+<text x="40" y="406" font-size="16" fill="#1d2433" font-weight="600">Ergonomics</text>
+<text x="40" y="422" font-size="12.5" fill="#8a91a0">5.1, 5.3, 8.1</text>
+<text x="343" y="413" font-size="17" fill="#b4331f" font-weight="700" text-anchor="end">19.6%</text>
+<rect x="358" y="389" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="408.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="465" y="389" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="515.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="572" y="389" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="622.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="679" y="389" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="729.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="786" y="389" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="836.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="893" y="389" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="943.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1000" y="389" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1050.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1107" y="389" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1157.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1214" y="389" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1264.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1321" y="389" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1371.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1428" y="389" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="389" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1585.5" y="414" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<text x="40" y="448" font-size="16" fill="#1d2433" font-weight="600">Production</text>
+<text x="40" y="464" font-size="12.5" fill="#8a91a0">no requirement</text>
+<text x="343" y="455" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">0.7%</text>
+<rect x="358" y="431" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="408.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="465" y="431" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="515.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="572" y="431" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="622.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="679" y="431" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="729.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="786" y="431" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="836.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="893" y="431" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="943.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1000" y="431" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1050.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1107" y="431" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="431" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="1264.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="1321" y="431" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1371.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1428" y="431" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="431" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1585.5" y="456" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="30" y="470" width="325" height="42" fill="#fbfaf7"/>
+<text x="40" y="490" font-size="16" fill="#1d2433" font-weight="600">Quality control</text>
+<text x="40" y="506" font-size="12.5" fill="#8a91a0">no requirement</text>
+<text x="343" y="497" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">0.7%</text>
+<rect x="358" y="473" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="408.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="465" y="473" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="515.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="572" y="473" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="622.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="679" y="473" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="729.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="786" y="473" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="836.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="893" y="473" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="943.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1000" y="473" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1050.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1107" y="473" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="473" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="1264.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="1321" y="473" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1371.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1428" y="473" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1478.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1535" y="473" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="1585.5" y="498" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<text x="40" y="532" font-size="16" fill="#1d2433" font-weight="600">Assembly</text>
+<text x="40" y="548" font-size="12.5" fill="#8a91a0">no requirement</text>
+<text x="343" y="539" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">0.7%</text>
+<rect x="358" y="515" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="408.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="465" y="515" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="515.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="572" y="515" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="622.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="679" y="515" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="729.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="786" y="515" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="836.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="893" y="515" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="943.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="1000" y="515" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1050.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1107" y="515" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="515" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1264.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1321" y="515" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1371.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1428" y="515" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="515" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1585.5" y="540" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="30" y="554" width="325" height="42" fill="#fbfaf7"/>
+<text x="40" y="574" font-size="16" fill="#1d2433" font-weight="600">Transport</text>
+<text x="40" y="590" font-size="12.5" fill="#8a91a0">3.5</text>
+<text x="343" y="581" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">6.3%</text>
+<rect x="358" y="557" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="408.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="465" y="557" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="515.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="572" y="557" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="622.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="679" y="557" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="729.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="786" y="557" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="836.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="893" y="557" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="943.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="1000" y="557" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1050.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1107" y="557" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="557" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1264.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1321" y="557" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1371.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1428" y="557" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="557" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1585.5" y="582" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<text x="40" y="616" font-size="16" fill="#1d2433" font-weight="600">Operation</text>
+<text x="40" y="632" font-size="12.5" fill="#8a91a0">8.2</text>
+<text x="343" y="623" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">2.8%</text>
+<rect x="358" y="599" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="408.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="465" y="599" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="515.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="572" y="599" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="622.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="679" y="599" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="729.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="786" y="599" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="836.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="893" y="599" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="943.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="1000" y="599" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1050.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1107" y="599" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1157.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1214" y="599" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1264.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1321" y="599" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1371.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1428" y="599" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1478.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1535" y="599" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1585.5" y="624" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="30" y="638" width="325" height="42" fill="#fbfaf7"/>
+<text x="40" y="658" font-size="16" fill="#1d2433" font-weight="600">Maintenance</text>
+<text x="40" y="674" font-size="12.5" fill="#8a91a0">4.2, 5.2, 7.1, 9.1</text>
+<text x="343" y="665" font-size="17" fill="#b4331f" font-weight="700" text-anchor="end">23.1%</text>
+<rect x="358" y="641" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="408.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="465" y="641" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="515.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="572" y="641" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="622.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="679" y="641" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="729.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="786" y="641" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="836.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="893" y="641" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="943.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1000" y="641" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1050.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1107" y="641" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="641" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="1264.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="1321" y="641" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="1371.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="1428" y="641" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="641" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1585.5" y="666" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<text x="40" y="700" font-size="16" fill="#1d2433" font-weight="600">Recycling</text>
+<text x="40" y="716" font-size="12.5" fill="#8a91a0">10.1, 10.2</text>
+<text x="343" y="707" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">6.3%</text>
+<rect x="358" y="683" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="408.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="465" y="683" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="515.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="572" y="683" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="622.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="679" y="683" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="729.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="786" y="683" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="836.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="893" y="683" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="943.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="1000" y="683" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="1050.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="1107" y="683" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1157.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1214" y="683" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1264.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1321" y="683" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1371.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1428" y="683" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="683" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1585.5" y="708" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="30" y="722" width="325" height="42" fill="#fbfaf7"/>
+<text x="40" y="742" font-size="16" fill="#1d2433" font-weight="600">Costs</text>
+<text x="40" y="758" font-size="12.5" fill="#8a91a0">11.1</text>
+<text x="343" y="749" font-size="17" fill="#5b6475" font-weight="700" text-anchor="end">5.6%</text>
+<rect x="358" y="725" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="408.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="465" y="725" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="515.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="572" y="725" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="622.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="679" y="725" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="729.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="786" y="725" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="836.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="893" y="725" width="101" height="36" rx="5" fill="#4ade80"/>
+<text x="943.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<rect x="1000" y="725" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1050.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1107" y="725" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1157.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1214" y="725" width="101" height="36" rx="5" fill="#fecaca"/>
+<text x="1264.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="1321" y="725" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1371.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1428" y="725" width="101" height="36" rx="5" fill="#bbf7d0"/>
+<text x="1478.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1535" y="725" width="101" height="36" rx="5" fill="#fde68a"/>
+<text x="1585.5" y="750" font-size="19" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<text x="40" y="808" font-size="19" fill="#1d2433" font-weight="800">Weighted score</text>
+<rect x="357" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="367" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="367" y="812" width="74.4" height="9" rx="4.5" fill="#e8503a"/>
+<text x="408.5" y="802" font-size="23" fill="#b4331f" font-weight="800" text-anchor="middle">90%</text>
+<rect x="464" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="474" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="474" y="812" width="57.3" height="9" rx="4.5" fill="#9aa3ad"/>
+<text x="515.5" y="802" font-size="23" fill="#1d2433" font-weight="800" text-anchor="middle">69%</text>
+<rect x="571" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="581" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="581" y="812" width="79.4" height="9" rx="4.5" fill="#e8503a"/>
+<text x="622.5" y="802" font-size="23" fill="#b4331f" font-weight="800" text-anchor="middle">96%</text>
+<rect x="678" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="688" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="688" y="812" width="68.8" height="9" rx="4.5" fill="#9aa3ad"/>
+<text x="729.5" y="802" font-size="23" fill="#1d2433" font-weight="800" text-anchor="middle">83%</text>
+<rect x="785" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="795" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="795" y="812" width="67.2" height="9" rx="4.5" fill="#9aa3ad"/>
+<text x="836.5" y="802" font-size="23" fill="#1d2433" font-weight="800" text-anchor="middle">81%</text>
+<rect x="892" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="902" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="902" y="812" width="67.2" height="9" rx="4.5" fill="#e8503a"/>
+<text x="943.5" y="802" font-size="23" fill="#b4331f" font-weight="800" text-anchor="middle">81%</text>
+<rect x="999" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="1009" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="1009" y="812" width="60.2" height="9" rx="4.5" fill="#9aa3ad"/>
+<text x="1050.5" y="802" font-size="23" fill="#1d2433" font-weight="800" text-anchor="middle">73%</text>
+<rect x="1106" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="1116" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="1116" y="812" width="48.9" height="9" rx="4.5" fill="#9aa3ad"/>
+<text x="1157.5" y="802" font-size="23" fill="#1d2433" font-weight="800" text-anchor="middle">59%</text>
+<rect x="1213" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="1223" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="1223" y="812" width="42.4" height="9" rx="4.5" fill="#9aa3ad"/>
+<text x="1264.5" y="802" font-size="23" fill="#1d2433" font-weight="800" text-anchor="middle">51%</text>
+<rect x="1320" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="1330" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="1330" y="812" width="38.7" height="9" rx="4.5" fill="#9aa3ad"/>
+<text x="1371.5" y="802" font-size="23" fill="#1d2433" font-weight="800" text-anchor="middle">47%</text>
+<rect x="1427" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="1437" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="1437" y="812" width="60.1" height="9" rx="4.5" fill="#e8503a"/>
+<text x="1478.5" y="802" font-size="23" fill="#b4331f" font-weight="800" text-anchor="middle">72%</text>
+<rect x="1534" y="772" width="103" height="58" rx="7" fill="#fff"/>
+<rect x="1544" y="812" width="83" height="9" rx="4.5" fill="#eceae4"/>
+<rect x="1544" y="812" width="45.0" height="9" rx="4.5" fill="#9aa3ad"/>
+<text x="1585.5" y="802" font-size="23" fill="#1d2433" font-weight="800" text-anchor="middle">54%</text>
+<text x="40" y="861" font-size="19" fill="#1d2433" font-weight="800">Decision</text>
+<rect x="361" y="842" width="95" height="28" rx="14" fill="#e8503a"/>
+<text x="408.5" y="861" font-size="14" fill="#fff" font-weight="800" text-anchor="middle">WINNER</text>
+<text x="515.5" y="862" font-size="16" fill="#8a91a0" text-anchor="middle">—</text>
+<rect x="575" y="842" width="95" height="28" rx="14" fill="#e8503a"/>
+<text x="622.5" y="861" font-size="14" fill="#fff" font-weight="800" text-anchor="middle">WINNER</text>
+<rect x="682" y="842" width="95" height="28" rx="14" fill="#fff" stroke="#e8503a"/>
+<text x="729.5" y="861" font-size="12" fill="#b4331f" font-weight="700" text-anchor="middle">out: safety</text>
+<rect x="789" y="842" width="95" height="28" rx="14" fill="#fff" stroke="#e8503a"/>
+<text x="836.5" y="861" font-size="12" fill="#b4331f" font-weight="700" text-anchor="middle">→ into C04</text>
+<rect x="896" y="842" width="95" height="28" rx="14" fill="#e8503a"/>
+<text x="943.5" y="861" font-size="14" fill="#fff" font-weight="800" text-anchor="middle">WINNER</text>
+<text x="1050.5" y="862" font-size="16" fill="#8a91a0" text-anchor="middle">—</text>
+<text x="1157.5" y="862" font-size="16" fill="#8a91a0" text-anchor="middle">—</text>
+<text x="1264.5" y="862" font-size="16" fill="#8a91a0" text-anchor="middle">—</text>
+<text x="1371.5" y="862" font-size="16" fill="#8a91a0" text-anchor="middle">—</text>
+<rect x="1431" y="842" width="95" height="28" rx="14" fill="#e8503a"/>
+<text x="1478.5" y="861" font-size="14" fill="#fff" font-weight="800" text-anchor="middle">WINNER</text>
+<text x="1585.5" y="862" font-size="16" fill="#8a91a0" text-anchor="middle">—</text>
+<rect x="570" y="144" width="105" height="732" rx="9" fill="none" stroke="#e8503a" stroke-width="3"/>
+<rect x="356" y="144" width="105" height="732" rx="9" fill="none" stroke="#e8503a" stroke-width="3"/>
+<rect x="1426" y="144" width="105" height="732" rx="9" fill="none" stroke="#e8503a" stroke-width="3"/>
+<rect x="891" y="144" width="105" height="732" rx="9" fill="none" stroke="#e8503a" stroke-width="3"/>
+<rect x="30" y="904" width="394" height="138" rx="12" fill="#fff" stroke="#e8503a" stroke-width="2"/>
+<text x="48" y="938" font-size="19" fill="#1d2433" font-weight="800">C05 · Phone clip-on</text>
+<text x="406.5" y="938" font-size="22" fill="#b4331f" font-weight="800" text-anchor="end">90%</text>
+<text x="48" y="964" font-size="13" fill="#b4331f" font-weight="700">DETECTION</text>
+<text x="48" y="994" font-size="15.5" fill="#4a5263">Counts Nile Red-stained particles</text>
+<text x="48" y="1016" font-size="15.5" fill="#4a5263">on the used filter; result on phone.</text>
+<rect x="438" y="904" width="394" height="138" rx="12" fill="#fff" stroke="#e8503a" stroke-width="2"/>
+<text x="456.5" y="938" font-size="19" fill="#1d2433" font-weight="800">C04 · Motor centrifuge*</text>
+<text x="815.0" y="938" font-size="22" fill="#b4331f" font-weight="800" text-anchor="end">96%</text>
+<text x="456.5" y="964" font-size="13" fill="#b4331f" font-weight="700">FILTRATION · HOME</text>
+<text x="456.5" y="994" font-size="15.5" fill="#4a5263">Dry motor, magnetic drive, lift-out</text>
+<text x="456.5" y="1016" font-size="15.5" fill="#4a5263">basket; hand crank as backup.</text>
+<rect x="847" y="904" width="394" height="138" rx="12" fill="#fff" stroke="#e8503a" stroke-width="2"/>
+<text x="865.0" y="938" font-size="19" fill="#1d2433" font-weight="800">C07 · Squeeze bottle</text>
+<text x="1223.5" y="938" font-size="22" fill="#b4331f" font-weight="800" text-anchor="end">81%</text>
+<text x="865.0" y="964" font-size="13" fill="#b4331f" font-weight="700">FILTRATION · ON THE GO</text>
+<text x="865.0" y="994" font-size="15.5" fill="#4a5263">Fits any bottle; tool-free cartridge;</text>
+<text x="865.0" y="1016" font-size="15.5" fill="#4a5263">covers use away from home.</text>
+<rect x="1256" y="904" width="394" height="138" rx="12" fill="#fff" stroke="#e8503a" stroke-width="2"/>
+<text x="1273.5" y="938" font-size="19" fill="#1d2433" font-weight="800">D1 · Solar UV cooker</text>
+<text x="1632.0" y="938" font-size="22" fill="#b4331f" font-weight="800" text-anchor="end">72%</text>
+<text x="1273.5" y="964" font-size="13" fill="#b4331f" font-weight="700">DEGRADATION</text>
+<text x="1273.5" y="994" font-size="15.5" fill="#4a5263">No flame or fumes; gives used</text>
+<text x="1273.5" y="1016" font-size="15.5" fill="#4a5263">filters a safe disposal route.</text>
+<rect x="30" y="1064" width="1620" height="46" rx="10" fill="#1d2433"/>
+<text x="840.0" y="1094" font-size="18" fill="#fff" font-weight="700" text-anchor="middle">C04 (home) or C07 (on the go) filters  →  C05 counts the used filter  →  D1 degrades it in the sun</text>
+<text x="30" y="1142" font-size="14.5" fill="#5b6475" font-style="italic">* C04 scored as refined: dry motor with magnetic coupling, lift-out basket, C09's crank as backup.</text>
+<rect x="1230" y="1126" width="78" height="22" rx="5" fill="#fca5a5"/>
+<text x="1269" y="1143" font-size="14" fill="#1d2433" font-weight="700" text-anchor="middle">0</text>
+<rect x="1314" y="1126" width="78" height="22" rx="5" fill="#fecaca"/>
+<text x="1353" y="1143" font-size="14" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<rect x="1398" y="1126" width="78" height="22" rx="5" fill="#fde68a"/>
+<text x="1437" y="1143" font-size="14" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<rect x="1482" y="1126" width="78" height="22" rx="5" fill="#bbf7d0"/>
+<text x="1521" y="1143" font-size="14" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<rect x="1566" y="1126" width="78" height="22" rx="5" fill="#4ade80"/>
+<text x="1605" y="1143" font-size="14" fill="#1d2433" font-weight="700" text-anchor="middle">4</text></svg>

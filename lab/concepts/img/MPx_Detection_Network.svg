@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1680 1600" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="mpx-detection-network-title mpx-detection-network-desc">
+<title id="mpx-detection-network-title">Seven ways to detect a microplastic, one shared parts bin</title>
+<desc id="mpx-detection-network-desc">Network diagram showing seven documented MPx detection methods and the recommended two-stage Path B concept, each traced across six shared design parameters from sampling interface to result communication, with shared design choices shown as converging nodes.</desc>
+<defs><style>
+    text { font-family: Georgia, 'Times New Roman', serif; }
+    .eyebrow { font-family: 'Courier New', Consolas, monospace; font-size: 12px; letter-spacing: 2px; fill: #b5523a; }
+    .h1 { font-family: Georgia, 'Times New Roman', serif; font-size: 34px; fill: #1c1917; }
+    .dek { font-family: Georgia, serif; font-size: 15px; fill: #5c6675; }
+    .col-eyebrow { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; fill: #b5523a; }
+    .col-title { font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #1c1917; }
+    .node-rect { fill: #faf7f1; stroke: #c9beac; stroke-width: 1; }
+    .node-rect-shared { fill: rgba(28,25,23,0.045); stroke: rgba(28,25,23,0.22); stroke-width: 1.25; }
+    .node-rect-gap { fill: none; stroke: #99a2ae; stroke-width: 1; stroke-dasharray: 3 4; opacity: 0.75; }
+    .node-label { font-family: Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 700; fill: #1c1917; }
+    .node-refs { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #5c6675; }
+    .node-gap-label { font-family: 'Courier New', Consolas, monospace; font-style: italic; font-size: 10.5px; fill: #99a2ae; }
+    .flow-muted { stroke: #5c6675; stroke-width: 1.4; opacity: 0.55; }
+    .flow-accent-solid { stroke: #b5523a; stroke-width: 2.4; }
+    .flow-accent-dashed { stroke: #b5523a; stroke-width: 2.4; stroke-dasharray: 6 5; }
+    .idx-circle { fill: #faf7f1; stroke: #99a2ae; stroke-width: 1.25; }
+    .idx-num { font-family: 'Courier New', Consolas, monospace; font-size: 12px; font-weight: 700; fill: #1c1917; }
+    .idx-num-accent { fill: #faf7f1; }
+    .idx-chip { fill: #b5523a; }
+    .idx-chip-dashed { fill: #b5523a; opacity: 0.85; }
+    .muted-fill { fill: #5c6675; opacity: 0.55; }
+    .accent-fill { fill: #b5523a; }
+    .caption { font-family: Helvetica, Arial, sans-serif; font-size: 13px; fill: #5c6675; }
+    .note-box { fill: #f1ded7; stroke: #e6c2b6; stroke-width: 1; }
+    .note-label { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; fill: #b5523a; }
+    .note-text { font-family: Georgia, serif; font-style: italic; font-size: 15px; fill: #1c1917; }
+    .section-label { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; fill: #5c6675; }
+    .hairline { stroke: #e1d9cb; stroke-width: 1; }
+    .legend-text { font-family: Helvetica, Arial, sans-serif; font-size: 13.5px; fill: #1c1917; }
+    .bullet-dot { fill: #5c6675; }
+    .sim-text { font-family: Helvetica, Arial, sans-serif; font-size: 13.5px; fill: #5c6675; }
+    .sim-bold { font-weight: 700; fill: #1c1917; }
+    .footer-text { font-family: 'Courier New', Consolas, monospace; font-size: 10.5px; fill: #99a2ae; }
+</style></defs>
+<rect x="0" y="0" width="1680" height="1600" fill="#faf7f1"/>
+<text x="60" y="40" class="eyebrow">MPX · DETECT MODULE — COMPONENT NETWORK</text>
+<text x="60" y="86" class="h1">Seven ways to detect a microplastic,</text>
+<text x="60" y="126" class="h1">one shared parts bin</text>
+<text x="60" y="168" class="dek">Every documented detection method — from a $10 phone clip to a patent-pending flow cell — reduces to</text>
+<text x="60" y="192" class="dek">the same six design decisions. Read down a column to see the live design space at each stage; read</text>
+<text x="60" y="216" class="dek">left to right to trace one method's specific choices; where lines converge on one box, two or more</text>
+<text x="60" y="240" class="dek">methods made the identical call. The rust path is not a method in the literature — it's Path B, the</text>
+<text x="60" y="264" class="dek">two-stage concept the team's morphological matrix synthesised by recombining an existing screen with</text>
+<text x="60" y="288" class="dek">an existing confirm.</text>
+<text x="260" y="352" text-anchor="middle" class="col-eyebrow">P1</text>
+<text x="260" y="370" text-anchor="middle" class="col-title">Sampling interface</text>
+<text x="516" y="352" text-anchor="middle" class="col-eyebrow">P2</text>
+<text x="516" y="370" text-anchor="middle" class="col-title">Excitation / interrogation</text>
+<text x="772" y="352" text-anchor="middle" class="col-eyebrow">P3</text>
+<text x="772" y="370" text-anchor="middle" class="col-title">Transducer / sensor</text>
+<text x="1028" y="352" text-anchor="middle" class="col-eyebrow">P4</text>
+<text x="1028" y="370" text-anchor="middle" class="col-title">Signal processing</text>
+<text x="1284" y="352" text-anchor="middle" class="col-eyebrow">P5</text>
+<text x="1284" y="370" text-anchor="middle" class="col-title">Compute platform</text>
+<text x="1540" y="352" text-anchor="middle" class="col-eyebrow">P6</text>
+<text x="1540" y="370" text-anchor="middle" class="col-title">Result communication</text>
+<defs>
+  <marker id="arrow-muted" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 Z" class="muted-fill"/></marker>
+  <marker id="arrow-accent" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 Z" class="accent-fill"/></marker>
+</defs>
+<path d="M 368,501 L 380,501 Q 388,501 388,493 L 388,421 Q 388,413 396,413 L 408,413" class="flow-muted" fill="none"/>
+<path d="M 624,413 L 664,413" class="flow-muted" fill="none"/>
+<path d="M 880,413 L 892,413 Q 900,413 900,421 L 900,718.6666666666666 Q 900,726.6666666666666 908,726.6666666666666 L 920,726.6666666666666" class="flow-muted" fill="none"/>
+<path d="M 1136,726.6666666666666 L 1148,726.6666666666666 Q 1156,726.6666666666666 1156,718.6666666666666 L 1156,426.6666666666667 Q 1156,418.6666666666667 1164,418.6666666666667 L 1176,418.6666666666667" class="flow-muted" fill="none"/>
+<path d="M 1392,418.6666666666667 L 1404,418.6666666666667 Q 1412,418.6666666666667 1412,426.6666666666667 L 1412,449 Q 1412,457 1420,457 L 1432,457" class="flow-muted" fill="none" marker-end="url(#arrow-muted)"/>
+<path d="M 58,501 L 152,501" class="flow-muted" fill="none"/>
+<circle cx="44" cy="501" r="14" class="idx-circle"/>
+<text x="44" y="505" text-anchor="middle" class="idx-num">1</text>
+<path d="M 368,770.6666666666666 L 380,770.6666666666666 Q 388,770.6666666666666 388,762.6666666666666 L 388,526 Q 388,518 396,518 L 408,518" class="flow-muted" fill="none"/>
+<path d="M 624,518 L 636,518 Q 644,518 644,510 L 644,438 Q 644,430 652,430 L 664,430" class="flow-muted" fill="none"/>
+<path d="M 880,430 L 892,430 Q 900,430 900,438 L 900,449 Q 900,457 908,457 L 920,457" class="flow-muted" fill="none"/>
+<path d="M 1136,457 L 1148.1666666666667,457 Q 1156,457 1156,449.16666666666663 L 1156,449.16666666666663 Q 1156,441.3333333333333 1163.8333333333333,441.3333333333333 L 1176,441.3333333333333" class="flow-muted" fill="none"/>
+<path d="M 1392,441.3333333333333 L 1404,441.3333333333333 Q 1412,441.3333333333333 1412,449.3333333333333 L 1412,466 Q 1412,474 1420,474 L 1432,474" class="flow-muted" fill="none" marker-end="url(#arrow-muted)"/>
+<path d="M 58,770.6666666666666 L 152,770.6666666666666" class="flow-muted" fill="none"/>
+<circle cx="44" cy="770.6666666666666" r="14" class="idx-circle"/>
+<text x="44" y="774.6666666666666" text-anchor="middle" class="idx-num">2</text>
+<path d="M 368,518 L 380,518 Q 388,518 388,510 L 388,438 Q 388,430 396,430 L 408,430" class="flow-muted" fill="none"/>
+<path d="M 624,430 L 636,430 Q 644,430 644,438 L 644,510 Q 644,518 652,518 L 664,518" class="flow-muted" fill="none"/>
+<path d="M 880,518 L 892,518 Q 900,518 900,510 L 900,482 Q 900,474 908,474 L 920,474" class="flow-muted" fill="none"/>
+<path d="M 1136,474 L 1148,474 Q 1156,474 1156,482 L 1156,510 Q 1156,518 1164,518 L 1176,518" class="flow-muted" fill="none"/>
+<path d="M 1392,518 L 1404,518 Q 1412,518 1412,526 L 1412,554 Q 1412,562 1420,562 L 1432,562" class="flow-muted" fill="none" marker-end="url(#arrow-muted)"/>
+<path d="M 58,518 L 152,518" class="flow-muted" fill="none"/>
+<circle cx="44" cy="518" r="14" class="idx-circle"/>
+<text x="44" y="522" text-anchor="middle" class="idx-num">3</text>
+<path d="M 368,594.6666666666666 L 408,594.6666666666666" class="flow-muted" fill="none"/>
+<path d="M 624,594.6666666666666 L 641.1666666666667,594.6666666666666 Q 644,594.6666666666666 644,591.8333333333333 L 644,591.8333333333333 Q 644,589 646.8333333333333,589 L 664,589" class="flow-muted" fill="none"/>
+<path d="M 880,589 L 892,589 Q 900,589 900,581 L 900,553 Q 900,545 908,545 L 920,545" class="flow-muted" fill="none"/>
+<path d="M 1136,545 L 1148,545 Q 1156,545 1156,553 L 1156,581 Q 1156,589 1164,589 L 1176,589" class="flow-muted" fill="none"/>
+<path d="M 1392,589 L 1404,589 Q 1412,589 1412,597 L 1412,630.6666666666666 Q 1412,638.6666666666666 1420,638.6666666666666 L 1432,638.6666666666666" class="flow-muted" fill="none" marker-end="url(#arrow-muted)"/>
+<path d="M 58,594.6666666666666 L 152,594.6666666666666" class="flow-muted" fill="none"/>
+<circle cx="44" cy="594.6666666666666" r="14" class="idx-circle"/>
+<text x="44" y="598.6666666666666" text-anchor="middle" class="idx-num">4</text>
+<path d="M 368,430 L 380,430 Q 388,430 388,438 L 388,762.6666666666666 Q 388,770.6666666666666 396,770.6666666666666 L 408,770.6666666666666" class="flow-muted" fill="none"/>
+<path d="M 624,770.6666666666666 L 636,770.6666666666666 Q 644,770.6666666666666 644,762.6666666666666 L 644,614 Q 644,606 652,606 L 664,606" class="flow-muted" fill="none"/>
+<path d="M 880,606 L 892,606 Q 900,606 900,598 L 900,570 Q 900,562 908,562 L 920,562" class="flow-muted" fill="none"/>
+<path d="M 1136,562 L 1148,562 Q 1156,562 1156,570 L 1156,762.6666666666666 Q 1156,770.6666666666666 1164,770.6666666666666 L 1176,770.6666666666666" class="flow-muted" fill="none"/>
+<path d="M 1392,770.6666666666666 L 1404,770.6666666666666 Q 1412,770.6666666666666 1412,762.6666666666666 L 1412,729 Q 1412,721 1420,721 L 1432,721" class="flow-muted" fill="none" marker-end="url(#arrow-muted)"/>
+<path d="M 58,430 L 152,430" class="flow-muted" fill="none"/>
+<circle cx="44" cy="430" r="14" class="idx-circle"/>
+<text x="44" y="434" text-anchor="middle" class="idx-num">5</text>
+<path d="M 368,694 L 380,694 Q 388,694 388,702 L 388,785.3333333333334 Q 388,793.3333333333334 396,793.3333333333334 L 408,793.3333333333334" class="flow-muted" fill="none"/>
+<path d="M 624,793.3333333333334 L 638.3333333333333,793.3333333333334 Q 644,793.3333333333334 644,787.6666666666667 L 644,787.6666666666667 Q 644,782 649.6666666666667,782 L 664,782" class="flow-muted" fill="none"/>
+<path d="M 880,782 L 892,782 Q 900,782 900,774 L 900,757.3333333333334 Q 900,749.3333333333334 908,749.3333333333334 L 920,749.3333333333334" class="flow-muted" fill="none"/>
+<path d="M 1136,749.3333333333334 L 1148,749.3333333333334 Q 1156,749.3333333333334 1156,741.3333333333334 L 1156,702 Q 1156,694 1164,694 L 1176,694" class="flow-muted" fill="none"/>
+<path d="M 1392,694 L 1404,694 Q 1412,694 1412,702 L 1412,730 Q 1412,738 1420,738 L 1432,738" class="flow-muted" fill="none" marker-end="url(#arrow-muted)"/>
+<path d="M 58,694 L 152,694" class="flow-muted" fill="none"/>
+<circle cx="44" cy="694" r="14" class="idx-circle"/>
+<text x="44" y="698" text-anchor="middle" class="idx-num">6</text>
+<path d="M 368,793.3333333333334 L 380,793.3333333333334 Q 388,793.3333333333334 388,785.3333333333334 L 388,702 Q 388,694 396,694 L 408,694" class="flow-muted" fill="none"/>
+<path d="M 624,694 L 664,694" class="flow-muted" fill="none"/>
+<path d="M 880,694 L 892,694 Q 900,694 900,686 L 900,658 Q 900,650 908,650 L 920,650" class="flow-muted" fill="none"/>
+<path d="M 1136,650 L 1148,650 Q 1156,650 1156,658 L 1156,785.3333333333334 Q 1156,793.3333333333334 1164,793.3333333333334 L 1176,793.3333333333334" class="flow-muted" fill="none"/>
+<path d="M 1392,793.3333333333334 L 1404,793.3333333333334 Q 1412,793.3333333333334 1412,785.3333333333334 L 1412,763 Q 1412,755 1420,755 L 1432,755" class="flow-muted" fill="none" marker-end="url(#arrow-muted)"/>
+<path d="M 58,793.3333333333334 L 152,793.3333333333334" class="flow-muted" fill="none"/>
+<circle cx="44" cy="793.3333333333334" r="14" class="idx-circle"/>
+<text x="44" y="797.3333333333334" text-anchor="middle" class="idx-num">7</text>
+<path d="M 368,617.3333333333334 L 408,617.3333333333334" class="flow-accent-solid" fill="none"/>
+<path d="M 624,617.3333333333334 L 641.1666666666667,617.3333333333334 Q 644,617.3333333333334 644,620.1666666666667 L 644,620.1666666666667 Q 644,623 646.8333333333333,623 L 664,623" class="flow-accent-solid" fill="none"/>
+<path d="M 880,623 L 892,623 Q 900,623 900,615 L 900,587 Q 900,579 908,579 L 920,579" class="flow-accent-solid" fill="none"/>
+<path d="M 1136,579 L 1148,579 Q 1156,579 1156,587 L 1156,598 Q 1156,606 1164,606 L 1176,606" class="flow-accent-solid" fill="none"/>
+<path d="M 1392,606 L 1404,606 Q 1412,606 1412,614 L 1412,653.3333333333334 Q 1412,661.3333333333334 1420,661.3333333333334 L 1432,661.3333333333334" class="flow-accent-solid" fill="none" marker-end="url(#arrow-accent)"/>
+<path d="M 58,617.3333333333334 L 152,617.3333333333334" class="flow-accent-solid" fill="none"/>
+<rect x="30" y="603.3333333333334" width="28" height="28" rx="4" class="idx-chip"/>
+<text x="44" y="621.3333333333334" text-anchor="middle" class="idx-num idx-num-accent">B</text>
+<path d="M 368,535 L 380,535 Q 388,535 388,527 L 388,455 Q 388,447 396,447 L 408,447" class="flow-accent-dashed" fill="none"/>
+<path d="M 624,447 L 664,447" class="flow-accent-dashed" fill="none"/>
+<path d="M 880,447 L 892,447 Q 900,447 900,455 L 900,483 Q 900,491 908,491 L 920,491" class="flow-accent-dashed" fill="none"/>
+<path d="M 1136,491 L 1148,491 Q 1156,491 1156,499 L 1156,615 Q 1156,623 1164,623 L 1176,623" class="flow-accent-dashed" fill="none"/>
+<path d="M 1392,623 L 1404,623 Q 1412,623 1412,615 L 1412,499 Q 1412,491 1420,491 L 1432,491" class="flow-accent-dashed" fill="none" marker-end="url(#arrow-accent)"/>
+<path d="M 58,535 L 152,535" class="flow-accent-dashed" fill="none"/>
+<rect x="30" y="521" width="28" height="28" rx="4" class="idx-chip idx-chip-dashed"/>
+<text x="44" y="539" text-anchor="middle" class="idx-num idx-num-accent">B</text>
+<rect x="152" y="396" width="216" height="68" rx="6" class="node-rect"/>
+<text x="166" y="423" class="node-label">Inline flow-through tube</text>
+<text x="166" y="454" class="node-refs">[5]</text>
+<rect x="152" y="484" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="166" y="505" class="node-label">Discrete filtered / stained</text>
+<text x="166" y="519" class="node-label">sample</text>
+<text x="166" y="542" class="node-refs">[1,3] · shared by 3</text>
+<rect x="152" y="572" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="166" y="599" class="node-label">Dip / immersed probe</text>
+<text x="166" y="630" class="node-refs">[4] · shared by 2</text>
+<rect x="152" y="660" width="216" height="68" rx="6" class="node-rect"/>
+<text x="166" y="681" class="node-label">Multi-stage pretreatment</text>
+<text x="166" y="695" class="node-label">loop</text>
+<text x="166" y="718" class="node-refs">[6]</text>
+<rect x="152" y="748" width="216" height="68" rx="6" class="node-rect-gap"/>
+<text x="260" y="786" text-anchor="middle" class="node-gap-label">not stated in source</text>
+<rect x="408" y="396" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="422" y="417" class="node-label">UV / blue fluorescence</text>
+<text x="422" y="431" class="node-label">(dye)</text>
+<text x="422" y="454" class="node-refs">[1,3] · shared by 3</text>
+<rect x="408" y="484" width="216" height="68" rx="6" class="node-rect"/>
+<text x="422" y="505" class="node-label">Plain optical imaging, no</text>
+<text x="422" y="519" class="node-label">dye</text>
+<text x="422" y="542" class="node-refs">[2]</text>
+<rect x="408" y="572" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="422" y="593" class="node-label">Passive — no active</text>
+<text x="422" y="607" class="node-label">stimulus</text>
+<text x="422" y="630" class="node-refs">[4] · shared by 2</text>
+<rect x="408" y="660" width="216" height="68" rx="6" class="node-rect"/>
+<text x="422" y="687" class="node-label">Electrochemical impedance</text>
+<text x="422" y="718" class="node-refs">[7]</text>
+<rect x="408" y="748" width="216" height="68" rx="6" class="node-rect-gap"/>
+<text x="516" y="786" text-anchor="middle" class="node-gap-label">not stated in source</text>
+<rect x="664" y="396" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="678" y="417" class="node-label">Smartphone camera +</text>
+<text x="678" y="431" class="node-label">attachment</text>
+<text x="678" y="454" class="node-refs">[1,2] · shared by 3</text>
+<rect x="664" y="484" width="216" height="68" rx="6" class="node-rect"/>
+<text x="678" y="511" class="node-label">Dedicated USB microscope</text>
+<text x="678" y="542" class="node-refs">[3]</text>
+<rect x="664" y="572" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="678" y="599" class="node-label">Discrete photodetector</text>
+<text x="678" y="630" class="node-refs">[4,5] · shared by 3</text>
+<rect x="664" y="660" width="216" height="68" rx="6" class="node-rect"/>
+<text x="678" y="687" class="node-label">Electrode / potentiostat</text>
+<text x="678" y="718" class="node-refs">[7]</text>
+<rect x="664" y="748" width="216" height="68" rx="6" class="node-rect-gap"/>
+<text x="772" y="786" text-anchor="middle" class="node-gap-label">not stated in source</text>
+<rect x="920" y="440" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="934" y="467" class="node-label">CNN object detection (YOLO)</text>
+<text x="934" y="498" class="node-refs">[2,3] · shared by 3</text>
+<rect x="920" y="528" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="934" y="549" class="node-label">Threshold / peak-detection</text>
+<text x="934" y="563" class="node-label">electronics</text>
+<text x="934" y="586" class="node-refs">[4,5] · shared by 3</text>
+<rect x="920" y="616" width="216" height="68" rx="6" class="node-rect"/>
+<text x="934" y="643" class="node-label">ML on impedance signal</text>
+<text x="934" y="674" class="node-refs">[7]</text>
+<rect x="920" y="704" width="216" height="68" rx="6" class="node-rect-gap"/>
+<text x="1028" y="742" text-anchor="middle" class="node-gap-label">not stated in source</text>
+<rect x="1176" y="396" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="1190" y="423" class="node-label">Smartphone onboard</text>
+<text x="1190" y="454" class="node-refs">[1,2] · shared by 2</text>
+<rect x="1176" y="484" width="216" height="68" rx="6" class="node-rect"/>
+<text x="1190" y="511" class="node-label">Raspberry Pi / SBC</text>
+<text x="1190" y="542" class="node-refs">[3]</text>
+<rect x="1176" y="572" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="1190" y="599" class="node-label">Microcontroller + Wi-Fi</text>
+<text x="1190" y="630" class="node-refs">[4] · shared by 3</text>
+<rect x="1176" y="660" width="216" height="68" rx="6" class="node-rect"/>
+<text x="1190" y="681" class="node-label">Benchtop instrument</text>
+<text x="1190" y="695" class="node-label">controller</text>
+<text x="1190" y="718" class="node-refs">[6]</text>
+<rect x="1176" y="748" width="216" height="68" rx="6" class="node-rect-gap"/>
+<text x="1284" y="786" text-anchor="middle" class="node-gap-label">not stated in source</text>
+<rect x="1432" y="440" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="1446" y="467" class="node-label">Smartphone app</text>
+<text x="1446" y="498" class="node-refs">[1,2] · shared by 3</text>
+<rect x="1432" y="528" width="216" height="68" rx="6" class="node-rect"/>
+<text x="1446" y="555" class="node-label">Onboard touchscreen</text>
+<text x="1446" y="586" class="node-refs">[3]</text>
+<rect x="1432" y="616" width="216" height="68" rx="6" class="node-rect node-rect-shared"/>
+<text x="1446" y="643" class="node-label">Cloud dashboard / IoT</text>
+<text x="1446" y="674" class="node-refs">[4] · shared by 2</text>
+<rect x="1432" y="704" width="216" height="68" rx="6" class="node-rect-gap"/>
+<text x="1540" y="742" text-anchor="middle" class="node-gap-label">not stated in source</text>
+<text x="60" y="852" class="caption">Each numbered circle is one documented method [1]–[7] entering the chain at P1. Tinted boxes are shared by ≥2 methods or by Path B. Dashed grey boxes mark a parameter the source material never specified — an open question, not a zero.</text>
+<rect x="60" y="888" width="1560" height="108" rx="10" class="note-box"/>
+<text x="88" y="918" class="note-label">HOW TO READ PATH B</text>
+<text x="88" y="944" class="note-text">The solid rust line is TEMPT's own cheap, always-on turbidity screen, unchanged — it just keeps watching. The dashed</text>
+<text x="88" y="966" class="note-text">rust line is the accurate but slower fluorescence check from methods 1 and 3. Both report through one shared</text>
+<text x="88" y="988" class="note-text">microcontroller; the dashed line alone is wired to interrupt the phone app, so the expensive step only ever runs when</text>
+<text x="88" y="1010" class="note-text">the cheap one flags something.</text>
+<text x="60" y="1040" class="section-label">LEGEND</text>
+<line x1="60" y1="1050" x2="1620" y2="1050" class="hairline"/>
+<line x1="60" y1="1080" x2="96" y2="1080" class="flow-muted"/>
+<text x="106" y="1084" class="legend-text">Documented method (existing literature)</text>
+<line x1="460" y1="1080" x2="496" y2="1080" class="flow-accent-solid"/>
+<text x="506" y="1084" class="legend-text">Path B — always-on screen stage</text>
+<line x1="900" y1="1080" x2="936" y2="1080" class="flow-accent-dashed"/>
+<text x="946" y="1084" class="legend-text">Path B — on-trigger confirm stage</text>
+<rect x="1340" y="1072" width="28" height="16" rx="3" class="node-rect-shared"/>
+<text x="1386" y="1084" class="legend-text">Shared by 2+ methods</text>
+<text x="60" y="1116" class="section-label">DOCUMENTED METHODS [1]–[7]</text>
+<line x1="60" y1="1126" x2="1620" y2="1126" class="hairline"/>
+<text x="60" y="1150" class="legend-text">1  Smartphone fluorescence + Nile Red</text>
+<text x="60" y="1176" class="legend-text">2  $10 microscope clip + YOLOv5</text>
+<text x="60" y="1202" class="legend-text">3  Nile Red + YOLOv8 "FLOro"</text>
+<text x="60" y="1228" class="legend-text">4  IoT turbidity proxy "TEMPT"</text>
+<text x="860" y="1150" class="legend-text">5  UV-fluorescence flow-tube (patent)</text>
+<text x="860" y="1176" class="legend-text">6  Optical counter + electrostatic + TOC (patent)</text>
+<text x="860" y="1202" class="legend-text">7  Electrochemical sensing</text>
+<line x1="60" y1="1264" x2="1620" y2="1264" class="hairline"/>
+<text x="60" y="1284" class="section-label">WHERE THE SIMILARITIES ACTUALLY ARE</text>
+<circle cx="66" cy="1312" r="2.5" class="bullet-dot"/>
+<text x="82" y="1316" class="sim-text"><tspan class="sim-bold">P2/P3/P4 converge hardest.</tspan> Three methods independently landed on UV/blue fluorescence + a camera + YOLO (methods 1, 2, 3 overlap pairwise here) —</text>
+<text x="82" y="1338" class="sim-text">the field's default answer to “how do you see a microplastic,” and also exactly the expensive half of Path B's confirm stage.</text>
+<circle cx="66" cy="1364" r="2.5" class="bullet-dot"/>
+<text x="82" y="1368" class="sim-text"><tspan class="sim-bold">P5/P6 are the most standardised.</tspan> Smartphone-onboard compute and a phone-app readout cover four of the seven methods — the part of the product least</text>
+<text x="82" y="1390" class="sim-text">likely to need bespoke engineering.</text>
+<circle cx="66" cy="1416" r="2.5" class="bullet-dot"/>
+<text x="82" y="1420" class="sim-text"><tspan class="sim-bold">P1 is the most fragmented.</tspan> Four genuinely different sampling interfaces, each tied to a different method family, with methods 2 and 7 undocumented</text>
+<text x="82" y="1442" class="sim-text">entirely — sampling is where the field has the least consensus, and where Path B's own choice (reusing [4]'s dip probe) is a real design decision.</text>
+<circle cx="66" cy="1468" r="2.5" class="bullet-dot"/>
+<text x="82" y="1472" class="sim-text"><tspan class="sim-bold">Methods 5, 6 and 7 are the odd ones out.</tspan> All three are patent or single-paper sources with 2–4 undocumented parameters, consistent with their “?</text>
+<text x="82" y="1494" class="sim-text">unknown” gates in the weighted ranking table — not new information.</text>
+<line x1="60" y1="1518" x2="1620" y2="1518" class="hairline"/>
+<text x="60" y="1534" class="footer-text">Built from MPx's own CED Module 8 morphological matrix (MPx_Detection_Ranking_Morphological_Matrix.docx) and the 15-method sourced comparison</text>
+<text x="60" y="1552" class="footer-text">(MPx_Detection_Methods_Comparison.docx). Method numbering [1]–[15] matches those two documents exactly.</text>
+</svg>

@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1120" viewBox="0 0 1700 1120" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif"><defs><marker id="da" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9" fill="none" stroke="#8a91a0" stroke-width="1.4"/></marker><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#1d2433"/></marker><marker id="aC" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#2f80c0"/></marker><marker id="aH" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#e8503a"/></marker><marker id="aW" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#f2a516"/></marker><marker id="aT" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#f97316"/></marker><marker id="aG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#2a9d8f"/></marker><marker id="aP" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#8e5cc2"/></marker><marker id="aM" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#8a91a0"/></marker><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#f3efe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#cdbf9f" stroke-width="1.5"/></pattern><pattern id="mesh" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#eef1f3"/><path d="M0 0L5 5M5 0L0 5" stroke="#8b96a0" stroke-width=".6"/></pattern><pattern id="al" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#d9dee2"/><line x1="0" y1="0" x2="0" y2="8" stroke="#b9c1c7" stroke-width="1"/></pattern></defs><rect width="1700" height="1120" fill="#f4f3ef"/>
+<text x="30.0" y="50.0" font-size="25" font-weight="700" fill="#1d2433" text-anchor="start" >MPx Boil-Loop · Electronics architecture and base layout (preliminary)</text>
+<text x="30.0" y="76.0" font-size="13.5" font-weight="400" fill="#5b6475" text-anchor="start" >One 4S Li-ion bus (12–16.8 V) feeds everything; USB-C PD charges the pack and tops up the bus. Hardware safety cut-offs sit in series with the heaters, independent of firmware.</text>
+<text x="1670.0" y="50.0" font-size="11.5" font-weight="400" fill="#8a91a0" text-anchor="end" >MPx · Boil-Loop · preliminary v0.2 · Oct 2026</text>
+<rect x="30" y="100" width="1080" height="700" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="50.0" y="130.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >A · Block diagram</text>
+<rect x="55.0" y="150.0" width="170.0" height="92.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="55.0" y="150.0" width="5.0" height="92.0" rx="2" fill="#8e5cc2" stroke="none" stroke-width="0" />
+<text x="69.0" y="170.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >USB-C PD in</text>
+<text x="69.0" y="186.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >5–20 V, up to 100 W</text>
+<text x="69.0" y="200.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >PD 3.0 SPR (65 W works,</text>
+<text x="69.0" y="214.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >slower)</text>
+<rect x="270.0" y="150.0" width="200.0" height="110.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="270.0" y="150.0" width="5.0" height="110.0" rx="2" fill="#8e5cc2" stroke="none" stroke-width="0" />
+<text x="284.0" y="170.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Charger / power path</text>
+<text x="284.0" y="186.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >IP2368 bidirectional 100 W</text>
+<text x="284.0" y="200.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >4S buck-boost, PD sink</text>
+<text x="284.0" y="215.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >(production alt: TI BQ25756</text>
+<text x="284.0" y="229.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >+ TPS25750)</text>
+<rect x="520.0" y="150.0" width="190.0" height="110.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="520.0" y="150.0" width="5.0" height="110.0" rx="2" fill="#8e5cc2" stroke="none" stroke-width="0" />
+<text x="534.0" y="170.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Battery 4S2P</text>
+<text x="534.0" y="186.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >8 × 18650, 3.45 Ah</text>
+<text x="534.0" y="200.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >14.4 V nom, 99 Wh</text>
+<text x="534.0" y="215.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >4S BMS: OV/UV/OC/SC, balance</text>
+<text x="534.0" y="229.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >pack NTC</text>
+<rect x="760.0" y="150.0" width="300.0" height="60.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="760.0" y="150.0" width="5.0" height="60.0" rx="2" fill="#1d2433" stroke="none" stroke-width="0" />
+<text x="774.0" y="170.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >System bus 12–16.8 V</text>
+<text x="774.0" y="186.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >fused 15 A (blade)</text>
+<rect x="760.0" y="240.0" width="300.0" height="150.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="760.0" y="240.0" width="5.0" height="150.0" rx="2" fill="#e8503a" stroke="none" stroke-width="0" />
+<text x="774.0" y="260.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Hardware safety chain</text>
+<text x="774.0" y="276.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >series in heater supply:</text>
+<text x="774.0" y="290.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >KSD301 NC 125 °C on H1 block</text>
+<text x="774.0" y="305.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >KSD301 NC 120 °C on H2 well</text>
+<text x="774.0" y="319.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >thermal fuse 142 °C (one-shot) each</text>
+<text x="774.0" y="334.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >tilt + hatch reed + boil-zone level</text>
+<text x="774.0" y="348.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >→ AND gate → load switch enable</text>
+<rect x="760.0" y="420.0" width="140.0" height="100.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="760.0" y="420.0" width="5.0" height="100.0" rx="2" fill="#e8503a" stroke="none" stroke-width="0" />
+<text x="774.0" y="440.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >H1 driver</text>
+<text x="774.0" y="456.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >logic MOSFET,</text>
+<text x="774.0" y="469.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >low-side</text>
+<text x="774.0" y="484.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >PWM 10 Hz burst</text>
+<text x="774.0" y="498.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >~100 W max</text>
+<rect x="920.0" y="420.0" width="140.0" height="100.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="920.0" y="420.0" width="5.0" height="100.0" rx="2" fill="#e8503a" stroke="none" stroke-width="0" />
+<text x="934.0" y="440.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >H2 driver</text>
+<text x="934.0" y="456.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >logic MOSFET</text>
+<text x="934.0" y="470.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >PWM, ~40 W max</text>
+<rect x="270.0" y="330.0" width="260.0" height="190.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="270.0" y="330.0" width="5.0" height="190.0" rx="2" fill="#2a9d8f" stroke="none" stroke-width="0" />
+<text x="284.0" y="350.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >ESP32-S3-WROOM-1</text>
+<text x="284.0" y="366.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >2 × PID (H1 outlet, boil zone)</text>
+<text x="284.0" y="380.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >state machine: fill → heat →</text>
+<text x="284.0" y="395.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >hold τ → dispense → idle</text>
+<text x="284.0" y="409.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >filter-life + descale counters</text>
+<text x="284.0" y="424.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >BLE to app (detection Concept 05)</text>
+<text x="284.0" y="438.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >hardware watchdog (TPL5010)</text>
+<rect x="55.0" y="330.0" width="170.0" height="92.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="55.0" y="330.0" width="5.0" height="92.0" rx="2" fill="#1d2433" stroke="none" stroke-width="0" />
+<text x="69.0" y="350.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >3.3 V buck</text>
+<text x="69.0" y="366.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >TPS62133 (or MP1584)</text>
+<text x="69.0" y="380.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >MCU, sensors, display</text>
+<rect x="560.0" y="420.0" width="170.0" height="112.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="560.0" y="420.0" width="5.0" height="112.0" rx="2" fill="#2f80c0" stroke="none" stroke-width="0" />
+<text x="574.0" y="440.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Pump driver</text>
+<text x="574.0" y="456.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >12 V peristaltic, DC</text>
+<text x="574.0" y="469.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >brushed</text>
+<text x="574.0" y="484.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >PWM speed = flow</text>
+<text x="574.0" y="498.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >(stepper alt: TMC2209)</text>
+<rect x="560.0" y="545.0" width="170.0" height="92.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="560.0" y="545.0" width="5.0" height="92.0" rx="2" fill="#2f80c0" stroke="none" stroke-width="0" />
+<text x="574.0" y="565.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Valve driver</text>
+<text x="574.0" y="581.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >DRV8833 H-bridge</text>
+<text x="574.0" y="595.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >3-way ball valve 12 V</text>
+<rect x="55.0" y="545.0" width="470.0" height="130.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="55.0" y="545.0" width="5.0" height="130.0" rx="2" fill="#2a9d8f" stroke="none" stroke-width="0" />
+<text x="69.0" y="565.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Sensors (ADS1115 16-bit ADC + ESP32 GPIO)</text>
+<text x="69.0" y="581.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >6 × NTC 10 k B3950 in SS316 probes: tank, H1 out, boil zone, calm zone, HX hot</text>
+<text x="69.0" y="594.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >out, spout</text>
+<text x="69.0" y="609.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >Calm-zone level: SS pins (conductive) → filter clog alert when level rises</text>
+<text x="69.0" y="623.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >Boil-zone level: SS pins → dry-boil interlock</text>
+<text x="69.0" y="638.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >Tank: capacitive pad on seat (no water contact)</text>
+<rect x="760.0" y="545.0" width="300.0" height="125.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="760.0" y="545.0" width="5.0" height="125.0" rx="2" fill="#2a9d8f" stroke="none" stroke-width="0" />
+<text x="774.0" y="565.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >User interface</text>
+<text x="774.0" y="581.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >1.28&quot; GC9A01 round IPS (SPI)</text>
+<text x="774.0" y="595.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >2 capacitive keys: Start · Mode</text>
+<text x="774.0" y="610.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >status LED ring, buzzer</text>
+<text x="774.0" y="624.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >simple / detailed mode (req 6.2)</text>
+<text x="774.0" y="639.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >SPI + touch lines to the MCU</text>
+<rect x="55.0" y="700.0" width="470.0" height="80.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="55.0" y="700.0" width="5.0" height="80.0" rx="2" fill="#e8503a" stroke="none" stroke-width="0" />
+<text x="69.0" y="720.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Orientation + lid</text>
+<text x="69.0" y="736.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >tilt switch (or MPU-6050) · hall/reed on top hatch · hatch lock solenoid 12 V</text>
+<rect x="560.0" y="690.0" width="500.0" height="95.0" rx="10" fill="#fbfaf7" stroke="#d9d3c6" stroke-width="1" />
+<rect x="560.0" y="690.0" width="5.0" height="95.0" rx="2" fill="#1d2433" stroke="none" stroke-width="0" />
+<text x="574.0" y="710.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Rail budget (steady, 4 L/h)</text>
+<text x="574.0" y="726.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >heaters ~49 W · pump ~2.5 W · valve 0 W (latching) · MCU+display ~1.5 W</text>
+<text x="574.0" y="740.5" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >sensors &lt; 0.1 W · charger loss ~1 W → ~54 W total</text>
+<text x="574.0" y="755.0" font-size="10.8" font-weight="400" fill="#5b6475" text-anchor="start" >warm-up: heaters up to 150 W (100 W from USB + 50 W from pack)</text>
+<path d="M225,196.0 L247.5,196.0 L247.5,205.0 L268,205.0" stroke="#8e5cc2" stroke-width="2" fill="none" marker-end="url(#aP)"/>
+<path d="M470,205.0 L495.0,205.0 L495.0,205.0 L518,205.0" stroke="#8e5cc2" stroke-width="2" fill="none" marker-end="url(#aP)"/>
+<path d="M710,205.0 L735.0,205.0 L735.0,180.0 L758,180.0" stroke="#8e5cc2" stroke-width="2" fill="none" marker-end="url(#aP)"/>
+<path d="M910.0,210 L910.0,225.0 L910.0,225.0 L910.0,238" stroke="#e8503a" stroke-width="2" fill="none" marker-end="url(#aH)"/>
+<path d="M830,390 L830,418" stroke="#e8503a" stroke-width="2" fill="none" marker-end="url(#aH)"/>
+<path d="M990,390 L990,418" stroke="#e8503a" stroke-width="2" fill="none" marker-end="url(#aH)"/>
+<path d="M530,470 L558,470" stroke="#2f80c0" stroke-width="2" fill="none" marker-end="url(#aC)"/>
+<path d="M530,500 L545,500 L545,590 L558,590" stroke="#2f80c0" stroke-width="2" fill="none" marker-end="url(#aC)"/>
+<path d="M225,376 L268,376" stroke="#1d2433" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<path d="M400,545 L400,522" stroke="#2a9d8f" stroke-width="2" fill="none" marker-end="url(#aG)"/>
+<path d="M530,360 L745,360 L745,470 L758,470" stroke="#2a9d8f" stroke-width="1.6" fill="none" stroke-dasharray="4 3" marker-end="url(#aG)"/>
+<text x="600.0" y="352.0" font-size="10" font-weight="600" fill="#2a9d8f" text-anchor="start" >PWM</text>
+<path d="M400,262 L400,328" stroke="#8e5cc2" stroke-width="1.6" fill="none" stroke-dasharray="4 3" marker-end="url(#aP)"/>
+<text x="406.0" y="300.0" font-size="10" font-weight="600" fill="#8e5cc2" text-anchor="start" >I²C status / SoC</text>
+<path d="M140,242 L140,328" stroke="#1d2433" stroke-width="1.4" fill="none" marker-end="url(#ar)"/>
+<rect x="1130" y="100" width="540" height="700" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="1150.0" y="130.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >B · Base layout (plan, z 0–60 mm)</text>
+<rect x="1175.2" y="247.5" width="449.5" height="356.5" rx="20" fill="#eef0f2" stroke="#6f7a83" stroke-width="1.2" />
+<circle cx="1322.5" cy="480.0" r="124.0" fill="none" stroke="#9aa5ad" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="1322.5" y="349.8" font-size="10" font-weight="400" fill="#8a91a0" text-anchor="middle" >body above (Ø160)</text>
+<rect x="1474.4" y="371.5" width="142.6" height="232.5" rx="rx="8" stroke-dasharray="5 4"" fill="none" stroke="#a9c7d4" stroke-width="1" />
+<text x="1545.7" y="394.8" font-size="10" font-weight="400" fill="#8a91a0" text-anchor="middle" >tank above</text>
+<rect x="1186.1" y="383.9" width="93.0" height="139.5" rx="4" fill="#3b7a57" stroke="#1f4d36" stroke-width="1" />
+<text x="1232.6" y="456.8" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >main PCB</text>
+<text x="1232.6" y="475.4" font-size="9" font-weight="400" fill="#d1fae5" text-anchor="middle" >60 × 90</text>
+<rect x="1291.5" y="464.5" width="111.6" height="55.8" rx="4" fill="#5b6070" stroke="#20242c" stroke-width="1" />
+<text x="1347.3" y="498.6" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >4S2P pack</text>
+<rect x="1493.0" y="394.8" width="85.2" height="65.1" rx="4" fill="#41506a" stroke="#1b2230" stroke-width="1" />
+<text x="1534.8" y="433.5" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" >pump</text>
+<circle cx="1545.7" cy="542.0" r="14.0" fill="#e3f1f8" stroke="#a9c7d4" stroke-width="1.2" />
+<text x="1545.7" y="576.1" font-size="9.5" font-weight="400" fill="#5b6475" text-anchor="middle" >tank valve (SS)</text>
+<rect x="1232.6" y="263.0" width="46.5" height="46.5" rx="3" fill="#c5ccd2" stroke="#6f7a83" stroke-width="1" />
+<text x="1255.8" y="241.5" font-size="9.5" font-weight="400" fill="#5b6475" text-anchor="middle" >3-way valve</text>
+<rect x="1369.0" y="588.5" width="34.1" height="12.4" rx="3" fill="#111" stroke="none" stroke-width="0" />
+<text x="1386.0" y="580.5" font-size="9.5" font-weight="400" fill="#5b6475" text-anchor="middle" >USB-C (rear)</text>
+<rect x="1283.8" y="363.8" width="232.5" height="232.5" rx="stroke-dasharray="2 3"" fill="none" stroke="#b8a87f" stroke-width="1.2" />
+<text x="1289.8" y="377.8" font-size="9.5" font-weight="400" fill="#8b7a52" text-anchor="start" >insulation plate above</text>
+<path d="M1545.7,528.05 L1545.7,495.5 L1534.85,461.4" stroke="#2f80c0" stroke-width="2.4" fill="none" />
+<path d="M1493.0,427.3 L1431.0,427.3 L1392.25,387.0" stroke="#2f80c0" stroke-width="2.4" fill="none" marker-end="url(#aC)"/>
+<text x="1150.0" y="760.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Battery sits low and away from the core, under 45 °C. PCB at the front for the display</text>
+<text x="1150.0" y="775.6" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >harness. USB-C and the vent at the rear.</text>
+<rect x="30" y="820" width="1640" height="270" rx="14" fill="#ffffff" stroke="#e2ddd2"/>
+<text x="50.0" y="850.0" font-size="15" font-weight="700" fill="#1d2433" text-anchor="start" >C · Design notes</text>
+<text x="50.0" y="880.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Why one 4S bus</text>
+<text x="50.0" y="898.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Heaters run straight off 12–16.8 V with PWM, so there is no big converter in the heater</text>
+<text x="50.0" y="912.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >path. 12 V cartridges give ~40 W at 12 V and ~78 W at 16.8 V; firmware limits the duty to</text>
+<text x="50.0" y="927.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >stay inside the 150 W budget.</text>
+<text x="595.0" y="880.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >USB-C power</text>
+<text x="595.0" y="898.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >A 100 W (20 V 5 A, e-marked cable) charger runs steady production with the pack topping</text>
+<text x="595.0" y="912.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >up. 65 W chargers work but warm-up takes longer. PD 3.1 at 140 W is a later option.</text>
+<text x="1140.0" y="880.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Battery rules</text>
+<text x="1140.0" y="898.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Cells and pack must be BIS-registered under IS 16046 (Parts 1 &amp; 2, the Indian adoption of</text>
+<text x="1140.0" y="912.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >IEC 62133-2) before sale. ≤ 100 Wh keeps air shipping simple. Requirement 4.2 / 7.2 met by</text>
+<text x="1140.0" y="927.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >certified cells + pack test.</text>
+<text x="50.0" y="980.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Safety in hardware</text>
+<text x="50.0" y="998.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Two thermostats + two one-shot fuses cut heater power with no firmware involved. Tilt,</text>
+<text x="50.0" y="1012.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >open hatch, empty boil zone or watchdog timeout drop the load-switch enable. IEC 60335-1</text>
+<text x="50.0" y="1027.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >is the reference for temperature rise and leakage (req 7.6).</text>
+<text x="595.0" y="980.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Ingress</text>
+<text x="595.0" y="998.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Req 7.1 asks IP65 for electronics. The base gets a gasketed PCB tray and conformal coat</text>
+<text x="595.0" y="1012.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >(target IP54 for the base, IP65 for the PCB tray); a spill path drains around the base,</text>
+<text x="595.0" y="1027.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >not into it.</text>
+<text x="1140.0" y="980.0" font-size="12.5" font-weight="700" fill="#1d2433" text-anchor="start" >Firmware states</text>
+<text x="1140.0" y="998.0" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Fill → Heat (batch to boil) → Hold τ (valve returns water to tank) → Dispense →</text>
+<text x="1140.0" y="1012.5" font-size="11" font-weight="400" fill="#5b6475" text-anchor="start" >Idle/keep-warm off. Counts litres for filter life and descale, logs temps for the app.</text></svg>

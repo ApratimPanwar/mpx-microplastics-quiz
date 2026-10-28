@@ -1,0 +1,7 @@
+Parameter,Option 1,Option 2,Option 3,Option 4,Option 5
+P1 — Sampling interface,Inline flow-through tube [5],"Discrete filtered/stained sample [1,3,14,15]",Dip / immersed probe [4],Multi-stage pretreatment loop [6],
+P2 — Excitation / interrogation,"UV/blue fluorescence (dye) [1,3,14,15]","Plain optical imaging, no dye [2]",Electrochemical impedance [7],Passive — no active stimulus [4],
+P3 — Transducer / sensor,"Smartphone camera + attachment [1,2]","Dedicated USB microscope [3,15]","Discrete photodetector [4,5]",Electrode / potentiostat [7],Lab spectrometer / SEM (reference) [8-12]
+P4 — Signal processing,"CNN object detection (YOLO) [2,3]",RGB decision-tree (CART) [14],"Threshold / peak-detection electronics [4,5]",ML on impedance signal [7],Manual visual read [13]
+P5 — Compute platform,Raspberry Pi / SBC [3],"Smartphone onboard [1,2]",Microcontroller + Wi-Fi [4],"Benchtop instrument controller [6,8-12]","Laptop, offline [14,15]"
+P6 — Result communication,Onboard touchscreen [3],"Smartphone app [1,2]",LED / buzzer indicator (unlisted — grounded in req. 4.1),Cloud dashboard / IoT [4],"Log only, read later [15]"

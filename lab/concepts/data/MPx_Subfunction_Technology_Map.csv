@@ -1,0 +1,176 @@
+Step No,Step Name,Category,Sub-Function,Technology / Method / Intervention Option
+01,Identify Water Source,input,"Sense / confirm source type (tap, bottle, jug, natural body)",Manual user selection — physical mode switch or app menu
+01,Identify Water Source,input,"Sense / confirm source type (tap, bottle, jug, natural body)",Conductivity / TDS probe to auto-classify source quality
+01,Identify Water Source,input,"Sense / confirm source type (tap, bottle, jug, natural body)",Camera + ML source recognition (stretch)
+01,Identify Water Source,input,"Sense / confirm source type (tap, bottle, jug, natural body)",No dedicated sensor — universal source-agnostic inlet
+01,Identify Water Source,input,Present selectable source options to the user,Physical rotary or slide selector on the housing
+01,Identify Water Source,input,Present selectable source options to the user,Companion mobile-app source picker
+01,Identify Water Source,input,Present selectable source options to the user,Icon-based silkscreen selector ring
+01,Identify Water Source,input,Verify source is compatible with the device (exclude unsuitable inputs),"Inlet screen / strainer as a size gate (excludes debris, insects)"
+01,Identify Water Source,input,Verify source is compatible with the device (exclude unsuitable inputs),Conductivity threshold cutoff (flags saline / seawater)
+01,Identify Water Source,input,Verify source is compatible with the device (exclude unsuitable inputs),"Pre-fill turbidity check, visual or optical, before accepting"
+01,Identify Water Source,input,Verify source is compatible with the device (exclude unsuitable inputs),"User acknowledgement / warning prompt (procedural, no sensor)"
+01,Identify Water Source,input,Signal source-dependent settings to downstream stages (e.g. expected turbidity),Firmware profile switch — adjusts pump speed / detection sensitivity per source
+01,Identify Water Source,input,Signal source-dependent settings to downstream stages (e.g. expected turbidity),Simple lookup table triggered by the user’s source selection
+01,Identify Water Source,input,Signal source-dependent settings to downstream stages (e.g. expected turbidity),No adaptive signalling — fixed universal operating profile
+02,Water Input in Device,input,Convey water from the source into the device,Gravity pour-in through an open funnel / hopper
+02,Water Input in Device,input,Convey water from the source into the device,Straw / suction draw (syringe or vacuum primer)
+02,Water Input in Device,input,Convey water from the source into the device,Direct tap or bottle quick-connect fitting
+02,Water Input in Device,input,Convey water from the source into the device,Peristaltic or diaphragm pump draw-in
+02,Water Input in Device,input,Connect / seal the input interface to the source,"Universal funnel mouth — pour-in only, no seal needed"
+02,Water Input in Device,input,Connect / seal the input interface to the source,Threaded quick-connect fitting (garden-hose-style ball valve)
+02,Water Input in Device,input,Connect / seal the input interface to the source,Snap-fit push-to-connect fitting with O-ring
+02,Water Input in Device,input,Connect / seal the input interface to the source,Magnetic self-aligning collar
+02,Water Input in Device,input,Regulate inflow rate and volume,Fixed-orifice flow restrictor
+02,Water Input in Device,input,Regulate inflow rate and volume,Adjustable needle or ball valve
+02,Water Input in Device,input,Regulate inflow rate and volume,Pump duty-cycle (PWM) control
+02,Water Input in Device,input,Regulate inflow rate and volume,Passive overflow standpipe as a volume cap
+02,Water Input in Device,input,Vent displaced air during filling,"Vent hole with a hydrophobic membrane (blocks water, passes air)"
+02,Water Input in Device,input,Vent displaced air during filling,Open-top fill — inherently vented
+02,Water Input in Device,input,Vent displaced air during filling,One-way air-relief valve
+02,Water Input in Device,input,Measure / register input volume,"Graduated sight window / markings on the housing (passive, zero power)"
+02,Water Input in Device,input,Measure / register input volume,In-line paddle-wheel or turbine flow sensor
+02,Water Input in Device,input,Measure / register input volume,Load-cell / weight sensing at the base
+02,Water Input in Device,input,Measure / register input volume,Capacitive or float fill-level sensor (see Step 05 options)
+02,Water Input in Device,input,Prevent backflow or contamination re-entry,Silicone duckbill / umbrella one-way valve
+02,Water Input in Device,input,Prevent backflow or contamination re-entry,Spring-loaded check valve
+02,Water Input in Device,input,Prevent backflow or contamination re-entry,"Air-gap inlet design — physical separation, no valve needed"
+03,Filter Microplastics,process,Convey water through the filter stage,Zero-power gravity-fed reservoir
+03,Filter Microplastics,process,Convey water through the filter stage,Manual hand-pump / squeeze bulb
+03,Filter Microplastics,process,Convey water through the filter stage,Motorised peristaltic pump
+03,Filter Microplastics,process,Convey water through the filter stage,Motorised diaphragm / piston micro-pump
+03,Filter Microplastics,process,Convey water through the filter stage,Stored-energy syringe / vacuum draw
+03,Filter Microplastics,process,Convey water through the filter stage,Pre-charged spring or pressurised cartridge
+03,Filter Microplastics,process,Separate coarse particles / debris (pre-filter),Steel micro-mesh screen
+03,Filter Microplastics,process,Separate coarse particles / debris (pre-filter),Sand / gravel depth bed
+03,Filter Microplastics,process,Separate coarse particles / debris (pre-filter),Sintered ceramic candle pre-filter
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),Polymeric membrane — UF / NF
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),Ceramic UF membrane
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),Acoustic / resonant standing-wave focusing (incl. Acousweep)
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),Magnetic Fe₃O₄ nanoparticle capture
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),Electrostatic / electret capture
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),"Hydrocyclone — no-media, flow-based"
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),Dissolved-air / microbubble flotation
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),Coagulation-flocculation (alum/PACl or chitosan)
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),Electrocoagulation — Fe/Al sacrificial electrode
+03,Filter Microplastics,process,Separate microplastic particles by size or shape (fine filter),"Bio-adsorbent media — mycelium mat, nanocellulose/chitosan sponge"
+03,Filter Microplastics,process,Regulate flow rate through the filter media,Fixed flow-restrictor orifice downstream of the filter
+03,Filter Microplastics,process,Regulate flow rate through the filter media,Pump duty-cycle / PWM control
+03,Filter Microplastics,process,Regulate flow rate through the filter media,Pressure-relief bypass valve
+03,Filter Microplastics,process,Retain / trap separated particles within the media,Inherent to the chosen fine-filter mechanism above
+03,Filter Microplastics,process,Retain / trap separated particles within the media,"Backing support mesh + edge O-ring seal, prevents media bypass"
+03,Filter Microplastics,process,Retain / trap separated particles within the media,Cartridge housing with compression seal
+03,Filter Microplastics,process,Indicate filter saturation or clogging,Differential-pressure sensor / switch across the filter
+03,Filter Microplastics,process,Indicate filter saturation or clogging,Flow-rate drop-off timer (compares fill time to a baseline)
+03,Filter Microplastics,process,Indicate filter saturation or clogging,"Mechanical pressure-indicator disc, colour-change (N95-style)"
+03,Filter Microplastics,process,Indicate filter saturation or clogging,"Manual replacement-schedule reminder via app or calendar, no sensor"
+03,Filter Microplastics,process,Allow filter element access / replacement,Twist-lock cartridge housing
+03,Filter Microplastics,process,Allow filter element access / replacement,Tool-free snap-fit end cap
+03,Filter Microplastics,process,Allow filter element access / replacement,Screw-cap housing with O-ring
+03,Filter Microplastics,process,Allow filter element access / replacement,Quick-connect push-fit cartridge
+04,Purification,process,Convey filtered water to the purification stage,Gravity-fed chamber
+04,Purification,process,Convey filtered water to the purification stage,Shared pump line from the filtration stage
+04,Purification,process,Convey filtered water to the purification stage,Static in-line flow-through tube
+04,Purification,process,Expose water to a disinfection agent or energy source,"UV-C LED array, ~265 nm — NSF Class A target ≥40 mJ/cm², Class B ≥16 mJ/cm²"
+04,Purification,process,Expose water to a disinfection agent or energy source,"Traditional UV mercury lamp — higher output but larger, fragile, being phased out"
+04,Purification,process,Expose water to a disinfection agent or energy source,Chlorine or silver-ion dosing cartridge
+04,Purification,process,Expose water to a disinfection agent or energy source,Electrochemical disinfection — in-situ chlorine generation via electrolysis
+04,Purification,process,Expose water to a disinfection agent or energy source,Ozone micro-generator
+04,Purification,process,Regulate exposure dose / time,Fixed-residence-time flow-through tube — dose set by geometry
+04,Purification,process,Regulate exposure dose / time,"Timed batch-hold cycle — valve closes, UV runs for a set duration"
+04,Purification,process,Regulate exposure dose / time,Flow-rate-linked LED intensity control — dose as a function of flow speed
+04,Purification,process,Monitor treatment completion,UV sensor / photodiode feedback confirming LED output
+04,Purification,process,Monitor treatment completion,"Cycle-timer indicator, open-loop, no feedback"
+04,Purification,process,Monitor treatment completion,"Residual chlorine test strip, for the chemical-dosing route"
+04,Purification,process,"Neutralize or vent treatment by-products, if any","Not applicable for UV-C — no chemical by-product, a key advantage over chlorination"
+04,Purification,process,"Neutralize or vent treatment by-products, if any",Activated-carbon polishing stage for the chlorine/ozone routes
+04,Purification,process,"Neutralize or vent treatment by-products, if any",Off-gas vent for the ozone route
+05,Store Clean Water,process,Convey purified water into storage,Gravity drop into the reservoir
+05,Store Clean Water,process,Convey purified water into storage,Continued pump-through into a sealed tank
+05,Store Clean Water,process,Contain / hold the treated water volume,Rigid BPA-free copolyester / Tritan reservoir
+05,Store Clean Water,process,Contain / hold the treated water volume,Food-grade stainless-steel tank
+05,Store Clean Water,process,Contain / hold the treated water volume,Collapsible food-grade silicone bladder — compact / portable
+05,Store Clean Water,process,Seal storage against recontamination,Screw-cap lid with silicone O-ring
+05,Store Clean Water,process,Seal storage against recontamination,Snap-fit lid with gasket
+05,Store Clean Water,process,Seal storage against recontamination,Self-sealing valve cap — opens only under suction or pressure
+05,Store Clean Water,process,Indicate stored volume / level,"Hydrostatic pressure sensor — cheapest, most power-efficient, best portable fit"
+05,Store Clean Water,process,Indicate stored volume / level,Float sensor / reed switch
+05,Store Clean Water,process,Indicate stored volume / level,Capacitive level probe
+05,Store Clean Water,process,Indicate stored volume / level,"Ultrasonic level sensor — non-contact, but 10–100× more power draw"
+05,Store Clean Water,process,Indicate stored volume / level,"Sight-glass / graduated window — zero power, passive"
+05,Store Clean Water,process,Preserve water quality over the storage period,UV-C LED periodic recirculation / idle-state disinfection pulse
+05,Store Clean Water,process,Preserve water quality over the storage period,"Opaque housing — blocks light, limits algae growth"
+05,Store Clean Water,process,Preserve water quality over the storage period,Silver-ion impregnated liner — passive antimicrobial
+05,Store Clean Water,process,Preserve water quality over the storage period,UI reminder encouraging short storage duration (procedural)
+06,Dispense Safe Drinkable Water,output,Convey water from storage to the outlet,Gravity-fed spout
+06,Dispense Safe Drinkable Water,output,Convey water from storage to the outlet,Same pump line reused for dispensing
+06,Dispense Safe Drinkable Water,output,Convey water from storage to the outlet,Dedicated small dispensing pump
+06,Dispense Safe Drinkable Water,output,Actuate dispensing on user demand,Push-button / bite-valve spout (Sawyer / Grayl-style press-to-open)
+06,Dispense Safe Drinkable Water,output,Actuate dispensing on user demand,Squeeze-bulb actuation
+06,Dispense Safe Drinkable Water,output,Actuate dispensing on user demand,"Tilt-to-pour, passive, no actuator"
+06,Dispense Safe Drinkable Water,output,Actuate dispensing on user demand,Touch-sensor-triggered electric valve
+06,Dispense Safe Drinkable Water,output,Regulate dispensed flow rate / volume,Fixed-orifice spout nozzle
+06,Dispense Safe Drinkable Water,output,Regulate dispensed flow rate / volume,Adjustable flow-control collar
+06,Dispense Safe Drinkable Water,output,Regulate dispensed flow rate / volume,Portion-metered pump cycle — fixed volume per press
+06,Dispense Safe Drinkable Water,output,Protect the dispensing point from contamination,"Silicone one-way duckbill valve at the mouthpiece, prevents backwash"
+06,Dispense Safe Drinkable Water,output,Protect the dispensing point from contamination,Flip-cap dust cover over the spout
+06,Dispense Safe Drinkable Water,output,Protect the dispensing point from contamination,Retractable / telescoping spout
+06,Dispense Safe Drinkable Water,output,Stop / shut off flow after dispensing,"Spring-return valve, auto-closes on release"
+06,Dispense Safe Drinkable Water,output,Stop / shut off flow after dispensing,Timed pump cutoff
+06,Dispense Safe Drinkable Water,output,Stop / shut off flow after dispensing,Manual cap reseal
+07,Collection of Microplastics,process,Branch / divert a sample stream from the main flow,T-junction bleed line with a micro-valve
+07,Collection of Microplastics,process,Branch / divert a sample stream from the main flow,Sample port with syringe draw
+07,Collection of Microplastics,process,Branch / divert a sample stream from the main flow,Bypass loop timed to open periodically
+07,Collection of Microplastics,process,Convey the sample to the detection zone,"Small-bore capillary tube, gravity- or pump-fed"
+07,Collection of Microplastics,process,Convey the sample to the detection zone,Dedicated micro-pump on the sample line
+07,Collection of Microplastics,process,Convey the sample to the detection zone,"Manual pipette transfer — lab-adjacent, less automated"
+07,Collection of Microplastics,process,Concentrate / isolate particles within the sample,Secondary fine mesh / membrane trap sized to the sample volume
+07,Collection of Microplastics,process,Concentrate / isolate particles within the sample,Centrifugal micro-separation — miniaturised hydrocyclone-style
+07,Collection of Microplastics,process,Concentrate / isolate particles within the sample,Settling / gravity concentration chamber
+07,Collection of Microplastics,process,Hold sample volume steady for measurement,Fixed-volume flow-through cuvette / cell
+07,Collection of Microplastics,process,Hold sample volume steady for measurement,Batch-hold micro-chamber with shutter valve
+07,Collection of Microplastics,process,Hold sample volume steady for measurement,"Continuous-flow tube — inline reading, no hold"
+07,Collection of Microplastics,process,Separate microplastics from other suspended solids,Fluorescent tagging (Nile Red) to optically distinguish plastics from organics
+07,Collection of Microplastics,process,Separate microplastics from other suspended solids,Density-based separation — plastics vs. minerals
+07,Collection of Microplastics,process,Separate microplastics from other suspended solids,Polymer-specific spectral signature (Raman / FTIR) to exclude non-plastic hits
+08,Detection / Count Microplastics per Unit Volume,process,Sense presence of particles in the sample,"Smartphone camera + fluorescence excitation, Nile Red staining"
+08,Detection / Count Microplastics per Unit Volume,process,Sense presence of particles in the sample,$10 clip-on microscope + camera
+08,Detection / Count Microplastics per Unit Volume,process,Sense presence of particles in the sample,"Turbidity / optical-density proxy sensor — cheap, but not MP-specific"
+08,Detection / Count Microplastics per Unit Volume,process,Sense presence of particles in the sample,UV-fluorescence flow-tube detector
+08,Detection / Count Microplastics per Unit Volume,process,Distinguish microplastic particles from other debris,Nile Red fluorescence + colour/shape filtering
+08,Detection / Count Microplastics per Unit Volume,process,Distinguish microplastic particles from other debris,YOLOv5 / YOLOv8 ML classification on captured images
+08,Detection / Count Microplastics per Unit Volume,process,Distinguish microplastic particles from other debris,Electrostatic pretreatment + TOC discrimination
+08,Detection / Count Microplastics per Unit Volume,process,Distinguish microplastic particles from other debris,"Polymer-specific Raman / FTIR signature — lab-grade, likely too costly/bulky for portable"
+08,Detection / Count Microplastics per Unit Volume,process,Measure particle size and / or count,"Image-processing pixel-to-size calibration, works with any camera-based method"
+08,Detection / Count Microplastics per Unit Volume,process,Measure particle size and / or count,Impedance / Coulter-counter-style particle sizing
+08,Detection / Count Microplastics per Unit Volume,process,Measure particle size and / or count,Manual visual count under magnification — low-cost fallback
+08,Detection / Count Microplastics per Unit Volume,process,Convert the sensed signal into quantifiable data,On-device microcontroller image processing — edge ML (TinyML-class chip)
+08,Detection / Count Microplastics per Unit Volume,process,Convert the sensed signal into quantifiable data,"Cloud / phone-app processing — offloads compute, avoids FLOro’s cost overrun"
+08,Detection / Count Microplastics per Unit Volume,process,Convert the sensed signal into quantifiable data,"Simple threshold-comparator circuit, turbidity route only"
+08,Detection / Count Microplastics per Unit Volume,process,Normalize count to a per-unit-volume value,Firmware calculation using the known sample-chamber volume (Step 07)
+08,Detection / Count Microplastics per Unit Volume,process,Normalize count to a per-unit-volume value,Calibration curve against reference standards
+08,Detection / Count Microplastics per Unit Volume,process,Normalize count to a per-unit-volume value,Flow-rate-linked continuous count — particles/second × known flow rate
+08,Detection / Count Microplastics per Unit Volume,process,Compare measured value against a safety threshold,"On-device firmware threshold logic, simple pass/fail"
+08,Detection / Count Microplastics per Unit Volume,process,Compare measured value against a safety threshold,App-side comparison against the team’s 90% / 99% removal-efficiency target
+08,Detection / Count Microplastics per Unit Volume,process,Compare measured value against a safety threshold,User-configurable sensitivity threshold
+08,Detection / Count Microplastics per Unit Volume,process,Store / log the measurement,"On-device flash memory log, timestamped readings"
+08,Detection / Count Microplastics per Unit Volume,process,Store / log the measurement,Companion-app cloud or local history log
+08,Detection / Count Microplastics per Unit Volume,process,Store / log the measurement,No logging — instantaneous display only
+09,Display Output,output,Receive processed detection data,Wired connection from the detection PCB to the display module
+09,Display Output,output,Receive processed detection data,BLE / Wi-Fi link to a companion phone app
+09,Display Output,output,Receive processed detection data,"Direct analog signal to a simple indicator, no digital data"
+09,Display Output,output,Convert data into human-readable form,On-device firmware renders text / icons
+09,Display Output,output,Convert data into human-readable form,"Phone-app UI does all rendering, device just transmits raw data"
+09,Display Output,output,Convert data into human-readable form,Simple LED colour / blink-pattern code
+09,Display Output,output,Present result to the user (visual / audio / haptic),"E-paper / e-ink screen — near-0 static power, sunlight-readable, best for infrequent updates"
+09,Display Output,output,Present result to the user (visual / audio / haptic),"Memory LCD (MIP) — 1–5 µW static, supports scrolling/animation, weeks–months battery life"
+09,Display Output,output,Present result to the user (visual / audio / haptic),"PMOLED — higher power, best contrast/speed, poor sunlight readability"
+09,Display Output,output,Present result to the user (visual / audio / haptic),"Simple RGB LED indicator array — lowest cost/power, coarse info only"
+09,Display Output,output,Present result to the user (visual / audio / haptic),Buzzer / audio alert — fits the 30% of quiz respondents who want no visible detail
+09,Display Output,output,Present result to the user (visual / audio / haptic),Haptic vibration alert
+09,Display Output,output,Allow switching between simple and detailed views,Physical toggle button / switch
+09,Display Output,output,Allow switching between simple and detailed views,App-side settings menu
+09,Display Output,output,Allow switching between simple and detailed views,Long-press gesture on a single button
+09,Display Output,output,Indicate alert status if a threshold is exceeded,Dedicated red LED / icon flash
+09,Display Output,output,Indicate alert status if a threshold is exceeded,Audible alarm chirp
+09,Display Output,output,Indicate alert status if a threshold is exceeded,Push notification via the companion app

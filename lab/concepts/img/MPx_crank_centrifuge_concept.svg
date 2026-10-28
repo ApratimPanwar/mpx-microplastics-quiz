@@ -1,0 +1,302 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1205" viewBox="0 0 1600 1205" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplZWRlYjliMy02YjQzLTRkNTktYTc5Mi1mOTIxYjViNGFmZDUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCt8S9IaiVE8JQ/J1WtdazwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0MGI4YjVlZC00Mjk2LTQxMjctYTQ5My0yZjRmMjE1NjdhNTdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo2PyIwYBioUgxgRF8dq35nQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggukLr6R+Rcs76rQuzoBS5xsBBx+JAB+10ZdysVKVjwFmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBLJLmRmVlUa70urw/idHGkAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAknKfJWVwoSMBZ48PDCyHK5QpXYgfezXM62PNUgirLS2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmVlZGViOWIzLTZiNDMtNGQ1OS1hNzkyLWY5MjFiNWI0YWZkNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmVhNTI3YzAyLWUyNTctNDdkOS1hMDJmLTNlNDM1OWIzMWYyY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC6QuvpH5FyzvqtC7OgFLnGwEHH4kAH7XRl3KxUpWPAWaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg+K0ajIonEcGlanPnA5H6E7uDmRVrNDXTd20MthzbcLKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggzZNrmuC9jvbPumK0jsaQLA2ZFQDoybwwvkn5Z7OZvLl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAiWqTHqfq3s8K/aE/jkuqCxfHJJGqb6ThytOfP+OIrVGrnNKGpwHJKBJw12Wfa2PrcUt8S7Q814HXvQn81yO8s=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="gDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f242e"/><stop offset="0.4" stop-color="#4a5263"/><stop offset="1" stop-color="#1b1f27"/>
+    </linearGradient>
+    <linearGradient id="gSteel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8f9aa0"/><stop offset="0.35" stop-color="#e3e8ea"/><stop offset="0.5" stop-color="#ffffff"/>
+      <stop offset="0.8" stop-color="#bcc5ca"/><stop offset="1" stop-color="#86919a"/>
+    </linearGradient>
+    <linearGradient id="gGlass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cfe4ee" stop-opacity="0.95"/><stop offset="0.25" stop-color="#f4fafc" stop-opacity="0.45"/>
+      <stop offset="0.75" stop-color="#eaf4f8" stop-opacity="0.4"/><stop offset="1" stop-color="#bcd8e5" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="gSleeve" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b99a6b"/><stop offset="0.4" stop-color="#efe3cc"/><stop offset="1" stop-color="#b3925f"/>
+    </linearGradient>
+    <pattern id="mesh" width="8" height="8" patternUnits="userSpaceOnUse">
+      <path d="M0 0 L8 8 M8 0 L0 8" stroke="#6b7280" stroke-width="0.8"/>
+    </pattern>
+    <pattern id="meshBg" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#d9dee1"/><path d="M0 0 L8 8 M8 0 L0 8" stroke="#5b6570" stroke-width="0.9"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/>
+    </marker>
+    <marker id="arrB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2f80c0"/>
+    </marker>
+    <marker id="arrO" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#e8503a"/>
+    </marker>
+  </defs>
+
+  <rect width="1600" height="1205" fill="#f4f3ef"/>
+
+  <!-- HEADER -->
+  <text x="30" y="52" font-size="26" font-weight="700" fill="#1d2433">MPx Spin: Hand-Crank Centrifugal Filter</text>
+  <text x="30" y="78" font-size="14" fill="#5b6475">Turn the crank and the basket spins. Spinning throws the water outward through a steel-mesh + organic sleeve, which keeps the microplastics. No electricity, and the sleeve lifts out for replacement.</text>
+  <text x="1570" y="52" font-size="12" fill="#8a91a0" text-anchor="end">Concept sketch · v0.1</text>
+
+  <!-- ================= PANEL A : HERO ================= -->
+  <rect x="30" y="110" width="570" height="1020" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="54" y="142" font-size="15" font-weight="700" fill="#1d2433">A · The unit</text>
+  <rect x="54" y="158" width="250" height="28" rx="14" fill="#1d2433"/>
+  <text x="179" y="177" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">pour · crank · pour out · swap</text>
+
+  <!-- base -->
+  <rect x="160" y="894" width="260" height="42" rx="14" fill="url(#gDark)"/>
+  <rect x="176" y="932" width="30" height="8" rx="3" fill="#111"/><rect x="374" y="932" width="30" height="8" rx="3" fill="#111"/>
+
+  <!-- outer bowl (back) -->
+  <rect x="170" y="330" width="240" height="570" rx="26" fill="url(#gGlass)" stroke="#a9c7d4" stroke-width="1.5"/>
+  <!-- collected water -->
+  <path d="M172,842 L408,842 L408,874 Q408,898 384,898 L196,898 Q172,898 172,874 Z" fill="#a9d6ec" fill-opacity="0.85"/>
+  <path d="M172 842 q20 -5 40 0 t40 0 t40 0 t40 0 t40 0 t36 0" stroke="#7fbadb" stroke-width="1.5" fill="none"/>
+
+  <!-- basket -->
+  <ellipse cx="290" cy="820" rx="85" ry="16" fill="#9c7d52"/>
+  <rect x="205" y="380" width="170" height="440" fill="url(#gSleeve)"/>
+  <rect x="205" y="380" width="170" height="440" fill="url(#mesh)" opacity="0.55"/>
+  <path d="M207,420 Q290,590 373,420 L373,816 L207,816 Z" fill="#8cc6e3" fill-opacity="0.45"/>
+  <g fill="#ff7a3d"><circle cx="212" cy="520" r="2"/><circle cx="214" cy="640" r="1.8"/><circle cx="368" cy="560" r="2"/><circle cx="366" cy="700" r="1.8"/></g>
+  <g fill="#38bdf8"><circle cx="211" cy="590" r="1.6"/><circle cx="369" cy="630" r="1.6"/></g>
+  <ellipse cx="290" cy="380" rx="85" ry="16" fill="#e9dcc3" stroke="#9c7d52"/>
+  <ellipse cx="290" cy="380" rx="70" ry="11" fill="#b9dcee"/>
+  <!-- spin arrow -->
+  <path d="M196 612 A94 20 0 0 0 384 612" stroke="#e8503a" stroke-width="2.2" fill="none" marker-end="url(#arrO)"/>
+  <!-- thrown droplets -->
+  <g stroke="#2f80c0" stroke-width="1.6" stroke-linecap="round">
+    <line x1="203" y1="480" x2="182" y2="486"/><line x1="203" y1="560" x2="182" y2="566"/><line x1="203" y1="700" x2="182" y2="706"/>
+    <line x1="377" y1="480" x2="398" y2="486"/><line x1="377" y1="660" x2="398" y2="666"/><line x1="377" y1="740" x2="398" y2="746"/>
+  </g>
+  <line x1="184" y1="350" x2="184" y2="820" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- lid -->
+  <rect x="160" y="300" width="260" height="42" rx="10" fill="url(#gDark)"/>
+  <ellipse cx="290" cy="302" rx="130" ry="20" fill="#3a4150"/>
+  <ellipse cx="206" cy="302" rx="20" ry="5" fill="#0d0f14"/>
+  <path d="M190 297 L186 284 L214 280" stroke="#4a5263" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- gear dome + crank -->
+  <rect x="245" y="256" width="90" height="46" fill="url(#gDark)"/>
+  <ellipse cx="290" cy="256" rx="45" ry="11" fill="#4a5263"/>
+  <path d="M290 252 L380 226" stroke="url(#gSteel)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M290 252 L380 226" stroke="#86919a" stroke-width="1" fill="none"/>
+  <circle cx="290" cy="252" r="7" fill="#e3e8ea" stroke="#86919a"/>
+  <rect x="372" y="186" width="17" height="42" rx="8" fill="#e8503a"/>
+  <path d="M232 272 A72 22 0 0 0 348 280" stroke="#1d2433" stroke-width="1.8" fill="none" marker-end="url(#arr)"/>
+  <!-- pour -->
+  <line x1="206" y1="206" x2="206" y2="290" stroke="#2f80c0" stroke-width="2.5" marker-end="url(#arrB)"/>
+
+  <!-- tap + cup -->
+  <path d="M408,868 L452,868 Q458,868 458,874 L458,888 L448,888 L448,880 L408,880 Z" fill="url(#gSteel)" stroke="#86919a"/>
+  <rect x="428" y="856" width="18" height="6" rx="3" fill="#e8503a"/>
+  <line x1="453" y1="890" x2="453" y2="962" stroke="#7fbadb" stroke-width="3"/>
+  <path d="M420,960 L490,960 L484,1030 L426,1030 Z" fill="#e8f3f8" fill-opacity="0.6" stroke="#a9c7d4" stroke-width="1.5"/>
+  <path d="M423,990 L487,990 L484,1030 L426,1030 Z" fill="#bfe0f0" fill-opacity="0.85"/>
+
+  <!-- hero callouts -->
+  <g stroke="#9aa3b3" stroke-width="1" fill="none">
+    <polyline points="389,206 466,206"/><polyline points="410,450 466,450"/><polyline points="375,640 466,640"/>
+    <polyline points="446,859 466,830"/>
+    <polyline points="198,226 162,226"/><polyline points="236,520 162,520"/><polyline points="180,870 162,870"/>
+  </g>
+  <g font-size="12.5">
+    <text x="470" y="202" font-weight="700" fill="#1d2433">Hand crank</text>
+    <text x="470" y="218" font-size="11" fill="#5b6475">1:5 gear, no power</text>
+    <text x="470" y="446" font-weight="700" fill="#1d2433">Glass outer bowl</text>
+    <text x="470" y="462" font-size="11" fill="#5b6475">see it working</text>
+    <text x="470" y="636" font-weight="700" fill="#1d2433">Filter sleeve</text>
+    <text x="470" y="652" font-size="11" fill="#5b6475">steel mesh + organic</text>
+    <text x="470" y="668" font-size="11" fill="#5b6475">layer, lifts out</text>
+    <text x="470" y="826" font-weight="700" fill="#1d2433">Tap</text>
+    <text x="470" y="842" font-size="11" fill="#5b6475">filtered water out</text>
+    <text x="158" y="222" font-weight="700" fill="#1d2433" text-anchor="end">Pour in</text>
+    <text x="158" y="238" font-size="11" fill="#5b6475" text-anchor="end">flip-cap inlet</text>
+    <text x="158" y="516" font-weight="700" fill="#1d2433" text-anchor="end">Spinning water</text>
+    <text x="158" y="532" font-size="11" fill="#5b6475" text-anchor="end">thrown outward</text>
+    <text x="158" y="866" font-weight="700" fill="#1d2433" text-anchor="end">Clean water</text>
+    <text x="158" y="882" font-size="11" fill="#5b6475" text-anchor="end">collects here</text>
+  </g>
+  <text x="54" y="1084" font-size="11.5" fill="#5b6475">Works like a salad spinner, but the water is what passes through: the spin pushes it</text>
+  <text x="54" y="1101" font-size="11.5" fill="#5b6475">through the sleeve, and the plastic particles stay behind on the sleeve's inner face.</text>
+
+  <!-- ================= PANEL B : SECTION ================= -->
+  <rect x="620" y="110" width="560" height="660" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="644" y="142" font-size="15" font-weight="700" fill="#1d2433">B · Section: how it filters</text>
+
+  <!-- outer bowl -->
+  <rect x="680" y="222" width="8" height="506" fill="#a9c7d4"/><rect x="912" y="222" width="8" height="506" fill="#a9c7d4"/>
+  <rect x="680" y="720" width="240" height="8" fill="#a9c7d4"/>
+  <rect x="688" y="668" width="224" height="52" fill="#a9d6ec" fill-opacity="0.85"/>
+  <!-- bearing -->
+  <rect x="786" y="700" width="28" height="20" rx="3" fill="#6b7280"/>
+  <circle cx="794" cy="710" r="4" fill="#e5e7eb"/><circle cx="806" cy="710" r="4" fill="#e5e7eb"/>
+  <!-- outlet -->
+  <path d="M920,702 L962,702 L962,720 L952,720 L952,714 L920,714 Z" fill="#9aa3ad"/>
+  <line x1="957" y1="722" x2="957" y2="748" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#arrB)"/>
+
+  <!-- basket: mesh outer, sleeve inner -->
+  <rect x="715" y="252" width="10" height="398" fill="url(#meshBg)"/><rect x="875" y="252" width="10" height="398" fill="url(#meshBg)"/>
+  <rect x="725" y="252" width="12" height="388" fill="#e3d2b0"/><rect x="863" y="252" width="12" height="388" fill="#e3d2b0"/>
+  <rect x="715" y="640" width="170" height="10" fill="#6b7280"/>
+  <path d="M737,300 Q800,450 863,300 L863,640 L737,640 Z" fill="#8cc6e3" fill-opacity="0.5"/>
+  <g>
+    <circle cx="741" cy="360" r="2.4" fill="#ff7a3d"/><circle cx="741" cy="420" r="2" fill="#38bdf8"/><circle cx="741" cy="500" r="2.4" fill="#f472b6"/>
+    <circle cx="741" cy="580" r="2" fill="#fbbf24"/><circle cx="859" cy="390" r="2.2" fill="#fbbf24"/><circle cx="859" cy="470" r="2.4" fill="#ff7a3d"/>
+    <circle cx="859" cy="550" r="2" fill="#38bdf8"/><circle cx="859" cy="610" r="2.2" fill="#f472b6"/>
+  </g>
+  <!-- shaft -->
+  <rect x="797" y="176" width="6" height="524" fill="#86919a"/>
+  <!-- radial flow -->
+  <g stroke="#2f80c0" stroke-width="1.8" marker-end="url(#arrB)">
+    <line x1="770" y1="380" x2="696" y2="380"/><line x1="770" y1="470" x2="696" y2="470"/><line x1="770" y1="560" x2="696" y2="560"/>
+    <line x1="830" y1="420" x2="904" y2="420"/><line x1="830" y1="510" x2="904" y2="510"/><line x1="830" y1="600" x2="904" y2="600"/>
+  </g>
+  <path d="M740 268 A60 12 0 0 0 860 268" stroke="#e8503a" stroke-width="2" fill="none" marker-end="url(#arrO)"/>
+  <!-- lid + gear -->
+  <rect x="672" y="200" width="256" height="22" rx="6" fill="#2b3140"/>
+  <path d="M712,186 L736,186 L730,222 L718,222 Z" fill="#4a5263"/>
+  <line x1="724" y1="160" x2="724" y2="200" stroke="#2f80c0" stroke-width="2" marker-end="url(#arrB)"/>
+  <rect x="772" y="168" width="110" height="32" rx="6" fill="#3a4150"/>
+  <ellipse cx="800" cy="186" rx="11" ry="4" fill="#cbd2d6" stroke="#6b7280"/>
+  <ellipse cx="850" cy="184" rx="26" ry="6" fill="#cbd2d6" stroke="#6b7280"/>
+  <g stroke="#6b7280" stroke-width="1"><line x1="828" y1="184" x2="872" y2="184"/></g>
+  <rect x="847" y="130" width="6" height="42" fill="#86919a"/>
+  <rect x="847" y="128" width="54" height="7" rx="3" fill="#86919a"/>
+  <rect x="895" y="104" width="11" height="28" rx="5" fill="#e8503a"/>
+
+  <!-- legend -->
+  <g stroke="#c3c8d2" stroke-width="1">
+    <line x1="906" y1="118" x2="956" y2="150"/><line x1="738" y1="188" x2="956" y2="200"/>
+    <line x1="803" y1="240" x2="956" y2="250"/><line x1="737" y1="330" x2="956" y2="320"/>
+    <line x1="885" y1="380" x2="956" y2="388"/><line x1="863" y1="470" x2="956" y2="458"/>
+    <line x1="920" y1="530" x2="956" y2="528"/><line x1="814" y1="710" x2="956" y2="598"/>
+    <line x1="962" y1="708" x2="970" y2="668"/>
+  </g>
+  <g font-size="12" font-weight="700" fill="#1d2433">
+    <text x="962" y="150">1 · Crank + 1:5 gear</text>
+    <text x="962" y="200">2 · Flip-cap inlet</text>
+    <text x="962" y="250">3 · Central shaft</text>
+    <text x="962" y="320">4 · Organic sleeve (inner)</text>
+    <text x="962" y="388">5 · Steel mesh cage</text>
+    <text x="962" y="458">6 · Trapped microplastics</text>
+    <text x="962" y="528">7 · Outer bowl</text>
+    <text x="962" y="598">8 · Sealed bearing</text>
+    <text x="974" y="668">9 · Tap</text>
+  </g>
+  <g font-size="10.5" fill="#5b6475">
+    <text x="976" y="164">hand speed × 5 at the basket</text>
+    <text x="976" y="214">water drops into the basket</text>
+    <text x="976" y="264">stainless, drives from the top</text>
+    <text x="976" y="334">filter paper or mycelium mat:</text>
+    <text x="976" y="348">does the fine filtering</text>
+    <text x="976" y="402">0.5 mm steel: holds the sleeve's</text>
+    <text x="976" y="416">shape against the spin pressure</text>
+    <text x="976" y="472">stay on the sleeve's inner face</text>
+    <text x="976" y="542">glass; collects filtered water</text>
+    <text x="976" y="612">ceramic balls, no plastic parts</text>
+    <text x="988" y="682">pour out clean water</text>
+  </g>
+  <text x="644" y="758" font-size="10.5" fill="#8a91a0" font-style="italic">Schematic, not to scale. Blue arrows: water thrown out through the wall.</text>
+
+  <!-- ================= PANEL C : SLEEVE ================= -->
+  <rect x="1200" y="110" width="370" height="660" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="1224" y="142" font-size="15" font-weight="700" fill="#1d2433">C · Swap the sleeve</text>
+
+  <!-- cage -->
+  <rect x="1325" y="182" width="140" height="130" fill="url(#meshBg)"/>
+  <ellipse cx="1395" cy="312" rx="70" ry="13" fill="#9aa3ad"/>
+  <ellipse cx="1395" cy="182" rx="70" ry="13" fill="#4a5263" stroke="#86919a"/>
+  <!-- sleeve -->
+  <rect x="1337" y="370" width="116" height="110" fill="url(#gSleeve)"/>
+  <ellipse cx="1395" cy="480" rx="58" ry="11" fill="#b3925f"/>
+  <ellipse cx="1395" cy="370" rx="58" ry="11" fill="#efe3cc" stroke="#b3925f"/>
+  <line x1="1418" y1="378" x2="1418" y2="488" stroke="#9c7d52" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <line x1="1395" y1="352" x2="1395" y2="206" stroke="#1d2433" stroke-width="1.8" marker-end="url(#arr)"/>
+  <!-- ring -->
+  <ellipse cx="1395" cy="530" rx="70" ry="13" fill="none" stroke="#86919a" stroke-width="7"/>
+  <line x1="1395" y1="514" x2="1395" y2="496" stroke="#1d2433" stroke-width="1.8" marker-end="url(#arr)"/>
+  <g font-size="11" text-anchor="end">
+    <text x="1316" y="240" font-weight="700" fill="#1d2433">steel mesh</text><text x="1316" y="254" fill="#5b6475">cage (stays)</text>
+    <text x="1328" y="420" font-weight="700" fill="#1d2433">organic</text><text x="1328" y="434" fill="#5b6475">sleeve</text><text x="1328" y="448" fill="#e8503a" font-weight="700">replace</text>
+    <text x="1316" y="534" font-weight="700" fill="#1d2433">lock ring</text>
+  </g>
+
+  <text x="1224" y="578" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">SLEEVE OPTIONS</text>
+  <g font-size="11">
+    <rect x="1224" y="590" width="10" height="10" rx="2" fill="#efe3cc" stroke="#b3925f"/>
+    <text x="1242" y="599" font-weight="700" fill="#1d2433">Cellulose filter paper, ~11 µm</text>
+    <text x="1242" y="613" fill="#5b6475">the pore size FLOro used to collect MPs [1]</text>
+    <rect x="1224" y="624" width="10" height="10" rx="2" fill="#d8c29a"/>
+    <text x="1242" y="633" font-weight="700" fill="#1d2433">Mycelium mat</text>
+    <text x="1242" y="647" fill="#5b6475">fungal hyphae hold fine particles [2]</text>
+    <rect x="1224" y="658" width="10" height="10" rx="2" fill="#f6f1e6" stroke="#cbbf9f"/>
+    <text x="1242" y="667" font-weight="700" fill="#1d2433">Nanocellulose / chitosan pad</text>
+    <text x="1242" y="681" fill="#5b6475">finer polishing layer</text>
+  </g>
+  <rect x="1224" y="698" width="322" height="54" rx="8" fill="#fdf1ec" stroke="#f3c2b3"/>
+  <text x="1236" y="718" font-size="11" font-weight="700" fill="#b4331f">The used sleeve is a ready-made sample:</text>
+  <text x="1236" y="734" font-size="11" fill="#5b6475">stain it with Nile Red and count the plastics</text>
+  <text x="1236" y="748" font-size="11" fill="#5b6475">on MPx Detect.</text>
+
+  <!-- ================= PANEL D ================= -->
+  <rect x="620" y="790" width="950" height="340" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="644" y="822" font-size="15" font-weight="700" fill="#1d2433">D · Using it, and whether the physics works</text>
+
+  <line x1="680" y1="862" x2="1040" y2="862" stroke="#e2ddd2" stroke-width="3"/>
+  <g>
+    <circle cx="680" cy="862" r="22" fill="#eaf4f9" stroke="#2f80c0" stroke-width="2"/>
+    <path d="M680 850 q-10 13 0 20 q10 -7 0 -20z" fill="#2f80c0"/>
+    <circle cx="800" cy="862" r="22" fill="#fdf1ec" stroke="#e8503a" stroke-width="2"/>
+    <path d="M788 862 a12 12 0 1 1 12 12" stroke="#e8503a" stroke-width="2.4" fill="none" marker-end="url(#arrO)"/>
+    <circle cx="920" cy="862" r="22" fill="#eaf4f9" stroke="#2f80c0" stroke-width="2"/>
+    <path d="M910 852 L930 852 L927 874 L913 874 Z" fill="#bfe0f0" stroke="#2f80c0" stroke-width="1.5"/>
+    <circle cx="1040" cy="862" r="22" fill="#f6f1e6" stroke="#9c7d52" stroke-width="2"/>
+    <rect x="1030" y="850" width="20" height="24" rx="3" fill="url(#gSleeve)"/>
+  </g>
+  <g font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="middle">
+    <text x="680" y="904">1 · Pour in</text><text x="800" y="904">2 · Crank ~30 s</text>
+    <text x="920" y="904">3 · Open tap</text><text x="1040" y="904">4 · Swap sleeve</text>
+  </g>
+  <g font-size="10.5" fill="#5b6475" text-anchor="middle">
+    <text x="680" y="920">about 1 litre</text><text x="800" y="920">keep a steady pace</text>
+    <text x="920" y="920">clean water out</text><text x="1040" y="920">when flow slows</text>
+  </g>
+
+  <rect x="644" y="944" width="440" height="170" rx="10" fill="#eef6fb" stroke="#bfdcec"/>
+  <text x="660" y="966" font-size="12.5" font-weight="700" fill="#1d2433">Why spinning works as a pump</text>
+  <g font-size="11" fill="#4a5263">
+    <text x="660" y="986">Spinning water presses outward. The pressure at the wall is roughly</text>
+    <text x="660" y="1006" font-size="13" font-weight="700" fill="#1d2433">P ≈ ½ · ρ · ω² · r²</text>
+    <text x="800" y="1006" fill="#8a91a0">(ρ water density, ω spin rate, r basket radius)</text>
+    <text x="660" y="1028">For a 6 cm basket radius:</text>
+    <text x="672" y="1044">• 600 rpm → about 7 kPa (like 0.7 m of water pushing down)</text>
+    <text x="672" y="1060">• 900 rpm → about 16 kPa (like 1.6 m of water)</text>
+    <text x="660" y="1080">A hand turns about 120–180 rpm; the 1:5 gear gives 600–900 rpm.</text>
+    <text x="660" y="1096">Pressure drops as the basket empties, so keep cranking to the end.</text>
+  </g>
+
+  <text x="1106" y="866" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">CHECK BEFORE BUILDING</text>
+  <g font-size="11" fill="#4a5263">
+    <text x="1106" y="888"><tspan font-weight="700" fill="#1d2433">The 0.5 mm mesh is only a support.</tspan> It stops pieces</text>
+    <text x="1106" y="903">over 0.5 mm; the organic sleeve does the fine filtering.</text>
+    <text x="1106" y="925"><tspan font-weight="700" fill="#1d2433">Fine sleeves clog.</tspan> Test flow against pore size to</text>
+    <text x="1106" y="940">find how often a sleeve needs changing.</text>
+    <text x="1106" y="962"><tspan font-weight="700" fill="#1d2433">Light plastics (PE, PP) drift inward</tspan> when spun, but</text>
+    <text x="1106" y="977">the water flowing out still carries them to the sleeve.</text>
+    <text x="1106" y="999"><tspan font-weight="700" fill="#1d2433">Don't add plastic by accident.</tspan> Keep the gears above</text>
+    <text x="1106" y="1014">the water; use steel, glass and ceramic in the wet parts.</text>
+    <text x="1106" y="1036"><tspan font-weight="700" fill="#1d2433">No germ treatment here</tspan> (no power for UV). Pair it</text>
+    <text x="1106" y="1051">with a UV stage or boil the water if germs are a concern.</text>
+  </g>
+  <text x="1106" y="1080" font-size="10.8" fill="#8a91a0" font-style="italic">Pressure figures are estimates from the formula,</text>
+  <text x="1106" y="1095" font-size="10.8" fill="#8a91a0" font-style="italic">not measurements; a prototype test should confirm them.</text>
+
+  <!-- SOURCES -->
+  <text x="30" y="1168" font-size="11" font-weight="700" fill="#5b6475">Sources</text>
+  <g font-size="10.5" fill="#5b6475">
+    <text x="90" y="1168">[1] Rermborirak et al. (2025). Low-cost portable microplastic detection system integrating Nile Red fluorescence staining with YOLOv8-based deep learning (FLOro). J. Hazard. Mater. Adv. 19, 100787. Used 11 µm filter paper.</text>
+    <text x="90" y="1185">[2] Wang, H., Dai, S. et al. (2023). Microplastics removal in the aquatic environment via fungal pelletization. Bioresource Technology Reports.</text>
+  </g>
+</svg>

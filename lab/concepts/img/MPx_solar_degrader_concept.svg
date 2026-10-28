@@ -1,0 +1,325 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1250" viewBox="0 0 1600 1250" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5MzUyOTRhNy1iNzU5LTQyOGEtOGY5MS02OGY4MThkNTViNGMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMhiodpjStkk1dc8yXgxGYoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0NDM5NDBlYi00NTJhLTRlZGItYTJlMi03ZGUxYmM5Y2E2Y2JscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoR4CbF1ZTc62n/+zk1Wq0rAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggodmo7+z/5SwwTdAOcBlXBHsNCzY8iDMMN+PqKaNtHQekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCq7aQggPhzplSlDUShnIrMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD3jpMTWbYtBdL/IiWS+UCgF8+PgOT6eSRv0obodhMbk2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjkzNTI5NGE3LWI3NTktNDI4YS04ZjkxLTY4ZjgxOGQ1NWI0Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmUxNmZjZWNhLWQ1MjUtNGMwMi1iYjEzLTkzODlhNjUwNTFlMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCh2ajv7P/lLDBN0A5wGVcEew0LNjyIMww34+opo20dB6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggL+vzfxWyQxeoJDCNQADEUi7qk1eOz+IBgaqD4AkRgyKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggb9rc/Y34qDYPjEmTnir9eKRtLydUtrISB27jeaUcs+B0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQErfc1/UNkxtcUe1KBml4ELN3qZ+TofX4ef6BNH5f4SulWdIyKyVuIxjAHGsf0IwgJy9RNTzDhc4oQqWni4WxEs=</c2pa:manifest></metadata>
+<defs>
+<linearGradient id="gAl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f7f8"/><stop offset="0.5" stop-color="#c9d1d6"/><stop offset="1" stop-color="#eef1f3"/></linearGradient>
+<linearGradient id="gAl2" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9edf0"/><stop offset="0.6" stop-color="#b9c2c8"/><stop offset="1" stop-color="#dfe4e7"/></linearGradient>
+<linearGradient id="gQ" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e0f2fe" stop-opacity="0.85"/><stop offset="1" stop-color="#bae6fd" stop-opacity="0.5"/></linearGradient>
+<radialGradient id="gSun" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fff7cc"/><stop offset="0.6" stop-color="#fcd34d"/><stop offset="1" stop-color="#f59e0b"/></radialGradient>
+<pattern id="foam" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#4b5563"/><circle cx="2" cy="2" r="1.2" fill="#6b7280"/><circle cx="6" cy="6" r="1" fill="#6b7280"/></pattern>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#86efac"/><line x1="0" y1="0" x2="0" y2="6" stroke="#16a34a" stroke-width="2"/></pattern>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker>
+<marker id="aS" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker>
+<marker id="aU" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b5cf6"/></marker>
+</defs>
+<rect width="1600" height="1250" fill="#f4f3ef"/>
+<text x="30" y="52" font-size="26" fill="#1d2433" font-weight="700">MPx Sol: Solar Photocatalytic Degrader for Used Filters</text>
+<text x="30" y="78" font-size="14" fill="#5b6475">A small box solar cooker: a mirror lid and sloped quartz top send sunlight onto a TiO₂-coated tray, where UV makes radicals that oxidise the captured microplastics towards CO₂ and water. Sun only.</text>
+<text x="1570" y="52" font-size="12" fill="#8a91a0" text-anchor="end">Concept sketch · v0.1</text>
+<rect x="30" y="110" width="570" height="590" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="54" y="142" font-size="15" fill="#1d2433" font-weight="700">A · A box solar cooker for used filters</text>
+<circle cx="100" cy="200" r="30" fill="url(#gSun)" filter="url(#glow)"/>
+<ellipse cx="350" cy="612" rx="230" ry="18" fill="#1d2433" opacity="0.13"/>
+<polygon points="240,420 520,420 566,196 286,196" fill="url(#gAl)" stroke="#9aa3ad" stroke-width="1.5"/>
+<polygon points="250,414 510,414 552,206 294,206" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+<line x1="518" y1="486" x2="552" y2="262" stroke="#6b7680" stroke-width="3"/>
+<polygon points="430,600 520,550 520,420 430,520" fill="#b45309"/>
+<polygon points="430,600 520,550 520,420 430,520" fill="#1f2937" opacity="0.55"/>
+<rect x="470" y="500" width="22" height="10" rx="3" fill="#e5e7eb" transform="skewY(-29) translate(0,262)"/>
+<polygon points="150,600 430,600 430,520 150,520" fill="#2b3140"/>
+<rect x="150" y="520" width="280" height="6" fill="#b45309"/>
+<polygon points="150,520 430,520 520,420 240,420" fill="#0d0f14"/>
+<polygon points="176,510 292,510 330,470 214,470" fill="#1f2937" stroke="#f8fafc" stroke-width="1.5"/>
+<polygon points="300,510 416,510 454,470 338,470" fill="#1f2937" stroke="#f8fafc" stroke-width="1.5"/>
+<ellipse cx="252" cy="490" rx="30" ry="9" fill="#e9dcc3" stroke="#b8976a"/>
+<ellipse cx="377" cy="490" rx="30" ry="9" fill="#e9dcc3" stroke="#b8976a"/>
+<circle cx="239.4" cy="490.5" r="1.7" fill="#ff7a3d"/>
+<circle cx="257.0" cy="491.5" r="1.5" fill="#38bdf8"/>
+<circle cx="228.6" cy="494.0" r="1.6" fill="#f472b6"/>
+<circle cx="239.2" cy="495.9" r="1.8" fill="#fbbf24"/>
+<circle cx="268.2" cy="489.7" r="1.9" fill="#a78bfa"/>
+<circle cx="235.2" cy="491.6" r="2.1" fill="#ff7a3d"/>
+<circle cx="253.1" cy="492.9" r="1.9" fill="#38bdf8"/>
+<circle cx="231.1" cy="493.1" r="1.9" fill="#f472b6"/>
+<circle cx="242.5" cy="484.4" r="2.1" fill="#fbbf24"/>
+<circle cx="250.7" cy="492.6" r="2.1" fill="#a78bfa"/>
+<circle cx="387.3" cy="495.1" r="1.7" fill="#ff7a3d"/>
+<circle cx="391.4" cy="489.3" r="2.1" fill="#38bdf8"/>
+<circle cx="395.2" cy="485.2" r="1.5" fill="#f472b6"/>
+<circle cx="363.4" cy="495.6" r="1.7" fill="#fbbf24"/>
+<circle cx="383.1" cy="487.6" r="1.8" fill="#a78bfa"/>
+<circle cx="371.5" cy="488.2" r="1.9" fill="#ff7a3d"/>
+<circle cx="381.0" cy="494.9" r="1.9" fill="#38bdf8"/>
+<circle cx="397.6" cy="494.3" r="2.2" fill="#f472b6"/>
+<circle cx="385.2" cy="486.0" r="2.1" fill="#fbbf24"/>
+<circle cx="399.3" cy="494.9" r="1.9" fill="#a78bfa"/>
+<polygon points="220,466 470,466 500,436 250,436" fill="#1f2937" stroke="#f8fafc" stroke-width="1"/>
+<circle cx="417.6" cy="447.4" r="2.1" fill="#ff7a3d"/>
+<circle cx="387.0" cy="448.6" r="1.5" fill="#38bdf8"/>
+<circle cx="448.2" cy="459.8" r="1.5" fill="#f472b6"/>
+<circle cx="436.5" cy="450.6" r="1.5" fill="#fbbf24"/>
+<circle cx="326.1" cy="456.3" r="2.1" fill="#a78bfa"/>
+<circle cx="271.6" cy="453.8" r="1.4" fill="#ff7a3d"/>
+<circle cx="418.6" cy="449.3" r="2.1" fill="#38bdf8"/>
+<circle cx="475.8" cy="452.1" r="2.2" fill="#f472b6"/>
+<circle cx="329.5" cy="445.2" r="1.9" fill="#fbbf24"/>
+<circle cx="268.8" cy="447.2" r="1.7" fill="#a78bfa"/>
+<circle cx="395.1" cy="446.5" r="1.4" fill="#ff7a3d"/>
+<circle cx="451.2" cy="449.0" r="2.2" fill="#38bdf8"/>
+<polygon points="150,520 430,520 520,420 240,420" fill="url(#gQ)" opacity="0.55" stroke="#7dd3fc" stroke-width="2"/>
+<path d="M190 505 L262 430" stroke="#fff" stroke-width="4" opacity="0.6"/><path d="M208 508 L270 440" stroke="#fff" stroke-width="2" opacity="0.5"/>
+<rect x="176" y="540" width="170" height="44" rx="6" fill="#374151" stroke="#4b5563"/>
+<rect x="230" y="556" width="62" height="10" rx="5" fill="#9aa3ad"/>
+<text x="261" y="580" font-size="7.5" fill="#cbd5e1" font-weight="700" text-anchor="middle">CATALYST DRAWER</text>
+<circle cx="388" cy="562" r="18" fill="#f8fafc" stroke="#9aa3ad" stroke-width="2"/>
+<path d="M388 562 L398 550" stroke="#dc2626" stroke-width="2.2"/>
+<text x="388" y="577" font-size="7" fill="#6b7680" font-weight="700" text-anchor="middle">°C</text>
+<circle cx="412" cy="532" r="5" fill="#8b5cf6"/>
+<rect x="160" y="598" width="20" height="8" rx="2" fill="#111"/><rect x="400" y="598" width="20" height="8" rx="2" fill="#111"/>
+<g stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aS)"><line x1="126" y1="216" x2="280" y2="462"/><line x1="128" y1="204" x2="400" y2="300"/></g>
+<g stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="5 3" fill="none" marker-end="url(#aU)"><line x1="404" y1="306" x2="360" y2="470"/></g>
+<g stroke="#9aa3b3" stroke-width="1" fill="none"><polyline points="560,230 580,250"/><polyline points="480,436 548,400"/><polyline points="534,380 548,352"/><polyline points="176,564 110,640"/><polyline points="388,580 330,640"/><polyline points="412,532 470,640"/></g>
+<text x="470" y="270" font-size="12.5" fill="#1d2433" font-weight="700">Mirror lid</text>
+<text x="470" y="286" font-size="11" fill="#5b6475">polished aluminium;</text>
+<text x="470" y="300" font-size="11" fill="#5b6475">closes to carry</text>
+<text x="470" y="356" font-size="12.5" fill="#1d2433" font-weight="700">Prop rod</text>
+<text x="470" y="372" font-size="11" fill="#5b6475">sets the angle</text>
+<text x="470" y="412" font-size="12.5" fill="#1d2433" font-weight="700">Sloped quartz</text>
+<text x="470" y="428" font-size="11" fill="#5b6475">top, lets UV in</text>
+<text x="54" y="654" font-size="12.5" fill="#1d2433" font-weight="700">Catalyst drawer</text>
+<text x="54" y="670" font-size="11" fill="#5b6475">TiO₂-coated trays;</text>
+<text x="54" y="684" font-size="11" fill="#5b6475">used filters go in</text>
+<text x="262" y="654" font-size="12.5" fill="#1d2433" font-weight="700">Thermometer</text>
+<text x="262" y="670" font-size="11" fill="#5b6475">target 60–90 °C</text>
+<text x="430" y="654" font-size="12.5" fill="#1d2433" font-weight="700">UV-check dot</text>
+<text x="430" y="670" font-size="11" fill="#5b6475">purple = strong UV</text>
+<text x="54" y="262" font-size="11" fill="#5b6475">Closed: about</text>
+<text x="54" y="278" font-size="11" fill="#1d2433" font-weight="700">30 × 25 × 12 cm</text>
+<text x="54" y="294" font-size="11" fill="#5b6475">a small cooker box</text>
+<rect x="620" y="110" width="560" height="590" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="644" y="142" font-size="15" fill="#1d2433" font-weight="700">B · Section through the box</text>
+<polygon points="1100,350 1112,352 1158,168 1146,166" fill="url(#gAl)" stroke="#9aa3ad"/>
+<g stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aS)"><line x1="700" y1="180" x2="820" y2="466"/><line x1="760" y1="170" x2="940" y2="466"/><polyline points="900,160 1140,230 1010,466"/></g>
+<g stroke="#8b5cf6" stroke-width="1.6" stroke-dasharray="5 3" fill="none" marker-end="url(#aU)"><line x1="780" y1="420" x2="800" y2="470"/><line x1="1040" y1="400" x2="1020" y2="468"/></g>
+<text x="640" y="172" font-size="10.5" fill="#b45309">sunlight</text>
+<polygon points="670,528 1110,528 1110,346 670,430" fill="url(#foam)"/>
+<polygon points="692,508 1088,508 1088,368 692,444" fill="#111827"/>
+<polygon points="668,428 1112,344 1112,352 668,436" fill="#7dd3fc" opacity="0.8"/>
+<polygon points="690,444 1090,368 1090,373 690,449" fill="#bae6fd" opacity="0.8"/>
+<text x="890" y="420" font-size="11" fill="#e5e7eb" font-weight="700" text-anchor="middle">air space · 60–90 °C</text>
+<rect x="712" y="480" width="360" height="24" fill="#374151"/>
+<rect x="712" y="476" width="360" height="5" fill="#f8fafc"/>
+<rect x="712" y="458" width="360" height="18" fill="#7dd3fc" opacity="0.55"/>
+<ellipse cx="760" cy="472" rx="34" ry="4" fill="#e9dcc3" stroke="#b8976a"/>
+<circle cx="1034.2" cy="469.0" r="2.1" fill="#ff7a3d"/>
+<circle cx="940.0" cy="471.2" r="2.2" fill="#38bdf8"/>
+<circle cx="949.8" cy="471.0" r="2.5" fill="#f472b6"/>
+<circle cx="936.8" cy="469.4" r="2.3" fill="#fbbf24"/>
+<circle cx="869.4" cy="468.4" r="2.6" fill="#a78bfa"/>
+<circle cx="940.3" cy="470.4" r="1.6" fill="#ff7a3d"/>
+<circle cx="913.8" cy="470.6" r="1.6" fill="#38bdf8"/>
+<circle cx="963.9" cy="471.1" r="1.7" fill="#f472b6"/>
+<circle cx="966.8" cy="469.7" r="2.3" fill="#fbbf24"/>
+<circle cx="898.1" cy="471.7" r="2.3" fill="#a78bfa"/>
+<circle cx="815.5" cy="466.5" r="2.3" fill="#ff7a3d"/>
+<circle cx="1050.8" cy="468.0" r="2.1" fill="#38bdf8"/>
+<circle cx="958.2" cy="468.6" r="2.0" fill="#f472b6"/>
+<circle cx="888.2" cy="469.0" r="2.2" fill="#fbbf24"/>
+<circle cx="885.1" cy="469.0" r="2.4" fill="#a78bfa"/>
+<circle cx="816.7" cy="470.6" r="2.3" fill="#ff7a3d"/>
+<circle cx="887.5" cy="467.8" r="2.4" fill="#38bdf8"/>
+<circle cx="869.7" cy="467.5" r="2.0" fill="#f472b6"/>
+<circle cx="984.5" cy="466.8" r="1.9" fill="#fbbf24"/>
+<circle cx="893.4" cy="472.7" r="2.0" fill="#a78bfa"/>
+<circle cx="1023.9" cy="467.4" r="1.9" fill="#ff7a3d"/>
+<circle cx="972.6" cy="473.1" r="2.1" fill="#38bdf8"/>
+<circle cx="866.3" cy="467.0" r="2.1" fill="#f472b6"/>
+<circle cx="857.7" cy="472.5" r="2.4" fill="#fbbf24"/>
+<circle cx="855.9" cy="468.2" r="2.4" fill="#a78bfa"/>
+<circle cx="970.5" cy="472.5" r="1.9" fill="#ff7a3d"/>
+<circle cx="842.4" cy="468.3" r="2.4" fill="#38bdf8"/>
+<circle cx="877.8" cy="468.8" r="2.0" fill="#f472b6"/>
+<rect x="696" y="486" width="16" height="12" rx="2" fill="#9aa3ad"/>
+<path d="M1110,396 L1134,384" stroke="#b45309" stroke-width="5" stroke-linecap="round"/>
+<rect x="660" y="468" width="10" height="16" fill="#e5e7eb" stroke="#9aa3ad"/>
+<path d="M660,476 L642,476" stroke="#6b7280" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="640" y="466" font-size="10" fill="#5b6475" text-anchor="end">CO₂ out</text>
+<circle cx="700" cy="420" r="6" fill="#8b5cf6"/>
+<line x1="1160" y1="200" x2="1150" y2="210" stroke="#9aa3b3"/>
+<line x1="1150" y1="316" x2="1100" y2="352" stroke="#9aa3b3"/>
+<line x1="1150" y1="410" x2="1060" y2="420" stroke="#9aa3b3"/>
+<line x1="1150" y1="462" x2="1072" y2="466" stroke="#9aa3b3"/>
+<line x1="900" y1="540" x2="900" y2="470" stroke="#9aa3b3"/>
+<line x1="1150" y1="494" x2="1072" y2="492" stroke="#9aa3b3"/>
+<line x1="1150" y1="440" x2="1086" y2="440" stroke="#9aa3b3"/>
+<line x1="1150" y1="520" x2="1108" y2="516" stroke="#9aa3b3"/>
+<line x1="1150" y1="380" x2="1134" y2="384" stroke="#9aa3b3"/>
+<line x1="690" y1="396" x2="700" y2="414" stroke="#9aa3b3"/>
+<line x1="650" y1="500" x2="665" y2="480" stroke="#9aa3b3"/>
+<circle cx="1160" cy="200" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1160" y="204" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<circle cx="1150" cy="316" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1150" y="320" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<circle cx="1150" cy="410" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1150" y="414" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<circle cx="1150" cy="462" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1150" y="466" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<circle cx="900" cy="540" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="900" y="544" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">5</text>
+<circle cx="1150" cy="494" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1150" y="498" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">6</text>
+<circle cx="1150" cy="440" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1150" y="444" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">7</text>
+<circle cx="1150" cy="520" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1150" y="524" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">8</text>
+<circle cx="1150" cy="380" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1150" y="384" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">9</text>
+<circle cx="690" cy="396" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="690" y="400" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">10</text>
+<circle cx="650" cy="500" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="650" y="504" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">11</text>
+<text x="644" y="566" font-size="11" fill="#1d2433">1 · Mirror lid: bounces extra sun (and UV) in</text>
+<text x="644" y="585" font-size="11" fill="#1d2433">2 · Quartz / borosilicate double glazing</text>
+<text x="644" y="604" font-size="11" fill="#1d2433">3 · Air space: traps heat like any box cooker</text>
+<text x="644" y="623" font-size="11" fill="#1d2433">4 · Thin water film (3–5 mm): makes •OH</text>
+<text x="644" y="642" font-size="11" fill="#1d2433">5 · Particles, washed off the used filter</text>
+<text x="644" y="661" font-size="11" fill="#1d2433">6 · TiO₂-coated tray on a slide-out drawer</text>
+<text x="930" y="566" font-size="11" fill="#1d2433">7 · Black liner: turns light into heat</text>
+<text x="930" y="585" font-size="11" fill="#1d2433">8 · Insulated walls</text>
+<text x="930" y="604" font-size="11" fill="#1d2433">9 · Bimetal vent: opens near 90 °C</text>
+<text x="930" y="623" font-size="11" fill="#1d2433">10 · UV-check dot (photochromic)</text>
+<text x="930" y="642" font-size="11" fill="#1d2433">11 · Breather: lets CO₂ out, air in</text>
+<text x="644" y="690" font-size="10.5" fill="#8a91a0" font-style="italic">Ordinary window glass blocks much of the UV, so the top must be quartz or borosilicate.</text>
+<rect x="1200" y="110" width="370" height="590" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="1224" y="142" font-size="15" fill="#1d2433" font-weight="700">C · How it breaks plastic down</text>
+<rect x="1224" y="156" width="322" height="54" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.4"/>
+<text x="1238" y="178" font-size="12.5" fill="#1d2433" font-weight="700">1 · UV light hits TiO₂</text>
+<text x="1238" y="196" font-size="11" fill="#4a5263">needs UV below ~390 nm (TiO₂ band gap)</text>
+<line x1="1385" y1="210" x2="1385" y2="224" stroke="#1d2433" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="1224" y="226" width="322" height="54" rx="10" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1.4"/>
+<text x="1238" y="248" font-size="12.5" fill="#1d2433" font-weight="700">2 · An electron jumps up</text>
+<text x="1238" y="266" font-size="11" fill="#4a5263">leaving a positive 'hole': e⁻ + h⁺</text>
+<line x1="1385" y1="280" x2="1385" y2="294" stroke="#1d2433" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="1224" y="296" width="322" height="54" rx="10" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.4"/>
+<text x="1238" y="318" font-size="12.5" fill="#1d2433" font-weight="700">3 · Radicals form in the water</text>
+<text x="1238" y="336" font-size="11" fill="#4a5263">h⁺ + H₂O → •OH    e⁻ + O₂ → •O₂⁻</text>
+<line x1="1385" y1="350" x2="1385" y2="364" stroke="#1d2433" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="1224" y="366" width="322" height="54" rx="10" fill="#fee2e2" stroke="#dc2626" stroke-width="1.4"/>
+<text x="1238" y="388" font-size="12.5" fill="#1d2433" font-weight="700">4 · Radicals attack the chain</text>
+<text x="1238" y="406" font-size="11" fill="#4a5263">pull off H, add O, the chain breaks</text>
+<line x1="1385" y1="420" x2="1385" y2="434" stroke="#1d2433" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="1224" y="436" width="322" height="54" rx="10" fill="#fff7ed" stroke="#ea580c" stroke-width="1.4"/>
+<text x="1238" y="458" font-size="12.5" fill="#1d2433" font-weight="700">5 · Smaller oxidised pieces</text>
+<text x="1238" y="476" font-size="11" fill="#4a5263">C=O groups, organic acids, fragments</text>
+<line x1="1385" y1="490" x2="1385" y2="504" stroke="#1d2433" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="1224" y="506" width="322" height="54" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.4"/>
+<text x="1238" y="528" font-size="12.5" fill="#1d2433" font-weight="700">6 · End products</text>
+<text x="1238" y="546" font-size="11" fill="#4a5263">CO₂ + H₂O (mineralisation) [1]</text>
+<text x="1224" y="592" font-size="11" fill="#1d2433" font-weight="700">Chain before and after:</text>
+<text x="1224" y="610" font-size="11.5" fill="#1d2433">–CH₂–CH₂–CH₂–CH₂–  →  –CH₂–C(=O)–  +  •CH₂–</text>
+<text x="1224" y="636" font-size="11" fill="#b4331f">Heat speeds every step. Stopping early leaves</text>
+<text x="1224" y="651" font-size="11" fill="#b4331f">smaller fragments, even nanoplastics, so run</text>
+<text x="1224" y="666" font-size="11" fill="#b4331f">it to completion and check.</text>
+<rect x="30" y="720" width="570" height="410" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="54" y="752" font-size="15" fill="#1d2433" font-weight="700">D · Why this doesn't happen on its own</text>
+<rect x="54" y="768" width="522" height="26" rx="6" fill="#1d2433"/>
+<text x="66" y="786" font-size="11" fill="#fff" font-weight="700">Factor</text>
+<text x="180" y="786" font-size="11" fill="#fff" font-weight="700">In a river or the sea</text>
+<text x="390" y="786" font-size="11" fill="#fff" font-weight="700">In MPx Sol</text>
+<rect x="54" y="794" width="522" height="40" fill="#f6f4ef"/>
+<text x="66" y="811" font-size="11" fill="#1d2433" font-weight="700">Light</text>
+<text x="180" y="811" font-size="11" fill="#4a5263">weak, diffuse; water and dirt</text>
+<text x="390" y="811" font-size="11" fill="#4a5263">boosted by the mirror lid</text>
+<text x="180" y="825" font-size="11" fill="#4a5263">block the UV</text>
+<text x="390" y="825" font-size="11" fill="#4a5263">and trapped as heat</text>
+<text x="66" y="851" font-size="11" fill="#1d2433" font-weight="700">Absorbing it</text>
+<text x="180" y="851" font-size="11" fill="#4a5263">PE and PP barely absorb</text>
+<text x="390" y="851" font-size="11" fill="#4a5263">TiO₂ absorbs the UV and</text>
+<text x="180" y="865" font-size="11" fill="#4a5263">sunlight themselves</text>
+<text x="390" y="865" font-size="11" fill="#4a5263">does the chemistry</text>
+<rect x="54" y="874" width="522" height="26" fill="#f6f4ef"/>
+<text x="66" y="891" font-size="11" fill="#1d2433" font-weight="700">Radicals</text>
+<text x="180" y="891" font-size="11" fill="#4a5263">very few</text>
+<text x="390" y="891" font-size="11" fill="#4a5263">a steady supply of •OH</text>
+<text x="66" y="917" font-size="11" fill="#1d2433" font-weight="700">Temperature</text>
+<text x="180" y="917" font-size="11" fill="#4a5263">10–30 °C</text>
+<text x="390" y="917" font-size="11" fill="#4a5263">60–90 °C</text>
+<rect x="54" y="926" width="522" height="40" fill="#f6f4ef"/>
+<text x="66" y="943" font-size="11" fill="#1d2433" font-weight="700">Surface</text>
+<text x="180" y="943" font-size="11" fill="#4a5263">covered by biofilm and silt,</text>
+<text x="390" y="943" font-size="11" fill="#4a5263">clean, thin layer resting</text>
+<text x="180" y="957" font-size="11" fill="#4a5263">often buried</text>
+<text x="390" y="957" font-size="11" fill="#4a5263">on the catalyst</text>
+<text x="66" y="983" font-size="11" fill="#1d2433" font-weight="700">Result</text>
+<text x="180" y="983" font-size="11" fill="#4a5263">half-lives of years to</text>
+<text x="390" y="983" font-size="11" fill="#166534">days to weeks</text>
+<text x="180" y="997" font-size="11" fill="#4a5263">centuries [4]</text>
+<text x="390" y="997" font-size="11" fill="#4a5263">(estimate, see E)</text>
+<text x="54" y="1032" font-size="11.5" fill="#1d2433">Natural weathering mostly breaks plastic into smaller pieces rather than</text>
+<text x="54" y="1048" font-size="11.5" fill="#1d2433">destroying it; that is how microplastics form in the first place. Shape matters</text>
+<text x="54" y="1064" font-size="11.5" fill="#1d2433">too: the same plastic lasts under 2 years as a thin film but over 1,400 as a bead [4].</text>
+<rect x="620" y="720" width="560" height="410" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="644" y="752" font-size="15" fill="#1d2433" font-weight="700">E · How long it takes (log scale)</text>
+<line x1="650.0" y1="770" x2="650.0" y2="1060" stroke="#eceae4"/>
+<text x="650.0" y="1078" font-size="10" fill="#8a91a0" text-anchor="middle">1 h</text>
+<line x1="733.3" y1="770" x2="733.3" y2="1060" stroke="#eceae4"/>
+<text x="733.3333333333334" y="1078" font-size="10" fill="#8a91a0" text-anchor="middle">10 h</text>
+<line x1="816.7" y1="770" x2="816.7" y2="1060" stroke="#eceae4"/>
+<text x="816.6666666666666" y="1078" font-size="10" fill="#8a91a0" text-anchor="middle">4 days</text>
+<line x1="900.0" y1="770" x2="900.0" y2="1060" stroke="#eceae4"/>
+<text x="900.0" y="1078" font-size="10" fill="#8a91a0" text-anchor="middle">6 weeks</text>
+<line x1="983.3" y1="770" x2="983.3" y2="1060" stroke="#eceae4"/>
+<text x="983.3333333333333" y="1078" font-size="10" fill="#8a91a0" text-anchor="middle">1 year</text>
+<line x1="1066.7" y1="770" x2="1066.7" y2="1060" stroke="#eceae4"/>
+<text x="1066.6666666666665" y="1078" font-size="10" fill="#8a91a0" text-anchor="middle">11 years</text>
+<line x1="1150.0" y1="770" x2="1150.0" y2="1060" stroke="#eceae4"/>
+<text x="1150.0" y="1078" font-size="10" fill="#8a91a0" text-anchor="middle">114 years</text>
+<text x="650" y="784" font-size="11" fill="#1d2433">PS beads on TiO₂ film, UV lamp, lab [1]</text>
+<rect x="650" y="790" width="89.9" height="14" rx="4" fill="#16a34a"/>
+<text x="747.9317705039688" y="801" font-size="10" fill="#4a5263">≈ 12 h, mostly to CO₂</text>
+<text x="650" y="830" font-size="11" fill="#1d2433">LDPE + ZnO rods, visible light, lab [2]</text>
+<rect x="650" y="836" width="186.9" height="14" rx="4" fill="url(#hatch)"/>
+<text x="844.9198373905245" y="847" font-size="10" fill="#4a5263">175 h: oxidised, not gone</text>
+<text x="650" y="876" font-size="11" fill="#1d2433" font-weight="700">MPx Sol, PS (estimate)</text>
+<rect x="790.1" y="882" width="39.8" height="14" rx="4" fill="#fde68a" stroke="#d97706" stroke-dasharray="4 3"/>
+<rect x="650" y="887" width="140.1" height="4" fill="#fde68a"/>
+<text x="837.8635410079374" y="893" font-size="10" fill="#4a5263">2–6 sunny days</text>
+<text x="650" y="922" font-size="11" fill="#1d2433" font-weight="700">MPx Sol, PE / PP (estimate)</text>
+<rect x="835.4" y="928" width="50.2" height="14" rx="4" fill="#fde68a" stroke="#d97706" stroke-dasharray="4 3"/>
+<rect x="650" y="933" width="185.4" height="4" fill="#fde68a"/>
+<text x="893.6141060878188" y="939" font-size="10" fill="#4a5263">1–4 weeks</text>
+<text x="650" y="968" font-size="11" fill="#1d2433">Nature: LDPE bag, sea, half-life [4]</text>
+<rect x="650" y="974" width="372.9" height="14" rx="4" fill="#9aa3ad"/>
+<text x="1030.8513553396879" y="985" font-size="10" fill="#4a5263">≈ 3.4 years</text>
+<text x="650" y="1014" font-size="11" fill="#1d2433">Nature: HDPE bottle, sea, half-life [4]</text>
+<rect x="650" y="1020" width="475.5" height="14" rx="4" fill="#9aa3ad"/>
+<text x="1119.4886426903265" y="1031" font-size="10" fill="#fff" font-weight="700" text-anchor="end">≈ 58 years</text>
+<text x="650" y="1100" font-size="10.2" fill="#8a91a0" font-style="italic">Estimates assume ~6 h of good sun a day and a mirror lid adding 1.5–2× light. Noon sun carries</text>
+<text x="650" y="1114" font-size="10.2" fill="#8a91a0" font-style="italic">roughly as much UV-A as a lab lamp, but only for part of the day. Real times must be measured.</text>
+<rect x="1200" y="720" width="370" height="410" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="1224" y="752" font-size="15" fill="#1d2433" font-weight="700">F · Safe disposal, and checks</text>
+<text x="1224" y="782" font-size="11" fill="#8a91a0" font-weight="700">BEFORE IT GOES BACK TO NATURE</text>
+<text x="1224" y="802" font-size="11" fill="#1d2433">1 · Run until the tray looks clean.</text>
+<text x="1224" y="818" font-size="11" fill="#1d2433">2 · Test a drop of the residue with MPx Detect</text>
+<text x="1224" y="834" font-size="11" fill="#1d2433">    (Nile Red): no glowing particles = done.</text>
+<text x="1224" y="850" font-size="11" fill="#1d2433">3 · Compost the paper or mycelium filter;</text>
+<text x="1224" y="866" font-size="11" fill="#1d2433">    pour the water onto soil.</text>
+<text x="1224" y="882" font-size="11" fill="#1d2433">4 · The TiO₂ tray stays in the device for reuse.</text>
+<text x="1224" y="912" font-size="11" fill="#8a91a0" font-weight="700">CHECK BEFORE BUILDING</text>
+<text x="1224" y="932" font-size="11" fill="#1d2433" font-weight="700">Not yet shown in sunlight at this size.</text>
+<text x="1224" y="947" font-size="11" fill="#4a5263">Lab work used UV lamps; PE and PP are</text>
+<text x="1224" y="962" font-size="11" fill="#4a5263">much slower than PS.</text>
+<text x="1224" y="982" font-size="11" fill="#1d2433" font-weight="700">Half-done is worse than not started.</text>
+<text x="1224" y="997" font-size="11" fill="#4a5263">By-products such as formaldehyde were</text>
+<text x="1224" y="1012" font-size="11" fill="#4a5263">detected in [2]; it must run to completion.</text>
+<text x="1224" y="1032" font-size="11" fill="#1d2433" font-weight="700">Keep PVC below about 90 °C.</text>
+<text x="1224" y="1047" font-size="11" fill="#4a5263">Hot PVC can release hydrogen chloride;</text>
+<text x="1224" y="1062" font-size="11" fill="#4a5263">the vent caps the temperature.</text>
+<text x="1224" y="1082" font-size="11" fill="#1d2433" font-weight="700">Keep the catalyst fixed to the tray.</text>
+<text x="1224" y="1097" font-size="11" fill="#4a5263">Loose TiO₂ or ZnO nanoparticles are a</text>
+<text x="1224" y="1112" font-size="11" fill="#4a5263">pollutant themselves.</text>
+<text x="30" y="1160" font-size="11" fill="#5b6475" font-weight="700">Sources</text>
+<text x="90" y="1160" font-size="10.3" fill="#5b6475">[1] Nabi, I. et al. (2020). Complete photocatalytic mineralization of microplastic on TiO₂ nanoparticle film. iScience 23, 101326.</text>
+<text x="90" y="1177" font-size="10.3" fill="#5b6475">[2] Tofa, T.S. et al. (2019). Visible light photocatalytic degradation of microplastic residues with zinc oxide nanorods. Environ. Chem. Lett. 17, 1341–1346.</text>
+<text x="90" y="1194" font-size="10.3" fill="#5b6475">[3] Natural sunlight-driven photocatalytic degradation of polypropylene microplastics over ZnO nanorods (2025). Environmental Research. (sunlight feasibility)</text>
+<text x="90" y="1211" font-size="10.3" fill="#5b6475">[4] Chamas, A. et al. (2020). Degradation rates of plastics in the environment. ACS Sustainable Chem. Eng. 8, 3494–3511.</text>
+</svg>

@@ -1,0 +1,371 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1250" viewBox="0 0 1600 1250" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiZGYzNzZkNy1iZjlmLTRiNjMtODUwZS1mM2EwMTE4NjEyMTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHpt4aItwRD22fd8spQtEJEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkOWJlYWFjOS02NDJlLTRiYTYtYmY5My02ZjJhNWYzY2QxY2RscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo/QzzfMoeU0cpJVazTGNl1gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg9P3HBkVBPpvKVlBIgex4UaC81jNOigidDeG165WzVy+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaK8EThgLC2jynVanNtwtHTAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBMg0Pi9Kq5vVwpSCJs5j/U4Q7QmygH/fhI7DRDu+9c5WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmJkZjM3NmQ3LWJmOWYtNGI2My04NTBlLWYzYTAxMTg2MTIxNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmYyNzEyMzA1LTg2ZjUtNGUyNi1hMzQ0LTQ3ODY1YTY3MTFmY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD0/ccGRUE+m8pWUEiB7HhRoLzWM06KCJ0N4bXrlbNXL6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggiC2D9EwyAVEQHblItnQV0ggoGhPgQDCzRIqFgXmk9ByiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggMT3gTe0D+g1xI2gpAzZtHxWz0njB8x3t+3IywRXpbet0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCJtReF/qeyzqtzJAoE9G5BmBS5fZyIgHhsHkiV+kvrVJstCC6n95ElMHUZ4co3hoNXibLaoLp/J37K7f37dwok=</c2pa:manifest></metadata>
+<defs>
+<linearGradient id="gSt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8f9aa0"/><stop offset="0.35" stop-color="#e3e8ea"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="0.8" stop-color="#bcc5ca"/><stop offset="1" stop-color="#7d8890"/></linearGradient>
+<linearGradient id="gHot" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#7c2d12"/><stop offset="0.35" stop-color="#b45309"/><stop offset="1" stop-color="#9aa3ad"/></linearGradient>
+<pattern id="honey" width="8" height="7" patternUnits="userSpaceOnUse"><rect width="8" height="7" fill="#f1e7d6"/><path d="M0 3.5 L2 0 L6 0 L8 3.5 L6 7 L2 7 Z" fill="none" stroke="#c9b48f" stroke-width="0.8"/></pattern>
+<pattern id="lime" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#e5e7eb"/><circle cx="3.5" cy="3.5" r="2.4" fill="#ffffff" stroke="#9ca3af" stroke-width="0.6"/></pattern>
+<pattern id="carb" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#374151"/><circle cx="2" cy="2" r="1.6" fill="#111827"/><circle cx="6" cy="6" r="1.8" fill="#1f2937"/></pattern>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker>
+<marker id="aG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/></marker>
+<marker id="aB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2f80c0"/></marker>
+</defs>
+<rect width="1600" height="1250" fill="#f4f3ef"/>
+<text x="30" y="52" font-size="26" fill="#1d2433" font-weight="700">MPx Char: Sealed Mini Pyrolysis Capsule for Used Filters</text>
+<text x="30" y="78" font-size="14" fill="#5b6475">A palm-sized steel capsule that sits on an ordinary LPG stove. The filter and its microplastics are heated without air; the vapours are burned in a catalytic cartridge, and a small carbon pellet is left.</text>
+<text x="1570" y="52" font-size="12" fill="#8a91a0" text-anchor="end">Concept sketch · v0.1</text>
+<rect x="30" y="110" width="570" height="660" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="54" y="142" font-size="15" fill="#1d2433" font-weight="700">A · On a kitchen gas stove</text>
+<polygon points="190,258 470,258 520,306 140,306" fill="#f3f4f6" stroke="#9aa3ad" stroke-dasharray="6 4"/>
+<text x="330" y="288" font-size="11" fill="#6b7280" text-anchor="middle">kitchen chimney or open window</text>
+<g stroke="#9aa3ad" stroke-width="1.6" marker-end="url(#aG)"><line x1="250" y1="250" x2="250" y2="222"/><line x1="330" y1="250" x2="330" y2="222"/><line x1="410" y1="250" x2="410" y2="222"/></g>
+<rect x="110" y="604" width="440" height="16" rx="6" fill="#111827"/>
+<rect x="118" y="620" width="424" height="52" rx="8" fill="url(#gSt)"/>
+<circle cx="170" cy="646" r="12" fill="#1f2937"/><rect x="168" y="636" width="4" height="12" fill="#9aa3ad"/>
+<circle cx="490" cy="646" r="12" fill="#1f2937"/><rect x="488" y="636" width="4" height="12" fill="#9aa3ad"/>
+<ellipse cx="330" cy="600" rx="46" ry="9" fill="#b45309"/>
+<path d="M286,598 Q286,588.8880574916235 290,582.8134291527059 Q294,588.8880574916235 294,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M288,598 Q288,592.684700203447 290,589.6473860339883 Q292,592.684700203447 292,598 Z" fill="#bfdbfe"/>
+<path d="M294,598 Q294,588.4315379612387 298,582.0525632687313 Q302,588.4315379612387 302,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M296,598 Q296,592.4183971440559 298,589.2289097978022 Q300,592.4183971440559 300,598 Z" fill="#bfdbfe"/>
+<path d="M302,598 Q302,588.2264567082277 306,581.7107611803796 Q310,588.2264567082277 310,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M304,598 Q304,592.2987664131329 306,589.0409186492087 Q308,592.2987664131329 308,598 Z" fill="#bfdbfe"/>
+<path d="M310,598 Q310,587.6609909102962 314,580.7683181838269 Q318,587.6609909102962 318,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M312,598 Q312,591.9689113643394 314,588.5225750011048 Q316,591.9689113643394 316,598 Z" fill="#bfdbfe"/>
+<path d="M318,598 Q318,588.4387894729987 322,582.0646491216644 Q326,588.4387894729987 326,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M320,598 Q320,592.4226271925826 322,589.2355570169154 Q324,592.4226271925826 324,598 Z" fill="#bfdbfe"/>
+<path d="M326,598 Q326,587.7382720128048 330,580.8971200213414 Q334,587.7382720128048 334,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M328,598 Q328,592.0139920074695 330,588.5934160117378 Q332,592.0139920074695 332,598 Z" fill="#bfdbfe"/>
+<path d="M334,598 Q334,591.1686199233909 338,586.6143665389849 Q342,591.1686199233909 342,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M336,598 Q336,594.0150282886447 338,591.7379015964417 Q340,594.0150282886447 340,598 Z" fill="#bfdbfe"/>
+<path d="M342,598 Q342,589.4920090071881 346,583.8200150119801 Q350,589.4920090071881 350,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M344,598 Q344,593.037005254193 346,590.201008256589 Q348,593.037005254193 348,598 Z" fill="#bfdbfe"/>
+<path d="M350,598 Q350,587.6575102067264 354,580.7625170112108 Q358,587.6575102067264 358,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M352,598 Q352,591.9668809539238 354,588.5193843561659 Q356,591.9668809539238 356,598 Z" fill="#bfdbfe"/>
+<path d="M358,598 Q358,588.7879377159542 362,582.6465628599237 Q366,588.7879377159542 366,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M360,598 Q360,592.6262970009733 362,589.555609572958 Q364,592.6262970009733 364,598 Z" fill="#bfdbfe"/>
+<path d="M366,598 Q366,587.8205421116776 370,581.034236852796 Q374,587.8205421116776 374,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M368,598 Q368,592.0619828984786 370,588.6688302690378 Q372,592.0619828984786 372,598 Z" fill="#bfdbfe"/>
+<path d="M210,598 Q210,591.7396279587655 214,587.5660465979424 Q218,591.7396279587655 218,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M212,598 Q212,594.3481163092798 214,592.2613256288683 Q216,594.3481163092798 216,598 Z" fill="#bfdbfe"/>
+<path d="M218,598 Q218,590.543927999452 222,585.5732133324199 Q226,590.543927999452 226,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M220,598 Q220,593.650624666347 222,591.1652673328309 Q224,593.650624666347 224,598 Z" fill="#bfdbfe"/>
+<path d="M226,598 Q226,591.2915152823973 230,586.819192137329 Q234,591.2915152823973 234,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M228,598 Q228,594.0867172480652 230,591.8505556755309 Q232,594.0867172480652 232,598 Z" fill="#bfdbfe"/>
+<path d="M234,598 Q234,590.2929635129673 238,585.1549391882788 Q242,590.2929635129673 242,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M236,598 Q236,593.5042287158976 238,590.9352165535533 Q240,593.5042287158976 240,598 Z" fill="#bfdbfe"/>
+<path d="M242,598 Q242,590.1915576085615 246,584.9859293476027 Q250,590.1915576085615 250,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M244,598 Q244,593.4450752716609 246,590.8422611411814 Q248,593.4450752716609 248,598 Z" fill="#bfdbfe"/>
+<path d="M250,598 Q250,592.0759363229813 254,588.1265605383021 Q258,592.0759363229813 258,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M252,598 Q252,594.5442961884057 254,592.5696082960662 Q256,594.5442961884057 256,598 Z" fill="#bfdbfe"/>
+<path d="M258,598 Q258,591.3917878704415 262,586.9863131174025 Q266,591.3917878704415 266,598 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M260,598 Q260,594.1452095910909 262,591.9424722145714 Q264,594.1452095910909 264,598 Z" fill="#bfdbfe"/>
+<rect x="200" y="590" width="260" height="6" rx="3" fill="#1f2937"/>
+<rect x="204" y="590" width="6" height="16" fill="#1f2937"/><rect x="450" y="590" width="6" height="16" fill="#1f2937"/>
+<ellipse cx="330" cy="586" rx="50" ry="10" fill="#7c2d12"/>
+<rect x="280" y="442" width="100" height="144" fill="url(#gSt)"/>
+<rect x="280" y="540" width="100" height="46" fill="url(#gHot)" opacity="0.75"/>
+<rect x="274" y="420" width="112" height="24" rx="4" fill="#4b5563"/>
+<g stroke="#6b7280" stroke-width="1.2"><line x1="280" y1="422" x2="280" y2="442"/><line x1="288" y1="422" x2="288" y2="442"/><line x1="296" y1="422" x2="296" y2="442"/><line x1="304" y1="422" x2="304" y2="442"/><line x1="312" y1="422" x2="312" y2="442"/><line x1="320" y1="422" x2="320" y2="442"/><line x1="328" y1="422" x2="328" y2="442"/><line x1="336" y1="422" x2="336" y2="442"/><line x1="344" y1="422" x2="344" y2="442"/><line x1="352" y1="422" x2="352" y2="442"/><line x1="360" y1="422" x2="360" y2="442"/><line x1="368" y1="422" x2="368" y2="442"/><line x1="376" y1="422" x2="376" y2="442"/></g>
+<ellipse cx="330" cy="420" rx="56" ry="10" fill="#6b7280"/>
+<rect x="321" y="396" width="18" height="24" rx="3" fill="#1f2937"/><ellipse cx="330" cy="396" rx="12" ry="4" fill="#374151"/>
+<circle cx="330" cy="496" r="20" fill="#fff" stroke="#9aa3ad" stroke-width="2"/>
+<path d="M314 504 A18 18 0 0 1 322 481" stroke="#60a5fa" stroke-width="4" fill="none"/><path d="M322 481 A18 18 0 0 1 340 480" stroke="#f59e0b" stroke-width="4" fill="none"/><path d="M340 480 A18 18 0 0 1 347 492" stroke="#16a34a" stroke-width="4" fill="none"/><path d="M347 492 A18 18 0 0 1 345 505" stroke="#dc2626" stroke-width="4" fill="none"/>
+<line x1="330" y1="496" x2="343" y2="487" stroke="#1d2433" stroke-width="2"/>
+<rect x="380" y="466" width="18" height="12" fill="#6b7280"/><rect x="396" y="462" width="80" height="20" rx="10" fill="#1d2433"/>
+<path d="M276,430 L240,430 L240,522" stroke="#9aa3ad" stroke-width="7" fill="none" stroke-linejoin="round"/>
+<rect x="222" y="522" width="38" height="66" rx="6" fill="url(#honey)" stroke="#6b7280" stroke-width="2"/>
+<rect x="222" y="522" width="38" height="66" rx="6" fill="#f97316" opacity="0.18" filter="url(#glow)"/>
+<line x1="200" y1="534" x2="220" y2="534" stroke="#2f80c0" stroke-width="1.6" marker-end="url(#aB)"/>
+<text x="198" y="530" font-size="9.5" fill="#2f80c0" text-anchor="end">air</text>
+<path d="M222,578 L186,578 L186,470" stroke="#9aa3ad" stroke-width="7" fill="none" stroke-linejoin="round"/>
+<g stroke="#6b7280" stroke-width="2"><line x1="176" y1="484" x2="196" y2="484"/><line x1="176" y1="492" x2="196" y2="492"/><line x1="176" y1="500" x2="196" y2="500"/><line x1="176" y1="508" x2="196" y2="508"/><line x1="176" y1="516" x2="196" y2="516"/><line x1="176" y1="524" x2="196" y2="524"/><line x1="176" y1="532" x2="196" y2="532"/><line x1="176" y1="540" x2="196" y2="540"/><line x1="176" y1="548" x2="196" y2="548"/><line x1="176" y1="556" x2="196" y2="556"/><line x1="176" y1="564" x2="196" y2="564"/></g>
+<rect x="166" y="378" width="40" height="92" rx="8" fill="url(#carb)" stroke="#1f2937"/>
+<line x1="186" y1="378" x2="186" y2="330" stroke="#9aa3ad" stroke-width="3" marker-end="url(#aG)"/>
+<text x="194" y="344" font-size="10" fill="#6b7280">clean exhaust</text>
+<circle cx="396" cy="556" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="396" y="560" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<circle cx="356" cy="398" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="356" y="402" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<circle cx="366" cy="512" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="366" y="516" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<circle cx="488" cy="472" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="488" y="476" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<circle cx="272" cy="552" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="272" y="556" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">5</text>
+<circle cx="160" cy="524" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="160" y="528" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">6</text>
+<circle cx="150" cy="392" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="150" y="396" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">7</text>
+<circle cx="508" cy="272" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="508" y="276" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">8</text>
+<text x="54" y="700" font-size="11" fill="#1d2433">1 · Steel capsule: sealed, no flame touches the plastic</text>
+<text x="54" y="717" font-size="11" fill="#1d2433">2 · Relief weight, like a pressure cooker</text>
+<text x="54" y="734" font-size="11" fill="#1d2433">3 · Heat dial: green = 450–550 °C</text>
+<text x="54" y="751" font-size="11" fill="#1d2433">4 · Cool-touch Bakelite handle</text>
+<text x="330" y="700" font-size="11" fill="#1d2433">5 · Catalytic cartridge, heated by the same flame</text>
+<text x="330" y="717" font-size="11" fill="#1d2433">6 · Finned tube: cools the cleaned gas</text>
+<text x="330" y="734" font-size="11" fill="#1d2433">7 · Activated-carbon canister</text>
+<text x="330" y="751" font-size="11" fill="#1d2433">8 · Use under the chimney or at a window</text>
+<text x="54" y="176" font-size="11.5" fill="#5b6475">Capsule about 6 cm wide × 8 cm tall;</text>
+<text x="54" y="192" font-size="11.5" fill="#5b6475">the whole kit fits in a lunch tiffin.</text>
+<rect x="620" y="110" width="560" height="660" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="644" y="142" font-size="15" fill="#1d2433" font-weight="700">B · Section: where the plastic goes</text>
+<path d="M696,640 Q696,629.2843331074613 700,622.1405551791022 Q704,629.2843331074613 704,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M698,640 Q698,633.7491943126857 700,630.1773053485063 Q702,633.7491943126857 702,640 Z" fill="#bfdbfe"/>
+<path d="M706,640 Q706,625.9216964368509 710,616.5361607280847 Q714,625.9216964368509 714,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M708,640 Q708,631.7876562548297 710,627.0948884004466 Q712,631.7876562548297 712,640 Z" fill="#bfdbfe"/>
+<path d="M716,640 Q716,626.7169696153982 720,617.8616160256636 Q724,626.7169696153982 724,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M718,640 Q718,632.2515656089822 720,627.823888814115 Q722,632.2515656089822 722,640 Z" fill="#bfdbfe"/>
+<path d="M726,640 Q726,629.9172897587496 730,623.1954829312492 Q734,629.9172897587496 734,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M728,640 Q728,634.1184190259372 730,630.7575156121871 Q732,634.1184190259372 732,640 Z" fill="#bfdbfe"/>
+<path d="M736,640 Q736,626.5510638852433 740,617.5851064754054 Q744,626.5510638852433 744,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M738,640 Q738,632.1547872663918 740,627.671808561473 Q742,632.1547872663918 742,640 Z" fill="#bfdbfe"/>
+<path d="M746,640 Q746,630.0273080308538 750,623.3788467180897 Q754,630.0273080308538 754,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M748,640 Q748,634.1825963513314 750,630.8583656949493 Q752,634.1825963513314 752,640 Z" fill="#bfdbfe"/>
+<path d="M756,640 Q756,627.499850691939 760,619.1664178198981 Q764,627.499850691939 764,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M758,640 Q758,632.7082462369643 760,628.541529800944 Q762,632.7082462369643 762,640 Z" fill="#bfdbfe"/>
+<path d="M766,640 Q766,630.0910280521346 770,623.4850467535576 Q774,630.0910280521346 774,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M768,640 Q768,634.2197663637452 770,630.9167757144567 Q772,634.2197663637452 772,640 Z" fill="#bfdbfe"/>
+<path d="M776,640 Q776,630.7506287275706 780,624.5843812126177 Q784,630.7506287275706 784,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M778,640 Q778,634.6045334244162 780,631.5214096669397 Q782,634.6045334244162 782,640 Z" fill="#bfdbfe"/>
+<path d="M786,640 Q786,626.1589829478557 790,616.9316382464264 Q794,626.1589829478557 794,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M788,640 Q788,631.9260733862492 790,627.3124010355344 Q792,631.9260733862492 792,640 Z" fill="#bfdbfe"/>
+<path d="M796,640 Q796,629.6540703004258 800,622.756783834043 Q804,629.6540703004258 804,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M798,640 Q798,633.964874341915 800,630.5162311087237 Q802,633.964874341915 802,640 Z" fill="#bfdbfe"/>
+<path d="M806,640 Q806,629.6222594264934 810,622.7037657108224 Q814,629.6222594264934 814,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M808,640 Q808,633.9463179987878 810,630.4870711409523 Q812,633.9463179987878 812,640 Z" fill="#bfdbfe"/>
+<path d="M816,640 Q816,625.5728165453991 820,615.9546942423318 Q824,625.5728165453991 824,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M818,640 Q818,631.5841429848161 820,626.7750818332826 Q822,631.5841429848161 822,640 Z" fill="#bfdbfe"/>
+<path d="M826,640 Q826,626.1536869984936 830,616.9228116641561 Q834,626.1536869984936 834,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M828,640 Q828,631.9229840824546 830,627.3075464152859 Q832,631.9229840824546 832,640 Z" fill="#bfdbfe"/>
+<path d="M836,640 Q836,629.2324687142963 840,622.054114523827 Q844,629.2324687142963 844,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M838,640 Q838,633.7189400833395 840,630.1297629881049 Q842,633.7189400833395 842,640 Z" fill="#bfdbfe"/>
+<path d="M846,640 Q846,625.6833962183435 850,616.1389936972392 Q854,625.6833962183435 854,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M848,640 Q848,631.6486477940338 850,626.8764465334816 Q852,631.6486477940338 852,640 Z" fill="#bfdbfe"/>
+<path d="M856,640 Q856,627.9129000843621 860,619.8548334739369 Q864,627.9129000843621 864,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M858,640 Q858,632.9491917158779 860,628.9201584106653 Q862,632.9491917158779 862,640 Z" fill="#bfdbfe"/>
+<path d="M866,640 Q866,627.1810550801168 870,618.6350918001948 Q874,627.1810550801168 874,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M868,640 Q868,632.5222821300682 870,628.2493004901071 Q872,632.5222821300682 872,640 Z" fill="#bfdbfe"/>
+<path d="M876,640 Q876,629.6787641632616 880,622.7979402721027 Q884,629.6787641632616 884,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M878,640 Q878,633.9792790952359 880,630.5388671496564 Q882,633.9792790952359 882,640 Z" fill="#bfdbfe"/>
+<path d="M886,640 Q886,625.7916467142554 890,616.3194111904256 Q894,625.7916467142554 894,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M888,640 Q888,631.711793916649 890,626.9756761547341 Q892,631.711793916649 892,640 Z" fill="#bfdbfe"/>
+<path d="M896,640 Q896,627.1134105509556 900,618.5223509182592 Q904,627.1134105509556 904,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M898,640 Q898,632.4828228213908 900,628.1872930050425 Q902,632.4828228213908 902,640 Z" fill="#bfdbfe"/>
+<path d="M906,640 Q906,625.6565404309652 910,616.0942340516087 Q914,625.6565404309652 914,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M908,640 Q908,631.632981918063 910,626.8518287283848 Q912,631.632981918063 912,640 Z" fill="#bfdbfe"/>
+<path d="M916,640 Q916,626.0410439423962 920,616.735073237327 Q924,626.0410439423962 924,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M918,640 Q918,631.8572756330644 920,627.2042902805298 Q922,631.8572756330644 922,640 Z" fill="#bfdbfe"/>
+<path d="M926,640 Q926,629.1823946193316 930,621.9706576988859 Q934,629.1823946193316 934,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M928,640 Q928,633.6897301946101 930,630.0838617343873 Q932,633.6897301946101 932,640 Z" fill="#bfdbfe"/>
+<path d="M936,640 Q936,628.8529171446659 940,621.4215285744431 Q944,628.8529171446659 944,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M938,640 Q938,633.4975350010551 940,629.7818407159436 Q942,633.4975350010551 942,640 Z" fill="#bfdbfe"/>
+<path d="M946,640 Q946,629.8837520183549 950,623.1395866972582 Q954,629.8837520183549 954,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M948,640 Q948,634.0988553440404 950,630.7267726834921 Q952,634.0988553440404 952,640 Z" fill="#bfdbfe"/>
+<path d="M956,640 Q956,629.9906939176252 960,623.317823196042 Q964,629.9906939176252 964,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M958,640 Q958,634.1612381186147 960,630.8248027578231 Q962,634.1612381186147 962,640 Z" fill="#bfdbfe"/>
+<path d="M966,640 Q966,630.4160623133764 970,624.0267705222941 Q974,630.4160623133764 974,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M968,640 Q968,634.4093696828029 970,631.2147237872617 Q972,634.4093696828029 972,640 Z" fill="#bfdbfe"/>
+<path d="M976,640 Q976,629.1688239479372 980,621.9480399132287 Q984,629.1688239479372 984,640 Z" fill="#3b82f6" opacity="0.85"/>
+<path d="M978,640 Q978,633.6818139696301 980,630.0714219522758 Q982,633.6818139696301 982,640 Z" fill="#bfdbfe"/>
+<rect x="690" y="640" width="300" height="12" rx="4" fill="#b45309"/>
+<rect x="700" y="420" width="130" height="200" rx="8" fill="#6b7280"/>
+<rect x="710" y="440" width="110" height="172" rx="4" fill="#fdf6ec"/>
+<rect x="710" y="560" width="110" height="52" fill="#f97316" opacity="0.18"/>
+<path d="M716,600 L814,600 L806,590 L724,590 Z" fill="#e9dcc3" stroke="#b8976a"/>
+<circle cx="774.2" cy="582.0" r="1.9" fill="#ff7a3d"/>
+<circle cx="753.0" cy="585.1" r="2.0" fill="#38bdf8"/>
+<circle cx="764.5" cy="585.2" r="1.7" fill="#f472b6"/>
+<circle cx="782.4" cy="582.6" r="2.2" fill="#fbbf24"/>
+<circle cx="727.8" cy="589.5" r="2.1" fill="#a78bfa"/>
+<circle cx="727.4" cy="589.9" r="1.6" fill="#ff7a3d"/>
+<circle cx="772.3" cy="582.1" r="1.3" fill="#38bdf8"/>
+<circle cx="740.5" cy="591.6" r="1.5" fill="#f472b6"/>
+<circle cx="786.5" cy="591.3" r="2.1" fill="#fbbf24"/>
+<circle cx="753.6" cy="585.5" r="1.8" fill="#a78bfa"/>
+<circle cx="788.0" cy="583.1" r="2.0" fill="#ff7a3d"/>
+<circle cx="789.8" cy="590.6" r="1.3" fill="#38bdf8"/>
+<circle cx="801.7" cy="582.9" r="1.6" fill="#f472b6"/>
+<circle cx="774.9" cy="591.2" r="1.6" fill="#fbbf24"/>
+<g stroke="#94a3b8" stroke-width="1.4" fill="none" stroke-dasharray="3 3"><path d="M740 580 q-8 -30 4 -60 t0 -50"/><path d="M790 580 q8 -30 -4 -60 t0 -50"/></g>
+<text x="765" y="540" font-size="10" fill="#64748b" text-anchor="middle">vapours</text>
+<rect x="712" y="444" width="106" height="16" fill="url(#lime)" stroke="#9ca3af"/>
+<rect x="694" y="404" width="142" height="18" rx="4" fill="#374151"/>
+<rect x="758" y="382" width="16" height="22" rx="3" fill="#1f2937"/>
+<text x="765" y="512" font-size="11" fill="#b45309" font-weight="700" text-anchor="middle">450–550 °C</text>
+<path d="M836,412 L930,412 L930,468" stroke="#9aa3ad" stroke-width="9" fill="none" stroke-linejoin="round"/>
+<path d="M836,412 L930,412 L930,468" stroke="#cbd5e1" stroke-width="3" fill="none" stroke-dasharray="6 5" stroke-linejoin="round"/>
+<line x1="870" y1="450" x2="908" y2="480" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#aB)"/>
+<text x="866" y="446" font-size="10" fill="#2f80c0" text-anchor="end">air</text>
+<rect x="906" y="468" width="52" height="150" rx="6" fill="url(#honey)" stroke="#6b7280" stroke-width="2"/>
+<rect x="906" y="468" width="52" height="150" rx="6" fill="#f97316" opacity="0.22" filter="url(#glow)"/>
+<text x="932" y="548" font-size="10" fill="#b45309" font-weight="700" text-anchor="middle">400–</text>
+<text x="932" y="561" font-size="10" fill="#b45309" font-weight="700" text-anchor="middle">600 °C</text>
+<path d="M958,606 L1010,606 L1010,400" stroke="#9aa3ad" stroke-width="9" fill="none" stroke-linejoin="round"/>
+<g stroke="#6b7280" stroke-width="2.4"><line x1="996" y1="420" x2="1024" y2="420"/><line x1="996" y1="430" x2="1024" y2="430"/><line x1="996" y1="440" x2="1024" y2="440"/><line x1="996" y1="450" x2="1024" y2="450"/><line x1="996" y1="460" x2="1024" y2="460"/><line x1="996" y1="470" x2="1024" y2="470"/><line x1="996" y1="480" x2="1024" y2="480"/><line x1="996" y1="490" x2="1024" y2="490"/><line x1="996" y1="500" x2="1024" y2="500"/><line x1="996" y1="510" x2="1024" y2="510"/><line x1="996" y1="520" x2="1024" y2="520"/><line x1="996" y1="530" x2="1024" y2="530"/><line x1="996" y1="540" x2="1024" y2="540"/><line x1="996" y1="550" x2="1024" y2="550"/><line x1="996" y1="560" x2="1024" y2="560"/><line x1="996" y1="570" x2="1024" y2="570"/><line x1="996" y1="580" x2="1024" y2="580"/><line x1="996" y1="590" x2="1024" y2="590"/></g>
+<text x="1036" y="520" font-size="10" fill="#64748b">cools</text>
+<text x="1036" y="533" font-size="10" fill="#64748b">below 60 °C</text>
+<rect x="988" y="300" width="44" height="100" rx="8" fill="url(#carb)" stroke="#1f2937"/>
+<line x1="1010" y1="300" x2="1010" y2="250" stroke="#9aa3ad" stroke-width="3" marker-end="url(#aG)"/>
+<text x="1020" y="262" font-size="11" fill="#16a34a" font-weight="700">CO₂ + H₂O</text>
+<line x1="680" y1="470" x2="700" y2="470" stroke="#9aa3b3"/>
+<circle cx="680" cy="470" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="680" y="474" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">1</text>
+<line x1="690" y1="596" x2="716" y2="596" stroke="#9aa3b3"/>
+<circle cx="690" cy="596" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="690" y="600" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">2</text>
+<line x1="690" y1="452" x2="712" y2="452" stroke="#9aa3b3"/>
+<circle cx="690" cy="452" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="690" y="456" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">3</text>
+<line x1="790" y1="386" x2="774" y2="390" stroke="#9aa3b3"/>
+<circle cx="790" cy="386" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="790" y="390" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">4</text>
+<line x1="856" y1="470" x2="870" y2="462" stroke="#9aa3b3"/>
+<circle cx="856" cy="470" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="856" y="474" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">5</text>
+<line x1="976" y1="500" x2="958" y2="500" stroke="#9aa3b3"/>
+<circle cx="976" cy="500" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="976" y="504" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">6</text>
+<line x1="1060" y1="440" x2="1024" y2="440" stroke="#9aa3b3"/>
+<circle cx="1060" cy="440" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1060" y="444" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">7</text>
+<line x1="1060" y1="320" x2="1032" y2="330" stroke="#9aa3b3"/>
+<circle cx="1060" cy="320" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="1060" y="324" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">8</text>
+<line x1="676" y1="630" x2="700" y2="630" stroke="#9aa3b3"/>
+<circle cx="676" cy="630" r="9" fill="#fff" stroke="#1d2433" stroke-width="1.2"/>
+<text x="676" y="634" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">9</text>
+<text x="644" y="680" font-size="11" fill="#1d2433">1 · Crucible: heat-resistant stainless steel</text>
+<text x="644" y="697" font-size="11" fill="#1d2433">2 · Used filter + trapped microplastics</text>
+<text x="644" y="714" font-size="11" fill="#1d2433">3 · Lime (CaO) pellets: trap HCl from PVC</text>
+<text x="644" y="731" font-size="11" fill="#1d2433">4 · Relief valve</text>
+<text x="644" y="748" font-size="11" fill="#1d2433">5 · Small fixed air inlet</text>
+<text x="914" y="680" font-size="11" fill="#1d2433">6 · Catalytic honeycomb (Pt/Pd), in the flame</text>
+<text x="914" y="697" font-size="11" fill="#1d2433">7 · Finned cooling tube</text>
+<text x="914" y="714" font-size="11" fill="#1d2433">8 · Activated-carbon polish</text>
+<text x="914" y="731" font-size="11" fill="#1d2433">9 · LPG flame (or an electric heater)</text>
+<text x="644" y="764" font-size="1" fill="#1d2433"></text>
+<rect x="1200" y="110" width="370" height="660" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="1224" y="142" font-size="15" fill="#1d2433" font-weight="700">C · What is actually left</text>
+<text x="1224" y="160" font-size="11" fill="#5b6475" font-weight="700">Share of each material after heating to ~500 °C</text>
+<text x="1224" y="176" font-size="10" fill="#8a91a0" font-style="italic">(approximate; exact yields depend on conditions [3])</text>
+<text x="1224" y="200" font-size="11.5" fill="#1d2433" font-weight="700">PE / PP (most common)</text>
+<rect x="1224.0" y="208" width="313.6" height="20" fill="#60a5fa"/>
+<text x="1380.8" y="222" font-size="10" fill="#fff" font-weight="700" text-anchor="middle">98%</text>
+<rect x="1537.6" y="208" width="6.4" height="20" fill="#111827"/>
+<text x="1224" y="258" font-size="11.5" fill="#1d2433" font-weight="700">PS</text>
+<rect x="1224.0" y="266" width="316.8" height="20" fill="#60a5fa"/>
+<text x="1382.4" y="280" font-size="10" fill="#fff" font-weight="700" text-anchor="middle">99%</text>
+<rect x="1540.8" y="266" width="3.2" height="20" fill="#111827"/>
+<text x="1224" y="316" font-size="11.5" fill="#1d2433" font-weight="700">PVC</text>
+<rect x="1224.0" y="324" width="185.6" height="20" fill="#f59e0b"/>
+<text x="1316.8" y="338" font-size="10" fill="#fff" font-weight="700" text-anchor="middle">58%</text>
+<rect x="1409.6" y="324" width="102.4" height="20" fill="#60a5fa"/>
+<text x="1460.8" y="338" font-size="10" fill="#fff" font-weight="700" text-anchor="middle">32%</text>
+<rect x="1512.0" y="324" width="32.0" height="20" fill="#111827"/>
+<text x="1528.0" y="338" font-size="10" fill="#fff" font-weight="700" text-anchor="middle">10%</text>
+<text x="1224" y="374" font-size="11.5" fill="#1d2433" font-weight="700">Cellulose filter paper</text>
+<rect x="1224.0" y="382" width="240.0" height="20" fill="#60a5fa"/>
+<text x="1344.0" y="396" font-size="10" fill="#fff" font-weight="700" text-anchor="middle">75%</text>
+<rect x="1464.0" y="382" width="80.0" height="20" fill="#111827"/>
+<text x="1504.0" y="396" font-size="10" fill="#fff" font-weight="700" text-anchor="middle">25%</text>
+<text x="1224" y="428" font-size="1" fill="#1d2433"></text>
+<rect x="1224" y="432" width="12" height="12" fill="#60a5fa"/>
+<text x="1244" y="442" font-size="11" fill="#1d2433">vapour: burned to CO₂ + H₂O in the catalyst</text>
+<rect x="1224" y="450" width="12" height="12" fill="#f59e0b"/>
+<text x="1244" y="460" font-size="11" fill="#1d2433">HCl gas: held by the lime pellets</text>
+<rect x="1224" y="468" width="12" height="12" fill="#111827"/>
+<text x="1244" y="478" font-size="11" fill="#1d2433">char / carbon: stays in the capsule</text>
+<rect x="1224" y="502" width="322" height="112" rx="10" fill="#fff7e0" stroke="#f0d99a"/>
+<text x="1238" y="524" font-size="11.2" fill="#1d2433" font-weight="700">Plastic mostly leaves as vapour, not carbon.</text>
+<text x="1238" y="541" font-size="11.2" fill="#1d2433">The black pellet you tip out is mainly biochar</text>
+<text x="1238" y="558" font-size="11.2" fill="#1d2433">from the filter paper (≈0.1–0.2 g), plus traces</text>
+<text x="1238" y="575" font-size="11.2" fill="#1d2433">of plastic char and mineral ash. That is why the</text>
+<text x="1238" y="592" font-size="11.2" fill="#1d2433">catalyst, not the crucible, is the key part.</text>
+<text x="1224" y="634" font-size="12" fill="#1d2433" font-weight="700">End product</text>
+<text x="1224" y="651" font-size="11" fill="#4a5263">a small carbon pellet: not a microplastic,</text>
+<text x="1224" y="666" font-size="11" fill="#4a5263">goes in dry waste or into soil as biochar.</text>
+<rect x="30" y="790" width="570" height="370" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="54" y="822" font-size="15" fill="#1d2433" font-weight="700">D · Choosing the heat source</text>
+<rect x="54" y="836" width="522" height="24" rx="6" fill="#1d2433"/>
+<text x="66" y="852" font-size="11" fill="#fff" font-weight="700">Source</text>
+<text x="200" y="852" font-size="11" fill="#fff" font-weight="700">How it would work</text>
+<text x="420" y="852" font-size="11" fill="#fff" font-weight="700">Verdict</text>
+<rect x="54" y="860" width="522" height="46" fill="#f6f4ef"/>
+<text x="66" y="880" font-size="11.5" fill="#1d2433" font-weight="700">LPG gas stove</text>
+<text x="200" y="880" font-size="10.8" fill="#4a5263">capsule sits on the pan support;</text>
+<text x="200" y="895" font-size="10.8" fill="#4a5263">the same flame heats the catalyst</text>
+<text x="420" y="880" font-size="10.8" fill="#166534" font-weight="700">Recommended: in every</text>
+<text x="420" y="895" font-size="10.8" fill="#166534">kitchen, 500 °C+ in minutes</text>
+<text x="66" y="926" font-size="11.5" fill="#1d2433" font-weight="700">Electric cartridge</text>
+<text x="200" y="926" font-size="10.8" fill="#4a5263">~100 W ceramic heater + insulation,</text>
+<text x="200" y="941" font-size="10.8" fill="#4a5263">thermostat stops at 550 °C</text>
+<text x="420" y="926" font-size="10.8" fill="#166534" font-weight="700">Good: precise and clean;</text>
+<text x="420" y="941" font-size="10.8" fill="#166534">catalyst needs its own heater</text>
+<rect x="54" y="952" width="522" height="46" fill="#f6f4ef"/>
+<text x="66" y="972" font-size="11.5" fill="#1d2433" font-weight="700">Induction top</text>
+<text x="200" y="972" font-size="10.8" fill="#4a5263">steel capsule on the glass</text>
+<text x="420" y="972" font-size="10.8" fill="#92400e" font-weight="700">Unlikely: home units are made</text>
+<text x="420" y="987" font-size="10.8" fill="#92400e">for cooking, too cool for this</text>
+<text x="66" y="1018" font-size="11.5" fill="#1d2433" font-weight="700">Laser</text>
+<text x="200" y="1018" font-size="10.8" fill="#4a5263">beam focused on the filter</text>
+<text x="420" y="1018" font-size="10.8" fill="#b91c1c" font-weight="700">Not for homes: Class 4 burn and</text>
+<text x="420" y="1033" font-size="10.8" fill="#b91c1c">eye hazard; heats only a spot</text>
+<text x="54" y="1070" font-size="11" fill="#1d2433">Energy is tiny: heating a ~50 g steel capsule to 500 °C takes about 12 kJ,</text>
+<text x="54" y="1086" font-size="11" fill="#1d2433">a couple of minutes on a low flame.</text>
+<rect x="620" y="790" width="560" height="370" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="644" y="822" font-size="15" fill="#1d2433" font-weight="700">E · One cycle, and the danger zone</text>
+<rect x="680" y="912.5" width="470" height="104.2" fill="#fee2e2" opacity="0.8"/>
+<text x="1144" y="926.5" font-size="10" fill="#b91c1c" font-weight="700" text-anchor="end">200–450 °C: dioxins can form in cooling gas [2]</text>
+<line x1="680" y1="1100.0" x2="1150" y2="1100.0" stroke="#eceae4"/>
+<text x="674" y="1104.0" font-size="9.5" fill="#8a91a0" text-anchor="end">0</text>
+<line x1="680" y1="1016.7" x2="1150" y2="1016.7" stroke="#eceae4"/>
+<text x="674" y="1020.6666666666666" font-size="9.5" fill="#8a91a0" text-anchor="end">200</text>
+<line x1="680" y1="933.3" x2="1150" y2="933.3" stroke="#eceae4"/>
+<text x="674" y="937.3333333333334" font-size="9.5" fill="#8a91a0" text-anchor="end">400</text>
+<line x1="680" y1="850.0" x2="1150" y2="850.0" stroke="#eceae4"/>
+<text x="674" y="854.0" font-size="9.5" fill="#8a91a0" text-anchor="end">600</text>
+<text x="680.0" y="1116" font-size="9.5" fill="#8a91a0" text-anchor="middle">0 min</text>
+<text x="797.5" y="1116" font-size="9.5" fill="#8a91a0" text-anchor="middle">10 min</text>
+<text x="915.0" y="1116" font-size="9.5" fill="#8a91a0" text-anchor="middle">20 min</text>
+<text x="1032.5" y="1116" font-size="9.5" fill="#8a91a0" text-anchor="middle">30 min</text>
+<text x="1150.0" y="1116" font-size="9.5" fill="#8a91a0" text-anchor="middle">40 min</text>
+<text x="650" y="840" font-size="10" fill="#8a91a0" font-weight="700">°C</text>
+<path d="M680.0,1087.5 L691.8,1016.7 L703.5,941.7 L715.2,900.0 L727.0,875.0 L891.5,870.8 L891.5,870.8 L903.2,918.8 L915.0,956.1 L926.8,985.2 L938.5,1007.8 L950.2,1025.4 L962.0,1039.2 L973.8,1049.8 L985.5,1058.2 L997.2,1064.7 L1009.0,1069.7 L1020.8,1073.6 L1032.5,1076.7 L1044.2,1079.1 L1056.0,1081.0 L1067.8,1082.4 L1079.5,1083.5 L1091.2,1084.4 L1103.0,1085.1 L1114.8,1085.6 L1126.5,1086.0 L1138.2,1086.4 L1150.0,1086.6" stroke="#f97316" stroke-width="2.5" fill="none" stroke-dasharray="6 4"/>
+<path d="M680.0,1087.5 L703.5,1037.5 L727.0,975.0 L750.5,925.0 L774.0,891.7 L797.5,883.3 L891.5,883.3 L891.5,883.3 L903.2,914.7 L915.0,941.2 L926.8,963.7 L938.5,982.7 L950.2,998.8 L962.0,1012.4 L973.8,1023.9 L985.5,1033.7 L997.2,1041.9 L1009.0,1048.9 L1020.8,1054.9 L1032.5,1059.9 L1044.2,1064.1 L1056.0,1067.7 L1067.8,1070.7 L1079.5,1073.3 L1091.2,1075.5 L1103.0,1077.3 L1114.8,1078.9 L1126.5,1080.2 L1138.2,1081.3 L1150.0,1082.3" stroke="#1d2433" stroke-width="2.5" fill="none"/>
+<line x1="891.5" y1="850" x2="891.5" y2="1100" stroke="#9aa3ad" stroke-dasharray="3 3"/>
+<text x="785.75" y="844" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">flame on, heat and hold</text>
+<text x="1020.75" y="844" font-size="10" fill="#1d2433" font-weight="700" text-anchor="middle">flame off, cool sealed</text>
+<line x1="700" y1="1134" x2="724" y2="1134" stroke="#1d2433" stroke-width="2.5"/>
+<text x="730" y="1138" font-size="10.5" fill="#1d2433">capsule</text>
+<line x1="800" y1="1134" x2="824" y2="1134" stroke="#f97316" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="830" y="1138" font-size="10.5" fill="#1d2433">catalyst (heats first, being nearer the flame)</text>
+<text x="680" y="1154" font-size="9.8" fill="#8a91a0" font-style="italic">Vapours reach the catalyst while it is already hot, and only cool after they are oxidised. Open only when the dial is blue.</text>
+<rect x="1200" y="790" width="370" height="370" rx="16" fill="#fff" stroke="#e2ddd2"/>
+<text x="1224" y="822" font-size="15" fill="#1d2433" font-weight="700">F · Safety for an Indian home</text>
+<circle cx="1230" cy="832" r="3" fill="#16a34a"/>
+<text x="1240" y="836" font-size="11" fill="#1d2433">Sealed: no open flame ever touches plastic.</text>
+<circle cx="1230" cy="849" r="3" fill="#16a34a"/>
+<text x="1240" y="853" font-size="11" fill="#1d2433">Relief weight works like a pressure cooker's.</text>
+<circle cx="1230" cy="866" r="3" fill="#16a34a"/>
+<text x="1240" y="870" font-size="11" fill="#1d2433">Cool-touch handle; fits any pan support.</text>
+<circle cx="1230" cy="883" r="3" fill="#16a34a"/>
+<text x="1240" y="887" font-size="11" fill="#1d2433">Lime pellets hold HCl if PVC is present.</text>
+<circle cx="1230" cy="900" r="3" fill="#16a34a"/>
+<text x="1240" y="904" font-size="11" fill="#1d2433">Run under the chimney or by an open window.</text>
+<circle cx="1230" cy="917" r="3" fill="#16a34a"/>
+<text x="1240" y="921" font-size="11" fill="#1d2433">Never open hot; keep children away.</text>
+<text x="1224" y="948" font-size="11" fill="#8a91a0" font-weight="700">CHECK BEFORE BUILDING</text>
+<text x="1224" y="968" font-size="11" fill="#1d2433" font-weight="700">Not a certified incinerator.</text>
+<text x="1224" y="983" font-size="11" fill="#4a5263">Industrial rules require gases at 850 °C or more</text>
+<text x="1224" y="998" font-size="11" fill="#4a5263">for 2 s (1,100 °C with >1% halogens) [1]; this</text>
+<text x="1224" y="1013" font-size="11" fill="#4a5263">needs an emissions test (CO, VOCs, dioxins).</text>
+<text x="1224" y="1038" font-size="11" fill="#1d2433" font-weight="700">Open burning of plastic is not allowed</text>
+<text x="1224" y="1053" font-size="11" fill="#4a5263">in India [4]. A sealed, tested unit is different,</text>
+<text x="1224" y="1068" font-size="11" fill="#4a5263">but claims need testing and approval first.</text>
+<text x="1224" y="1140" font-size="10.5" fill="#8a91a0" font-style="italic">Amounts are milligrams: low risk, not zero.</text>
+<text x="30" y="1188" font-size="11" fill="#5b6475" font-weight="700">Sources</text>
+<text x="90" y="1188" font-size="10.2" fill="#5b6475">[1] EU Industrial Emissions Directive 2010/75/EU, Art. 50: gas held at ≥850 °C for 2 s (≥1,100 °C if over 1% halogenated organics).   [2] US EPA (2003). Dioxin reassessment, Part I Vol. 1 Ch. 2: formation in combustion.</text>
+<text x="90" y="1205" font-size="10.2" fill="#5b6475">[3] Gebre, S.H. et al. (2021). Recent trends in the pyrolysis of non-degradable waste plastics. ChemistryOpen 10, 1202–1226.   [4] Plastic Waste Management Rules, 2016 (India), Rules 6(2)(g) and 7(c): ensure open burning of plastic waste does not take place.</text>
+</svg>

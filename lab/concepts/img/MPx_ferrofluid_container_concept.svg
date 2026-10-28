@@ -1,0 +1,365 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1240" viewBox="0 0 1600 1240" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkZGJiYmVmYS1mNmYxLTQzZGItYWExYi1kYjg2NWU2ZDdhYjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKwTms12LYaWr1kVs7OF/+AAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowNDQ0MGM3MC0xMGM0LTQxZjEtODZjZS1mZjc5Nzg2MGQ2M2JscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo0sq6ylJYlVmzq8f4Oz4tewAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggqf4TqRuUGEqb/5va7BHrQVoMAWmXA8J7yrsaHmHJPnKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAolfDfNIVEObHcatV7lMAQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCALH1KPkBr4UrOAuM2TEbJNy2ZrvksQI4AbJYrrkQAcSWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmRkYmJiZWZhLWY2ZjEtNDNkYi1hYTFiLWRiODY1ZTZkN2FiMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdiMTc5OGFhLTA3YTktNDcyZC1hNmVhLWI5MzJkZTI3YmVjY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCp/hOpG5QYSpv/m9rsEetBWgwBaZcDwnvKuxoeYck+cqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgggStL0c0H5SIIPq83koBis+QXjdHMoNuLvCZIEGTswRqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggnmpr9J8A6EiDQDouMlrQ2mGQaRe5YlaZUVedaoxGndd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGch8/9PAvSfOWULkpd6Lz9s07P8h0ac+6WYlf4JjDUq+baxj1zghtOm8dqvInhhiXD4SovERtPBYf6Bi+Z0+Jc=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="gWhite" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c9cfd2"/><stop offset="0.35" stop-color="#f3f5f6"/>
+      <stop offset="0.5" stop-color="#ffffff"/><stop offset="0.85" stop-color="#d7dcdf"/><stop offset="1" stop-color="#b3bbbf"/>
+    </linearGradient>
+    <linearGradient id="gDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f242e"/><stop offset="0.4" stop-color="#4a5263"/><stop offset="1" stop-color="#1b1f27"/>
+    </linearGradient>
+    <linearGradient id="gCopper" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3a0e"/><stop offset="0.35" stop-color="#e0913a"/>
+      <stop offset="0.5" stop-color="#f6c07a"/><stop offset="0.8" stop-color="#b8621c"/><stop offset="1" stop-color="#6e320c"/>
+    </linearGradient>
+    <linearGradient id="gGlass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cfe4ee" stop-opacity="0.9"/><stop offset="0.3" stop-color="#f4fafc" stop-opacity="0.5"/>
+      <stop offset="0.7" stop-color="#e6f2f7" stop-opacity="0.45"/><stop offset="1" stop-color="#bcd8e5" stop-opacity="0.9"/>
+    </linearGradient>
+    <pattern id="ceramic" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="#efe7da"/><circle cx="3" cy="3" r="1" fill="#c9b9a0"/>
+    </pattern>
+    <pattern id="carbon" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#374151"/><circle cx="2" cy="2" r="1.6" fill="#111827"/><circle cx="6" cy="6" r="1.8" fill="#1f2937"/><circle cx="6" cy="2" r="1" fill="#4b5563"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/>
+    </marker>
+    <marker id="arrB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2f80c0"/>
+    </marker>
+    <!-- ferrofluid spike blob (left wall), mirrored for right -->
+    <g id="spikesL">
+      <path d="M0,0 L0,90 L46,90 L40,84 L50,78 L34,74 L44,66 L28,62 L38,54 L22,50 L32,42 L16,38 L24,30 L10,26 L16,16 L6,12 Z" fill="#0d0f14"/>
+      <circle cx="10" cy="60" r="2.4" fill="#ff7a3d"/><circle cx="20" cy="80" r="2" fill="#38bdf8"/>
+      <circle cx="8" cy="34" r="1.8" fill="#f472b6"/><circle cx="30" cy="84" r="1.8" fill="#fbbf24"/>
+    </g>
+  </defs>
+
+  <rect width="1600" height="1240" fill="#f4f3ef"/>
+
+  <!-- HEADER -->
+  <text x="30" y="52" font-size="26" font-weight="700" fill="#1d2433">MPx Mag: Ferrofluid Capture Container</text>
+  <text x="30" y="78" font-size="14" fill="#5b6475">Oil + iron-oxide droplets grab microplastics, an electromagnet holds them in the chamber while clean water drains out, then the water is UV-treated and stored. The captured plastics can be lifted out and counted.</text>
+  <text x="1570" y="52" font-size="12" fill="#8a91a0" text-anchor="end">Concept sketch · v0.1</text>
+
+  <!-- ================= PANEL A : HERO ================= -->
+  <rect x="30" y="110" width="570" height="1020" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="54" y="142" font-size="15" font-weight="700" fill="#1d2433">A · The container</text>
+  <rect x="54" y="158" width="300" height="28" rx="14" fill="#1d2433"/>
+  <text x="204" y="177" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">pour · capture · drain · UV · drink</text>
+
+  <!-- pour stream -->
+  <line x1="272" y1="198" x2="272" y2="258" stroke="#2f80c0" stroke-width="2.5" marker-end="url(#arrB)"/>
+
+  <!-- base -->
+  <rect x="160" y="950" width="310" height="90" rx="22" fill="url(#gDark)"/>
+  <ellipse cx="315" cy="952" rx="155" ry="20" fill="#3a4150"/>
+  <circle cx="265" cy="1000" r="13" fill="#1d2433" stroke="#60a5fa" stroke-width="2"/>
+  <path d="M259 1004 v-7 a6 6 0 0 1 12 0 v7" stroke="#60a5fa" stroke-width="2.4" fill="none"/>
+  <circle cx="315" cy="1000" r="13" fill="#1d2433" stroke="#a78bfa" stroke-width="2"/>
+  <text x="315" y="1004" font-size="9" font-weight="700" fill="#a78bfa" text-anchor="middle">UV</text>
+  <rect x="345" y="995" width="40" height="10" rx="5" fill="#1d2433" stroke="#4ade80"/>
+  <rect x="347" y="997" width="26" height="6" rx="3" fill="#4ade80"/>
+
+  <!-- tank -->
+  <ellipse cx="315" cy="952" rx="130" ry="18" fill="#d7dcdf"/>
+  <rect x="185" y="762" width="260" height="190" fill="url(#gWhite)"/>
+  <rect x="396" y="790" width="20" height="140" rx="8" fill="#e8f3f8" stroke="#a9c7d4"/>
+  <rect x="398" y="822" width="16" height="106" rx="6" fill="#c7b8f5" opacity="0.9"/>
+  <path d="M445,912 L494,912 Q502,912 502,920 L502,934 L490,934 L490,924 L445,924 Z" fill="url(#gWhite)" stroke="#9aa3ad"/>
+  <line x1="496" y1="936" x2="496" y2="984" stroke="#7fbadb" stroke-width="3"/>
+  <!-- cup -->
+  <path d="M478,982 L548,982 L542,1040 L484,1040 Z" fill="#e8f3f8" fill-opacity="0.6" stroke="#a9c7d4" stroke-width="1.5"/>
+  <path d="M481,1004 L545,1004 L542,1040 L484,1040 Z" fill="#bfe0f0" fill-opacity="0.8"/>
+
+  <!-- filter band -->
+  <rect x="195" y="726" width="240" height="40" fill="url(#gDark)"/>
+  <path d="M195,766 A120,16 0 0 0 435,766" fill="url(#gDark)"/>
+  <text x="315" y="751" font-size="10" font-weight="700" fill="#e5e7eb" text-anchor="middle" letter-spacing="1.5">CERAMIC · CARBON</text>
+
+  <!-- coil band -->
+  <rect x="192" y="684" width="246" height="44" fill="url(#gCopper)"/>
+  <path d="M192,728 A123,16 0 0 0 438,728" fill="url(#gCopper)"/>
+  <g stroke="#7c3a0e" stroke-width="0.8" opacity="0.7">
+    <line x1="192" y1="690" x2="438" y2="690"/><line x1="192" y1="696" x2="438" y2="696"/><line x1="192" y1="702" x2="438" y2="702"/>
+    <line x1="192" y1="708" x2="438" y2="708"/><line x1="192" y1="714" x2="438" y2="714"/><line x1="192" y1="720" x2="438" y2="720"/>
+  </g>
+  <rect x="192" y="684" width="246" height="4" fill="#60a5fa" filter="url(#glow)"/>
+
+  <!-- glass chamber -->
+  <rect x="200" y="298" width="230" height="390" fill="url(#gGlass)" stroke="#a9c7d4" stroke-width="1.5"/>
+  <rect x="203" y="340" width="224" height="346" fill="#bfe0f0" fill-opacity="0.45"/>
+  <ellipse cx="315" cy="340" rx="112" ry="13" fill="#d7ecf5" stroke="#a9c7d4"/>
+  <use href="#spikesL" transform="translate(203 596)"/>
+  <use href="#spikesL" transform="translate(427 596) scale(-1 1)"/>
+  <path d="M249,686 L381,686 L378,680 L370,676 L362,680 L352,674 L342,679 L332,673 L322,678 L312,672 L302,678 L292,673 L282,679 L272,674 L262,679 L254,676 Z" fill="#0d0f14"/>
+  <g fill="#9fb6c2"><circle cx="300" cy="420" r="1.5"/><circle cx="340" cy="470" r="1.2"/><circle cx="270" cy="520" r="1.4"/></g>
+  <line x1="214" y1="310" x2="214" y2="590" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- lid -->
+  <path d="M195,300 A120,16 0 0 0 435,300" fill="url(#gDark)"/>
+  <rect x="195" y="272" width="240" height="28" fill="url(#gDark)"/>
+  <ellipse cx="315" cy="272" rx="120" ry="18" fill="#3a4150"/>
+  <ellipse cx="272" cy="272" rx="28" ry="7" fill="#0d0f14"/>
+  <rect x="348" y="242" width="30" height="28" fill="url(#gCopper)"/>
+  <ellipse cx="363" cy="242" rx="15" ry="5" fill="#f6c07a"/>
+  <ellipse cx="363" cy="270" rx="15" ry="5" fill="#7c3a0e"/>
+
+  <!-- hero callouts -->
+  <g stroke="#9aa3b3" stroke-width="1" fill="none">
+    <polyline points="378,252 452,246"/><polyline points="430,450 452,450"/><polyline points="438,706 452,700"/>
+    <polyline points="502,926 520,912"/>
+    <polyline points="244,210 190,210"/><polyline points="222,640 190,640"/><polyline points="195,746 190,746"/>
+    <polyline points="185,860 190,860"/><polyline points="165,1000 158,1000"/>
+  </g>
+  <g font-size="12.5">
+    <text x="458" y="244" font-weight="700" fill="#1d2433">Dose cap</text>
+    <text x="458" y="260" font-size="11" fill="#5b6475">oil + Fe₃O₄</text>
+    <text x="458" y="448" font-weight="700" fill="#1d2433">Glass chamber</text>
+    <text x="458" y="464" font-size="11" fill="#5b6475">lifts out</text>
+    <text x="458" y="698" font-weight="700" fill="#1d2433">EMF coil</text>
+    <text x="458" y="714" font-size="11" fill="#5b6475">on = hold</text>
+    <text x="458" y="728" font-size="11" fill="#5b6475">off = release</text>
+    <text x="524" y="906" font-weight="700" fill="#1d2433">Tap</text>
+    <text x="186" y="206" font-weight="700" fill="#1d2433" text-anchor="end">Pour in</text>
+    <text x="186" y="222" font-size="11" fill="#5b6475" text-anchor="end">swirl inlet mixes</text>
+    <text x="186" y="636" font-weight="700" fill="#1d2433" text-anchor="end">Ferrofluid + MPs</text>
+    <text x="186" y="652" font-size="11" fill="#5b6475" text-anchor="end">held on the wall</text>
+    <text x="186" y="742" font-weight="700" fill="#1d2433" text-anchor="end">Filter disc</text>
+    <text x="186" y="758" font-size="11" fill="#5b6475" text-anchor="end">catches oil + fines</text>
+    <text x="180" y="856" font-weight="700" fill="#1d2433" text-anchor="end">UV-C tank</text>
+    <text x="180" y="872" font-size="11" fill="#5b6475" text-anchor="end">stores clean water</text>
+    <text x="154" y="996" font-weight="700" fill="#1d2433" text-anchor="end">Battery base</text>
+    <text x="154" y="1012" font-size="11" fill="#5b6475" text-anchor="end">coil + UV buttons</text>
+  </g>
+  <text x="54" y="1110" font-size="11" fill="#8a91a0" font-style="italic">Shown in the "capture" state: coil on, dark ferrofluid spikes (with plastic specks) held at the bottom wall.</text>
+
+  <!-- ================= PANEL B : SECTION ================= -->
+  <rect x="620" y="110" width="560" height="660" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="644" y="142" font-size="15" font-weight="700" fill="#1d2433">B · Section: how the water moves</text>
+
+  <!-- lid -->
+  <rect x="690" y="172" width="220" height="26" rx="6" fill="#2b3140"/>
+  <path d="M640 186 Q680 186 704 206" stroke="#2f80c0" stroke-width="6" fill="none"/>
+  <path d="M640 186 Q680 186 704 206" stroke="#bfe0f0" stroke-width="3" fill="none"/>
+  <rect x="840" y="156" width="28" height="18" rx="3" fill="url(#gCopper)"/>
+  <line x1="854" y1="198" x2="854" y2="214" stroke="#0d0f14" stroke-width="2" stroke-dasharray="2 3"/>
+
+  <!-- chamber -->
+  <rect x="700" y="198" width="200" height="324" fill="#eaf5fb"/>
+  <rect x="700" y="198" width="6" height="324" fill="#a9c7d4"/><rect x="894" y="198" width="6" height="324" fill="#a9c7d4"/>
+  <path d="M760 250 q40 -24 80 0 q-40 24 -80 0" stroke="#7fbadb" stroke-width="1.5" fill="none" stroke-dasharray="4 3"/>
+  <path d="M740 290 q60 -30 120 0 q-60 30 -120 0" stroke="#7fbadb" stroke-width="1.5" fill="none" stroke-dasharray="4 3"/>
+  <use href="#spikesL" transform="translate(706 430)"/>
+  <use href="#spikesL" transform="translate(894 430) scale(-1 1)"/>
+  <path d="M752,520 L848,520 L846,514 L838,510 L830,514 L820,508 L810,513 L800,507 L790,513 L780,508 L770,514 L760,510 Z" fill="#0d0f14"/>
+  <!-- coil cross-sections -->
+  <g>
+    <rect x="672" y="420" width="26" height="100" rx="4" fill="url(#gCopper)"/>
+    <rect x="902" y="420" width="26" height="100" rx="4" fill="url(#gCopper)"/>
+    <g font-size="12" font-weight="700" fill="#3b1a06" text-anchor="middle">
+      <text x="685" y="446">×</text><text x="685" y="474">×</text><text x="685" y="502">×</text>
+      <text x="915" y="446">•</text><text x="915" y="474">•</text><text x="915" y="502">•</text>
+    </g>
+  </g>
+  <!-- field lines -->
+  <g stroke="#60a5fa" stroke-width="1.2" fill="none" stroke-dasharray="5 4" opacity="0.9">
+    <path d="M672 432 C 640 432, 640 508, 672 508"/><path d="M672 424 C 624 420, 624 520, 672 516"/>
+    <path d="M928 432 C 960 432, 960 508, 928 508"/><path d="M928 424 C 976 420, 976 520, 928 516"/>
+    <path d="M708 440 C 760 470, 840 470, 892 440"/>
+  </g>
+  <!-- drain valve -->
+  <rect x="700" y="522" width="200" height="16" fill="#9aa3ad"/>
+  <path d="M788,522 L812,538 L812,522 L788,538 Z" fill="#1d2433"/>
+  <!-- ceramic + carbon -->
+  <rect x="700" y="540" width="200" height="16" fill="url(#ceramic)" stroke="#c9b9a0"/>
+  <rect x="700" y="558" width="200" height="38" fill="url(#carbon)"/>
+  <!-- tank -->
+  <rect x="700" y="598" width="200" height="120" fill="#f1ecff"/>
+  <rect x="700" y="626" width="200" height="92" fill="#bfe0f0" fill-opacity="0.7"/>
+  <rect x="694" y="598" width="6" height="120" fill="#c9cfd2"/><rect x="900" y="598" width="6" height="120" fill="#c9cfd2"/>
+  <g filter="url(#glow)">
+    <rect x="702" y="606" width="12" height="10" rx="3" fill="#8b5cf6"/><rect x="886" y="606" width="12" height="10" rx="3" fill="#8b5cf6"/>
+  </g>
+  <g stroke="#a78bfa" stroke-width="1.3" stroke-dasharray="4 3">
+    <line x1="714" y1="614" x2="780" y2="680"/><line x1="886" y1="614" x2="820" y2="680"/>
+  </g>
+  <path d="M906,700 L950,700 L950,716 L940,716 L940,710 L906,710 Z" fill="#9aa3ad"/>
+  <!-- base -->
+  <rect x="690" y="720" width="220" height="30" rx="8" fill="#2b3140"/>
+  <rect x="710" y="727" width="60" height="16" rx="3" fill="#4b5563"/>
+  <text x="740" y="739" font-size="8.5" fill="#e5e7eb" text-anchor="middle">battery</text>
+  <!-- flow arrows -->
+  <g stroke="#2f80c0" stroke-width="1.8" marker-end="url(#arrB)">
+    <line x1="800" y1="330" x2="800" y2="400"/><line x1="800" y1="540" x2="800" y2="596"/><line x1="800" y1="630" x2="800" y2="700"/>
+    <line x1="950" y1="718" x2="950" y2="744"/>
+  </g>
+  <!-- section legend -->
+  <g stroke="#c3c8d2" stroke-width="1">
+    <line x1="700" y1="190" x2="990" y2="182" stroke-dasharray="0"/>
+  </g>
+  <g stroke="#c3c8d2" stroke-width="1">
+    <line x1="868" y1="164" x2="990" y2="216"/><line x1="900" y1="330" x2="990" y2="302"/>
+    <line x1="880" y1="470" x2="990" y2="360"/><line x1="928" y1="480" x2="990" y2="420"/>
+    <line x1="812" y1="530" x2="990" y2="478"/><line x1="900" y1="548" x2="990" y2="532"/>
+    <line x1="900" y1="578" x2="990" y2="584"/><line x1="898" y1="612" x2="990" y2="638"/>
+    <line x1="950" y1="708" x2="990" y2="690"/><line x1="910" y1="735" x2="990" y2="740"/>
+  </g>
+  <g font-size="12" font-weight="700" fill="#1d2433">
+    <text x="996" y="186">1 · Swirl inlet</text>
+    <text x="996" y="220">2 · Ferrofluid dose</text>
+    <text x="996" y="306">3 · Glass capture chamber</text>
+    <text x="996" y="364">4 · Ferrofluid + plastics</text>
+    <text x="996" y="424">5 · EMF coil</text>
+    <text x="996" y="482">6 · Drain valve</text>
+    <text x="996" y="536">7 · Ceramic membrane</text>
+    <text x="996" y="588">8 · Activated carbon</text>
+    <text x="996" y="642">9 · UV-C LEDs</text>
+    <text x="996" y="694">10 · Tap</text>
+    <text x="996" y="744">11 · Battery base</text>
+  </g>
+  <g font-size="10.5" fill="#5b6475">
+    <text x="1010" y="200">jet spins the water to mix</text>
+    <text x="1010" y="234">food-grade oil + Fe₃O₄ powder</text>
+    <text x="1010" y="320">oil droplets coat and grab plastics</text>
+    <text x="1010" y="378">pulled to the wall by the field</text>
+    <text x="1010" y="438">switch on to capture and hold</text>
+    <text x="1010" y="452">(× current in, • current out)</text>
+    <text x="1010" y="496">opens once plastics are held</text>
+    <text x="1010" y="550">backup: stops stray bits, magnetite</text>
+    <text x="1010" y="602">removes traces of oil</text>
+    <text x="1010" y="656">disinfect the stored water</text>
+    <text x="1010" y="708">dispense</text>
+    <text x="1010" y="758">powers coil + UV, USB-C</text>
+  </g>
+
+  <!-- ================= PANEL C : STATES ================= -->
+  <rect x="1200" y="110" width="370" height="660" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="1224" y="142" font-size="15" font-weight="700" fill="#1d2433">C · Three states</text>
+
+  <!-- state 1 -->
+  <rect x="1236" y="170" width="86" height="150" fill="#eaf5fb" stroke="#a9c7d4" stroke-width="2"/>
+  <g fill="#0d0f14">
+    <circle cx="1256" cy="200" r="5"/><circle cx="1296" cy="214" r="4"/><circle cx="1270" cy="244" r="6"/><circle cx="1306" cy="262" r="5"/>
+    <circle cx="1252" cy="282" r="4"/><circle cx="1288" cy="298" r="5"/><circle cx="1310" cy="186" r="3.5"/>
+  </g>
+  <g><circle cx="1260" cy="198" r="1.8" fill="#ff7a3d"/><circle cx="1273" cy="241" r="2" fill="#38bdf8"/><circle cx="1309" cy="260" r="1.8" fill="#f472b6"/><circle cx="1290" cy="296" r="1.8" fill="#fbbf24"/></g>
+  <text x="1340" y="188" font-size="13" font-weight="700" fill="#1d2433">1 · Mix (coil off)</text>
+  <g font-size="11" fill="#5b6475">
+    <text x="1340" y="208">Dose and swirl. Tiny droplets of</text>
+    <text x="1340" y="223">oil with magnetite spread through</text>
+    <text x="1340" y="238">the water. Plastics are water-</text>
+    <text x="1340" y="253">repelling, so they stick to the oil</text>
+    <text x="1340" y="268">droplets.</text>
+  </g>
+
+  <!-- state 2 -->
+  <rect x="1236" y="378" width="86" height="150" fill="#eaf5fb" stroke="#a9c7d4" stroke-width="2"/>
+  <rect x="1224" y="452" width="10" height="76" rx="3" fill="url(#gCopper)"/><rect x="1324" y="452" width="10" height="76" rx="3" fill="url(#gCopper)"/>
+  <use href="#spikesL" transform="translate(1238 450) scale(0.8)"/>
+  <use href="#spikesL" transform="translate(1320 450) scale(-0.8 0.8)"/>
+  <line x1="1279" y1="400" x2="1279" y2="440" stroke="#2f80c0" stroke-width="1.8" marker-end="url(#arrB)"/>
+  <text x="1340" y="396" font-size="13" font-weight="700" fill="#1d2433">2 · Capture (coil on)</text>
+  <g font-size="11" fill="#5b6475">
+    <text x="1340" y="416">The field pulls the droplets, and</text>
+    <text x="1340" y="431">the plastics inside them, onto the</text>
+    <text x="1340" y="446">lower wall. The drain opens and</text>
+    <text x="1340" y="461">clean water flows down through the</text>
+    <text x="1340" y="476">filter disc into the UV tank.</text>
+  </g>
+
+  <!-- state 3 -->
+  <rect x="1236" y="590" width="86" height="130" fill="#f6fbfd" stroke="#a9c7d4" stroke-width="2"/>
+  <use href="#spikesL" transform="translate(1238 650) scale(0.7)"/>
+  <use href="#spikesL" transform="translate(1320 650) scale(-0.7 0.7)"/>
+  <line x1="1279" y1="636" x2="1279" y2="596" stroke="#1d2433" stroke-width="1.8" marker-end="url(#arr)"/>
+  <text x="1340" y="606" font-size="13" font-weight="700" fill="#1d2433">3 · Extract (coil off)</text>
+  <g font-size="11" fill="#5b6475">
+    <text x="1340" y="626">Lift the glass chamber out. Rinse</text>
+    <text x="1340" y="641">the oil away, pull the magnetite</text>
+    <text x="1340" y="656">back out with a magnet, and collect</text>
+    <text x="1340" y="671">the plastics on a membrane.</text>
+    <text x="1340" y="691" font-weight="700" fill="#e8503a">→ count them with MPx Detect</text>
+    <text x="1340" y="706">(stain + imaging + AI).</text>
+  </g>
+  <text x="1224" y="750" font-size="10.5" fill="#8a91a0" font-style="italic">Magnetite can be recovered and reused [1].</text>
+
+  <!-- ================= PANEL D ================= -->
+  <rect x="620" y="790" width="950" height="340" rx="16" fill="#ffffff" stroke="#e2ddd2"/>
+  <text x="644" y="822" font-size="15" font-weight="700" fill="#1d2433">D · Using it, and what the evidence says</text>
+
+  <line x1="670" y1="862" x2="1090" y2="862" stroke="#e2ddd2" stroke-width="3"/>
+  <g>
+    <circle cx="670" cy="862" r="22" fill="#eaf4f9" stroke="#2f80c0" stroke-width="2"/>
+    <path d="M670 850 q-10 13 0 20 q10 -7 0 -20z" fill="#2f80c0"/>
+    <circle cx="775" cy="862" r="22" fill="#eaf4f9" stroke="#2f80c0" stroke-width="2"/>
+    <path d="M762 862 a13 13 0 1 1 13 13" stroke="#2f80c0" stroke-width="2.2" fill="none" marker-end="url(#arrB)"/>
+    <circle cx="880" cy="862" r="22" fill="#fdf1e6" stroke="#b8621c" stroke-width="2"/>
+    <path d="M872 870 v-10 a8 8 0 0 1 16 0 v10" stroke="#b8621c" stroke-width="3" fill="none"/>
+    <circle cx="985" cy="862" r="22" fill="#f3f4f6" stroke="#4b5563" stroke-width="2"/>
+    <rect x="973" y="852" width="24" height="8" fill="url(#ceramic)"/><rect x="973" y="862" width="24" height="8" fill="url(#carbon)"/>
+    <circle cx="1090" cy="862" r="22" fill="#f3efff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="1090" y="867" font-size="12" font-weight="800" fill="#8b5cf6" text-anchor="middle">UV</text>
+  </g>
+  <g font-size="11.5" font-weight="700" fill="#1d2433" text-anchor="middle">
+    <text x="670" y="904">1 · Pour + dose</text><text x="775" y="904">2 · Swirl</text><text x="880" y="904">3 · Coil on</text>
+    <text x="985" y="904">4 · Drain</text><text x="1090" y="904">5 · UV + drink</text>
+  </g>
+  <g font-size="10.5" fill="#5b6475" text-anchor="middle">
+    <text x="670" y="920">fill the chamber</text><text x="775" y="920">about 2 min</text><text x="880" y="920">plastics held</text>
+    <text x="985" y="920">through the filter</text><text x="1090" y="920">stored, then tap</text>
+  </g>
+
+  <rect x="644" y="944" width="470" height="170" rx="10" fill="#fff7e0" stroke="#f0d99a"/>
+  <text x="660" y="966" font-size="12.5" font-weight="700" fill="#1d2433">Check before building</text>
+  <g font-size="11" fill="#4a5263">
+    <text x="660" y="986"><tspan font-weight="700">Oil must be food-grade.</tspan> The best result in [1] used lubricating oil</text>
+    <text x="660" y="1001">(98 %), which is not safe for drinking water. Cooking oil still</text>
+    <text x="660" y="1016">removed over 95 % in the same tests; carbon then polishes out traces.</text>
+    <text x="660" y="1036"><tspan font-weight="700">Evidence is strongest for big pieces.</tspan> [1] tested 2 mm PET (up to</text>
+    <text x="660" y="1051">99 %) and got 64 % in real laundry wastewater. Coated iron particles</text>
+    <text x="660" y="1066">recovered about 92 % of 10–20 µm PE/PS from seawater [2].</text>
+    <text x="660" y="1086"><tspan font-weight="700">The coil needs a battery.</tspan> A sliding neodymium magnet ring could</text>
+    <text x="660" y="1101">replace it for a version with no electronics at all.</text>
+  </g>
+
+  <text x="1136" y="866" font-size="11" font-weight="700" fill="#8a91a0" letter-spacing="0.5">WHAT REMOVES WHAT</text>
+  <rect x="1136" y="876" width="414" height="24" rx="6" fill="#1d2433"/>
+  <g font-size="11" font-weight="700" fill="#ffffff">
+    <text x="1146" y="892">Stage</text><text x="1270" y="892">Removes</text><text x="1436" y="892">Evidence</text>
+  </g>
+  <rect x="1136" y="900" width="414" height="34" fill="#f6f4ef"/>
+  <rect x="1136" y="966" width="414" height="32" fill="#f6f4ef"/>
+  <g font-size="10.8" fill="#1d2433">
+    <text x="1146" y="915" font-weight="600">Ferrofluid</text><text x="1146" y="929" font-weight="600">+ coil</text>
+    <text x="1270" y="921">microplastics (main stage)</text>
+    <text x="1436" y="915">64–99 % [1]</text><text x="1436" y="929">~92 % small [2]</text>
+    <text x="1146" y="954" font-weight="600">Ceramic disc</text>
+    <text x="1270" y="954">stray particles, magnetite</text>
+    <text x="1436" y="954">backup</text>
+    <text x="1146" y="986" font-weight="600">Carbon</text>
+    <text x="1270" y="986">oil traces</text>
+    <text x="1436" y="986">standard use</text>
+    <text x="1146" y="1018" font-weight="600">UV-C</text>
+    <text x="1270" y="1018">bacteria, viruses; <tspan font-weight="700" fill="#b4331f">not plastic</tspan></text>
+    <text x="1436" y="1018">standard use</text>
+  </g>
+  <line x1="1136" y1="1032" x2="1550" y2="1032" stroke="#e2ddd2"/>
+  <g font-size="10.8" fill="#8a91a0" font-style="italic">
+    <text x="1136" y="1052">Dose used in [1]: about 0.5 mL oil and 0.25–1.25 g Fe₃O₄ per litre.</text>
+    <text x="1136" y="1068">Removal was the same across that magnetite range.</text>
+    <text x="1136" y="1088">Still to test: food-grade oil at drinking-water particle</text>
+    <text x="1136" y="1104">sizes, and how much oil gets past the carbon.</text>
+  </g>
+
+  <!-- SOURCES -->
+  <text x="30" y="1168" font-size="11" font-weight="700" fill="#5b6475">Sources</text>
+  <g font-size="10.5" fill="#5b6475">
+    <text x="90" y="1168">[1] Hamzah, S. et al. (2021). Synthesis, characterisation and evaluation on the performance of ferrofluid for microplastic removal from synthetic and actual wastewater. J. Environ. Chem. Eng. 9, 105894.</text>
+    <text x="90" y="1185">[2] Grbic, J. et al. (2019). Magnetic extraction of microplastics from environmental samples. Environ. Sci. Technol. Lett. 6(2), 68–72.</text>
+  </g>
+</svg>
